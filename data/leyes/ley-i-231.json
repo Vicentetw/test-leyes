@@ -1,0 +1,871 @@
+[
+{
+    "pregunta": "Una persona presta servicios no remunerados en una sociedad con participación estatal minoritaria, actuando en representación del Estado. ¿Queda alcanzada por la ley?",
+    "opciones": [
+      "No, porque no percibe remuneración",
+      "No, porque la participación estatal es minoritaria",
+      "Sí, porque presta servicios en representación del Estado, independientemente de la remuneración",
+      "Sí, pero solo si ocupa un cargo jerárquico"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 1 incluye a todos los funcionarios que presten servicios remunerados o no, y también a quienes actúan en representación del Estado en sociedades con participación estatal. No exige remuneración ni jerarquía específica."
+  },
+  {
+    "pregunta": "Las disposiciones de la ley se aplican a los municipios de qué forma?",
+    "opciones": [
+      "Automáticamente y sin excepciones",
+      "Solo si adhieren expresamente",
+      "Solo a los intendentes",
+      "Únicamente cuando lo disponga el Poder Ejecutivo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 2 inciso b establece que los municipios quedan alcanzados por adhesión. No es automática ni depende del Poder Ejecutivo."
+  },
+  {
+    "pregunta": "Una conducta no prevista expresamente en la ley pero considerada contraria a la ética pública, ¿puede ser denunciada?",
+    "opciones": [
+      "No, porque debe estar tipificada expresamente",
+      "Sí, porque la enumeración no es taxativa en cuanto a conductas éticas",
+      "No, salvo que sea delito penal",
+      "Sí, pero solo ante el Poder Judicial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 4 inciso a aclara que las conductas enumeradas no excluyen otras violaciones éticas, permitiendo denunciar conductas no previstas expresamente. Esto rompe con la lógica estrictamente taxativa."
+  },
+  {
+    "pregunta": "El incumplimiento de las obligaciones éticas previstas en la ley genera:",
+    "opciones": [
+      "Una falta leve administrativa",
+      "Solo responsabilidad moral",
+      "Una falta grave con sanciones",
+      "Únicamente responsabilidad civil"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 4 inciso b establece que la inobservancia constituye falta grave con responsabilidad y sanciones. No es solo moral ni leve."
+  },
+  {
+    "pregunta": "El control de la ética pública por parte de los ciudadanos es:",
+    "opciones": [
+      "Un derecho exclusivamente",
+      "Un deber exclusivamente",
+      "Un derecho y un deber ejercido con responsabilidad",
+      "Una facultad limitada a organizaciones sociales"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 4 inciso c establece que es tanto un derecho como un deber, que debe ejercerse con responsabilidad y conforme al orden jurídico."
+  },
+  {
+    "pregunta": "Un funcionario cumple estrictamente la ley, pero su conducta no resiste un examen público ético. ¿Cumple con la ley?",
+    "opciones": [
+      "Sí, porque basta con cumplir la ley",
+      "No, porque también debe cumplir con principios éticos más amplios",
+      "Sí, salvo que exista denuncia formal",
+      "No, pero solo si hay daño económico"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 4 inciso g establece que no basta la observancia de la ley, sino que debe poder resistir el examen público ético. Esto introduce un estándar superior al legal."
+  },
+  {
+    "pregunta": "Un funcionario utiliza su tiempo laboral para tareas personales ocasionales sin afectar su rendimiento. ¿Es correcto?",
+    "opciones": [
+      "Sí, si no afecta la productividad",
+      "No, porque debe usar el tiempo laboral en tareas del cargo con máximo esfuerzo",
+      "Sí, si tiene autorización verbal",
+      "No, solo si genera perjuicio económico"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 9 inciso a exige usar el tiempo laboral con el máximo esfuerzo en tareas del cargo. No admite excepciones por falta de perjuicio."
+  },
+  {
+    "pregunta": "Un funcionario decide no sugerir mejoras en procesos administrativos aunque detecta ineficiencias. ¿Incumple un deber?",
+    "opciones": [
+      "No, porque no es obligatorio sugerir mejoras",
+      "Sí, porque debe procurar mejorar los sistemas administrativos",
+      "No, salvo que sea su función específica",
+      "Sí, pero solo si genera perjuicio económico"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 9 inciso b establece que el funcionario debe esforzarse por mejorar los sistemas administrativos y proponer iniciativas. Es un deber activo."
+  },
+  {
+    "pregunta": "Un funcionario participa en una decisión bajo presión moral que afecta su objetividad. ¿Qué debe hacer?",
+    "opciones": [
+      "Continuar para no retrasar el proceso",
+      "Actuar según instrucciones superiores",
+      "Abstenerse de participar en la decisión",
+      "Solicitar autorización previa"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 15 establece que debe abstenerse cuando exista violencia moral que afecte su objetividad. No puede decidir bajo presión."
+  },
+  {
+    "pregunta": "Un empleado que administra fondos públicos pero no ocupa cargo jerárquico, ¿está incluido en el régimen de incompatibilidades?",
+    "opciones": [
+      "No, por no ser jerárquico",
+      "Sí, por intervenir en el manejo de fondos públicos",
+      "No, salvo designación expresa",
+      "Sí, pero solo en el Poder Ejecutivo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 16 incluye expresamente a todo personal que intervenga en el manejo de fondos públicos, sin exigir jerarquía ni limitarlo a un poder específico."
+  },
+  {
+    "pregunta": "Una asociación gremial decide someterse voluntariamente a la ley. ¿Qué implica?",
+    "opciones": [
+      "Que queda parcialmente alcanzada",
+      "Que queda sujeta a las normas en cada caso en que se someta",
+      "Que solo aplica a sus autoridades",
+      "Que pierde autonomía normativa"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 2 inciso c establece el sometimiento voluntario en cada caso. No implica aplicación automática total ni pérdida de autonomía."
+  },
+  {
+    "pregunta": "El concepto de servidor público incluye:",
+    "opciones": [
+      "Solo funcionarios designados",
+      "Solo cargos electivos",
+      "Toda persona que ejerza función pública, por elección o designación",
+      "Solo empleados de planta permanente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 5 define servidor público de forma amplia, incluyendo toda persona que ejerza funciones públicas, ya sea por elección o designación."
+  },
+   {
+    "pregunta": "Una persona integra una cooperativa prestataria de servicios públicos concesionados por el Estado pero no ocupa cargos directivos. ¿Está alcanzada por la ley?",
+    "opciones": [
+      "No, porque solo alcanza a autoridades",
+      "Sí, si forma parte de la cooperativa prestataria",
+      "No, salvo que maneje fondos públicos",
+      "Sí, pero solo si percibe remuneración"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 1 incluye a los miembros de cooperativas prestatarias de servicios públicos concesionados por el Estado sin distinguir jerarquía. No exige remuneración ni manejo de fondos."
+  },
+  {
+    "pregunta": "Las normas especiales que regulan a ciertos funcionarios, ¿qué relación tienen con esta ley?",
+    "opciones": [
+      "La desplazan completamente",
+      "Se aplican de forma complementaria sin excluir esta ley",
+      "Anulan su aplicación",
+      "Solo se aplican si son más favorables"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 2 establece que la ley se aplica sin perjuicio de normas especiales, lo que implica coexistencia y complementariedad."
+  },
+  {
+    "pregunta": "¿Quién tiene la responsabilidad de defender los valores de ética y transparencia pública?",
+    "opciones": [
+      "Solo los funcionarios públicos",
+      "Solo el Poder Judicial",
+      "Toda la comunidad",
+      "Los organismos de control exclusivamente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 3 establece que la defensa de estos valores compete a toda la comunidad, no solo a órganos estatales."
+  },
+  {
+    "pregunta": "El bien común en la función pública es:",
+    "opciones": [
+      "Un objetivo secundario",
+      "Un principio opcional",
+      "El fin último y esencial",
+      "Un criterio administrativo más"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 4 inciso d establece que el bien común es el fin último y esencial de la función pública."
+  },
+  {
+    "pregunta": "El funcionario público es considerado:",
+    "opciones": [
+      "Un representante exclusivo del Estado",
+      "Un administrador autónomo",
+      "Un servidor del patrimonio público y de los administrados",
+      "Un ejecutor de órdenes sin responsabilidad propia"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 4 inciso f define al funcionario como servidor de los administrados y del patrimonio público."
+  },
+  {
+    "pregunta": "El deber de eficiencia incluye:",
+    "opciones": [
+      "Cumplir tareas únicamente",
+      "Optimizar el uso del tiempo y mejorar sistemas",
+      "Delegar funciones cuando sea posible",
+      "Cumplir horarios estrictamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 9 incluye no solo cumplir tareas sino optimizar el tiempo, mejorar sistemas y aportar iniciativas."
+  },
+  {
+    "pregunta": "El uso indebido de bienes públicos aunque no genere daño económico directo:",
+    "opciones": [
+      "No constituye infracción",
+      "Solo genera responsabilidad civil",
+      "Viola el deber de eficiencia y probidad",
+      "Es permitido si es ocasional"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 9 y 10 obligan al uso adecuado de bienes públicos, independientemente de daño económico."
+  },
+  {
+    "pregunta": "El deber de probidad implica:",
+    "opciones": [
+      "Solo evitar delitos",
+      "Actuar con honradez especialmente en el uso de recursos públicos",
+      "Cumplir órdenes superiores",
+      "Evitar conflictos personales"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 10 exige honradez en el uso de recursos públicos y en la participación en actividades administrativas."
+  },
+  {
+    "pregunta": "El deber de responsabilidad implica considerar:",
+    "opciones": [
+      "Solo el cumplimiento formal",
+      "Las consecuencias del cumplimiento o incumplimiento del deber",
+      "La opinión de superiores",
+      "El impacto político"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 11 exige conciencia de las consecuencias de las acciones en relación al fin público."
+  },
+  {
+    "pregunta": "Un funcionario discrimina indirectamente en la prestación del servicio. ¿Incumple la ley?",
+    "opciones": [
+      "No, si no es explícito",
+      "Sí, porque el deber de imparcialidad es amplio",
+      "No, salvo denuncia formal",
+      "Sí, solo si hay daño económico"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 12 prohíbe toda forma de discriminación, directa o indirecta."
+  },
+  {
+    "pregunta": "El comportamiento fuera del horario laboral puede ser relevante éticamente porque:",
+    "opciones": [
+      "No tiene relevancia",
+      "Solo importa dentro del servicio",
+      "Puede afectar la confianza pública",
+      "Solo aplica a altos cargos"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 13 establece que la conducta dentro y fuera del servicio debe preservar la confianza pública."
+  },
+  {
+    "pregunta": "El desconocimiento de normas sobre incompatibilidades:",
+    "opciones": [
+      "Exime de responsabilidad",
+      "Es irrelevante",
+      "No exime y el funcionario debe conocerlas",
+      "Solo aplica a cargos altos"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 14 impone el deber de conocer las normas aplicables."
+  },
+  {
+    "pregunta": "La objetividad del funcionario se ve afectada por:",
+    "opciones": [
+      "Órdenes superiores legítimas",
+      "Criterios técnicos",
+      "Influencias personales o presión moral",
+      "Normas administrativas"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 15 prohíbe actuar bajo influencias indebidas o presión moral."
+  },
+  {
+    "pregunta": "Un asesor del gobernador está alcanzado por el régimen de incompatibilidades:",
+    "opciones": [
+      "No, por ser cargo político",
+      "Sí, expresamente incluido",
+      "No, salvo manejo de fondos",
+      "Sí, solo si tiene jerarquía ministerial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 16 incluye explícitamente a asesores del gobernador."
+  },
+  {
+    "pregunta": "Un empleado que integra comisiones de adjudicación de bienes está alcanzado por incompatibilidades:",
+    "opciones": [
+      "Solo si es jefe",
+      "No necesariamente",
+      "Sí, independientemente de su jerarquía",
+      "Solo si firma decisiones"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 16 incluye a quienes integran comisiones de adjudicación sin importar jerarquía."
+  },
+  {
+    "pregunta": "Un interventor que reemplaza temporalmente a un funcionario:",
+    "opciones": [
+      "No está alcanzado",
+      "Está alcanzado solo parcialmente",
+      "Está plenamente alcanzado mientras dure el reemplazo",
+      "Solo responde administrativamente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 16 inciso I incluye a interventores y reemplazantes mientras dure la situación."
+  },
+  {
+    "pregunta": "Los miembros de entes reguladores:",
+    "opciones": [
+      "No están alcanzados",
+      "Solo si son electos",
+      "Sí, si tienen categoría no inferior a Director",
+      "Solo si manejan fondos"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 16 los incluye con esa condición específica de jerarquía."
+  },
+  {
+    "pregunta": "Un funcionario que actúa conforme a la ley pero sin transparencia:",
+    "opciones": [
+      "Cumple plenamente",
+      "Incumple principios éticos",
+      "Solo incurre en falta leve",
+      "No tiene consecuencias"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 4 inciso g exige transparencia más allá del cumplimiento formal."
+  },
+  {
+    "pregunta": "La función pública se define como:",
+    "opciones": [
+      "Actividad administrativa interna",
+      "Actividad estatal orientada al interés público",
+      "Gestión de recursos económicos",
+      "Ejercicio de autoridad política"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 6 define la función pública como actividad estatal orientada al interés público."
+  },
+  {
+    "pregunta": "El deber ético general del Artículo 7 implica:",
+    "opciones": [
+      "Cumplir solo algunos deberes",
+      "Elegir los deberes aplicables",
+      "Acatar todos los deberes establecidos",
+      "Cumplir solo normas legales"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 7 establece la obligatoriedad de todos los deberes."
+  },
+  {
+    "pregunta": "Una persona que actúa en representación del Estado en una sociedad por acciones pero no participa en decisiones, ¿queda alcanzada por la ley?",
+    "opciones": [
+      "No, porque no ejerce funciones activas",
+      "Sí, por el solo hecho de actuar en representación del Estado",
+      "No, salvo que administre fondos",
+      "Sí, pero solo si tiene cargo formal"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 1 incluye a quienes actúan en representación del Estado en sociedades con participación estatal, sin exigir ejercicio decisorio activo. La representación es suficiente."
+  },
+  {
+    "pregunta": "El sometimiento voluntario a la ley por parte de entidades privadas implica:",
+    "opciones": [
+      "Aplicación automática total de la ley",
+      "Aplicación solo en los casos en que se sometan expresamente",
+      "Aplicación parcial limitada a autoridades",
+      "No genera efectos jurídicos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 2 inciso c establece que el sometimiento es caso por caso, no general ni automático."
+  },
+  {
+    "pregunta": "El concepto de ética pública según la ley implica que su violación:",
+    "opciones": [
+      "Solo afecta al funcionario",
+      "Es una cuestión administrativa interna",
+      "Atenta contra el sistema democrático y republicano",
+      "Solo genera responsabilidad disciplinaria"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 3 establece que transgredir estos valores implica atentar contra el sistema democrático y republicano."
+  },
+  {
+    "pregunta": "Una conducta ética no prevista en la ley pero socialmente reprochable:",
+    "opciones": [
+      "No puede ser sancionada",
+      "Puede ser denunciada por afectar principios éticos",
+      "Solo genera responsabilidad moral",
+      "Requiere tipificación previa"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 4 inciso a permite denunciar conductas no tipificadas expresamente si violan principios éticos."
+  },
+  {
+    "pregunta": "El deber de eficiencia exige una conducta:",
+    "opciones": [
+      "Reactiva",
+      "Pasiva",
+      "Proactiva en la mejora de sistemas",
+      "Limitada a cumplir órdenes"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 9 implica un deber activo de mejora y optimización, no solo cumplimiento pasivo."
+  },
+  {
+    "pregunta": "Un funcionario que no custodia adecuadamente bienes de terceros bajo su responsabilidad:",
+    "opciones": [
+      "No incurre en falta",
+      "Solo responde civilmente",
+      "Incumple el deber de eficiencia",
+      "Solo si hay daño económico incurre en falta"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 9 inciso c incluye la obligación de custodiar bienes del Estado y de terceros bajo su cuidado."
+  },
+  {
+    "pregunta": "El deber de probidad se ve comprometido cuando:",
+    "opciones": [
+      "Se actúa sin autorización",
+      "Se utilizan recursos públicos en beneficio propio o indebido",
+      "Se incumplen horarios",
+      "Se delegan funciones"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 10 centra la probidad en la honradez, especialmente en el uso de recursos públicos."
+  },
+  {
+    "pregunta": "La imparcialidad exige que el funcionario:",
+    "opciones": [
+      "Evite conflictos políticos únicamente",
+      "Actúe sin discriminación en ningún aspecto del servicio",
+      "Siga criterios personales",
+      "Priorice eficiencia sobre igualdad"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 12 prohíbe toda forma de discriminación en el ejercicio del servicio."
+  },
+  {
+    "pregunta": "Un funcionario que desconoce una incompatibilidad aplicable a su cargo:",
+    "opciones": [
+      "Queda exento de responsabilidad",
+      "Responde solo si hay denuncia",
+      "Incumple el deber de conocer las normas",
+      "Solo incurre en falta leve"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 14 impone el deber activo de conocer y verificar incompatibilidades."
+  },
+  {
+    "pregunta": "Un funcionario que participa en una decisión influenciado por intereses de terceros no autorizados:",
+    "opciones": [
+      "Actúa válidamente",
+      "Solo incurre en falta si hay perjuicio",
+      "Viola el deber de objetividad",
+      "Solo incurre en responsabilidad política"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 15 prohíbe actuar bajo influencias externas no autorizadas, afectando la objetividad."
+  },
+  {
+    "pregunta": "Un funcionario utiliza a un familiar como intermediario para proveer al organismo donde trabaja, sin figurar formalmente. ¿Se configura la prohibición?",
+    "opciones": [
+      "No, porque no figura como proveedor",
+      "Sí, por actuación mediante persona interpuesta",
+      "Solo si hay contrato firmado",
+      "Depende del monto de la contratación"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 17 inciso 1 prohíbe ser proveedor por sí o por persona interpuesta, cubriendo maniobras indirectas."
+  },
+  {
+    "pregunta": "Un funcionario es asesor legal de una empresa con concesión estatal, pero no interviene en la concesión. ¿Está permitido?",
+    "opciones": [
+      "Sí, si no interviene directamente",
+      "Sí, si es ad honorem",
+      "No, por incompatibilidad expresa",
+      "Solo si la concesión es municipal"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 17 inciso 2 prohíbe ser patrocinante o representante de empresas concesionarias con vinculación estatal."
+  },
+  {
+    "pregunta": "Gestionar una concesión para un tercero sin obtener beneficio personal:",
+    "opciones": [
+      "Está permitido",
+      "Solo si no hay retribución",
+      "Está prohibido aunque no haya beneficio",
+      "Depende del nivel del funcionario"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 17 inciso 3 prohíbe la gestión en sí misma, independientemente del beneficio."
+  },
+  {
+    "pregunta": "Un funcionario recibe beneficios indirectos de un contrato estatal a través de una sociedad en la que participa:",
+    "opciones": [
+      "No está alcanzado",
+      "Solo si tiene mayoría accionaria",
+      "Está prohibido por beneficio indirecto",
+      "Es válido si no firma el contrato"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 17 inciso 4 incluye beneficios directos e indirectos."
+  },
+  {
+    "pregunta": "Un funcionario tiene un contrato privado con una empresa que es fiscalizada por su organismo:",
+    "opciones": [
+      "Es válido si es previo",
+      "Solo si no hay conflicto directo",
+      "Está prohibido por incompatibilidad",
+      "Depende del monto"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 17 inciso 5 prohíbe relaciones contractuales con entidades fiscalizadas."
+  },
+  {
+    "pregunta": "Un funcionario recibe un regalo protocolar de bajo valor en un acto oficial:",
+    "opciones": [
+      "Está prohibido siempre",
+      "Está permitido sin condiciones",
+      "Está permitido pero debe declararse",
+      "Solo si lo autoriza su superior"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 17 inciso 6 permite obsequios de cortesía, pero deben declararse en la DDJJ."
+  },
+  {
+    "pregunta": "Un funcionario utiliza su cargo para obtener prioridad en un trámite personal no previsto legalmente:",
+    "opciones": [
+      "Es válido si no hay perjuicio",
+      "Es una falta menor",
+      "Está prohibido como ventaja indebida",
+      "Solo si afecta a terceros"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 17 inciso 7 prohíbe cualquier ventaja no prevista legalmente."
+  },
+  {
+    "pregunta": "La excusación del Artículo 18 procede cuando:",
+    "opciones": [
+      "Existe conflicto real probado",
+      "Hay presunción de parcialidad",
+      "Hay denuncia formal",
+      "Existe daño económico"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 18 exige excusarse ante presunción, no certeza."
+  },
+  {
+    "pregunta": "Un juez jubilado que obtuvo beneficio previsional puede litigar en el fuero provincial:",
+    "opciones": [
+      "Sí, inmediatamente",
+      "Sí, si no intervino antes",
+      "No, por 4 años",
+      "Solo en causas privadas"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 19 establece una inhibición de 4 años."
+  },
+  {
+    "pregunta": "Un funcionario provincial puede tener simultáneamente un cargo remunerado nacional:",
+    "opciones": [
+      "Sí, si no hay conflicto",
+      "Sí, con autorización",
+      "No, es incompatible",
+      "Solo si es temporal"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 20 prohíbe acumulación con cargos nacionales o municipales."
+  },
+  {
+    "pregunta": "La única excepción a la prohibición de empleos simultáneos es:",
+    "opciones": [
+      "Actividad privada",
+      "Actividad política",
+      "Actividad docente sin superposición horaria",
+      "Actividad ad honorem"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 20 permite docencia bajo condiciones."
+  },
+  {
+    "pregunta": "Una actividad privada vinculada a la función pública del agente:",
+    "opciones": [
+      "Es válida si no hay lucro",
+      "Está prohibida aunque no genere ingresos",
+      "Solo si es secundaria",
+      "Depende de autorización"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 21 prohíbe cualquier vinculación, incluso sin beneficio."
+  },
+  {
+    "pregunta": "La declaración jurada debe incluir bienes:",
+    "opciones": [
+      "Solo propios",
+      "Solo del cónyuge",
+      "Propios, del entorno y bienes en uso aunque no sean propios",
+      "Solo los registrables"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 22 exige declarar incluso bienes en uso o usufructo."
+  },
+  {
+    "pregunta": "El plazo para presentar la declaración jurada al asumir es:",
+    "opciones": [
+      "30 días",
+      "45 días hábiles",
+      "60 días",
+      "90 días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 23 inciso a fija 45 días hábiles."
+  },
+  {
+    "pregunta": "Si hay variación patrimonial durante la función:",
+    "opciones": [
+      "Se declara al finalizar el cargo",
+      "No es obligatorio",
+      "Debe declararse dentro de 45 días hábiles",
+      "Solo si es significativa"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 23 inciso c obliga a informar variaciones."
+  },
+  {
+    "pregunta": "El registro de declaraciones juradas es:",
+    "opciones": [
+      "Reservado",
+      "Secreto",
+      "Público",
+      "Accesible solo a jueces"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 24 establece carácter público del registro."
+  },
+  {
+    "pregunta": "Un funcionario omite declarar un bien que utiliza pero no es de su propiedad:",
+    "opciones": [
+      "No es falta",
+      "Solo si genera ingresos",
+      "Es incumplimiento de la DDJJ",
+      "Solo si supera cierto valor"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 25 exige declarar bienes en uso aunque no sean propios."
+  },
+  {
+    "pregunta": "El Secretario Letrado del Tribunal de Cuentas debe intimar al funcionario incumplidor:",
+    "opciones": [
+      "Inmediatamente",
+      "Dentro de los 15 días posteriores al vencimiento del plazo",
+      "Dentro de los 30 días",
+      "Solo si hay denuncia previa"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26 establece que debe exigir el cumplimiento dentro de los 15 días posteriores al vencimiento."
+  },
+  {
+    "pregunta": "Una vez intimado, el funcionario tiene para cumplir:",
+    "opciones": [
+      "5 días",
+      "10 días",
+      "15 días",
+      "30 días"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 26 fija un plazo adicional que no excede los 15 días."
+  },
+  {
+    "pregunta": "Si el incumplimiento persiste, el Secretario Letrado debe:",
+    "opciones": [
+      "Aplicar sanción directa",
+      "Archivar el caso",
+      "Denunciar ante superiores administrativos",
+      "Remitir al Poder Legislativo"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 26 indica que debe denunciar ante superiores para que se radique denuncia judicial."
+  },
+  {
+    "pregunta": "El plazo para denunciar luego del incumplimiento persistente es:",
+    "opciones": [
+      "5 días",
+      "10 días",
+      "15 días",
+      "20 días"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 26 establece un plazo de 5 días."
+  },
+  {
+    "pregunta": "El incumplimiento del Secretario Letrado en sus deberes constituye:",
+    "opciones": [
+      "Falta leve",
+      "Falta administrativa sin sanción",
+      "Falta grave con responsabilidad funcional",
+      "Solo apercibimiento"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 27 lo califica expresamente como falta grave."
+  },
+  {
+    "pregunta": "El acceso al Registro Público del Patrimonio por parte de terceros:",
+    "opciones": [
+      "Es libre sin restricciones",
+      "Está prohibido",
+      "Está condicionado a supuestos específicos",
+      "Solo lo autoriza el Poder Ejecutivo"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 28 establece supuestos específicos de acceso."
+  },
+  {
+    "pregunta": "Un juez puede acceder al registro patrimonial:",
+    "opciones": [
+      "En cualquier caso",
+      "Solo en procesos civiles",
+      "Mediante resolución fundada en proceso penal",
+      "Solo con autorización del Tribunal de Cuentas"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 28 inciso 2 lo permite en proceso penal con resolución fundada."
+  },
+  {
+    "pregunta": "Las comisiones investigadoras parlamentarias pueden acceder al registro:",
+    "opciones": [
+      "No",
+      "Sí, sin condiciones",
+      "Sí, según lo establece la ley",
+      "Solo con orden judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 28 inciso 3 habilita su acceso."
+  },
+  {
+    "pregunta": "Los encargados de personal deben informar cambios de funcionarios:",
+    "opciones": [
+      "Anualmente",
+      "Cada 2 años",
+      "Cada vez que ocurran",
+      "Solo al inicio de gestión"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 29 exige informar cada cambio."
+  },
+  {
+    "pregunta": "Además, deben remitir listados:",
+    "opciones": [
+      "Todos los años",
+      "Cada 30 de marzo de años impares",
+      "Cada 31 de diciembre",
+      "Cada semestre"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 29 fija esa fecha específica."
+  },
+  {
+    "pregunta": "El Estado frente a terceros perjudicados:",
+    "opciones": [
+      "No responde",
+      "Responde solo si hay dolo",
+      "Responde siempre",
+      "Responde solo subsidiariamente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 31 establece responsabilidad directa del Estado."
+  },
+  {
+    "pregunta": "Luego de responder, el Estado puede:",
+    "opciones": [
+      "Cerrar el caso",
+      "Repetir contra el funcionario responsable",
+      "Delegar responsabilidad",
+      "No hacer nada"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 31 establece la acción de repetición."
+  },
+  {
+    "pregunta": "Si un funcionario causa daño al Estado:",
+    "opciones": [
+      "No se inicia acción",
+      "Es facultativo demandarlo",
+      "El Estado debe iniciar acción de responsabilidad",
+      "Solo si hay denuncia penal"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 32 obliga al Estado a accionar."
+  },
+  {
+    "pregunta": "En caso de daño a un tercero, el funcionario:",
+    "opciones": [
+      "No interviene",
+      "Debe ser citado para su defensa",
+      "Solo interviene el Estado",
+      "Solo si lo pide el juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32 garantiza su defensa independiente."
+  },
+  {
+    "pregunta": "Una persona condenada por delito contra la administración pública:",
+    "opciones": [
+      "Puede ser designada",
+      "Solo en cargos menores",
+      "No puede ser designada en cargos políticos no electivos",
+      "Depende del delito"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 33 lo prohíbe mientras dure la sentencia."
+  },
+  {
+    "pregunta": "Un funcionario condenado con sentencia firme:",
+    "opciones": [
+      "Puede continuar",
+      "Debe ser suspendido",
+      "Cesa automáticamente",
+      "Depende del superior"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 34 establece el cese automático."
+  },
+  {
+    "pregunta": "La inacción del Ministerio Público Fiscal que provoca prescripción:",
+    "opciones": [
+      "No tiene consecuencias",
+      "Es falta leve",
+      "Es falta grave",
+      "Depende del caso"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 35 lo califica como falta grave."
+  },
+  {
+    "pregunta": "El Registro Especial de Causas es:",
+    "opciones": [
+      "Reservado",
+      "Público",
+      "Confidencial",
+      "Interno"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 36 establece carácter público."
+  },
+  {
+    "pregunta": "Un funcionario que cesa en su cargo puede cambiar de residencia:",
+    "opciones": [
+      "Inmediatamente",
+      "Luego de 30 días",
+      "Luego de 4 meses",
+      "Cuando lo autoricen"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 37 fija 4 meses."
+  },
+  {
+    "pregunta": "Durante ese período posterior al cese:",
+    "opciones": [
+      "No ocurre nada",
+      "Se revisa su gestión",
+      "Solo se archiva",
+      "Se cierra su responsabilidad"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 38 permite revisión de la gestión."
+  }
+]

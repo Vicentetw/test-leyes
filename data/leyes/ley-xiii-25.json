@@ -1,0 +1,1247 @@
+[
+  {
+    "pregunta": "Según el Artículo 1° de la Ley III N° 25, ¿cuál es el alcance normativo principal de la ley?",
+    "opciones": [
+      "Regula exclusivamente la actividad privada del escribano",
+      "Regula la función notarial, la profesión y su organización en la Provincia, con aplicación subsidiaria de reglamentaciones",
+      "Se limita a establecer requisitos de matrícula",
+      "Regula únicamente el funcionamiento del Colegio de Escribanos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 1° establece que la ley regula integralmente el ejercicio de la función notarial, la profesión y su organización en la Provincia del Chubut, con aplicación subsidiaria de reglamentaciones y resoluciones. Las opciones A, C y D restringen indebidamente el alcance. Se vincula con el principio de legalidad (arts. 19 y 28 CN) en cuanto a la regulación de profesiones."
+  },
+  {
+    "pregunta": "La función notarial, conforme al Artículo 2°, se caracteriza por:",
+    "opciones": [
+      "Ser una actividad privada sin intervención estatal",
+      "Ser ejercida por cualquier profesional universitario",
+      "Ser ejercida por profesionales del derecho que reciben delegación estatal para ejercer la fe pública",
+      "Ser una función administrativa sin contenido jurídico"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 2° establece que los escribanos ejercen la función notarial por delegación del Estado Provincial, con facultad de fe pública. La opción A desconoce la naturaleza pública; la B amplía indebidamente el sujeto; la D desnaturaliza su carácter jurídico. Doctrinariamente, se trata de una función pública ejercida por particulares."
+  },
+  {
+    "pregunta": "¿Quién tiene a su cargo la matrícula profesional según el Artículo 3°?",
+    "opciones": [
+      "El Poder Judicial",
+      "El Poder Ejecutivo",
+      "El Colegio de Escribanos del Chubut",
+      "El Tribunal de Superintendencia Notarial"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 3° asigna al Colegio de Escribanos del Chubut la gestión de la matrícula. Las demás opciones no se ajustan a la norma."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un requisito del Artículo 4° para la inscripción en la matrícula?",
+    "opciones": [
+      "Ser argentino con al menos 10 años de naturalización",
+      "Tener título universitario de escribano con formación análoga a abogacía",
+      "Acreditar solvencia económica",
+      "No estar matriculado en otra jurisdicción"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 4° no exige solvencia económica. Sí exige nacionalidad, título, moralidad, no doble matriculación, habilitación y residencia. Las demás opciones corresponden a requisitos reales."
+  },
+  {
+    "pregunta": "El requisito de residencia del Artículo 4° implica:",
+    "opciones": [
+      "Residencia eventual en la provincia",
+      "Residencia continua e ininterrumpida de 5 años o ser nativo",
+      "Residencia de un año",
+      "No exige residencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 4° inc. f exige residencia continua de 5 años o ser nativo. Las demás opciones contradicen la norma."
+  },
+  {
+    "pregunta": "¿Ante quién se acredita el cumplimiento de los requisitos del Artículo 4°?",
+    "opciones": [
+      "Directamente ante el Colegio de Escribanos",
+      "Ante el Tribunal de Superintendencia",
+      "Ante el Juez Letrado Civil y Comercial mediante información sumaria",
+      "Ante el Poder Ejecutivo"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 5° establece el trámite judicial previo mediante información sumaria ante juez civil. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "La intervención del Colegio de Escribanos en el trámite del Artículo 5° es:",
+    "opciones": [
+      "Opcional",
+      "Inexistente",
+      "Obligatoria mediante vista judicial",
+      "Posterior a la matrícula"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 5° dispone que el juez debe correr vista al Colegio para verificar requisitos. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "La falta de pronunciamiento del Colegio en 30 días según el Artículo 6° produce:",
+    "opciones": [
+      "Aprobación tácita",
+      "Silencio neutro",
+      "Denegatoria tácita",
+      "Caducidad del trámite"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 6° establece que el silencio equivale a denegatoria. Se aplica doctrina del silencio negativo en materia administrativa."
+  },
+  {
+    "pregunta": "El plazo para apelar la denegatoria de matrícula es:",
+    "opciones": [
+      "5 días",
+      "10 días",
+      "15 días hábiles",
+      "30 días"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 6° fija 15 días hábiles. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Ante quién se interpone la apelación contra la denegatoria de matrícula?",
+    "opciones": [
+      "Juez Civil",
+      "Corte Suprema",
+      "Tribunal de Superintendencia Notarial",
+      "Colegio de Abogados"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 6° establece competencia del Tribunal de Superintendencia Notarial."
+  },
+  {
+    "pregunta": "La cancelación de matrícula procede por:",
+    "opciones": [
+      "Falta de pago de matrícula",
+      "Renuncia, decisión del Tribunal o ejercicio en otra jurisdicción",
+      "Inasistencia a actos",
+      "Decisión del Poder Ejecutivo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 7° enumera taxativamente causales. Las demás opciones no están previstas."
+  },
+  {
+    "pregunta": "Para ejercer funciones notariales como titular se requiere:",
+    "opciones": [
+      "Solo matrícula",
+      "Investidura notarial con requisitos legales",
+      "Autorización judicial",
+      "Experiencia mínima"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 8° exige investidura notarial con múltiples requisitos. Las demás opciones son incompletas."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es requisito de investidura?",
+    "opciones": [
+      "Estar matriculado",
+      "Ser mayor de edad",
+      "Aprobar examen judicial",
+      "Registrar firma y sello"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 8° no exige examen judicial. Las demás opciones sí son requisitos."
+  },
+  {
+    "pregunta": "La posesión del cargo notarial es otorgada por:",
+    "opciones": [
+      "El Gobernador",
+      "El Presidente del Colegio de Escribanos o quien designe",
+      "El Tribunal Superior",
+      "El Ministerio de Justicia"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 8° establece la toma de juramento por el Presidente del Colegio o delegado."
+  },
+  {
+    "pregunta": "Ante vacancia temporal del registro, el Colegio puede:",
+    "opciones": [
+      "Cerrar el registro",
+      "Designar directamente reemplazante",
+      "Proponer interino al Tribunal de Superintendencia",
+      "Delegar en el Poder Ejecutivo"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 9° establece facultad de proponer interino al Tribunal."
+  },
+  {
+    "pregunta": "La colegiación del escribano de registro es:",
+    "opciones": [
+      "Opcional",
+      "Voluntaria",
+      "Obligatoria e inseparable del ejercicio",
+      "Temporal"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 10 establece obligatoriedad y carácter inseparable. Se vincula con el control profesional."
+  },
+  {
+    "pregunta": "Caso: Un escribano matriculado en otra provincia solicita matrícula en Chubut sin renunciar a la anterior. ¿Qué corresponde?",
+    "opciones": [
+      "Otorgarla",
+      "Rechazarla por incumplir requisito legal",
+      "Otorgarla provisoriamente",
+      "Depende del Colegio"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 4° inc. d prohíbe doble matriculación. Principio de exclusividad funcional."
+  },
+  {
+    "pregunta": "Caso: El Colegio no se expide sobre una solicitud y el interesado no apela. ¿Qué ocurre?",
+    "opciones": [
+      "Se tiene por aprobada",
+      "Queda firme la denegatoria tácita",
+      "Debe intervenir el juez",
+      "Se archiva automáticamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 6° establece denegatoria tácita y posibilidad de apelación. No recurrir implica consentimiento."
+  },
+  {
+    "pregunta": "Caso: Un escribano es designado pero no presta juramento. ¿Puede ejercer?",
+    "opciones": [
+      "Sí",
+      "Sí con autorización judicial",
+      "No, falta investidura completa",
+      "Depende del Colegio"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 8° exige juramento como requisito esencial. Sin él no hay investidura válida."
+  },
+  {
+    "pregunta": "Caso extremo: Un escribano pierde su carácter de titular de registro. ¿Qué ocurre con su colegiación?",
+    "opciones": [
+      "Permanece",
+      "Se suspende discrecionalmente",
+      "Se cancela automáticamente",
+      "Depende del Tribunal"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 10 establece que la colegiación es inseparable del carácter de escribano de registro. Su pérdida implica cancelación automática."
+  },
+  {
+    "pregunta": "Conforme al Artículo 11 de la Ley III N° 25, ¿cuál de las siguientes situaciones configura una inhabilidad para el ejercicio de la función notarial?",
+    "opciones": [
+      "Estar inscripto en el Registro de Deudores Alimentarios Morosos",
+      "Ejercer docencia universitaria",
+      "Participar en asociaciones civiles",
+      "Tener domicilio fuera del asiento del registro"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 11 incluye expresamente como inhabilidad estar inscripto en el Registro de Alimentantes Morosos. Las opciones B y C están permitidas conforme al Artículo 13. La opción D refiere a una cuestión de residencia (Art. 22) pero no es una inhabilidad del Art. 11."
+  },
+  {
+    "pregunta": "Respecto de los encausados por delitos no culposos, el Artículo 11 establece que:",
+    "opciones": [
+      "Pueden ejercer libremente hasta sentencia firme",
+      "Quedan suspendidos desde la imputación",
+      "Quedan suspendidos desde la firmeza de la prisión preventiva",
+      "Solo se suspenden si hay condena"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 11 establece que la suspensión opera desde la firmeza del auto de prisión preventiva. La opción A es incorrecta porque no exige sentencia. La B anticipa indebidamente la suspensión. La D contradice la norma."
+  },
+  {
+    "pregunta": "En caso de eximición de prisión, el Tribunal de Superintendencia Notarial:",
+    "opciones": [
+      "Debe suspender automáticamente al imputado",
+      "Puede diferir la suspensión según circunstancias",
+      "No puede intervenir",
+      "Debe absolver al imputado"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 11 prevé que el Tribunal puede diferir la suspensión considerando circunstancias. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO constituye una incompatibilidad del Artículo 12?",
+    "opciones": [
+      "Ejercicio simultáneo de cargo judicial",
+      "Ejercicio de profesión liberal",
+      "Actividad docente",
+      "Función militar"
+    ],
+    "correcta": 2,
+    "explicacion": "La docencia está exceptuada por el Artículo 13. Las demás son incompatibilidades del Artículo 12."
+  },
+  {
+    "pregunta": "El ejercicio de la abogacía por un escribano está permitido:",
+    "opciones": [
+      "En cualquier caso",
+      "Solo en causa propia o de familiares directos",
+      "Nunca",
+      "Solo con autorización judicial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 12 inc. b permite actuar como abogado solo en causa propia o de cónyuge, padres o hijos. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "Las incompatibilidades deben interpretarse:",
+    "opciones": [
+      "Para ejercicio sucesivo",
+      "Para ejercicio simultáneo",
+      "Para cualquier actividad",
+      "Solo para funciones públicas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 14 aclara que las incompatibilidades rigen para el ejercicio simultáneo."
+  },
+  {
+    "pregunta": "El escribano de registro es:",
+    "opciones": [
+      "Un funcionario administrativo",
+      "Un oficial público con fe pública",
+      "Un profesional liberal sin función pública",
+      "Un auxiliar judicial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 15 define al escribano como oficial público con facultad de dar autenticidad. Se vincula con la fe pública (principio jurídico)."
+  },
+  {
+    "pregunta": "¿Cuál es una obligación esencial del escribano según el Artículo 16?",
+    "opciones": [
+      "Actuar solo en procesos judiciales",
+      "Negarse a asesorar a las partes",
+      "Asesorar e interpretar el acto jurídico",
+      "Delegar funciones libremente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 16 inc. b establece el deber de asesoramiento. Las demás opciones son contrarias a la norma."
+  },
+  {
+    "pregunta": "El secreto profesional del escribano:",
+    "opciones": [
+      "Es absoluto sin excepciones",
+      "Puede ceder ante orden judicial o supuestos legales",
+      "No existe",
+      "Depende del cliente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 16 inc. f establece secreto con excepciones legales. Se vincula con el principio de confidencialidad."
+  },
+  {
+    "pregunta": "Ante requerimiento judicial sobre protocolos, el escribano:",
+    "opciones": [
+      "Debe remitirlos sin intervención",
+      "Debe permitir diligencias bajo su custodia",
+      "Puede negarse",
+      "Debe entregar copia certificada únicamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 17 exige colaboración manteniendo custodia. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "Las escrituras públicas pueden ser autorizadas por:",
+    "opciones": [
+      "Cualquier abogado",
+      "Solo escribanos de registro",
+      "Jueces",
+      "Funcionarios administrativos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 18 establece exclusividad del escribano de registro."
+  },
+  {
+    "pregunta": "La certificación de firmas implica:",
+    "opciones": [
+      "Validar el contenido del documento",
+      "Acreditar la autoría o presencia de la firma",
+      "Garantizar la legalidad del acto",
+      "Sustituir escritura pública"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 18 aclara que solo acredita la firma, no el contenido."
+  },
+  {
+    "pregunta": "El escribano puede intervenir en procesos judiciales:",
+    "opciones": [
+      "Nunca",
+      "Solo como perito",
+      "En jurisdicción voluntaria y gestiones necesarias",
+      "Solo con autorización judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 18 habilita intervención amplia en jurisdicción voluntaria."
+  },
+  {
+    "pregunta": "El escribano puede ausentarse sin autorización:",
+    "opciones": [
+      "Hasta 60 días",
+      "Hasta 30 días",
+      "Nunca",
+      "Depende del Colegio"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 19 prohíbe ausencias mayores a 30 días sin autorización."
+  },
+  {
+    "pregunta": "Si el titular no retoma funciones tras suplencia:",
+    "opciones": [
+      "Se prorroga automáticamente",
+      "Se clausura el registro salvo justificación",
+      "Se designa otro titular",
+      "No pasa nada"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 19 prevé clausura salvo razones justificadas."
+  },
+  {
+    "pregunta": "La estabilidad del escribano depende de:",
+    "opciones": [
+      "Designación política",
+      "Buena conducta",
+      "Antigüedad",
+      "Voluntad del Colegio"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 20 establece estabilidad condicionada a buena conducta."
+  },
+  {
+    "pregunta": "La remoción del escribano:",
+    "opciones": [
+      "Es discrecional",
+      "Se rige por esta ley",
+      "Depende del Poder Ejecutivo",
+      "No es posible"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 20 exige causales legales."
+  },
+  {
+    "pregunta": "La fianza exigida al escribano:",
+    "opciones": [
+      "Es opcional",
+      "Debe mantenerse incluso 2 años después del cese",
+      "Dura solo durante el ejercicio",
+      "La fija el Colegio"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 21 establece vigencia extendida."
+  },
+  {
+    "pregunta": "El escribano debe abrir su oficina:",
+    "opciones": [
+      "En 10 días",
+      "En 30 días",
+      "En 60 días",
+      "No hay plazo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 22 inc. a fija 30 días."
+  },
+  {
+    "pregunta": "El límite de residencia permitido es:",
+    "opciones": [
+      "50 km",
+      "100 km",
+      "200 km",
+      "Sin límite"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 22 inc. b fija máximo 200 km."
+  },
+  {
+    "pregunta": "El escribano puede conservar protocolos:",
+    "opciones": [
+      "Indefinidamente",
+      "Solo últimos 5 años",
+      "Solo 1 año",
+      "Nunca"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 22 inc. c limita a 5 años."
+  },
+  {
+    "pregunta": "El titular responde por actos de:",
+    "opciones": [
+      "Solo propios",
+      "Adscriptos y suplentes",
+      "Clientes",
+      "Jueces"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 22 inc. d establece responsabilidad por adscripto o suplente."
+  },
+  {
+    "pregunta": "Caso extremo: Un escribano certifica una firma en documento ilícito. ¿Responde por el contenido?",
+    "opciones": [
+      "Sí",
+      "Sí parcialmente",
+      "No",
+      "Depende del caso"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 18 establece que no responde por el contenido del documento cuya firma certifica."
+  },
+ {
+    "pregunta": "En relación con la naturaleza jurídica de los Registros y Protocolos Notariales en la Provincia del Chubut, ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "Son bienes de dominio privado del escribano titular.",
+      "Son de propiedad del Estado Provincial, independientemente de su titular.",
+      "Son bienes mixtos cuya titularidad se comparte entre el Estado y el escribano.",
+      "Son de propiedad del Colegio de Escribanos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 23 de la Ley establece expresamente que los Registros y Protocolos Notariales son de propiedad del Estado Provincial. Esto implica que el escribano titular ejerce una función pública delegada, pero no ostenta dominio sobre dichos instrumentos. La opción A es incorrecta porque confunde titularidad funcional con dominio. La opción C introduce una figura no prevista normativamente. La opción D es errónea, ya que el Colegio tiene funciones de control y organización, pero no titularidad dominial. Este principio se vincula con el carácter público de la función notarial y con el principio de legalidad (arts. 16 y 17 CN, y Constitución de Chubut)."
+  },
+  {
+    "pregunta": "¿Quién tiene la competencia para la creación y cancelación de los Registros Notariales según el régimen normativo analizado?",
+    "opciones": [
+      "El Tribunal de Superintendencia Notarial.",
+      "El Colegio de Escribanos.",
+      "El Poder Ejecutivo Provincial.",
+      "El Superior Tribunal de Justicia."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 23 dispone que compete al Poder Ejecutivo la creación y cancelación de los Registros Notariales. Se trata de una potestad administrativa propia del Ejecutivo en el marco de la organización del servicio público notarial. La opción A es incorrecta, ya que el Tribunal tiene funciones de designación y control, pero no de creación. La opción B es errónea, pues el Colegio puede proponer modificaciones (art. 24), pero no decidirlas. La opción D no tiene atribución en esta materia."
+  },
+  {
+    "pregunta": "En el procedimiento de acceso a la titularidad de un Registro Notarial, ¿cuál es el órgano que realiza la designación final del titular?",
+    "opciones": [
+      "El Poder Ejecutivo Provincial.",
+      "El Colegio de Escribanos.",
+      "El Tribunal de Superintendencia Notarial.",
+      "Una comisión mixta integrada por los tres organismos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 25 establece que compete al Tribunal de Superintendencia Notarial la designación del titular de cada Registro. Esto configura una excepción al principio general de designación administrativa por el Poder Ejecutivo, justificándose en la especificidad técnica del control notarial. La opción A es incorrecta porque el Ejecutivo interviene en la creación y provisión, pero no designa directamente. La opción B carece de competencia decisoria. La opción D no tiene sustento legal."
+  },
+  {
+    "pregunta": "En el marco del concurso de oposición y antecedentes, ¿cuál de las siguientes condiciones es necesaria para resultar ganador?",
+    "opciones": [
+      "Obtener al menos siete puntos en una de las pruebas y el mayor puntaje total.",
+      "Obtener al menos siete puntos en ambas pruebas y el mayor puntaje total incluyendo antecedentes.",
+      "Obtener el mayor puntaje total sin importar el mínimo en cada prueba.",
+      "Obtener al menos seis puntos en cada prueba y mayoría simple en antecedentes."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 28 establece que será ganador quien obtenga no menos de siete puntos en cada una de las pruebas (escrita y oral) y el mayor puntaje total sumando antecedentes. La opción A es incorrecta por admitir insuficiencia en una prueba. La opción C omite el requisito mínimo por prueba. La opción D altera el estándar legal. Este esquema garantiza idoneidad (art. 16 CN)."
+  },
+  {
+    "pregunta": "Respecto de la vacancia de un Registro Notarial, ¿cuál de las siguientes situaciones NO se encuentra contemplada como causal en el Artículo 33?",
+    "opciones": [
+      "Renuncia del titular.",
+      "Destitución por sanción disciplinaria.",
+      "Traslado voluntario del titular a otra jurisdicción.",
+      "Incapacidad absoluta o permanente."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 33 enumera taxativamente las causales de vacancia: muerte, renuncia, incapacidad absoluta o permanente, destitución o sanción disciplinaria y vacancia temporaria. El traslado voluntario no está previsto como causal. Las opciones A, B y D están expresamente contempladas. La interpretación es restrictiva por tratarse de supuestos que afectan la continuidad del servicio público."
+  },
+  {
+    "pregunta": "En caso de vacancia de un Registro con adscripto, ¿cuál es la regla general respecto a la titularidad?",
+    "opciones": [
+      "Debe llamarse a concurso público sin excepción.",
+      "El adscripto accede automáticamente a la titularidad sin concurso.",
+      "El Poder Ejecutivo designa discrecionalmente un nuevo titular.",
+      "El Colegio de Escribanos decide el reemplazo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 31 dispone que la designación del titular recaerá automáticamente en el adscripto sin necesidad de concurso, salvo que haya tenido dos resultados negativos en concursos previos. La opción A desconoce la excepción legal. La opción C contradice el régimen específico. La opción D carece de competencia decisoria. Esta norma constituye una excepción al principio de concurso público."
+  },
+  {
+    "pregunta": "En relación con el funcionamiento del jurado del concurso, ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "Puede sesionar con mayoría simple de sus miembros.",
+      "Debe estar integrado exclusivamente por miembros del Poder Judicial.",
+      "Requiere la presencia de todos sus miembros para funcionar.",
+      "Puede ser integrado únicamente por representantes del Colegio de Escribanos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 27 establece que el jurado requiere la presencia de todos sus miembros para funcionar y decide por mayoría. La opción A es incorrecta porque exige quórum total. La opción B es errónea, ya que la integración es mixta. La opción D contradice la composición plural prevista en el Artículo 25. Se garantiza así imparcialidad y especialización."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo máximo para que el jurado finalice su cometido en el concurso?",
+    "opciones": [
+      "15 días improrrogables.",
+      "30 días, prorrogables por igual plazo por causa justificada.",
+      "60 días sin posibilidad de prórroga.",
+      "90 días con prórroga automática."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 27 establece un plazo de 30 días, prorrogable por igual término por causa justificada. La opción A reduce indebidamente el plazo. La opción C elimina la prórroga prevista. La opción D introduce condiciones inexistentes. Este plazo responde al principio de celeridad administrativa."
+  },
+  {
+    "pregunta": "En el procedimiento de inventario ante vacancia sin adscripto, ¿quién tiene a su cargo la custodia de los protocolos?",
+    "opciones": [
+      "El Tribunal de Superintendencia Notarial.",
+      "El Poder Ejecutivo.",
+      "El Colegio de Escribanos.",
+      "El Ministerio de Gobierno y Justicia."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 35 dispone que, en ausencia de adscripto, el Colegio de Escribanos incauta y mantiene en depósito las existencias inventariadas. La opción A no tiene función de custodia directa. La opción B y D no intervienen en esta etapa. Se trata de una función administrativa delegada con carácter de carga pública (art. 34)."
+  },
+  {
+    "pregunta": "En relación con la obligación de denunciar la vacancia de un Registro, ¿cuál es la consecuencia para el adscripto que incumple?",
+    "opciones": [
+      "No genera consecuencia alguna.",
+      "Se le aplica una sanción leve.",
+      "Se considera falta grave.",
+      "Se le impide participar en concursos futuros."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 33 establece que la omisión de denunciar la vacancia por parte del adscripto constituye falta grave. La opción A es contraria a la norma. La opción B minimiza la gravedad. La opción D no está prevista expresamente. Esta previsión se vincula con el deber funcional y el principio de responsabilidad administrativa."
+  },
+  {
+    "pregunta": "Respecto del régimen de designación de Escribanos Adscriptos, ¿cuál de las siguientes afirmaciones es jurídicamente correcta?",
+    "opciones": [
+      "El Escribano Titular designa directamente a sus adscriptos sin intervención de otros organismos.",
+      "El Tribunal de Superintendencia Notarial los nombra a propuesta del Titular, con intervención del Colegio de Escribanos.",
+      "El Colegio de Escribanos designa a los adscriptos con acuerdo del Poder Ejecutivo.",
+      "El Poder Ejecutivo designa a los adscriptos a propuesta del Tribunal."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 36 establece que los adscriptos son nombrados por el Tribunal de Superintendencia Notarial a simple propuesta del Titular, con intervención del Colegio de Escribanos, quien certifica la matriculación. La opción A es incorrecta porque omite la competencia decisoria del Tribunal. La opción C es errónea ya que el Colegio no tiene facultad de designación. La opción D atribuye indebidamente competencia al Poder Ejecutivo. Este esquema responde al principio de control institucional del ejercicio notarial."
+  },
+  {
+    "pregunta": "¿Cuál es el límite máximo de Escribanos Adscriptos que puede tener un Registro Notarial?",
+    "opciones": [
+      "Uno, salvo autorización excepcional del Tribunal.",
+      "Dos, sin excepción.",
+      "Tres, si lo autoriza el Colegio de Escribanos.",
+      "Ilimitados, según necesidad del servicio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 36 fija expresamente el máximo de dos (2) adscriptos por Registro. No se prevén excepciones. Las opciones A, C y D introducen supuestos no contemplados. La norma es de carácter restrictivo en atención a la organización del servicio notarial."
+  },
+  {
+    "pregunta": "En relación con las facultades del Escribano Adscripto, ¿cuál es la opción correcta?",
+    "opciones": [
+      "Tiene facultades limitadas a las delegadas expresamente por el titular.",
+      "Actúa con las mismas facultades que el titular, bajo su dirección y responsabilidad.",
+      "Solo puede actuar en ausencia del titular.",
+      "Tiene autonomía funcional sin responsabilidad del titular."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 37 dispone que el adscripto actúa con la misma extensión de facultades que el titular, simultánea e indistintamente, pero bajo su dirección y responsabilidad. La opción A restringe indebidamente sus facultades. La opción C desconoce la simultaneidad. La opción D contradice la responsabilidad del titular. Se trata de una delegación funcional bajo control jerárquico."
+  },
+  {
+    "pregunta": "¿Cuál es el alcance de la responsabilidad del Escribano Titular respecto de los actos de sus adscriptos?",
+    "opciones": [
+      "No responde en ningún caso.",
+      "Responde solidariamente en todos los casos sin excepción.",
+      "Responde en cuanto los actos sean susceptibles de su apreciación y cuidado.",
+      "Solo responde si medió dolo del adscripto."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 37 establece que el titular responde por los actos de sus adscriptos en cuanto sean susceptibles de su apreciación y cuidado. La opción A es contraria a la norma. La opción B amplía indebidamente la responsabilidad. La opción D introduce un requisito no previsto. Se aplica el principio de responsabilidad funcional controlada."
+  },
+  {
+    "pregunta": "En caso de fallecimiento del Escribano Titular existiendo dos adscriptos, ¿quién accede a la titularidad?",
+    "opciones": [
+      "El adscripto designado por el Colegio de Escribanos.",
+      "El adscripto que obtenga mejor puntaje en concurso posterior.",
+      "El adscripto de mayor antigüedad.",
+      "El adscripto que designe el Poder Ejecutivo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 38 dispone que el adscripto de mayor antigüedad accede automáticamente a la titularidad. La opción A carece de sustento legal. La opción B desconoce la excepción al concurso. La opción D atribuye competencia indebida al Ejecutivo. Se trata de una regla especial vinculada al Artículo 31."
+  },
+  {
+    "pregunta": "En relación con las convenciones entre titular y adscripto, ¿cuál es jurídicamente válida?",
+    "opciones": [
+      "Aquella que establece un precio por la adscripción.",
+      "Aquella que impone participación unilateral del adscripto en honorarios del titular.",
+      "Aquella que regula participación recíproca en honorarios y gastos.",
+      "Aquella que presume un tráfico de la adscripción."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 39 permite convenciones que regulen derechos, participación y gastos, siempre que no impliquen precio por adscripción ni tráfico. Las opciones A, B y D están prohibidas y son nulas. La norma protege la ética profesional y evita mercantilización de la función notarial."
+  },
+  {
+    "pregunta": "¿Cuál es la naturaleza jurídica de la relación entre titular y adscripto?",
+    "opciones": [
+      "Relación laboral regida por la Ley de Contrato de Trabajo.",
+      "Relación contractual civil sin regulación específica.",
+      "Relación profesional no laboral excluida de normativa laboral.",
+      "Relación administrativa con el Estado Provincial."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 39 establece expresamente que la adscripción no reviste carácter de relación laboral. La opción A es incorrecta por contradecir la norma. La opción B es incompleta. La opción D es errónea. Se trata de una relación profesional especial regida por normativa notarial."
+  },
+  {
+    "pregunta": "Respecto del Escribano Suplente, ¿cuál es el régimen aplicable?",
+    "opciones": [
+      "Tiene un régimen distinto al adscripto.",
+      "Se rige por las mismas normas que el adscripto.",
+      "Es designado exclusivamente por el Poder Ejecutivo.",
+      "No genera responsabilidad para el titular."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 40 establece que el suplente se rige por las mismas normas que el adscripto. La opción A es incorrecta. La opción C carece de base legal. La opción D contradice la responsabilidad solidaria del titular. Se aplica analogía normativa expresa."
+  },
+  {
+    "pregunta": "¿Cuál es el carácter de las decisiones del Colegio de Escribanos como árbitro en conflictos internos?",
+    "opciones": [
+      "Son apelables ante el Tribunal de Superintendencia Notarial.",
+      "Son revisables judicialmente en todos los casos.",
+      "Son inapelables si se dictan por mayoría de votos.",
+      "Son meramente consultivas."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 41 establece que los fallos del Colegio actuando como árbitro, pronunciados por mayoría, son inapelables. La opción A contradice la norma. La opción B no surge del texto. La opción D desnaturaliza la función arbitral. Se trata de un arbitraje institucional con efecto vinculante."
+  },
+  {
+    "pregunta": "¿Quiénes ejercen el juzgamiento de la responsabilidad profesional del escribano?",
+    "opciones": [
+      "Exclusivamente el Poder Judicial.",
+      "El Tribunal de Superintendencia Notarial y el Colegio de Escribanos.",
+      "El Poder Ejecutivo y el Colegio de Escribanos.",
+      "Solo el Colegio de Escribanos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 42 establece que la responsabilidad profesional será juzgada exclusivamente por el Tribunal de Superintendencia Notarial y el Colegio de Escribanos. La opción A es incorrecta. La opción C y D atribuyen competencias no previstas. Se trata de un sistema disciplinario específico."
+  },
+  {
+    "pregunta": "En materia de responsabilidad administrativa del escribano, ¿quién tiene competencia?",
+    "opciones": [
+      "El Tribunal de Superintendencia Notarial.",
+      "El Colegio de Escribanos.",
+      "Los tribunales que determinen las leyes fiscales.",
+      "El Poder Ejecutivo Provincial."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 43 dispone que la responsabilidad administrativa derivada de incumplimientos fiscales será juzgada por los tribunales que determinen las leyes respectivas. Las opciones A y B refieren a responsabilidad profesional. La opción D no tiene competencia jurisdiccional."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo para que los jueces notifiquen al Colegio de Escribanos sobre acciones iniciadas contra un escribano?",
+    "opciones": [
+      "5 días.",
+      "10 días.",
+      "15 días.",
+      "30 días."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 44 establece un plazo de quince (15) días desde iniciada la acción. Las demás opciones son incorrectas por alterar el plazo legal. Esta obligación garantiza control institucional."
+  },
+  {
+    "pregunta": "¿Cómo se integra el Tribunal de Superintendencia Notarial?",
+    "opciones": [
+      "Solo por jueces del Superior Tribunal de Justicia.",
+      "Por el Presidente y Vicepresidente del STJ y dos escribanos con 10 años de antigüedad.",
+      "Por representantes del Poder Ejecutivo y Colegio de Escribanos.",
+      "Por cinco escribanos designados por el Colegio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 45 establece integración mixta: Presidente y Vicepresidente del STJ y dos escribanos con al menos 10 años de ejercicio. Las demás opciones son incorrectas por alterar la composición. Se garantiza equilibrio técnico-jurisdiccional."
+  },
+  {
+    "pregunta": "En caso de empate en las decisiones del Tribunal de Superintendencia Notarial, ¿qué sucede?",
+    "opciones": [
+      "Se rechaza la decisión.",
+      "Decide el Presidente con doble voto.",
+      "Se integra con otro miembro del STJ sorteado.",
+      "Se remite al Colegio de Escribanos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 46 dispone que en caso de empate se integra el Tribunal con otro miembro del STJ sorteado. Las demás opciones carecen de sustento legal. Se asegura imparcialidad y resolución efectiva."
+  },
+  {
+    "pregunta": "En el procedimiento disciplinario, ¿qué garantía se reconoce al escribano inculpado?",
+    "opciones": [
+      "Solo derecho a ser notificado.",
+      "Derecho a descargo y ofrecer prueba.",
+      "Derecho a recurrir directamente ante el Poder Ejecutivo.",
+      "Ninguna garantía específica."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 47 reconoce el derecho de defensa: descargo y ofrecimiento de prueba. La opción A es incompleta. La opción C es incorrecta. La opción D contradice el debido proceso (art. 18 CN)."
+  },
+  {
+    "pregunta": "Si el fallo del Tribunal de Superintendencia Notarial es condenatorio, ¿qué vía recursiva corresponde?",
+    "opciones": [
+      "Recurso directo ante el Poder Ejecutivo.",
+      "Apelación ante el mismo Tribunal sin elevación.",
+      "Apelación ante el Tribunal y resolución final del STJ.",
+      "Recurso ante el Colegio de Escribanos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 47 establece que la apelación se interpone ante el Tribunal y se eleva al Superior Tribunal de Justicia para resolución definitiva. Las demás opciones son incorrectas. Se garantiza doble instancia."
+  },
+  {
+    "pregunta": "¿Cuál es el rol del Colegio de Escribanos en procesos donde un escribano es parte?",
+    "opciones": [
+      "No interviene.",
+      "Actúa solo si es convocado por el escribano.",
+      "Tiene intervención obligatoria y puede asumir representación.",
+      "Solo actúa como perito técnico."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 48 establece intervención obligatoria del Colegio en todo proceso donde intervenga un escribano. Las demás opciones son incorrectas. Se protege el interés institucional del notariado."
+  },
+  {
+    "pregunta": "En relación con la distribución de competencias en materia de control del notariado, ¿cuál es el alcance de la función del Colegio de Escribanos del Chubut según el Artículo 49?",
+    "opciones": [
+      "Ejerce control exclusivo y excluyente sobre el notariado, sin intervención de otros órganos.",
+      "Comparte con el Tribunal de Superintendencia Notarial la dirección y vigilancia, teniendo a su cargo la vigilancia inmediata.",
+      "Se limita a funciones gremiales sin potestades de control.",
+      "Actúa únicamente como órgano asesor del Poder Ejecutivo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 49 establece que, sin perjuicio de la jurisdicción del Tribunal de Superintendencia Notarial, corresponde al Colegio la dirección y vigilancia inmediata de los escribanos. Esto implica un sistema de control concurrente. La opción A es incorrecta por desconocer la competencia del Tribunal. La opción C es errónea porque el Colegio tiene funciones de control. La opción D no refleja la amplitud de sus atribuciones. Se articula un modelo de co-gobierno institucional."
+  },
+  {
+    "pregunta": "¿Cuál es la naturaleza jurídica del Colegio de Escribanos del Chubut?",
+    "opciones": [
+      "Entidad privada sin reconocimiento estatal.",
+      "Organismo estatal descentralizado.",
+      "Persona de derecho público no estatal.",
+      "Asociación civil sin fines de lucro."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 50 establece que el Colegio funciona como persona de derecho público no estatal. Esto implica ejercicio de funciones públicas delegadas con autonomía institucional. La opción A es incorrecta. La opción B no corresponde a su naturaleza. La opción D es insuficiente jurídicamente. Esta figura es típica en colegios profesionales (CSJN doctrina)."
+  },
+  {
+    "pregunta": "Respecto de la estructura territorial del Colegio de Escribanos, ¿cuál es correcta?",
+    "opciones": [
+      "Tiene sede en Rawson y delegaciones en toda la provincia sin requisitos.",
+      "Tiene sede en Trelew y delegaciones en Comodoro Rivadavia, Esquel y Puerto Madryn.",
+      "Tiene sede en Comodoro Rivadavia exclusivamente.",
+      "Tiene sede itinerante según el Consejo Directivo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 50 fija la sede en Trelew y reconoce delegaciones en Comodoro Rivadavia, Esquel y crea la de Puerto Madryn. Las demás opciones son incorrectas. Además, exige representación en el Consejo Directivo y requisitos de antigüedad. Esto asegura descentralización funcional."
+  },
+  {
+    "pregunta": "¿Cuáles son los órganos del Colegio de Escribanos del Chubut?",
+    "opciones": [
+      "Consejo Directivo y Tribunal de Ética.",
+      "Asamblea y Consejo Directivo.",
+      "Asamblea, Consejo Directivo y Tribunal de Superintendencia.",
+      "Consejo Directivo exclusivamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 51 establece que los órganos son la Asamblea y el Consejo Directivo. Las demás opciones incorporan órganos no previstos como tales en este artículo. Se trata de una estructura orgánica básica."
+  },
+  {
+    "pregunta": "¿Quiénes están obligados a colegiarse según el Artículo 52?",
+    "opciones": [
+      "Solo los escribanos titulares.",
+      "Solo quienes ejerzan efectivamente funciones notariales.",
+      "Titulares, adscriptos, suplentes, matriculados y quienes ejerzan funciones por su título.",
+      "Únicamente los inscriptos en la matrícula."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 52 establece una obligación amplia de colegiación incluyendo titulares, adscriptos, suplentes, matriculados y quienes ejerzan funciones por su título. Las demás opciones son parciales. Se vincula con el control del ejercicio profesional."
+  },
+  {
+    "pregunta": "En relación con la atribución del Colegio de dictar el Estatuto y reglamentos notariales, ¿qué mayoría se requiere?",
+    "opciones": [
+      "Mayoría simple de los presentes.",
+      "Mayoría absoluta del padrón.",
+      "Dos tercios de los colegiados.",
+      "Unanimidad de los miembros del Consejo Directivo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 53 inciso d) exige el voto de las dos terceras partes de los colegiados. Las demás opciones son incorrectas. Esto refleja la importancia institucional de dichas normas."
+  },
+  {
+    "pregunta": "¿Cuál es el alcance de la potestad disciplinaria del Colegio de Escribanos?",
+    "opciones": [
+      "Solo puede aplicar sanciones leves.",
+      "Puede imponer sanciones disciplinarias conforme la ley.",
+      "No tiene potestad sancionatoria.",
+      "Depende exclusivamente del Poder Ejecutivo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 53 inciso z) establece que el Colegio puede imponer sanciones disciplinarias previstas en la ley. Las demás opciones son incorrectas. Esta potestad se ejerce en el marco del sistema disciplinario conjunto con el Tribunal (art. 42)."
+  },
+  {
+    "pregunta": "En materia de aranceles profesionales, ¿qué facultad tiene el Colegio?",
+    "opciones": [
+      "Solo puede sugerir aranceles.",
+      "Fija aranceles obligatorios.",
+      "Depende del Poder Ejecutivo para su fijación.",
+      "No interviene en aranceles."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 53 inciso aa) establece que el Colegio fija aranceles y honorarios obligatorios. Las demás opciones son incorrectas. Esto garantiza uniformidad y evita competencia desleal."
+  },
+  {
+    "pregunta": "¿Cuál es el alcance de la función arbitral del Colegio según el Artículo 53?",
+    "opciones": [
+      "Solo interviene en conflictos entre escribanos.",
+      "Interviene en conflictos entre escribanos y terceros.",
+      "Puede resolver arbitralmente conflictos entre escribanos y también con requirentes.",
+      "Solo actúa como mediador sin poder decisorio."
+    ],
+    "correcta": 2,
+    "explicacion": "El inciso p) del Artículo 53 habilita al Colegio a resolver arbitralmente conflictos entre escribanos o entre estos y quienes soliciten sus servicios. Las demás opciones son incompletas o incorrectas. Se trata de una función jurisdiccional interna."
+  },
+  {
+    "pregunta": "Respecto del control del cumplimiento de la ley y normas notariales, ¿qué facultad posee el Colegio?",
+    "opciones": [
+      "Solo puede denunciar incumplimientos.",
+      "Debe vigilar el cumplimiento de la ley y disposiciones relacionadas.",
+      "Carece de competencia en control normativo.",
+      "Depende del Tribunal para actuar."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 53 inciso a) establece el deber de vigilar el cumplimiento normativo. Las demás opciones son incorrectas. Se trata de una función esencial de policía profesional."
+  },
+  {
+    "pregunta": "En relación con la función social del Colegio, ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "No tiene funciones sociales.",
+      "Debe establecer consultorios gratuitos para personas sin recursos.",
+      "Solo puede intervenir en asuntos profesionales.",
+      "Depende del Estado para implementar asistencia social."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 53 inciso w) establece la obligación de crear consultorios gratuitos para personas sin recursos. Las demás opciones son incorrectas. Se vincula con el acceso a la justicia (art. 18 CN)."
+  },
+  {
+    "pregunta": "¿Qué función cumple el Colegio en relación con los protocolos notariales?",
+    "opciones": [
+      "No tiene intervención alguna.",
+      "Solo puede inspeccionarlos en casos excepcionales.",
+      "Realiza inspecciones periódicas para verificar cumplimiento de obligaciones.",
+      "Solo actúa a pedido del Poder Ejecutivo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 53 inciso j) establece la inspección periódica de protocolos. Las demás opciones son incorrectas. Se trata de un control técnico preventivo."
+  },
+  {
+    "pregunta": "En relación con la matrícula profesional, ¿qué función tiene el Colegio?",
+    "opciones": [
+      "Solo registra nuevos escribanos.",
+      "Lleva permanentemente depurado el registro de matrícula.",
+      "Depende del Poder Judicial para actualizarla.",
+      "No tiene competencia en matrícula."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 53 inciso q) establece que el Colegio debe llevar depurado el registro de matrícula. Las demás opciones son incorrectas. Esto asegura control actualizado del ejercicio profesional."
+  },
+  {
+    "pregunta": "¿Cuál es el alcance de la facultad del Colegio respecto de la informatización de la función notarial?",
+    "opciones": [
+      "No tiene competencia en materia tecnológica.",
+      "Puede introducir la función notarial en el ámbito informático conforme normativa futura.",
+      "Depende exclusivamente del Poder Ejecutivo.",
+      "Solo puede emitir recomendaciones."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 53 inciso x) habilita al Colegio a introducir la función notarial en la informática conforme normativa vigente o futura. Las demás opciones son incorrectas. Refleja adaptación tecnológica del notariado."
+  },
+  {
+    "pregunta": "En un caso donde un escribano cobra honorarios por debajo del arancel fijado por el Colegio, ¿qué principio se ve afectado según el régimen legal?",
+    "opciones": [
+      "Principio de autonomía de la voluntad.",
+      "Principio de legalidad y disciplina profesional.",
+      "Principio de libertad contractual absoluta.",
+      "Principio de reserva."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 53 inciso aa) establece obligatoriedad de los aranceles. Su incumplimiento afecta la disciplina profesional y el principio de legalidad. Las opciones A y C son inaplicables en este contexto regulado. La opción D no corresponde. Se protege el orden público profesional."
+  },
+  {
+    "pregunta": "En relación con la representación institucional del Colegio de Escribanos del Chubut, ¿quién ejerce dicha representación conforme al Artículo 54?",
+    "opciones": [
+      "El Presidente del Colegio en forma exclusiva.",
+      "El Consejo Directivo o quien este designe conforme la normativa aplicable.",
+      "El Tribunal de Superintendencia Notarial.",
+      "La Asamblea de colegiados en todos los casos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 54 establece que el Colegio actuará representado por el Consejo Directivo o por quien este designe, conforme la ley, estatuto y reglamento. La opción A es incorrecta por restringir indebidamente la representación. La opción C confunde órganos. La opción D no corresponde a la representación ejecutiva. Se trata de una representación orgánica institucional."
+  },
+  {
+    "pregunta": "¿Cuál es el límite máximo de sanción disciplinaria que puede aplicar directamente el Colegio de Escribanos sin intervención del Tribunal de Superintendencia Notarial?",
+    "opciones": [
+      "Suspensión hasta dos años.",
+      "Multa hasta el monto de la fianza.",
+      "Suspensión hasta un mes o apercibimiento.",
+      "Destitución del cargo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 55 limita las sanciones del Colegio a apercibimiento y suspensión hasta un mes. Para sanciones mayores debe remitir al Tribunal. Las opciones A, B y D corresponden al régimen del Artículo 60 o exceden su competencia. Se respeta el principio de legalidad sancionatoria."
+  },
+  {
+    "pregunta": "¿Cuál es el destino legal del producido de las multas disciplinarias?",
+    "opciones": [
+      "Se distribuye entre los miembros del Consejo Directivo.",
+      "Se incorpora al Tesoro Provincial.",
+      "Se destina al fomento de la biblioteca pública del Colegio.",
+      "Se utiliza para gastos administrativos generales."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 56 dispone que las multas deben invertirse en el fomento de la biblioteca pública del Colegio. Las demás opciones carecen de sustento normativo. Se trata de una afectación específica de recursos con finalidad cultural y profesional."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO constituye un recurso del patrimonio del Colegio según el Artículo 57?",
+    "opciones": [
+      "Cuotas de matriculación y mensuales.",
+      "Fondos provenientes de servicios específicos.",
+      "Aportes obligatorios del Poder Ejecutivo.",
+      "Multas disciplinarias."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 57 enumera taxativamente los recursos, sin incluir aportes del Poder Ejecutivo. Las demás opciones están previstas en los incisos a), b), c) y g). Se trata de un sistema de autofinanciamiento institucional."
+  },
+  {
+    "pregunta": "En relación con la función de miembro del Consejo Directivo, ¿cuál es su carácter?",
+    "opciones": [
+      "Voluntario y remunerado.",
+      "Carga pública con causales de excusación.",
+      "Obligatorio sin posibilidad de excusación.",
+      "Honorario sin regulación legal."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 58 establece que es carga pública, con posibilidad de excusación por edad, desempeño previo o imposibilidad física. Las demás opciones son incorrectas. Se vincula con el principio de participación institucional."
+  },
+  {
+    "pregunta": "¿Qué consecuencia tiene la omisión injustificada de votar en la Asamblea del Colegio?",
+    "opciones": [
+      "Ninguna consecuencia.",
+      "Suspensión automática.",
+      "Aplicación de multa determinada por el Consejo Directivo.",
+      "Pérdida de la matrícula."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 59 establece que el voto es obligatorio y su incumplimiento genera multa. Las demás opciones son incorrectas. Se trata de una obligación institucional colegial."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes sanciones disciplinarias está prevista en el Artículo 60?",
+    "opciones": [
+      "Inhabilitación perpetua.",
+      "Suspensión hasta dos años.",
+      "Amonestación privada.",
+      "Expulsión sin procedimiento."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 60 incluye suspensión hasta dos años. Las demás opciones no están previstas en la norma. El régimen es taxativo y respeta el principio de legalidad sancionatoria."
+  },
+  {
+    "pregunta": "En el procedimiento disciplinario, ¿cuál es el plazo para finalizar el sumario?",
+    "opciones": [
+      "15 días corridos.",
+      "30 días hábiles.",
+      "60 días hábiles.",
+      "30 días corridos prorrogables."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 61 establece un plazo de 30 días hábiles para concluir el sumario. Las demás opciones son incorrectas. Este plazo garantiza celeridad y debido proceso (art. 18 CN)."
+  },
+  {
+    "pregunta": "Una vez finalizado el sumario, ¿qué plazo tiene el Colegio para expedirse?",
+    "opciones": [
+      "5 días.",
+      "10 días.",
+      "15 días.",
+      "30 días."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 62 establece un plazo de 15 días subsiguientes. Las demás opciones son incorrectas. Se trata de una etapa decisoria administrativa."
+  },
+  {
+    "pregunta": "Si el escribano sancionado apela dentro del plazo legal, ¿qué órgano interviene?",
+    "opciones": [
+      "El Poder Ejecutivo.",
+      "El Tribunal de Superintendencia Notarial.",
+      "El Superior Tribunal de Justicia directamente.",
+      "La Asamblea del Colegio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 62 dispone que las actuaciones se elevan al Tribunal de Superintendencia Notarial. Las demás opciones son incorrectas. Se configura una instancia revisora administrativa especializada."
+  },
+  {
+    "pregunta": "En caso de que el Consejo Directivo considere aplicable una sanción superior a un mes de suspensión, ¿qué debe hacer?",
+    "opciones": [
+      "Aplicarla directamente.",
+      "Archivar las actuaciones.",
+      "Elevar el expediente al Tribunal de Superintendencia Notarial.",
+      "Consultar al Poder Ejecutivo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 63 establece la obligación de elevar al Tribunal cuando la sanción exceda su competencia. Las demás opciones son incorrectas. Se respeta la división de competencias sancionatorias."
+  },
+  {
+    "pregunta": "En relación con la técnica de redacción de las escrituras públicas, ¿cuál es la regla respecto al inicio de cada escritura según el Artículo 67 inciso a)?",
+    "opciones": [
+      "Debe iniciarse en cualquier espacio disponible del protocolo.",
+      "Debe iniciarse en hoja nueva sin excepción.",
+      "Debe iniciarse en la primera línea de la plana o carilla del sello inmediato siguiente al de la escritura anterior.",
+      "Puede iniciarse en la misma hoja siempre que haya espacio suficiente."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 67 inciso a) establece la regla estricta de iniciación en la primera línea del sello inmediato siguiente. La opción A y D desconocen la secuencia formal. La opción B es incorrecta porque no siempre es hoja nueva sino el sello siguiente. Se trata de una exigencia de orden y seguridad documental."
+  },
+  {
+    "pregunta": "¿Cómo se integra el Protocolo Notarial según el Artículo 67 inciso b)?",
+    "opciones": [
+      "Por escrituras seleccionadas por el escribano.",
+      "Por todas las escrituras autorizadas durante el año, numeradas sucesivamente.",
+      "Por documentos públicos y privados indistintamente.",
+      "Por escrituras ordenadas alfabéticamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso b) dispone que el protocolo se forma con todas las escrituras autorizadas durante el año, numeradas correlativamente. Las demás opciones son incorrectas. Se garantiza integridad y cronología del instrumento público."
+  },
+  {
+    "pregunta": "En cuanto a la encuadernación del Protocolo, ¿cuál es el límite máximo de folios por tomo?",
+    "opciones": [
+      "200 folios.",
+      "300 folios.",
+      "500 folios.",
+      "1000 folios."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 67 inciso c) establece un máximo de 500 folios por tomo. Las demás opciones son incorrectas. Este límite responde a criterios de conservación y manejo documental."
+  },
+  {
+    "pregunta": "Respecto de los informes de oficinas de impuestos, ¿cuál es el régimen aplicable?",
+    "opciones": [
+      "Deben agregarse al protocolo indefinidamente.",
+      "Deben destruirse inmediatamente.",
+      "Deben permanecer en poder del escribano por cinco años.",
+      "Deben remitirse al Colegio de Escribanos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 67 inciso c) establece que los informes de oficinas de impuestos deben conservarse por cinco años. Las demás opciones son incorrectas. Se trata de una obligación de guarda temporal."
+  },
+  {
+    "pregunta": "¿Cómo se formaliza la apertura y cierre del Protocolo?",
+    "opciones": [
+      "Mediante resolución del Colegio.",
+      "Mediante constancia inicial y certificación final del escribano.",
+      "Mediante acta judicial.",
+      "Mediante intervención del Tribunal de Superintendencia."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 67 inciso d) regula apertura con constancia inicial y cierre con certificación del escribano. Las demás opciones no están previstas. Se trata de actos formales de autenticidad."
+  },
+  {
+    "pregunta": "Si quedan folios en blanco al cierre del protocolo, ¿qué debe hacerse?",
+    "opciones": [
+      "Dejarse en blanco para uso posterior.",
+      "Anularse mediante líneas contables.",
+      "Remitirse al Colegio.",
+      "Firmarse por el Tribunal."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 67 inciso d) dispone su inutilización mediante líneas contables. Las demás opciones son incorrectas. Se evita fraude documental."
+  },
+  {
+    "pregunta": "En caso de agregados antes de la firma de una escritura, ¿qué requisito se exige?",
+    "opciones": [
+      "Solo firma del escribano.",
+      "Nueva lectura y ratificación por las partes.",
+      "Autorización judicial.",
+      "Certificación del Colegio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 67 inciso e) exige lectura y ratificación. Las demás opciones son incorrectas. Se protege el consentimiento informado (art. 19 CN)."
+  },
+  {
+    "pregunta": "¿Cómo debe proceder el escribano ante una escritura no concluida por error?",
+    "opciones": [
+      "Eliminarla sin dejar constancia.",
+      "Insertar nota de 'ERROSE' firmada y sellada.",
+      "Rehacerla en otra hoja sin mención.",
+      "Comunicar al Tribunal."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 67 inciso f) establece la nota de 'ERROSE'. Las demás opciones son incorrectas. Se garantiza trazabilidad documental."
+  },
+  {
+    "pregunta": "¿Dónde deben extenderse las escrituras públicas según el Artículo 68?",
+    "opciones": [
+      "En cualquier soporte elegido por el escribano.",
+      "En cuadernillos de actuación protocolar.",
+      "En hojas simples.",
+      "En formato digital exclusivamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 68 establece uso de cuadernillos de actuación protocolar. Las demás opciones son incorrectas. Se trata de soporte formal obligatorio."
+  },
+  {
+    "pregunta": "¿Cuál es la excepción al uso de cuadernillos de protocolo?",
+    "opciones": [
+      "Las escrituras de compraventa.",
+      "Las actas y documentos extraprotocolares.",
+      "Los testamentos.",
+      "Los contratos privados."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 68 exceptúa actas y documentos extraprotocolares. Las demás opciones son incorrectas. Se distingue entre actuación protocolar y extraprotocolo."
+  },
+  {
+    "pregunta": "¿Quién provee los cuadernillos de actuación notarial?",
+    "opciones": [
+      "El Poder Ejecutivo.",
+      "El Colegio de Escribanos.",
+      "El Tribunal de Superintendencia.",
+      "Cada escribano individualmente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 68 asigna esta función al Colegio. Las demás opciones son incorrectas. Se garantiza uniformidad y seguridad documental."
+  },
+  {
+    "pregunta": "Respecto de los testimonios y copias, ¿qué criterio rige su expedición?",
+    "opciones": [
+      "Solo pueden ser manuscritos.",
+      "Deben realizarse exclusivamente en soporte digital.",
+      "Pueden utilizar cualquier medio gráfico indeleble a juicio del Colegio.",
+      "Solo mediante escritura original."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 69 permite cualquier medio indeleble, incluso fotocopia, a juicio del Colegio. Las demás opciones son incorrectas. Se adapta a tecnología disponible."
+  },
+  {
+    "pregunta": "En relación con actos otorgados fuera de la Provincia con efectos en Chubut, ¿quién debe gestionar certificaciones e inscripción?",
+    "opciones": [
+      "Cualquier profesional del derecho.",
+      "El propio interesado.",
+      "Exclusivamente escribanos de la Provincia.",
+      "El Poder Ejecutivo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 69 establece exclusividad de escribanos locales. Las demás opciones son incorrectas. Se protege el control fiscal y registral."
+  },
+  {
+    "pregunta": "¿Qué efecto produce el Artículo 70 respecto de la creación de registros notariales?",
+    "opciones": [
+      "La promueve activamente.",
+      "La suspende hasta evaluación del Poder Ejecutivo.",
+      "La delega al Colegio.",
+      "La elimina definitivamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 70 suspende la creación hasta evaluación del art. 24. Las demás opciones son incorrectas. Se trata de una medida transitoria."
+  },
+  {
+    "pregunta": "En caso de traslado de un registro por parte de un escribano titular, ¿qué beneficio establece la ley?",
+    "opciones": [
+      "Debe concursar nuevamente.",
+      "Tiene prioridad sin concurso.",
+      "Debe renunciar previamente.",
+      "Depende del Colegio exclusivamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 72 establece prioridad sin concurso. Las demás opciones son incorrectas. Es una excepción al régimen general de acceso."
+  },
+  {
+    "pregunta": "Si dos escribanos solicitan traslado simultáneo, ¿qué criterio se aplica?",
+    "opciones": [
+      "Sorteo.",
+      "Decisión del Poder Ejecutivo.",
+      "Mayor antigüedad profesional.",
+      "Orden de solicitud."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 72 establece prioridad por antigüedad. Las demás opciones son incorrectas. Se aplica criterio objetivo de carrera profesional."
+  },
+  {
+    "pregunta": "¿Cuál es el límite máximo del arancel notarial según el Artículo 73?",
+    "opciones": [
+      "5% del monto de la operación.",
+      "3% del monto de la operación.",
+      "10% del monto de la operación.",
+      "Libre fijación sin límites."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 73 fija un máximo del 3%. Las demás opciones son incorrectas. Se trata de una limitación de orden público económico."
+  }
+       
+  
+]

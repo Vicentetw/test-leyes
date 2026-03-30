@@ -1,0 +1,668 @@
+[
+  {
+"pregunta":"¿Cuál es el ámbito de aplicación de la Ley XIII Nº 27 en materia de medidas cautelares?",
+"opciones":[
+"Las pretensiones cautelares contra actuaciones u omisiones del Estado Provincial o Municipal y sus entes autárquicos o descentralizados, o solicitadas por éstos",
+"Únicamente las pretensiones cautelares contra el Estado Nacional",
+"Las pretensiones cautelares entre particulares y el Estado Nacional"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué debe hacer el juez al momento de resolver una medida cautelar respecto de su competencia?",
+"opciones":[
+"Debe expedirse sobre su competencia si no lo hubiese hecho antes",
+"Debe resolver la cautelar sin analizar su competencia",
+"Debe remitir automáticamente el expediente al Ministerio Público"
+],
+"correcta":0
+},
+{
+"pregunta":"¿En qué casos una medida cautelar dictada por un juez incompetente contra el Estado puede tener eficacia?",
+"opciones":[
+"Cuando esté comprometida la vida, la salud o un derecho de naturaleza alimentaria",
+"Cuando exista interés público relevante",
+"Cuando el actor lo solicite expresamente"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es el límite máximo de una medida cautelar cuando se trate de un derecho de naturaleza alimentaria dictada por juez incompetente?",
+"opciones":[
+"Treinta (30) IUS mensuales",
+"Cincuenta (50) IUS mensuales",
+"Veinte (20) IUS mensuales"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Hasta cuánto puede aumentarse el monto máximo de la cautelar alimentaria si existe informe socioeconómico que lo justifique?",
+"opciones":[
+"Hasta diez (10) IUS adicionales",
+"Hasta quince (15) IUS adicionales",
+"Hasta veinte (20) IUS adicionales"
+],
+"correcta":0
+},
+{
+"pregunta":"¿En qué plazo debe expedirse el juez competente sobre la validez de una cautelar dictada por juez incompetente luego de recibir las actuaciones?",
+"opciones":[
+"Dentro de cinco (5) días",
+"Dentro de tres (3) días",
+"Dentro de diez (10) días"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuándo puede solicitarse una medida cautelar según la Ley XIII Nº 27?",
+"opciones":[
+"Antes, simultáneamente o después de la interposición de la demanda",
+"Sólo antes de la demanda",
+"Sólo después de la demanda"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué debe indicar la pretensión cautelar conforme al artículo 3?",
+"opciones":[
+"El perjuicio que se procura evitar, la actuación u omisión estatal que lo produce, el derecho o interés jurídico que se pretende garantizar y el tipo de medida solicitada",
+"Únicamente el derecho que se pretende garantizar",
+"Solamente la autoridad pública demandada"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué facultad tiene el juez para evitar perjuicios o gravámenes innecesarios al interés público respecto de la medida cautelar solicitada?",
+"opciones":[
+"Puede disponer una medida distinta o limitar la solicitada",
+"Debe conceder exactamente la medida solicitada",
+"Debe rechazar automáticamente la cautelar"
+],
+"correcta":0
+},
+{
+"pregunta":"Según la Ley XIII Nº 27, las medidas cautelares:",
+"opciones":[
+"No pueden coincidir con el objeto de la demanda principal",
+"Siempre deben coincidir con el objeto de la demanda",
+"Pueden coincidir sólo si lo autoriza el Ministerio Público"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es el plazo general que tiene la autoridad pública demandada para producir el informe previo requerido por el juez?",
+"opciones":[
+"Cinco (5) días",
+"Tres (3) días",
+"Diez (10) días"
+],
+"correcta":0
+},
+{
+"pregunta":"En juicios sumarios, sumarísimos y de amparo, ¿cuál es el plazo para producir el informe previo?",
+"opciones":[
+"Tres (3) días",
+"Cinco (5) días",
+"Dos (2) días"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuándo puede el juez dictar una medida interina antes del informe previo de la autoridad pública?",
+"opciones":[
+"Cuando existan circunstancias graves y objetivamente impostergables",
+"Siempre que el actor lo solicite",
+"Únicamente en procesos de amparo"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es el plazo máximo de vigencia de una medida cautelar contra el Estado Provincial o Municipal?",
+"opciones":[
+"Seis (6) meses",
+"Tres (3) meses",
+"Un (1) año"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es el plazo máximo de vigencia de una cautelar en procesos sumarísimos o de amparo?",
+"opciones":[
+"Tres (3) meses",
+"Seis (6) meses",
+"Un (1) mes"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuándo no procede fijar límite temporal de vigencia a la medida cautelar?",
+"opciones":[
+"Cuando la medida tenga por finalidad la tutela de la vida o la salud y se mantengan las mismas condiciones",
+"Cuando el actor lo solicite",
+"Cuando se trate de derechos patrimoniales"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué característica tienen las medidas cautelares conforme al artículo 6 de la ley?",
+"opciones":[
+"Tienen carácter provisional",
+"Son definitivas",
+"Tienen carácter permanente"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quién puede solicitar la ampliación, mejora o sustitución de una medida cautelar?",
+"opciones":[
+"Quien la solicitó y obtuvo",
+"Únicamente el juez",
+"Sólo el Ministerio Público"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quién puede pedir la sustitución de una medida cautelar por otra menos gravosa?",
+"opciones":[
+"La persona contra quien fue decretada",
+"Únicamente el juez",
+"El actor únicamente"
+],
+"correcta":0
+},
+{
+"pregunta":"¿En qué plazo caduca una medida cautelar ordenada antes de la demanda si no se interpone la acción judicial?",
+"opciones":[
+"Dentro de diez (10) días siguientes a su traba",
+"Dentro de cinco (5) días",
+"Dentro de quince (15) días"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 9, los jueces:",
+"opciones":[
+"No pueden dictar medidas cautelares que afecten o perturben bienes o recursos del Estado",
+"Pueden afectar bienes del Estado si existe urgencia",
+"Pueden disponer libremente sobre recursos estatales"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuándo adquieren eficacia práctica las medidas cautelares dictadas contra el Estado?",
+"opciones":[
+"Una vez que el solicitante otorgue caución real o personal",
+"Inmediatamente al dictarse",
+"Luego de la sentencia definitiva"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuándo es admisible la caución juratoria en medidas cautelares contra el Estado?",
+"opciones":[
+"Cuando la pretensión se refiera a la tutela de la vida, la salud o derechos alimentarios",
+"En cualquier tipo de medida cautelar",
+"Solo cuando lo autorice el juez"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quiénes están exentos de prestar contracautela según la ley?",
+"opciones":[
+"El Estado Provincial o Municipal, sus entidades descentralizadas o quien actúe con beneficio de litigar sin gastos",
+"Todos los particulares",
+"Únicamente los funcionarios públicos"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué puede solicitar la parte contra quien se hizo efectiva una medida cautelar respecto de la contracautela?",
+"opciones":[
+"La mejora de la caución si la considera insuficiente",
+"Su eliminación automática",
+"La nulidad del proceso"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué requisito NO es necesario para suspender judicialmente los efectos de un acto estatal?",
+"opciones":[
+"Que exista sentencia firme previa",
+"Que exista verosimilitud del derecho invocado",
+"Que el acto pueda causar perjuicios graves de imposible reparación"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué recurso procede contra la providencia que suspende los efectos de un acto estatal?",
+"opciones":[
+"Reposición y apelación subsidiaria o directa",
+"Únicamente apelación",
+"Únicamente casación"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué debe acreditarse para dictar una medida cautelar positiva contra una entidad pública?",
+"opciones":[
+"Inobservancia clara de un deber jurídico concreto a cargo de la demandada",
+"Únicamente verosimilitud del derecho",
+"Solo peligro en la demora"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuándo procede la medida cautelar de no innovar según el artículo 15 de la Ley XIII Nº 27?",
+"opciones":[
+"Cuando concurren simultáneamente determinados requisitos establecidos por la ley",
+"Siempre que el actor alegue peligro en la demora",
+"Cuando lo solicite el Ministerio Público"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál de los siguientes requisitos es necesario para que proceda una medida de no innovar?",
+"opciones":[
+"Que se acredite sumariamente que la ejecución de la conducta material ocasionará perjuicios graves de imposible reparación ulterior",
+"Que exista sentencia firme previa",
+"Que el acto administrativo haya sido previamente anulado"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 15, la medida de no innovar requiere:",
+"opciones":[
+"La verosimilitud del derecho invocado",
+"La certeza absoluta del derecho",
+"Una sentencia definitiva favorable"
+],
+"correcta":0
+},
+{
+"pregunta":"Para que proceda la medida de no innovar debe existir:",
+"opciones":[
+"Verosimilitud de la ilegitimidad de una conducta material emanada de un órgano o ente estatal",
+"Prueba plena de delito",
+"Sentencia firme de nulidad"
+],
+"correcta":0
+},
+{
+"pregunta":"Uno de los requisitos para la medida de no innovar es:",
+"opciones":[
+"La no afectación de un interés público",
+"La existencia de interés fiscal",
+"La autorización previa del Poder Ejecutivo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 15, la medida de no innovar no debe:",
+"opciones":[
+"Tener efectos jurídicos o materiales irreversibles",
+"Ser solicitada antes de la demanda",
+"Ser pedida por un particular"
+],
+"correcta":0
+},
+{
+"pregunta":"Las medidas de carácter conservatorio no previstas expresamente en la ley:",
+"opciones":[
+"Quedan sujetas a los requisitos de procedencia del artículo 15",
+"Quedan prohibidas",
+"Se rigen exclusivamente por el Código Procesal Civil y Comercial"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quiénes pueden solicitar medidas cautelares según el artículo 16?",
+"opciones":[
+"El Estado Provincial o Municipal y sus entes descentralizados",
+"Únicamente los particulares",
+"Sólo el Ministerio Público"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es uno de los requisitos para que el Estado solicite una medida cautelar?",
+"opciones":[
+"Riesgo cierto e inminente de sufrir perjuicios sobre el interés público o el patrimonio estatal",
+"Existencia de sentencia firme",
+"Aprobación legislativa previa"
+],
+"correcta":0
+},
+{
+"pregunta":"Para que el Estado solicite una medida cautelar debe existir:",
+"opciones":[
+"Verosimilitud del derecho invocado",
+"Prueba absoluta del derecho",
+"Declaración previa del Superior Tribunal"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 16, la medida cautelar solicitada por el Estado debe ser:",
+"opciones":[
+"Idónea y necesaria en relación con el objeto de la pretensión principal",
+"Automática al ser solicitada",
+"Siempre innovativa"
+],
+"correcta":0
+},
+{
+"pregunta":"La medida cautelar solicitada por el Estado:",
+"opciones":[
+"No debe coincidir con el objeto de la pretensión principal",
+"Debe coincidir con la pretensión principal",
+"Puede coincidir únicamente en procesos sumarísimos"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuándo puede el Estado solicitar medidas cautelares para proteger servicios públicos según el artículo 17?",
+"opciones":[
+"Cuando actos, hechos u omisiones amenacen o interrumpan la continuidad y regularidad de los servicios públicos",
+"Únicamente cuando exista sentencia judicial previa",
+"Sólo cuando lo autorice el Superior Tribunal"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 17, las medidas cautelares para proteger servicios públicos pueden solicitarse:",
+"opciones":[
+"Previa, simultánea o posteriormente a la pretensión procesal principal",
+"Sólo después de la demanda",
+"Sólo antes de iniciar el proceso"
+],
+"correcta":0
+},
+{
+"pregunta":"La tutela urgente prevista en el artículo 17 busca garantizar:",
+"opciones":[
+"La continuidad y regularidad de los servicios públicos",
+"El cobro de impuestos",
+"La ejecución de sentencias judiciales"
+],
+"correcta":0
+},
+{
+"pregunta":"La regulación del artículo 17 no será aplicable cuando se trate de:",
+"opciones":[
+"Conflictos laborales",
+"Conflictos administrativos",
+"Conflictos tributarios"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 18, las medidas cautelares contra el Estado se regirán también por:",
+"opciones":[
+"Las normas del Código Procesal Civil y Comercial de la Provincia en cuanto no sean incompatibles con la ley",
+"Exclusivamente por la Constitución Provincial",
+"Únicamente por el Código Civil y Comercial de la Nación"
+],
+"correcta":0
+},
+{
+"pregunta":"Las normas del Código Procesal Civil y Comercial se aplicarán hasta que se dicte:",
+"opciones":[
+"El Código Contencioso Administrativo de la Provincia",
+"Un nuevo Código Civil",
+"La reforma constitucional"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 19, la ley no se aplicará a los procesos regidos por:",
+"opciones":[
+"La Ley V Nº 84",
+"La Ley XIII Nº 5",
+"La Ley Nacional de Procedimientos Administrativos"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué vía procede también para promover cuestiones de competencia entre Cámaras de Apelaciones Civiles según el artículo 20?",
+"opciones":[
+"La inhibitoria",
+"La apelación",
+"La casación"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quién resuelve los conflictos de competencia entre las Cámaras de Apelaciones en lo Civil y Comercial?",
+"opciones":[
+"El Superior Tribunal de Justicia",
+"La Corte Suprema de la Nación",
+"La Procuración General"
+],
+"correcta":0
+},
+{
+"pregunta":"¿En qué causas procede la inhibitoria según el artículo 20 además de lo previsto en el Código Procesal?",
+"opciones":[
+"En todas las causas en que el Estado provincial o municipal o alguno de sus entes sea parte",
+"Únicamente en causas penales",
+"Solo en juicios tributarios"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué establece el artículo 21 de la Ley XIII Nº 27?",
+"opciones":[
+"La comunicación de la ley al Poder Ejecutivo",
+"La derogación del Código Procesal",
+"La creación del fuero contencioso administrativo"
+],
+"correcta":0
+},
+{
+"pregunta":"Cuando una medida cautelar es dictada por un juez incompetente en los supuestos excepcionales previstos por la ley, ¿qué debe hacer dicho juez inmediatamente después de ordenarla?",
+"opciones":[
+"Remitir inmediatamente las actuaciones al juez que considere competente",
+"Esperar la apelación de las partes",
+"Elevar el expediente al Superior Tribunal de Justicia"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 2 de la Ley XIII Nº 27, las excepciones que permiten la eficacia de una cautelar dictada por juez incompetente son:",
+"opciones":[
+"De carácter restrictivo y deben acreditarse adecuadamente",
+"De carácter amplio y discrecional",
+"De aplicación automática"
+],
+"correcta":0
+},
+{
+"pregunta":"Cuando el objeto de la medida cautelar sea de naturaleza alimentaria, el monto puede variar excepcionalmente:",
+"opciones":[
+"Hasta un quince por ciento según informe socioeconómico",
+"Hasta un cincuenta por ciento según criterio judicial",
+"Sin ningún límite"
+],
+"correcta":0
+},
+{
+"pregunta":"Al evaluar la idoneidad de una medida cautelar, el juez debe considerar también:",
+"opciones":[
+"La adecuada vinculación con casos similares no judicializados para evitar vulnerar principios de igualdad y solidaridad",
+"Únicamente el interés del actor",
+"Solo la urgencia del caso"
+],
+"correcta":0
+},
+{
+"pregunta":"Los principios de igualdad y solidaridad política, económica y social considerados al dictar medidas cautelares se encuentran previstos en:",
+"opciones":[
+"Los artículos 6 y 19 de la Constitución Provincial",
+"Los artículos 14 y 18 de la Constitución Nacional",
+"Los artículos 1 y 5 del Código Civil"
+],
+"correcta":0
+},
+{
+"pregunta":"Al presentar el informe previo previsto en el artículo 4, la parte demandada debe acompañar documentación destinada a contrastar la solicitud con:",
+"opciones":[
+"El artículo 21 de la Constitución Provincial",
+"El artículo 75 de la Constitución Nacional",
+"El Código Penal"
+],
+"correcta":0
+},
+{
+"pregunta":"El juez, según el artículo 4, podrá ordenar una vista previa a:",
+"opciones":[
+"El Ministerio Público",
+"El Poder Ejecutivo",
+"La Cámara de Apelaciones"
+],
+"correcta":0
+},
+{
+"pregunta":"Para otorgar la prórroga de una medida cautelar el tribunal considerará especialmente:",
+"opciones":[
+"La actitud dilatoria o de impulso procesal de la parte beneficiada",
+"El monto del reclamo",
+"La antigüedad del proceso"
+],
+"correcta":0
+},
+{
+"pregunta":"Cuando una cautelar se dicta mientras está pendiente el agotamiento de la vía administrativa, su vigencia se extenderá hasta:",
+"opciones":[
+"La notificación del acto administrativo que agote la vía o la configuración del silencio administrativo",
+"La sentencia definitiva",
+"La primera audiencia judicial"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 6, las medidas cautelares podrán levantarse cuando:",
+"opciones":[
+"Las circunstancias que determinaron su dictado cesen o se modifiquen",
+"Lo solicite cualquier ciudadano",
+"Lo disponga el Poder Ejecutivo"
+],
+"correcta":0
+},
+{
+"pregunta":"El traslado para resolver sobre la modificación de una cautelar en proceso ordinario será de:",
+"opciones":[
+"Cinco días",
+"Tres días",
+"Diez días"
+],
+"correcta":0
+},
+{
+"pregunta":"El traslado para resolver sobre la modificación de una cautelar en proceso sumarísimo o amparo será de:",
+"opciones":[
+"Tres días",
+"Cinco días",
+"Dos días"
+],
+"correcta":0
+},
+{
+"pregunta":"Cuando una medida cautelar caduca por no interponerse la demanda, las costas y daños ocasionados serán a cargo de:",
+"opciones":[
+"Quien solicitó y obtuvo la medida",
+"El Estado",
+"El juez interviniente"
+],
+"correcta":0
+},
+{
+"pregunta":"Una medida cautelar caduca que fue solicitada antes de la demanda:",
+"opciones":[
+"No podrá proponerse nuevamente por la misma causa como previa a la promoción de la demanda",
+"Puede solicitarse nuevamente sin limitaciones",
+"Debe solicitarse ante otro juez"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 9, además de afectar bienes o recursos del Estado, los jueces tampoco podrán:",
+"opciones":[
+"Imponer a los funcionarios cargas personales pecuniarias",
+"Ordenar medidas urgentes",
+"Dictar medidas cautelares"
+],
+"correcta":0
+},
+{
+"pregunta":"La contracautela exigida para las medidas cautelares contra el Estado debe cubrir:",
+"opciones":[
+"Las costas y daños y perjuicios que la medida pudiera ocasionar",
+"Únicamente las costas judiciales",
+"El monto total del proceso"
+],
+"correcta":0
+},
+{
+"pregunta":"La mejora de la contracautela será resuelta por:",
+"opciones":[
+"La Cámara",
+"El juez de primera instancia",
+"El Superior Tribunal"
+],
+"correcta":0
+},
+{
+"pregunta":"Para suspender judicialmente los efectos de un acto estatal debe acreditarse que el cumplimiento del acto ocasionará:",
+"opciones":[
+"Perjuicios graves de imposible reparación ulterior",
+"Perjuicios económicos simples",
+"Demoras administrativas"
+],
+"correcta":0
+},
+{
+"pregunta":"La apelación contra la providencia que suspende los efectos de una disposición legal o reglamentaria tendrá:",
+"opciones":[
+"Efecto suspensivo",
+"Efecto devolutivo",
+"Efecto automático de nulidad"
+],
+"correcta":0
+},
+{
+"pregunta":"La entidad pública demandada puede solicitar el levantamiento de la suspensión de un acto estatal cuando:",
+"opciones":[
+"La medida provoque un grave daño al interés público",
+"El proceso dure más de seis meses",
+"El actor no comparezca a audiencia"
+],
+"correcta":0
+},
+{
+"pregunta":"Cuando el tribunal levanta la suspensión de un acto estatal a pedido del Estado y luego la demanda prospera:",
+"opciones":[
+"La entidad pública será responsable por los perjuicios ocasionados",
+"El actor asume todos los daños",
+"No existe responsabilidad alguna"
+],
+"correcta":0
+},
+{
+"pregunta":"Las medidas cautelares positivas implican:",
+"opciones":[
+"La imposición de una conducta determinada a la entidad pública demandada",
+"La suspensión de un acto estatal",
+"La declaración de nulidad de una ley"
+],
+"correcta":0
+},
+{
+"pregunta":"Las medidas cautelares innovativas no previstas en la ley:",
+"opciones":[
+"Se regirán por los mismos requisitos que las medidas positivas",
+"Están prohibidas",
+"Se rigen únicamente por el Código Civil"
+],
+"correcta":0
+}
+]

@@ -1,0 +1,629 @@
+ [
+ { 
+    "pregunta": "¿Qué tipo de entidad constituye la Administración de Vialidad Provincial según el Artículo 1º?", 
+    "opciones": [
+      "Entidad privada con fines comerciales",
+      "Entidad autárquica de derecho público",
+      "Sociedad mixta con participación privada",
+      "Organismo sin personalidad jurídica"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 1º establece que la Administración de Vialidad Provincial es una entidad autárquica de derecho público, con capacidad de actuar tanto privada como públicamente según las leyes."
+  },
+  { 
+    "pregunta": "¿Cuál es la principal responsabilidad de la Administración de Vialidad Provincial según el Artículo 1º?", 
+    "opciones": [
+      "Regular el transporte público provincial",
+      "Celebrar convenios sobre vialidad y administrar recursos asignados",
+      "Fiscalizar la actividad privada de construcción",
+      "Emitir normativas sobre urbanismo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 1º indica que la administración tiene a su cargo todo lo referente a la vialidad provincial y la celebración y aplicación de convenios relacionados, así como la administración e inversión de los recursos."
+  },
+  { 
+    "pregunta": "Según el Artículo 2º, ¿cuándo puede el Poder Ejecutivo intervenir la Administración de Vialidad Provincial?", 
+    "opciones": [
+      "En cualquier momento sin restricciones",
+      "Solo cuando el buen servicio lo haga indispensable y por plazos determinados",
+      "Cuando haya conflictos laborales en la administración",
+      "Exclusivamente para auditorías financieras"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 2º establece que la intervención es transitoria, hasta 90 días prorrogables 30 días, solo cuando sea indispensable para el buen servicio."
+  },
+  { 
+    "pregunta": "El Artículo 3º enumera funciones de la Administración. ¿Cuál de las siguientes NO está incluida?", 
+    "opciones": [
+      "Administrar la vialidad provincial",
+      "Aplicar leyes y reglamentaciones sobre vialidad",
+      "Fiscalizar las elecciones municipales",
+      "Celebrar convenios con la Dirección Nacional de Vialidad"
+    ],
+    "correcta": 2,
+    "explicacion": "La administración tiene funciones estrictamente relacionadas con la vialidad y convenios, no con fiscalización electoral."
+  },
+  { 
+    "pregunta": "Según el Artículo 5º, ¿cómo se clasifican los caminos en la Provincia?", 
+    "opciones": [
+      "Urbanos, rurales y provinciales",
+      "Nacionales, provinciales y municipales",
+      "Estatales, privados y mixtos",
+      "Troncales, secundarios y vecinales"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5º establece claramente la clasificación en nacionales, provinciales y municipales."
+  },
+  { 
+    "pregunta": "¿Qué requisito deben cumplir los Vocales del Directorio según el Artículo 7º?", 
+    "opciones": [
+      "Ser contratistas de obras de la Provincia",
+      "Tener residencia habitual en la Provincia y no ser contratistas de la Administración",
+      "Tener título en Derecho y experiencia política",
+      "Ser mayores de 30 años y miembros del Poder Ejecutivo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 7º establece que los Vocales deben ser argentinos, con residencia habitual en la Provincia y no ser contratistas de la administración."
+  },
+  { 
+    "pregunta": "Según el Artículo 8º, ¿cómo se distribuye la responsabilidad de los actos del Directorio?", 
+    "opciones": [
+      "Solo el Presidente es responsable",
+      "Los miembros son responsables personal y solidariamente, salvo disenso fundado en acta",
+      "El Ingeniero Jefe asume toda la responsabilidad técnica",
+      "Los suplentes son responsables en lugar de los titulares"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 8º establece que todos los miembros son responsables solidariamente, excepto cuando conste en acta su desacuerdo."
+  },
+  { 
+    "pregunta": "En el Artículo 9º, ¿qué facultad tiene el Directorio respecto a la contratación de estudios y proyectos?", 
+    "opciones": [
+      "No puede contratar estudios privados",
+      "Puede contratar estudios cuando no existan oficiales disponibles",
+      "Solo puede contratar estudios aprobados por el Poder Ejecutivo",
+      "Puede contratar sin limitaciones de presupuesto"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 9º inciso m establece que el Directorio puede contratar estudios y proyectos necesarios cuando fundadamente no se dispongan estudios oficiales."
+  },
+  { 
+    "pregunta": "Según el Artículo 10º, ¿qué ocurre en caso de empate en las votaciones del Directorio?", 
+    "opciones": [
+      "Se descarta la resolución",
+      "El Presidente tiene doble voto para desempatar",
+      "Se convoca automáticamente al Poder Ejecutivo",
+      "Se somete a votación popular"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 10º indica que el Presidente tendrá doble voto en caso de empate."
+  },
+   { 
+    "pregunta": "Según el Artículo 3º inciso a), ¿qué responsabilidad específica tiene la Administración de Vialidad Provincial?", 
+    "opciones": [
+      "Administrar y dirigir todo lo referente a la vialidad provincial",
+      "Supervisar solo las rutas nacionales",
+      "Regular el transporte urbano",
+      "Controlar la fiscalización de caminos municipales"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso a) establece que la administración debe administrar y dirigir todo lo referente a la vialidad provincial."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 3º inciso b), ¿qué tipo de leyes debe aplicar la Administración?", 
+    "opciones": [
+      "Solo leyes municipales",
+      "Leyes nacionales, provinciales, convenios y reglamentaciones sobre vialidad",
+      "Exclusivamente leyes de tránsito nacional",
+      "Reglamentos internos sin carácter legal"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso b) indica que la administración aplica todas las leyes y reglamentos que afecten la vialidad de la provincia."
+  },
+  { 
+    "pregunta": "Según el Artículo 3º inciso c), ¿qué debe hacer la Administración con los fondos asignados para vialidad?", 
+    "opciones": [
+      "Invertirlos únicamente en maquinaria",
+      "Administrarlos, elaborar memoria anual y publicarla en el Boletín Oficial en 30 días",
+      "Transferirlos al municipio sin control",
+      "Usarlos solo para construcción de puentes"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso c) establece que los fondos deben ser administrados, elevando memoria anual que se publique en el Boletín Oficial dentro de 30 días."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 3º inciso d), ¿qué planes debe preparar la Administración?", 
+    "opciones": [
+      "Planes de urbanización de ciudades",
+      "Planes generales y periódicos de inversión de fondos, incluyendo Coparticipación Federal y fondos nacionales",
+      "Planes de transporte público urbano",
+      "Planes de seguridad vial exclusivamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso d) señala que la administración prepara planes de inversión de fondos, sean provinciales o nacionales."
+  },
+  { 
+    "pregunta": "El Artículo 3º inciso e) menciona varias facultades sobre caminos provinciales. ¿Cuál NO corresponde?", 
+    "opciones": [
+      "Determinar cierres y cercos frente al camino",
+      "Fijar zonas no edificables según necesidades viales",
+      "Determinar trazado de líneas de energía y servicios auxiliares",
+      "Establecer impuestos municipales sobre la propiedad privada"
+    ],
+    "correcta": 3,
+    "explicacion": "El inciso e) se refiere a trazados, cierres y planificación vial, no a impuestos municipales."
+  },
+  { 
+    "pregunta": "Según el Artículo 3º inciso f), la Administración puede actuar judicialmente. ¿Qué significa esto?", 
+    "opciones": [
+      "Puede demandar o defenderse en juicio por sus derechos y bienes",
+      "Solo puede actuar como mediadora entre particulares",
+      "Debe delegar todas las acciones judiciales al Poder Ejecutivo",
+      "Solo puede demandar empresas privadas"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso f) permite que la Administración actúe en juicio como actora, demandada o interesada en defensa de sus bienes y derechos."
+  },
+  { 
+    "pregunta": "En el Artículo 3º inciso g), antes de celebrar convenios con la Dirección Nacional de Vialidad, ¿qué requisito debe cumplirse?", 
+    "opciones": [
+      "Se debe obtener autorización del Poder Judicial",
+      "Se debe someter a aprobación de las autoridades municipales afectadas",
+      "No requiere ningún tipo de aprobación",
+      "Se debe publicar en el Boletín Oficial"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso g) establece que convenios sobre accesos a pueblos y ciudades deben contar previamente con aprobación municipal."
+  },
+  { 
+    "pregunta": "Según el Artículo 9º inciso a), ¿qué poder tiene el Directorio sobre el Fondo de Vialidad?", 
+    "opciones": [
+      "Solo puede supervisarlo",
+      "Puede administrarlo y representarlo en actos inherentes a su existencia",
+      "Debe delegarlo al Poder Ejecutivo",
+      "No tiene facultad sobre fondos"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso a) indica que el Directorio administra el Fondo y representa a la Administración personalmente o por mandatarios."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 9º inciso d), ¿cuál es la finalidad de iniciar juicios de expropiación?", 
+    "opciones": [
+      "Obtener beneficios fiscales",
+      "Permitir la ejecución de obras viales necesarias",
+      "Regular la propiedad privada sin necesidad de obra",
+      "Castigar a empresas contratistas"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso d) indica que los juicios de expropiación se inician para ejecutar obras viales o arreglos extrajudiciales según legislación vigente."
+  },
+  { 
+    "pregunta": "Según el Artículo 9º inciso f), ¿bajo qué condiciones puede la Administración realizar trabajos gratuitos para comunidades aborígenes?", 
+    "opciones": [
+      "Solo si hay fondos extraordinarios",
+      "Según sus propias posibilidades y sin fines de lucro",
+      "Solo si lo solicita el Poder Ejecutivo",
+      "Solo para obras de pavimentación"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso f) permite trabajos gratuitos tendientes a colaborar con comunidades y asociaciones civiles sin fines de lucro, priorizando según posibilidades."
+  },
+   { 
+    "pregunta": "Según el Artículo 9º inciso g), ¿qué debe incluir el Proyecto de Presupuesto General de la Administración?", 
+    "opciones": [
+      "Solo los gastos del personal",
+      "Gastos, recursos y el Plan Vial a ejecutarse en el año o períodos mayores",
+      "Solo inversiones en caminos nacionales",
+      "Exclusivamente estudios técnicos y planes futuros"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso g) indica que el Directorio proyecta el presupuesto incluyendo gastos, recursos y el Plan Vial anual o plurianual, para remitirlo al Poder Ejecutivo."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 9º inciso h), ¿qué facultad tiene el Directorio sobre el personal?", 
+    "opciones": [
+      "Solo puede recomendar ascensos al Poder Ejecutivo",
+      "Nombrar, asignar funciones, ascender, sancionar y remover en casos de mala conducta, previa formación de sumario",
+      "No puede sancionar al personal sin autorización judicial",
+      "Solo puede contratar personal temporal"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso h) establece que el Directorio tiene plena facultad sobre el personal, incluyendo sanciones, siempre que se cumpla el procedimiento de sumario administrativo."
+  },
+  { 
+    "pregunta": "Según el Artículo 9º inciso i), ¿bajo qué condición se pueden otorgar asignaciones y beneficios al personal?", 
+    "opciones": [
+      "Solo por decisión del Presidente del Directorio",
+      "Siempre que exista crédito presupuestario pertinente o cuentas especiales",
+      "De forma discrecional sin limitaciones",
+      "Únicamente tras aprobación legislativa"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso i) indica que las asignaciones dependen de la existencia de crédito presupuestario o cuentas especiales."
+  },
+  { 
+    "pregunta": "El inciso j) del Artículo 9º trata sobre el Escalafón del personal. ¿Cuál es su objetivo?", 
+    "opciones": [
+      "Asegurar la estabilidad del personal y regular ascensos e ingresos por concurso",
+      "Fijar salarios mínimos únicamente",
+      "Determinar la edad máxima de retiro",
+      "Asignar funciones solo a ingenieros"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso j) establece que el escalafón asegura estabilidad del personal y regula vacantes, ascensos e ingresos por concurso."
+  },
+  { 
+    "pregunta": "Según el Artículo 9º inciso k), ¿qué competencia tiene el Directorio respecto a la señalización de la Red Provincial?", 
+    "opciones": [
+      "Solo puede aprobar señalizaciones hechas por terceros",
+      "Puede adoptar todas las providencias necesarias para la señalización y determinar trazas y denominaciones",
+      "No puede intervenir en señalización urbana",
+      "Solo se encarga de señalización en caminos nacionales"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso k) indica que el Directorio regula la señalización, determinación de trazas y denominación de la Red Provincial."
+  },
+  { 
+    "pregunta": "De acuerdo con el inciso l) del Artículo 9º, ¿qué autoridad tiene el Directorio en Licitaciones Públicas?", 
+    "opciones": [
+      "Puede llamar a licitaciones y aprobar adjudicaciones para obras, bienes o servicios",
+      "Solo supervisa adjudicaciones realizadas por el Poder Ejecutivo",
+      "No interviene en licitaciones de bienes",
+      "Debe remitir todas las licitaciones al Poder Legislativo"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso l) establece que el Directorio llama a licitaciones públicas y aprueba adjudicaciones dentro de sus competencias."
+  },
+  { 
+    "pregunta": "Según el inciso m) del Artículo 9º, ¿en qué condiciones puede contratar estudios o proyectos?", 
+    "opciones": [
+      "Cuando los estudios oficiales no estén disponibles de manera fundada",
+      "De forma arbitraria sin justificación",
+      "Solo con autorización legislativa previa",
+      "Exclusivamente para estudios de caminos nacionales"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso m) indica que la contratación de estudios privados es posible cuando no se disponga de estudios oficiales fundadamente."
+  },
+  { 
+    "pregunta": "El inciso ñ) del Artículo 9º establece la facultad del Directorio sobre modificaciones contractuales. ¿Qué debe respetar?", 
+    "opciones": [
+      "Solo la voluntad de las partes",
+      "La legislación vigente en licitaciones públicas",
+      "Las recomendaciones de la Fiscalía de Estado únicamente",
+      "No tiene limitaciones legales"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso ñ) establece que cualquier modificación contractual en licitaciones debe cumplir la legislación vigente."
+  },
+  { 
+    "pregunta": "Según el Artículo 9º inciso o), ¿qué acciones puede tomar el Directorio respecto a contratos?", 
+    "opciones": [
+      "Ejercer rescisión y aplicar penalidades cuando corresponda",
+      "Solo supervisar contratos sin intervenir",
+      "Delegar rescisión al Poder Ejecutivo",
+      "Modificar contratos unilateralmente sin causa"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso o) indica que el Directorio puede resolver rescisión y penalidades en toda clase de contratos de la Administración."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 9º inciso q), ¿qué regla aplica para el personal destacado en el exterior?", 
+    "opciones": [
+      "No hay reglas de permanencia",
+      "Debe permanecer un mínimo de dos años tras la comisión en el extranjero y cumplir reglamentación de permanencia",
+      "Debe regresar inmediatamente tras finalizar comisión",
+      "Solo aplica si es un ingeniero civil"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso q) establece que el personal destacado en el extranjero debe permanecer un mínimo de dos años en la repartición, de acuerdo con la reglamentación."
+  },
+  { 
+    "pregunta": "Según el Artículo 10º, ¿qué quorum mínimo se requiere para que el Directorio sesione válidamente?", 
+    "opciones": [
+      "Presidente y un miembro",
+      "Presidente y tres miembros",
+      "Todos los miembros",
+      "Solo los Vocales"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 10º establece que el quorum mínimo es la presencia del Presidente y tres miembros."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 10º, ¿cómo se adoptan las resoluciones del Directorio?", 
+    "opciones": [
+      "Por mayoría de los miembros presentes, con voto doble del Presidente en caso de empate",
+      "Por consenso de todos los miembros",
+      "Por decisión exclusiva del Presidente",
+      "Por votación del Poder Ejecutivo"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 10º establece que las resoluciones se adoptan por mayoría, con doble voto del Presidente si hay empate."
+  },
+   { 
+    "pregunta": "Según el Artículo 11, ¿cómo se ejecutan todas las decisiones del Directorio?", 
+    "opciones": [
+      "Por votación popular",
+      "Mediante resoluciones ejecutadas por intermedio del Presidente",
+      "Directamente por todos los Vocales",
+      "A través del Ingeniero Jefe"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 11 establece que todas las decisiones del Directorio se emiten mediante resoluciones ejecutadas por el Presidente."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 11, ¿quién tiene funciones ejecutivas sin delegación expresa del Presidente?", 
+    "opciones": [
+      "Los Vocales titulares",
+      "Ningún miembro del Directorio",
+      "El Ingeniero Jefe",
+      "El Secretario General"
+    ],
+    "correcta": 1,
+    "explicacion": "Ningún miembro del Directorio tiene funciones ejecutivas sin expresa delegación del Presidente."
+  },
+  { 
+    "pregunta": "Según el Artículo 12 inciso a), ¿cuál es una de las obligaciones del Presidente del Directorio?", 
+    "opciones": [
+      "Nombrar jueces provinciales",
+      "Hacer observar la Ley, reglamentos y resoluciones del Directorio y ejecutar estas últimas",
+      "Administrar fondos de particulares",
+      "Delegar todas sus funciones al Secretario General"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso a) establece que el Presidente debe hacer observar la ley, reglamentos y resoluciones y ejecutar estas últimas."
+  },
+  { 
+    "pregunta": "El inciso b) del Artículo 12 señala que el Presidente debe convocar al Directorio y:", 
+    "opciones": [
+      "Presidir las sesiones proporcionando información relevante al Directorio",
+      "Aprobar unilateralmente las resoluciones",
+      "Nombrar a los Vocales",
+      "Delegar presidencia en el Ingeniero Jefe"
+    ],
+    "correcta": 0,
+    "explicacion": "El Presidente convoca y preside las sesiones, proporcionando información que pueda interesar al Directorio."
+  },
+  { 
+    "pregunta": "Según el Artículo 12 inciso d), ¿qué actos no puede ejecutar directamente el Presidente?", 
+    "opciones": [
+      "Los actos de competencia exclusiva del Directorio",
+      "Decisiones urgentes",
+      "Contrataciones de personal temporario",
+      "Compras directas"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso d) indica que el Presidente puede ejecutar todo salvo actos de competencia exclusiva del Directorio."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 12 inciso g), ¿qué facultad tiene el Presidente sobre la contratación?", 
+    "opciones": [
+      "Aprobar solo licitaciones públicas",
+      "Autorizar compras directas, licitaciones privadas y otros sistemas que no requieran licitación pública",
+      "Delegar toda contratación al Ingeniero Jefe",
+      "No puede intervenir en contrataciones"
+    ],
+    "correcta": 1,
+    "explicacion": "El Presidente puede autorizar compras directas y sistemas de contratación que no requieran licitación pública."
+  },
+  { 
+    "pregunta": "Según el Artículo 12 inciso k), ¿qué debe hacer el Presidente en caso de medidas urgentes?", 
+    "opciones": [
+      "Esperar la próxima reunión del Directorio",
+      "Adoptar las medidas necesarias y dar cuenta al Directorio en la primera reunión",
+      "Delegar la decisión en un Vocal",
+      "Solicitar autorización del Poder Ejecutivo"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso k) permite al Presidente actuar ante urgencia y reportarlo posteriormente al Directorio."
+  },
+  { 
+    "pregunta": "El Artículo 13 inciso a) establece que el Ingeniero Jefe:", 
+    "opciones": [
+      "Reemplaza al Presidente en caso de ausencia transitoria",
+      "Asume la presidencia permanente",
+      "Solo asesora en cuestiones técnicas",
+      "Aprueba contratos financieros"
+    ],
+    "correcta": 0,
+    "explicacion": "El Ingeniero Jefe reemplaza al Presidente en ausencia o impedimento transitorio."
+  },
+  { 
+    "pregunta": "Según el Artículo 14, ¿en qué plazo debe interponerse la reconsideración de una resolución del Presidente?", 
+    "opciones": [
+      "Cinco días hábiles posteriores a la notificación",
+      "Diez días naturales posteriores a la publicación",
+      "Veinte días hábiles posteriores a la resolución",
+      "No se permite reconsideración"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 14 establece un plazo de cinco días hábiles para solicitar reconsideración ante el Presidente."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 18, ¿qué plazo tiene el recurrente para accionar ante el Superior Tribunal de Justicia si el Directorio rechaza su recurso?", 
+    "opciones": [
+      "Cinco días hábiles",
+      "Diez días naturales",
+      "Veinte días hábiles",
+      "Cien días hábiles"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 18 indica que el recurrente puede acudir al Superior Tribunal de Justicia dentro de los veinte días hábiles posteriores al conocimiento del acto."
+  },
+  { 
+    "pregunta": "Según el Artículo 20, ¿cómo puede la Administración hacer cumplir obligaciones de hacer frente a resistencia del obligado?", 
+    "opciones": [
+      "Solicitando al Poder Judicial que lo ejecute",
+      "Ejecutando por cuenta del obligado y aplicando penas correspondientes",
+      "Delegando la obligación a un tercero",
+      "Emitir una recomendación sin fuerza ejecutiva"
+    ],
+    "correcta": 1,
+    "explicacion": "La Administración puede ejecutar por cuenta del obligado si este se resiste, sin perjuicio de la pena que corresponda."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 21, ¿qué puede ordenar la Administración si se transgrede una obligación prohibitiva?", 
+    "opciones": [
+      "Mandar destruir lo hecho, con gastos a cargo del infractor",
+      "Aplicar solo sanciones administrativas",
+      "Interponer recurso ante el Poder Ejecutivo",
+      "Delegar al Poder Judicial la decisión final"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 21 permite a la Administración ordenar la destrucción de lo hecho, con gastos y reparación de daños a cargo del infractor."
+  },
+  { 
+    "pregunta": "Según el Artículo 25, ¿qué normas contables aplican a la Administración de Vialidad Provincial?", 
+    "opciones": [
+      "Leyes de Contabilidad y Obras Públicas y sus reglamentaciones",
+      "Normas internacionales de contabilidad",
+      "Sólo reglamentos internos de la Administración",
+      "No aplica normativa contable"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 25 establece la aplicación de leyes provinciales de Contabilidad y Obras Públicas y sus reglamentaciones."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 27, ¿para qué se crea el Fondo Provincial de Vialidad?", 
+    "opciones": [
+      "Para financiar proyectos educativos",
+      "Para estudio, trazado, expropiación, construcción de caminos y obras anexas",
+      "Para pagar salarios del Poder Ejecutivo",
+      "Para promover obras privadas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 27 establece que el fondo se destina exclusivamente a obras viales y gastos necesarios para su cumplimiento."
+  },
+  { 
+    "pregunta": "Según el Artículo 28 inciso a), ¿cuál es uno de los recursos que forma el Fondo de Vialidad?", 
+    "opciones": [
+      "Impuestos sobre comercio electrónico",
+      "Derechos de peaje y concesión de obra pública vial",
+      "Donaciones internacionales exclusivamente",
+      "Fondos de seguridad ciudadana"
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso a) establece que los derechos de peaje y concesión de obras públicas viales forman parte del Fondo de Vialidad."
+  },
+  { 
+    "pregunta": "De acuerdo con el Artículo 29, ¿quién es responsable de la retención y destino indebido de los fondos de la Administración?", 
+    "opciones": [
+      "El Presidente únicamente",
+      "Los agentes encargados de la percepción de los fondos",
+      "El Poder Legislativo",
+      "El Ingeniero Jefe"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 29 indica que las personas encargadas de percibir los fondos son directamente responsables de su retención y destino indebido."
+  },
+   {
+    "pregunta": "Si un propietario construye un cerco a 20 metros del eje de un camino de la Red Principal sin autorización, ¿qué acciones puede tomar la Administración según Art. 30 y 31?",
+    "opciones": [
+      "Multarlo únicamente",
+      "Exigir demolición de la obra y aplicar sanciones, recabando auxilio de la fuerza pública si es necesario",
+      "Solo notificar al propietario para regularizarlo",
+      "Permitirlo si no hay daños visibles"
+    ],
+    "correcta": 1,
+    "explicacion": "Los artículos 30 y 31 permiten a la Administración mandar deshacer obras no autorizadas y aplicar sanciones, incluso con auxilio de la fuerza pública."
+  },
+  {
+    "pregunta": "Según los Artículos 36 y 37, ¿qué diferencia hay entre la multa por trabajos no autorizados y la multa por derrame de aguas de regadíos?",
+    "opciones": [
+      "No hay diferencia, ambos hasta 10.000 litros de nafta",
+      "La primera hasta 10.000 litros, la segunda hasta 1.000 litros de nafta",
+      "La primera es menor que la segunda",
+      "Ambas se calculan según el valor de la obra"
+    ],
+    "correcta": 1,
+    "explicacion": "Artículo 36 establece multa de hasta 10.000 litros de nafta por trabajos sin autorización; Art. 37 multa hasta 1.000 litros por daños por aguas de regadíos."
+  },
+  {
+    "pregunta": "Si una Municipalidad autoriza edificaciones contrarias al Art. 32, ¿puede el propietario invocar esa autorización para evitar la ejecución de la Administración?",
+    "opciones": [
+      "Sí, la autorización municipal lo protege",
+      "No, la autorización municipal carece de valor y el propietario debe cumplir la Ley",
+      "Solo si se notifica a la Administración antes de construir",
+      "Depende del tamaño de la obra"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 32 deja claro que la autorización municipal no tiene valor; el propietario debe cumplir la Ley y, de no hacerlo, la Administración ejecuta los trabajos con cargo al infractor."
+  },
+  {
+    "pregunta": "Un vecino aporta dinero a un consorcio según Art. 34, pero el Banco del Chubut no recibe el depósito. ¿Qué responsabilidad recae sobre el vecino y la Administración?",
+    "opciones": [
+      "El vecino pierde su aporte sin responsabilidad de la Administración",
+      "La Administración debe recibirlo obligatoriamente, el vecino debe probar la entrega",
+      "Ninguno tiene responsabilidad",
+      "Solo el municipio tiene responsabilidad"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 34 indica que el vecino debe depositar a la orden de la Administración; la Administración es responsable de recibirlo correctamente, y el vecino debe acreditar la entrega."
+  },
+  {
+    "pregunta": "Según Art. 40, ¿cuál es la regla para publicidad visible desde caminos en terrenos privados lindantes?",
+    "opciones": [
+      "Se permite cualquier publicidad si está en terreno privado",
+      "Solo se permite si no distrae a conductores y distancia mínima de 500 metros respecto a otra publicidad",
+      "Se prohíbe toda publicidad incluso fuera del camino",
+      "Solo se permite publicidad institucional"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 40 prohíbe publicidad que distraiga y establece mínimo 500 metros de separación entre anuncios visibles desde el camino."
+  },
+  {
+    "pregunta": "Si una obra de consorcio requiere mayor ancho de camino por razones técnicas, ¿quién puede autorizar la excepción según Art. 31?",
+    "opciones": [
+      "El propietario frentista",
+      "El Directorio de la Administración de Vialidad Provincial",
+      "La Municipalidad solamente",
+      "El Poder Ejecutivo Nacional"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 31 permite al Directorio reducir o ajustar las distancias de manera excepcional, con explicación de motivos y convenios municipales si corresponde."
+  },
+  {
+    "pregunta": "En el caso de un derrame de agua que dañe un camino y el propietario se niegue a reparar, ¿qué acciones puede ejercer la Administración según Art. 37 y 36?",
+    "opciones": [
+      "Solo notificar y esperar acción judicial",
+      "Ejecutar obras con cargo al propietario y aplicar multa hasta 1.000 litros de nafta",
+      "Multar hasta 10.000 litros de nafta sin ejecutar obras",
+      "Nada, debe esperar demanda de terceros"
+    ],
+    "correcta": 1,
+    "explicacion": "La Administración puede ejecutar las obras con cargo al causante y aplicar multa según lo establece el Art. 37, combinando la potestad de policía del Art. 36."
+  },
+  {
+    "pregunta": "Según Art. 46, si la Nación modifica la Ley de Coparticipación Federal de combustibles, ¿puede la Provincia aumentar sus impuestos inmediatamente?",
+    "opciones": [
+      "Sí, siempre que sea local",
+      "No, mientras rija el Decreto Nacional los impuestos no pueden aumentarse",
+      "Solo puede aumentar tasas municipales",
+      "Puede modificar si el Directorio lo aprueba"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 46 establece que mientras rija el Decreto Nacional la Provincia no puede aumentar impuestos sobre nafta, gas-oil ni otros combustibles."
+  },
+  {
+    "pregunta": "Un convenio de Coparticipación Federal está en ejecución y la Provincia desea denunciarlo. Según Art. 47, ¿qué condición debe cumplirse?",
+    "opciones": [
+      "Se puede denunciar inmediatamente",
+      "Solo puede denunciarlo una vez que se hayan completado todos los contratos en ejecución",
+      "Debe obtener autorización municipal",
+      "Se requiere aprobación del Poder Judicial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 47 indica que la denuncia del Convenio solo surte efecto después de cumplirse totalmente los contratos en ejecución."
+  },
+  {
+    "pregunta": "Si un profesional a sueldo de la Administración trabaja en un juicio y la repartición es condenada en costas, ¿recibe honorarios según Art. 45?",
+    "opciones": [
+      "Sí, siempre recibe honorarios",
+      "No, no percibirá honorarios",
+      "Solo recibe la mitad",
+      "Depende de la resolución del Directorio"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 45 establece que no se percibirán honorarios cuando la repartición resulte condenada en costas."
+  }
+  ]

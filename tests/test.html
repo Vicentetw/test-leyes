@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Evaluación</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+
+<div class="nav-header">
+  <button id="volverMenu">← Volver al menú</button>
+</div>
+<div class="configuracion">
+
+
+ <h1>Evaluación</h1>
+<label>Cantidad de preguntas:</label>
+
+<select id="cantidadPreguntas">
+
+<option value="10">10</option>
+<option value="20">20</option>
+<option value="50">50</option>
+<option value="todas">Todas</option>
+
+</select>
+
+<button id="iniciarQuiz">Iniciar evaluación</button>
+
+</div>
+
+<div id="progress-container">
+
+<div id="progress-bar"></div>
+
+</div>
+
+<div id="contador"></div>
+
+<div id="quiz-container"></div>
+
+<button id="resultadoBtn">Ver resultado final</button>
+
+<div id="resultado"></div>
+
+<canvas id="celebrationCanvas"></canvas>
+
+<script src="../js/quiz.js"></script>
+
+</body>
+
+</html>

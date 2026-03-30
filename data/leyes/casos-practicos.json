@@ -1,0 +1,607 @@
+[
+  {
+    "pregunta": "Un agente público es cesanteado mediante acto administrativo sin sumario previo ni derecho de defensa. Inicia demanda contencioso administrativa solicitando nulidad. ¿Cuál es la solución jurídica correcta?",
+    "opciones": [
+      "El acto es válido por discrecionalidad",
+      "Es anulable pero válido hasta su revocación",
+      "Es nulo por violación al debido proceso",
+      "Es válido si hay competencia"
+    ],
+    "correcta": 2,
+    "explicacion": "El acto es nulo por violación al debido proceso (defensa en juicio). Fundamento: Constitución Nacional art. 18; Ley I N° 18 (procedimiento administrativo) sobre debido proceso; Ley I N° 836 (proceso contencioso administrativo) sobre control de legalidad. La discrecionalidad no habilita omitir garantías esenciales."
+  },
+  {
+    "pregunta": "Un particular interpone demanda contencioso administrativa sin agotar la vía administrativa previa y sin invocar excepciones. ¿Cómo debe resolver el tribunal?",
+    "opciones": [
+      "Admitir por acceso a justicia",
+      "Rechazar por falta de habilitación de instancia",
+      "Suspender el proceso",
+      "Transformar en amparo"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe rechazarse por falta de habilitación de instancia. Fundamento: Ley I N° 836 (exige agotamiento de vía administrativa), salvo excepciones (urgencia, derechos fundamentales). No verificándose, la demanda es inadmisible."
+  },
+  {
+    "pregunta": "Un ciudadano interpone amparo por negativa de acceso a información pública, existiendo trámite administrativo pendiente. ¿Qué corresponde?",
+    "opciones": [
+      "Rechazar por vía pendiente",
+      "Admitir amparo por derecho fundamental",
+      "Remitir a contencioso",
+      "Exigir recurso jerárquico"
+    ],
+    "correcta": 1,
+    "explicacion": "Corresponde admitir el amparo. Fundamento: Constitución Nacional art. 43; Ley I N° 156 (acceso a la información pública). El derecho es fundamental y no requiere agotar vía cuando hay negativa ilegítima."
+  },
+  {
+    "pregunta": "El Estado pretende revocar un acto firme que otorgó derechos subjetivos a un particular. ¿Cuál es la vía correcta?",
+    "opciones": [
+      "Revocación directa",
+      "Nulidad administrativa",
+      "Acción de lesividad",
+      "Suspensión"
+    ],
+    "correcta": 2,
+    "explicacion": "Debe promover acción de lesividad. Fundamento: principios de estabilidad del acto administrativo (Ley I N° 18) y control judicial (Ley I N° 836). El Estado no puede revocar actos favorables firmes sin intervención judicial."
+  },
+  {
+    "pregunta": "Se solicita medida cautelar contra un acto estatal acreditando verosimilitud del derecho pero no peligro en la demora. ¿Qué corresponde?",
+    "opciones": [
+      "Concederla",
+      "Rechazarla",
+      "Conceder parcialmente",
+      "Diferir"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe rechazarse. Fundamento: Ley XIII N° 27 (medidas cautelares contra el Estado). Exige cumulativamente verosimilitud del derecho y peligro en la demora."
+  },
+  {
+    "pregunta": "Un juez reemplaza el criterio administrativo en un acto discrecional por el suyo propio. ¿Es correcto?",
+    "opciones": [
+      "Sí, siempre",
+      "No, solo controla legalidad y razonabilidad",
+      "Sí, si es más justo",
+      "Depende"
+    ],
+    "correcta": 1,
+    "explicacion": "No es correcto. Fundamento: principio de división de poderes y control de legalidad (Ley I N° 836). El juez no puede sustituir la decisión administrativa, solo controlar su legalidad y razonabilidad."
+  },
+  {
+    "pregunta": "Un particular obtiene sentencia firme contra la Provincia y solicita embargo directo de cuentas públicas. ¿Qué corresponde?",
+    "opciones": [
+      "Procede embargo",
+      "Debe ejecutarse vía presupuesto",
+      "No puede ejecutarse",
+      "Depende del monto"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe seguirse el procedimiento presupuestario. Fundamento: régimen de ejecución contra el Estado (Ley I N° 836 y normativa presupuestaria provincial). Se excluyen medidas compulsivas directas."
+  },
+  {
+    "pregunta": "Un funcionario causa daño en ejercicio de funciones y el particular demanda directamente al funcionario. ¿Qué corresponde?",
+    "opciones": [
+      "Es correcto",
+      "Debe demandar al Estado",
+      "Debe demandar a ambos",
+      "No procede acción"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe demandar al Estado. Fundamento: responsabilidad estatal. El Estado responde frente al tercero y luego puede repetir contra el agente (Ley I N° 18 + principios de responsabilidad administrativa)."
+  },
+  {
+    "pregunta": "Un acto administrativo carece de motivación suficiente. ¿Cuál es su consecuencia jurídica?",
+    "opciones": [
+      "Es válido",
+      "Es anulable",
+      "Es nulo",
+      "Es discrecional"
+    ],
+    "correcta": 2,
+    "explicacion": "Es nulo. Fundamento: Ley I N° 18 (acto administrativo debe estar motivado). La motivación es elemento esencial."
+  },
+  {
+    "pregunta": "Un ciudadano interpone hábeas data para acceder a información pública general. ¿Es correcta la vía?",
+    "opciones": [
+      "Sí",
+      "No, corresponde acceso a la información pública",
+      "Sí siempre",
+      "Depende"
+    ],
+    "correcta": 1,
+    "explicacion": "No es correcta. Fundamento: Constitución Nacional art. 43. El hábeas data protege datos personales. Para información pública rige Ley I N° 156."
+  },
+  {
+    "pregunta": "El Estado provincial y un municipio son demandados por un daño derivado de un servicio público. ¿Cómo se determina la responsabilidad?",
+    "opciones": [
+      "Se excluyen",
+      "Puede ser concurrente según competencia",
+      "Responde solo la provincia",
+      "Responde solo el municipio"
+    ],
+    "correcta": 1,
+    "explicacion": "Puede ser concurrente. Fundamento: distribución de competencias (régimen municipal y provincial) y responsabilidad estatal."
+  },
+  {
+    "pregunta": "Se promueve amparo existiendo una vía contencioso administrativa eficaz. ¿Qué corresponde?",
+    "opciones": [
+      "Admitir siempre",
+      "Rechazar por subsidiariedad",
+      "Transformar",
+      "Resolver igual"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe rechazarse. Fundamento: Constitución Nacional art. 43. El amparo es vía excepcional y subsidiaria."
+  },
+  {
+    "pregunta": "El Estado incumple una sentencia firme alegando falta de presupuesto. ¿Qué ocurre?",
+    "opciones": [
+      "Se libera",
+      "Debe cumplir vía procedimiento legal",
+      "Se archiva",
+      "Se reinicia juicio"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe cumplir mediante el procedimiento presupuestario. Fundamento: ejecución contra el Estado (Ley I N° 836). La obligación subsiste."
+  },
+  {
+    "pregunta": "Un consumidor demanda al Estado por un servicio público deficiente. ¿Qué régimen jurídico aplica?",
+    "opciones": [
+      "Solo derecho civil",
+      "Solo derecho administrativo",
+      "Derecho del consumidor y responsabilidad estatal",
+      "No procede"
+    ],
+    "correcta": 2,
+    "explicacion": "Se combinan ambos regímenes. Fundamento: Ley de Defensa del Consumidor + principios de responsabilidad estatal."
+  },
+  {
+    "pregunta": "En un proceso contencioso administrativo, el actor resulta parcialmente vencido. ¿Cómo se imponen costas?",
+    "opciones": [
+      "Siempre al actor",
+      "Siempre al Estado",
+      "Proporcionalmente",
+      "No hay costas"
+    ],
+    "correcta": 2,
+    "explicacion": "Se imponen proporcionalmente. Fundamento: Ley I N° 836 (principio objetivo de la derrota con matices)."
+  },
+  {
+    "pregunta": "Un agente es sancionado sin motivación suficiente en el acto administrativo. Impugna judicialmente. ¿Cuál es la solución?",
+    "opciones": [
+      "El acto es válido si hubo competencia",
+      "Es anulable",
+      "Es nulo por falta de motivación",
+      "Debe revocarse administrativamente"
+    ],
+    "correcta": 2,
+    "explicacion": "La motivación es requisito esencial del acto administrativo (Ley I N° 18). Su ausencia genera nulidad. El control judicial se realiza en el marco de la Ley I N° 836."
+  },
+  {
+    "pregunta": "Un particular interpone demanda sin agotar la vía administrativa alegando desconocimiento de la ley. ¿Qué corresponde?",
+    "opciones": [
+      "Admitir por buena fe",
+      "Rechazar por falta de habilitación",
+      "Suspender proceso",
+      "Transformar en amparo"
+    ],
+    "correcta": 1,
+    "explicacion": "El desconocimiento de la ley no exime del cumplimiento del requisito de agotamiento (Ley I N° 836)."
+  },
+  {
+    "pregunta": "Se dicta acto administrativo con desviación de poder. ¿Cuál es su consecuencia?",
+    "opciones": [
+      "Es válido",
+      "Es discrecional",
+      "Es nulo",
+      "Es anulable"
+    ],
+    "correcta": 2,
+    "explicacion": "La desviación de poder implica uso ilegítimo de la competencia (Ley I N° 18), generando nulidad."
+  },
+  {
+    "pregunta": "Un ciudadano solicita información pública y la administración guarda silencio. ¿Qué vía corresponde?",
+    "opciones": [
+      "Recurso jerárquico",
+      "Amparo",
+      "Proceso civil",
+      "Denuncia penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El silencio ante solicitud de información vulnera el derecho de acceso (Ley I N° 156), habilitando amparo (CN art. 43)."
+  },
+  {
+    "pregunta": "Se solicita medida cautelar sin acreditar verosimilitud del derecho. ¿Qué corresponde?",
+    "opciones": [
+      "Concederla por urgencia",
+      "Rechazarla",
+      "Diferirla",
+      "Conceder parcialmente"
+    ],
+    "correcta": 1,
+    "explicacion": "Ambos requisitos son exigidos por Ley XIII N° 27."
+  },
+  {
+    "pregunta": "Un juez ordena embargo directo contra el Estado por incumplimiento. ¿Es correcto?",
+    "opciones": [
+      "Sí",
+      "No, debe seguirse vía presupuestaria",
+      "Depende del monto",
+      "Sí, si hay urgencia"
+    ],
+    "correcta": 1,
+    "explicacion": "La ejecución contra el Estado se rige por régimen especial (Ley I N° 836)."
+  },
+  {
+    "pregunta": "El Estado revoca un acto favorable firme sin intervención judicial. ¿Qué ocurre?",
+    "opciones": [
+      "Es válido",
+      "Es nulo",
+      "Es anulable",
+      "Depende"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe promover acción de lesividad (principio de estabilidad del acto)."
+  },
+  {
+    "pregunta": "Se interpone amparo existiendo otra vía judicial eficaz. ¿Qué corresponde?",
+    "opciones": [
+      "Admitir",
+      "Rechazar",
+      "Transformar",
+      "Resolver igual"
+    ],
+    "correcta": 1,
+    "explicacion": "El amparo es subsidiario (CN art. 43)."
+  },
+  {
+    "pregunta": "Un funcionario actúa fuera de su competencia. ¿Qué tipo de vicio presenta el acto?",
+    "opciones": [
+      "Leve",
+      "Subsanable",
+      "Grave (nulidad)",
+      "Formal"
+    ],
+    "correcta": 2,
+    "explicacion": "La competencia es elemento esencial (Ley I N° 18)."
+  },
+  {
+    "pregunta": "Se demanda al Estado por daño causado por servicio público defectuoso. ¿Qué régimen aplica?",
+    "opciones": [
+      "Civil puro",
+      "Administrativo puro",
+      "Mixto",
+      "No aplica"
+    ],
+    "correcta": 2,
+    "explicacion": "Se combinan normas de responsabilidad estatal y consumidor."
+  },
+  {
+    "pregunta": "Un acto administrativo viola la Constitución. ¿Qué debe hacer el juez?",
+    "opciones": [
+      "Aplicarlo",
+      "Declararlo inconstitucional",
+      "Modificarlo",
+      "Ignorarlo"
+    ],
+    "correcta": 1,
+    "explicacion": "Control de constitucionalidad (CN)."
+  },
+  {
+    "pregunta": "El Estado incumple sentencia firme. ¿Puede excusarse en falta de presupuesto?",
+    "opciones": [
+      "Sí",
+      "No",
+      "Solo parcialmente",
+      "Depende"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe cumplir mediante procedimiento legal (Ley I N° 836)."
+  },
+  {
+    "pregunta": "Un ciudadano usa hábeas data para obtener datos generales del Estado. ¿Es correcto?",
+    "opciones": [
+      "Sí",
+      "No",
+      "Sí siempre",
+      "Depende"
+    ],
+    "correcta": 1,
+    "explicacion": "Solo protege datos personales (CN art. 43)."
+  },
+  {
+    "pregunta": "Se dicta acto sin causa suficiente. ¿Consecuencia?",
+    "opciones": [
+      "Válido",
+      "Anulable",
+      "Nulo",
+      "Subsanable"
+    ],
+    "correcta": 2,
+    "explicacion": "La causa es elemento esencial (Ley I N° 18)."
+  },
+  {
+    "pregunta": "Se presenta demanda contenciosa fuera de plazo. ¿Qué corresponde?",
+    "opciones": [
+      "Admitir",
+      "Rechazar",
+      "Suspender",
+      "Transformar"
+    ],
+    "correcta": 1,
+    "explicacion": "El plazo es requisito de admisibilidad (Ley I N° 836)."
+  },
+  {
+    "pregunta": "Un acto discrecional carece de razonabilidad. ¿Puede ser anulado?",
+    "opciones": [
+      "No",
+      "Sí",
+      "Depende",
+      "Nunca"
+    ],
+    "correcta": 1,
+    "explicacion": "El control incluye razonabilidad (Ley I N° 836)."
+  },
+  {
+    "pregunta": "Se solicita cautelar innovativa contra el Estado. ¿Qué criterio aplica?",
+    "opciones": [
+      "Amplio",
+      "Restrictivo",
+      "Libre",
+      "Automático"
+    ],
+    "correcta": 1,
+    "explicacion": "Criterio restrictivo (Ley XIII N° 27)."
+  },
+  {
+    "pregunta": "El actor desiste parcialmente. ¿Cómo se imponen costas?",
+    "opciones": [
+      "Al actor",
+      "Al Estado",
+      "Proporcional",
+      "Sin costas"
+    ],
+    "correcta": 2,
+    "explicacion": "Distribución según resultado (Ley I N° 836)."
+  },
+  {
+    "pregunta": "Un municipio y la provincia intervienen en un mismo hecho dañoso. ¿Responsabilidad?",
+    "opciones": [
+      "Excluyente",
+      "Concurrente posible",
+      "Solo provincia",
+      "Solo municipio"
+    ],
+    "correcta": 1,
+    "explicacion": "Depende de competencias (régimen administrativo)."
+  },
+  {
+    "pregunta": "Se dicta acto con error material. ¿Consecuencia?",
+    "opciones": [
+      "Nulidad",
+      "Inexistencia",
+      "Subsanable",
+      "Anulable"
+    ],
+    "correcta": 2,
+    "explicacion": "Errores materiales son subsanables (Ley I N° 18)."
+  },
+  {
+    "pregunta": "Un agente es sancionado mediante un acto administrativo que no contiene fundamentación alguna. Impugna judicialmente. ¿Cuál es la solución correcta?",
+    "opciones": [
+      "El acto es válido si fue dictado por autoridad competente",
+      "El acto es anulable",
+      "El acto es nulo por falta de motivación",
+      "Debe subsanarse en sede judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "La motivación es un requisito esencial del acto administrativo según la Ley I N° 18. Su ausencia genera nulidad absoluta. El control judicial se ejerce conforme Ley I N° 836."
+  },
+  {
+    "pregunta": "Un particular demanda al Estado sin agotar la vía administrativa alegando desconocimiento normativo. ¿Qué corresponde?",
+    "opciones": [
+      "Admitir la demanda por buena fe",
+      "Rechazarla por falta de habilitación de instancia",
+      "Suspender el proceso",
+      "Convertirla en amparo"
+    ],
+    "correcta": 1,
+    "explicacion": "El agotamiento de la vía administrativa es requisito de admisibilidad según Ley I N° 836. El desconocimiento de la ley no constituye excepción válida."
+  },
+  {
+    "pregunta": "Se acredita que un acto administrativo fue dictado con desviación de poder. ¿Cuál es su consecuencia?",
+    "opciones": [
+      "Es válido por competencia",
+      "Es discrecional",
+      "Es nulo",
+      "Es anulable"
+    ],
+    "correcta": 2,
+    "explicacion": "La desviación de poder implica un uso ilegítimo de la competencia. Conforme Ley I N° 18, constituye vicio grave que genera nulidad."
+  },
+  {
+    "pregunta": "Un ciudadano solicita información pública y la Administración no responde. ¿Qué vía es procedente?",
+    "opciones": [
+      "Recurso administrativo",
+      "Amparo",
+      "Proceso civil",
+      "Denuncia penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El silencio vulnera el derecho de acceso a la información (Ley I N° 156), habilitando acción de amparo (art. 43 CN)."
+  },
+  {
+    "pregunta": "Se solicita una medida cautelar contra el Estado sin acreditar verosimilitud del derecho. ¿Qué corresponde?",
+    "opciones": [
+      "Concederla por urgencia",
+      "Rechazarla",
+      "Diferirla",
+      "Conceder parcialmente"
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley XIII N° 27 exige cumulativamente verosimilitud del derecho y peligro en la demora. La ausencia de uno impide su otorgamiento."
+  },
+  {
+    "pregunta": "Un juez ordena embargo directo contra el Estado provincial por incumplimiento de sentencia. ¿Es correcto?",
+    "opciones": [
+      "Sí, siempre",
+      "No, debe seguirse el procedimiento presupuestario",
+      "Depende del monto",
+      "Sí, en casos urgentes"
+    ],
+    "correcta": 1,
+    "explicacion": "Las sentencias contra el Estado se ejecutan mediante el procedimiento presupuestario (Ley I N° 836), excluyendo embargos directos."
+  },
+  {
+    "pregunta": "El Estado revoca unilateralmente un acto firme que otorgó derechos subjetivos. ¿Qué ocurre?",
+    "opciones": [
+      "Es válido",
+      "Es nulo",
+      "Es anulable",
+      "Depende del caso"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe promover acción de lesividad. La revocación directa viola el principio de estabilidad del acto administrativo (Ley I N° 18)."
+  },
+  {
+    "pregunta": "Se promueve amparo existiendo una vía contencioso administrativa idónea. ¿Qué corresponde?",
+    "opciones": [
+      "Admitir siempre",
+      "Rechazar por subsidiariedad",
+      "Transformar el proceso",
+      "Resolver igualmente"
+    ],
+    "correcta": 1,
+    "explicacion": "El amparo es una vía excepcional y subsidiaria conforme art. 43 CN."
+  },
+  {
+    "pregunta": "Un funcionario dicta un acto fuera de su competencia. ¿Qué vicio presenta?",
+    "opciones": [
+      "Leve",
+      "Subsanable",
+      "Grave (nulidad)",
+      "Formal"
+    ],
+    "correcta": 2,
+    "explicacion": "La competencia es elemento esencial del acto (Ley I N° 18). Su ausencia genera nulidad."
+  },
+  {
+    "pregunta": "Se demanda al Estado por daño derivado de servicio público defectuoso. ¿Qué régimen se aplica?",
+    "opciones": [
+      "Derecho civil exclusivamente",
+      "Derecho administrativo exclusivamente",
+      "Régimen mixto",
+      "No procede"
+    ],
+    "correcta": 2,
+    "explicacion": "Se combinan normas de responsabilidad estatal y defensa del consumidor."
+  },
+  {
+    "pregunta": "Un acto administrativo contradice la Constitución. ¿Qué puede hacer el juez?",
+    "opciones": [
+      "Aplicarlo",
+      "Declararlo inconstitucional",
+      "Modificarlo",
+      "Ignorarlo"
+    ],
+    "correcta": 1,
+    "explicacion": "El juez ejerce control de constitucionalidad conforme la Constitución Nacional."
+  },
+  {
+    "pregunta": "El Estado incumple una sentencia firme alegando falta de presupuesto. ¿Qué corresponde?",
+    "opciones": [
+      "Queda liberado",
+      "Debe cumplir mediante procedimiento legal",
+      "Se archiva el caso",
+      "Se reinicia el proceso"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe cumplir mediante el mecanismo presupuestario (Ley I N° 836)."
+  },
+  {
+    "pregunta": "Un ciudadano interpone hábeas data para acceder a información pública general. ¿Es correcto?",
+    "opciones": [
+      "Sí",
+      "No",
+      "Sí siempre",
+      "Depende"
+    ],
+    "correcta": 1,
+    "explicacion": "El hábeas data protege datos personales, no información pública general (art. 43 CN)."
+  },
+  {
+    "pregunta": "Un acto administrativo carece de causa. ¿Cuál es su consecuencia?",
+    "opciones": [
+      "Es válido",
+      "Es anulable",
+      "Es nulo",
+      "Es subsanable"
+    ],
+    "correcta": 2,
+    "explicacion": "La causa es elemento esencial del acto administrativo (Ley I N° 18)."
+  },
+  {
+    "pregunta": "Se presenta demanda contenciosa fuera de plazo legal. ¿Qué corresponde?",
+    "opciones": [
+      "Admitirla",
+      "Rechazarla",
+      "Suspenderla",
+      "Transformarla"
+    ],
+    "correcta": 1,
+    "explicacion": "El plazo es requisito de admisibilidad según Ley I N° 836."
+  },
+  {
+    "pregunta": "Un acto discrecional carece de razonabilidad. ¿Puede ser anulado?",
+    "opciones": [
+      "No",
+      "Sí",
+      "Depende",
+      "Nunca"
+    ],
+    "correcta": 1,
+    "explicacion": "El control judicial incluye la razonabilidad (Ley I N° 836)."
+  },
+  {
+    "pregunta": "Se solicita una medida cautelar innovativa contra el Estado. ¿Qué criterio se aplica?",
+    "opciones": [
+      "Amplio",
+      "Restrictivo",
+      "Libre",
+      "Automático"
+    ],
+    "correcta": 1,
+    "explicacion": "Las cautelares contra el Estado se interpretan restrictivamente (Ley XIII N° 27)."
+  },
+  {
+    "pregunta": "El actor desiste parcialmente de su pretensión. ¿Cómo se imponen costas?",
+    "opciones": [
+      "Al actor",
+      "Al Estado",
+      "Proporcionalmente",
+      "Sin costas"
+    ],
+    "correcta": 2,
+    "explicacion": "Se distribuyen según el resultado (Ley I N° 836)."
+  },
+  {
+    "pregunta": "Provincia y municipio intervienen en un mismo hecho dañoso. ¿Cómo se determina responsabilidad?",
+    "opciones": [
+      "Excluyente",
+      "Concurrente posible",
+      "Solo provincia",
+      "Solo municipio"
+    ],
+    "correcta": 1,
+    "explicacion": "Depende de la competencia de cada ente, pudiendo ser concurrente."
+  },
+  {
+    "pregunta": "Un acto administrativo presenta error material en su redacción. ¿Cuál es su consecuencia?",
+    "opciones": [
+      "Nulidad",
+      "Inexistencia",
+      "Subsanable",
+      "Anulable"
+    ],
+    "correcta": 2,
+    "explicacion": "Los errores materiales son subsanables según Ley I N° 18."
+  }
+]

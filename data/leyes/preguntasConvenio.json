@@ -1,0 +1,2643 @@
+[
+  {
+    "pregunta": "Un agente reemplaza a su superior durante 20 días hábiles exactos. ¿Corresponde el pago de diferencia salarial?",
+    "opciones": [
+      "No, porque debe superar los 20 días",
+      "Sí, porque cumple el mínimo",
+      "Solo si hay autorización",
+      "Depende del área"
+    ],
+    "correcta": 1,
+    "explicacion": "La clave es 'superar o alcanzar'. 20 días exactos cumplen el requisito. La trampa está en pensar que debe ser más de 20."
+  },
+  {
+    "pregunta": "Un reemplazo de 19 días hábiles genera:",
+    "opciones": [
+      "Pago proporcional",
+      "Pago parcial",
+      "Ningún derecho a diferencia salarial",
+      "Pago si lo autoriza el superior"
+    ],
+    "correcta": 2,
+    "explicacion": "No existe proporcionalidad. Si no alcanza el mínimo, no hay derecho."
+  },
+  {
+    "pregunta": "Las paritarias provinciales pueden:",
+    "opciones": [
+      "Modificar cualquier condición",
+      "Empeorar condiciones si hay acuerdo",
+      "Solo mejorar condiciones",
+      "Eliminar derechos"
+    ],
+    "correcta": 2,
+    "explicacion": "Principio de favorabilidad: nunca se puede ir en contra del trabajador."
+  },
+  {
+    "pregunta": "Un funcionario político solicita ser evaluado por concurso interno del convenio:",
+    "opciones": [
+      "Puede participar",
+      "Solo si tiene antigüedad",
+      "No puede porque está excluido",
+      "Depende del organismo"
+    ],
+    "correcta": 2,
+    "explicacion": "Los funcionarios políticos están fuera del convenio."
+  },
+  {
+    "pregunta": "El orden correcto de sanciones incluye:",
+    "opciones": [
+      "Suspensión antes de apercibimiento",
+      "Apercibimiento antes de llamado de atención",
+      "Llamado de atención antes de apercibimiento",
+      "Exoneración antes de cesantía"
+    ],
+    "correcta": 2,
+    "explicacion": "El orden es progresivo. Alterarlo es error."
+  },
+  {
+    "pregunta": "El aporte sindical del 0,5% es:",
+    "opciones": [
+      "Opcional",
+      "Solo para afiliados",
+      "Obligatorio para todos los alcanzados",
+      "Solo para contratados"
+    ],
+    "correcta": 2,
+    "explicacion": "La trampa común es pensar que depende de afiliación."
+  },
+  {
+    "pregunta": "El Estado frente a un daño causado por un funcionario:",
+    "opciones": [
+      "No responde",
+      "Responde siempre frente a terceros",
+      "Responde solo si hay dolo",
+      "Responde el funcionario directamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Estado responde primero y luego repite contra el funcionario."
+  },
+  {
+    "pregunta": "El derecho de repetición implica:",
+    "opciones": [
+      "El funcionario paga primero",
+      "El Estado no paga",
+      "El Estado recupera del funcionario lo pagado",
+      "No existe responsabilidad"
+    ],
+    "correcta": 2,
+    "explicacion": "Primero responde el Estado, luego reclama al responsable."
+  },
+  {
+    "pregunta": "Un funcionario causa daño a un tercero. En el proceso:",
+    "opciones": [
+      "No participa",
+      "Debe ser citado para defenderse",
+      "Solo interviene el Estado",
+      "Se lo suspende automáticamente"
+    ],
+    "correcta": 1,
+    "explicacion": "Tiene derecho a defensa independiente."
+  },
+  {
+    "pregunta": "Una persona condenada por delito contra la administración pública:",
+    "opciones": [
+      "Puede ser designada",
+      "No puede ser designada mientras dure la condena",
+      "Puede si lo autoriza el juez",
+      "Depende del cargo"
+    ],
+    "correcta": 1,
+    "explicacion": "Prohibición expresa del Art. 33."
+  },
+  {
+    "pregunta": "Un funcionario condenado con sentencia firme:",
+    "opciones": [
+      "Puede continuar",
+      "Debe ser suspendido",
+      "Debe cesar en sus funciones",
+      "Depende del organismo"
+    ],
+    "correcta": 2,
+    "explicacion": "Es incompatible con la función pública."
+  },
+  {
+    "pregunta": "La inacción del Ministerio Público Fiscal que genera prescripción es:",
+    "opciones": [
+      "Falta leve",
+      "Falta grave",
+      "Sin consecuencias",
+      "Error administrativo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 35 lo califica como falta grave."
+  },
+  {
+    "pregunta": "El Registro Especial de Causas tiene carácter:",
+    "opciones": [
+      "Reservado",
+      "Privado",
+      "Público",
+      "Secreto"
+    ],
+    "correcta": 2,
+    "explicacion": "Debe ser accesible al público."
+  },
+  {
+    "pregunta": "El registro depende de:",
+    "opciones": [
+      "Poder Ejecutivo",
+      "Tribunal de Cuentas",
+      "Superior Tribunal de Justicia",
+      "Fiscalía"
+    ],
+    "correcta": 2,
+    "explicacion": "Depende del STJ."
+  },
+  {
+    "pregunta": "Un funcionario intenta cambiar de residencia inmediatamente al dejar el cargo:",
+    "opciones": [
+      "Puede hacerlo",
+      "Debe esperar 4 meses",
+      "Debe esperar 1 año",
+      "Depende del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "Prohibición por 4 meses."
+  },
+  {
+    "pregunta": "Durante esos 4 meses:",
+    "opciones": [
+      "No pasa nada",
+      "Puede revisarse su gestión",
+      "Se archiva todo",
+      "Se suspende el control"
+    ],
+    "correcta": 1,
+    "explicacion": "Es el período de control posterior."
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal del Convenio Colectivo de Trabajo 572/2009?",
+    "opciones": [
+      "Regular a todos los empleados públicos",
+      "Regular exclusivamente al personal vial comprendido",
+      "Regular solo a funcionarios políticos",
+      "Regular únicamente condiciones salariales"
+    ],
+    "correcta": 1,
+    "explicacion": "El convenio no es general para toda la administración pública, sino específico para el sector vial. Esto significa que define reglas propias para ese ámbito, incluyendo ingreso, sanciones, derechos y obligaciones."
+  },
+  {
+    "pregunta": "¿Qué tipo de personal queda excluido del Convenio?",
+    "opciones": [
+      "Personal administrativo",
+      "Personal técnico",
+      "Funcionarios políticos",
+      "Personal con antigüedad menor a un año"
+    ],
+    "correcta": 2,
+    "explicacion": "Los funcionarios políticos no son empleados bajo relación laboral común, sino que ocupan cargos de decisión. Por eso no se rigen por este convenio."
+  },
+  {
+    "pregunta": "El Convenio Colectivo establece condiciones laborales que:",
+    "opciones": [
+      "Pueden reducirse por acuerdo",
+      "Son un piso mínimo de derechos",
+      "Son opcionales",
+      "Dependen del empleador"
+    ],
+    "correcta": 1,
+    "explicacion": "Esto es clave: el convenio nunca puede ser empeorado. Siempre funciona como un piso. Cualquier acuerdo posterior solo puede mejorar condiciones, no quitarlas."
+  },
+  {
+    "pregunta": "Las negociaciones paritarias a nivel provincial:",
+    "opciones": [
+      "Pueden modificar cualquier condición",
+      "Pueden empeorar condiciones",
+      "Solo pueden mejorar lo establecido",
+      "No tienen validez"
+    ],
+    "correcta": 2,
+    "explicacion": "Se aplica el principio de favorabilidad al trabajador. Esto significa que cualquier cambio debe ser mejor, nunca peor."
+  },
+  {
+    "pregunta": "El acceso a cargos dentro del convenio se realiza principalmente mediante:",
+    "opciones": [
+      "Designación directa",
+      "Elección política",
+      "Concursos",
+      "Antigüedad automática"
+    ],
+    "correcta": 2,
+    "explicacion": "El sistema de concursos garantiza transparencia e igualdad de oportunidades. No es a dedo."
+  },
+  {
+    "pregunta": "¿Qué factores se evalúan en un concurso?",
+    "opciones": [
+      "Solo antigüedad",
+      "Solo título académico",
+      "Antigüedad, antecedentes y capacitación",
+      "Decisión del jefe"
+    ],
+    "correcta": 2,
+    "explicacion": "El sistema es integral: experiencia + formación + historial laboral. Esto evita que un solo factor defina el ingreso o ascenso."
+  },
+  {
+    "pregunta": "Para cobrar la diferencia salarial por reemplazo de un cargo superior se requiere:",
+    "opciones": [
+      "Ejercer el cargo",
+      "Más de 10 días",
+      "Más de 20 días hábiles",
+      "Autorización verbal"
+    ],
+    "correcta": 2,
+    "explicacion": "Este es uno de los puntos más preguntados. No alcanza con reemplazar: debe superarse el umbral de 20 días hábiles."
+  },
+  {
+    "pregunta": "Si el reemplazo dura 19 días hábiles:",
+    "opciones": [
+      "Se paga proporcional",
+      "Se paga completo",
+      "No se paga diferencia",
+      "Depende del área"
+    ],
+    "correcta": 2,
+    "explicacion": "La norma es estricta. No hay proporcionalidad. Si no supera el mínimo, no hay derecho al cobro."
+  },
+  {
+    "pregunta": "¿Cuál es la lógica del requisito de 20 días en reemplazos?",
+    "opciones": [
+      "Evitar abusos administrativos",
+      "Reducir costos",
+      "Facilitar reemplazos cortos",
+      "Es arbitrario"
+    ],
+    "correcta": 0,
+    "explicacion": "El objetivo es evitar que se utilicen reemplazos breves para generar pagos adicionales sin justificación real."
+  },
+  {
+    "pregunta": "El orden correcto de sanciones disciplinarias es:",
+    "opciones": [
+      "Apercibimiento, suspensión, cesantía",
+      "Llamado de atención, apercibimiento, suspensión, cesantía, exoneración",
+      "Suspensión, apercibimiento, cesantía",
+      "Llamado de atención, suspensión, exoneración"
+    ],
+    "correcta": 1,
+    "explicacion": "El orden es progresivo: se empieza por lo leve y se escala a lo grave. Alterar este orden suele ser una trampa en exámenes."
+  },
+  {
+    "pregunta": "¿Qué caracteriza al régimen disciplinario?",
+    "opciones": [
+      "Es arbitrario",
+      "Es progresivo",
+      "Es opcional",
+      "Es inmediato"
+    ],
+    "correcta": 1,
+    "explicacion": "La progresividad implica que las sanciones aumentan según la gravedad o reiteración de la falta."
+  },
+  {
+    "pregunta": "La cesantía implica:",
+    "opciones": [
+      "Suspensión temporal",
+      "Llamado de atención",
+      "Desvinculación del cargo",
+      "Cambio de área"
+    ],
+    "correcta": 2,
+    "explicacion": "Es una sanción grave que implica la pérdida del empleo, pero no necesariamente la inhabilitación futura."
+  },
+  {
+    "pregunta": "La exoneración implica:",
+    "opciones": [
+      "Sanción leve",
+      "Suspensión",
+      "Desvinculación con consecuencias más graves",
+      "Advertencia"
+    ],
+    "correcta": 2,
+    "explicacion": "Es la sanción más grave. Puede implicar inhabilitación para volver a la administración pública."
+  },
+  {
+    "pregunta": "El aporte sindical del convenio es:",
+    "opciones": [
+      "Opcional",
+      "1%",
+      "0,5%",
+      "2%"
+    ],
+    "correcta": 2,
+    "explicacion": "Es obligatorio incluso para no afiliados, lo cual suele ser una trampa frecuente."
+  },
+  {
+    "pregunta": "El aporte sindical obligatorio se aplica:",
+    "opciones": [
+      "Solo a afiliados",
+      "A todos los trabajadores alcanzados",
+      "Solo a administrativos",
+      "A contratados"
+    ],
+    "correcta": 1,
+    "explicacion": "Esto es clave: no depende de estar afiliado. Es obligatorio por convenio."
+  },
+  {
+    "pregunta": "¿Qué busca el sistema de concursos dentro del convenio?",
+    "opciones": [
+      "Favorecer antigüedad",
+      "Evitar discrecionalidad",
+      "Reducir costos",
+      "Designar rápidamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El objetivo es evitar decisiones arbitrarias o políticas, asegurando transparencia."
+  },
+  {
+    "pregunta": "¿Qué ocurre si una norma provincial contradice el convenio en perjuicio del trabajador?",
+    "opciones": [
+      "Se aplica la provincial",
+      "Se aplica el convenio",
+      "Se decide caso a caso",
+      "Se anula todo"
+    ],
+    "correcta": 1,
+    "explicacion": "Siempre se aplica la norma más favorable al trabajador."
+  },
+  {
+    "pregunta": "El principio de favorabilidad implica:",
+    "opciones": [
+      "Elegir la norma más conveniente al empleador",
+      "Aplicar la más favorable al trabajador",
+      "Aplicar la más reciente",
+      "Aplicar la más estricta"
+    ],
+    "correcta": 1,
+    "explicacion": "Es uno de los pilares del derecho laboral. Siempre protege al trabajador."
+  },
+  {
+    "pregunta": "El Convenio Colectivo de Trabajo 572/2009 se aplica a:",
+    "opciones": [
+      "Todos los empleados públicos",
+      "Solo empleados nacionales",
+      "Trabajadores viales comprendidos en el convenio",
+      "Funcionarios políticos"
+    ],
+    "correcta": 2,
+    "explicacion": "El convenio regula específicamente al personal vial comprendido, excluyendo funcionarios políticos."
+  },
+  {
+    "pregunta": "Los funcionarios políticos dentro del organismo vial:",
+    "opciones": [
+      "Están incluidos en el convenio",
+      "Están excluidos",
+      "Solo parcialmente incluidos",
+      "Depende de su antigüedad"
+    ],
+    "correcta": 1,
+    "explicacion": "El convenio excluye expresamente a funcionarios políticos."
+  },
+  {
+    "pregunta": "Para que un trabajador cobre la diferencia por reemplazo de un cargo superior, debe:",
+    "opciones": [
+      "Reemplazar al menos 5 días",
+      "Reemplazar al menos 10 días",
+      "Superar los 20 días hábiles",
+      "Solo ejercer el cargo"
+    ],
+    "correcta": 2,
+    "explicacion": "El convenio establece el umbral de 20 días hábiles."
+  },
+  {
+    "pregunta": "Si el reemplazo no supera los 20 días hábiles:",
+    "opciones": [
+      "Se paga proporcional",
+      "No se paga diferencia salarial",
+      "Se paga la mitad",
+      "Depende del jefe"
+    ],
+    "correcta": 1,
+    "explicacion": "No se genera derecho al cobro de diferencia."
+  },
+  {
+    "pregunta": "El orden correcto de sanciones disciplinarias es:",
+    "opciones": [
+      "Apercibimiento, suspensión, cesantía",
+      "Llamado de atención, apercibimiento, suspensión, cesantía, exoneración",
+      "Suspensión, apercibimiento, cesantía",
+      "Llamado de atención, suspensión, exoneración"
+    ],
+    "correcta": 1,
+    "explicacion": "El orden es progresivo y taxativo."
+  },
+  {
+    "pregunta": "Las paritarias provinciales:",
+    "opciones": [
+      "Pueden modificar cualquier aspecto",
+      "Pueden empeorar condiciones",
+      "Solo pueden mejorar condiciones",
+      "No tienen validez"
+    ],
+    "correcta": 2,
+    "explicacion": "Rige el principio de favorabilidad."
+  },
+  {
+    "pregunta": "El aporte sindical obligatorio es:",
+    "opciones": [
+      "1%",
+      "0,5%",
+      "2%",
+      "Opcional"
+    ],
+    "correcta": 1,
+    "explicacion": "El convenio establece un aporte del 0,5%."
+  },
+  {
+    "pregunta": "El convenio establece que las condiciones laborales:",
+    "opciones": [
+      "Pueden reducirse por acuerdo",
+      "Se mantienen como piso mínimo",
+      "Son optativas",
+      "Dependen del empleador"
+    ],
+    "correcta": 1,
+    "explicacion": "El convenio fija un mínimo de derechos."
+  },
+  {
+    "pregunta": "El acceso a cargos dentro del convenio se realiza mediante:",
+    "opciones": [
+      "Designación directa",
+      "Antigüedad únicamente",
+      "Concursos",
+      "Decisión política"
+    ],
+    "correcta": 2,
+    "explicacion": "El sistema de concursos es la base del acceso."
+  },
+  {
+    "pregunta": "En los concursos se evalúa:",
+    "opciones": [
+      "Solo antigüedad",
+      "Solo título",
+      "Antigüedad, antecedentes y capacitación",
+      "Solo decisión del superior"
+    ],
+    "correcta": 2,
+    "explicacion": "El sistema es integral."
+  },
+  {
+"pregunta":"¿Qué entidades son partes signatarias del Convenio Colectivo de Trabajo Nº 572/09?",
+"opciones":[
+"El Consejo Vial Federal y la Federación Argentina de Trabajadores Viales",
+"La Dirección Nacional de Vialidad y la UOCRA",
+"El Ministerio de Obras Públicas y el Consejo Vial Federal"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué organismo representa a los trabajadores viales provinciales en el convenio?",
+"opciones":[
+"La Federación Argentina de Trabajadores Viales",
+"El Consejo Vial Federal",
+"La Dirección Nacional de Vialidad"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es la duración de la vigencia del Convenio Colectivo de Trabajo Nº 572/09?",
+"opciones":[
+"Dos años desde su homologación",
+"Cuatro años desde su firma",
+"Un año desde su publicación"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué significa que el convenio tenga carácter ultraactivo?",
+"opciones":[
+"Que continúa vigente hasta que sea reemplazado por otro convenio",
+"Que debe renovarse automáticamente cada año",
+"Que solo se aplica durante el período de vigencia inicial"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es el ámbito territorial de aplicación del Convenio Colectivo Nº 572/09?",
+"opciones":[
+"Todo el territorio de la República Argentina",
+"Solo las provincias patagónicas",
+"Las rutas nacionales"
+],
+"correcta":0
+},
+{
+"pregunta":"¿A qué trabajadores se aplica el Convenio Colectivo Nº 572/09?",
+"opciones":[
+"A los trabajadores viales dependientes de los organismos provinciales de vialidad",
+"A todos los trabajadores del transporte",
+"A los empleados de Vialidad Nacional"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quiénes están excluidos del Convenio Colectivo de Trabajo Nº 572/09?",
+"opciones":[
+"Funcionarios políticos y personal de conducción de los organismos viales",
+"Los trabajadores administrativos",
+"Los trabajadores técnicos"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué tipo de personal puede quedar excluido del convenio cuando es contratado para tareas de emergencia o temporales?",
+"opciones":[
+"El personal contratado o temporario",
+"El personal técnico",
+"El personal administrativo"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cómo define el convenio al 'Organismo Vial'?",
+"opciones":[
+"Los organismos provinciales de vialidad cualquiera sea su naturaleza jurídica",
+"La Dirección Nacional de Vialidad",
+"Las empresas constructoras de rutas"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué se entiende por 'trabajador' según el convenio?",
+"opciones":[
+"El personal que realiza tareas dentro de la actividad vial",
+"Solo el personal obrero",
+"Solo el personal técnico"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué se entiende por 'carrera' en el convenio?",
+"opciones":[
+"El conjunto de cargos y funciones escalafonados agrupados según la índole de sus tareas",
+"El ascenso automático por antigüedad",
+"El cargo de mayor jerarquía dentro del organismo"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué significa 'ascenso' según el convenio?",
+"opciones":[
+"El paso a una categoría superior dentro de una misma clase",
+"El cambio de organismo",
+"El ingreso a la administración pública"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué significa 'promoción' según el convenio?",
+"opciones":[
+"El paso de una carrera o clase a otra superior mediante concurso",
+"El aumento automático de sueldo",
+"El traslado a otra dependencia"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cómo se realiza el ingreso inicial de personal permanente al Organismo Vial?",
+"opciones":[
+"Mediante concurso de antecedentes y oposición",
+"Por designación directa",
+"Por sorteo público"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es la edad mínima para ingresar al plantel básico del Organismo Vial?",
+"opciones":[
+"18 años",
+"21 años",
+"25 años"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es la edad máxima para el ingreso al Organismo Vial según el convenio?",
+"opciones":[
+"45 años",
+"50 años",
+"60 años"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué examen debe aprobar el aspirante para ingresar al Organismo Vial?",
+"opciones":[
+"Un examen preocupacional de aptitud psicofísica",
+"Un examen de antigüedad laboral",
+"Un examen sindical"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué examen debe aprobar el aspirante para ingresar al Organismo Vial?",
+"opciones":[
+"Un examen preocupacional de aptitud psicofísica",
+"Un examen de antigüedad laboral",
+"Un examen sindical"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quién no puede ingresar al plantel básico del Organismo Vial?",
+"opciones":[
+"Quien haya sido exonerado de la administración pública",
+"Quien tenga título técnico",
+"Quien tenga experiencia laboral"
+],
+"correcta":0
+},
+{
+"pregunta":"¿En qué clase ingresa inicialmente el trabajador al Organismo Vial?",
+"opciones":[
+"En la clase inicial determinada para cada carrera",
+"En la clase más alta",
+"En cualquier clase disponible"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuánto dura el período provisional del trabajador al ingresar al Organismo Vial?",
+"opciones":[
+"Seis meses",
+"Tres meses",
+"Un año"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué porcentaje mínimo debe superar la calificación del trabajador para incorporarse al plantel básico?",
+"opciones":[
+"60%",
+"50%",
+"70%"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué porcentaje mínimo debe superar la calificación del trabajador para incorporarse al plantel básico?",
+"opciones":[
+"60%",
+"50%",
+"70%"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 1, ¿qué organismo fue creado por el Decreto-Ley Nº 505/58?",
+"opciones":[
+"El Consejo Vial Federal",
+"La Dirección Nacional de Vialidad",
+"La Federación Argentina de Trabajadores Viales"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 1, ¿qué número de personería gremial posee la Federación Argentina de Trabajadores Viales?",
+"opciones":[
+"1076",
+"572",
+"505"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 1, ¿qué entidad representa a los trabajadores viales provinciales en el convenio?",
+"opciones":[
+"La Federación Argentina de Trabajadores Viales",
+"El Consejo Vial Federal",
+"El Ministerio de Obras Públicas"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 2, ¿desde cuándo comienza a regir el Convenio Colectivo de Trabajo?",
+"opciones":[
+"Desde la fecha del acto administrativo que dispone su homologación",
+"Desde la fecha de su firma",
+"Desde su publicación en el Boletín Oficial"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 2, durante la vigencia del convenio las partes pueden:",
+"opciones":[
+"Analizar cláusulas que consideren necesario modificar",
+"Modificar unilateralmente cualquier artículo",
+"Suspender el convenio sin acuerdo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 3, el ámbito territorial del convenio comprende:",
+"opciones":[
+"Todo el territorio de la República Argentina",
+"Solo las provincias adheridas al Consejo Vial Federal",
+"Únicamente las provincias patagónicas"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 3, los trabajadores comprendidos en el convenio dependen de:",
+"opciones":[
+"Organismos Provinciales de Vialidad",
+"Vialidad Nacional",
+"Ministerios provinciales de transporte"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 3, el encuadramiento del personal vial se realiza conforme a qué ley?",
+"opciones":[
+"Ley Nº 20.320",
+"Ley Nº 14.250",
+"Ley Nº 20.744"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 4, ¿qué tipo de funcionarios están excluidos del convenio?",
+"opciones":[
+"Funcionarios designados por el Poder Ejecutivo Provincial para dirigir el organismo vial",
+"Personal administrativo",
+"Personal técnico"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 4, ¿qué tipo de personal político se encuentra excluido del convenio?",
+"opciones":[
+"Personal de gabinete y asesores",
+"Personal obrero",
+"Personal de servicios"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 4, el personal contratado en forma transitoria puede ocupar cargos de planta permanente?",
+"opciones":[
+"No, en ningún caso",
+"Sí, si el contrato supera un año",
+"Sí, si lo autoriza el sindicato"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 5, ¿qué significa el término 'Consejo'?",
+"opciones":[
+"El Consejo Vial Federal",
+"El Consejo Federal del Trabajo",
+"La Dirección Nacional de Vialidad"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 5, ¿qué se entiende por 'clase'?",
+"opciones":[
+"El nivel escalafonario del trabajador",
+"El cargo jerárquico del director",
+"La categoría sindical"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 5, ¿cómo se identifica el nivel de clase dentro del escalafón?",
+"opciones":[
+"Con números romanos",
+"Con números arábigos",
+"Con letras"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 5, ¿qué se entiende por 'categoría'?",
+"opciones":[
+"La ubicación del trabajador dentro de su clase según antigüedad y calificación",
+"La jerarquía política del trabajador",
+"La especialidad técnica"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 5, ¿qué se entiende por 'vacante'?",
+"opciones":[
+"Cargo presupuestado que no se encuentra cubierto",
+"Puesto sin funciones",
+"Cargo ocupado temporalmente"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 5, ¿qué se entiende por 'calificación'?",
+"opciones":[
+"La evaluación sistemática de las cualidades y capacidad del trabajador",
+"El salario del trabajador",
+"El cargo jerárquico"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 6, ¿qué tipo de concurso se utiliza para el ingreso permanente al organismo vial?",
+"opciones":[
+"Concurso de antecedentes y oposición",
+"Concurso de antecedentes únicamente",
+"Designación directa"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 6, las pruebas de oposición pueden ser:",
+"opciones":[
+"Escritas, orales, técnicas o especiales",
+"Solo escritas",
+"Solo prácticas"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 7, el aspirante al organismo vial debe poseer:",
+"opciones":[
+"Buena salud y aptitud psicofísica comprobada",
+"Solo certificado de domicilio",
+"Únicamente experiencia laboral"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 7, para ingresar a la carrera administrativa se exige como mínimo:",
+"opciones":[
+"Título secundario o equivalente",
+"Título universitario",
+"Ciclo primario"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 7, para ingresar a la carrera de personal obrero se exige como mínimo:",
+"opciones":[
+"Ciclo primario aprobado",
+"Título secundario",
+"Título universitario"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 7, ¿qué porcentaje mínimo de puestos se reserva para personas con discapacidad?",
+"opciones":[
+"4%",
+"2%",
+"10%"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 8, ¿puede ingresar una persona exonerada de la administración pública?",
+"opciones":[
+"No",
+"Sí",
+"Solo con autorización sindical"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 8, ¿puede ingresar un contratista o proveedor del Estado?",
+"opciones":[
+"No",
+"Sí",
+"Solo en cargos técnicos"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 10, durante el período provisional el trabajador integra el plantel básico?",
+"opciones":[
+"No",
+"Sí",
+"Solo después de tres meses"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 10, si el trabajador obtiene una calificación insuficiente al finalizar el período provisional:",
+"opciones":[
+"Se dispone el cese de sus funciones",
+"Se lo traslada a otro cargo",
+"Se repite el período de prueba"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 10, ¿cuánto tiempo debe esperar un trabajador cesado por calificación insuficiente para presentarse nuevamente a concurso?",
+"opciones":[
+"Un año",
+"Seis meses",
+"Dos años"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 21 del Convenio Colectivo 572/09, ¿en qué plazo debe expedirse el Jurado luego del cierre del concurso?",
+"opciones":[
+"Diez (10) días hábiles administrativos",
+"Quince (15) días corridos",
+"Treinta (30) días hábiles administrativos"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 21, ¿desde cuándo se cuenta el plazo para que el jurado se expida?",
+"opciones":[
+"Desde el cierre del concurso",
+"Desde la publicación del concurso",
+"Desde la apertura del concurso"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 21, ¿qué plazo tiene el Organismo Vial para cubrir la vacante con el ganador del concurso?",
+"opciones":[
+"Treinta (30) días",
+"Diez (10) días",
+"Sesenta (60) días"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 21, ¿por cuánto tiempo mínimo el ganador del concurso debe ejercer el nuevo cargo?",
+"opciones":[
+"Dos (2) años",
+"Un (1) año",
+"Tres (3) años"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 21, durante el plazo mínimo en el cargo, el trabajador:",
+"opciones":[
+"No puede presentarse a nuevos concursos",
+"Puede concursar libremente",
+"Solo puede concursar dentro de su área"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 21, si no se cumplen los plazos establecidos en el concurso, ¿quién debe intervenir de oficio?",
+"opciones":[
+"La Comisión Paritaria Provincial",
+"El Consejo Vial Federal",
+"El Ministerio de Trabajo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 21, ¿quién es responsable del cumplimiento de los plazos del concurso dentro del organismo?",
+"opciones":[
+"El Director del Área, Jefe de Departamento o similar",
+"El sindicato",
+"La Comisión Paritaria Nacional"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 22, el Organismo Vial declarará desierto o fracasado el concurso cuando:",
+"opciones":[
+"Lo determine el jurado por causales previstas",
+"Lo solicite cualquier trabajador",
+"Lo decida el sindicato"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 22, una causal para declarar desierto el concurso es:",
+"opciones":[
+"Falta de aspirantes",
+"Falta de presupuesto",
+"Falta de jurado"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 22, otra causal para declarar fracasado el concurso es:",
+"opciones":[
+"Incumplimiento de los requisitos establecidos en el convenio",
+"Exceso de postulantes",
+"Falta de antigüedad del jurado"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 22, el concurso puede declararse fracasado por:",
+"opciones":[
+"Insuficiencia de méritos de los concursantes",
+"Demasiados concursantes",
+"Falta de inscripción sindical"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 22, cuando se declara desierto o fracasado un concurso:",
+"opciones":[
+"Debe efectuarse un nuevo llamado",
+"No se vuelve a convocar",
+"Se designa directamente un trabajador"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 23, ¿quién reglamenta las condiciones de los concursos?",
+"opciones":[
+"Las Comisiones Paritarias Provinciales",
+"La Comisión Paritaria Nacional",
+"El Ministerio de Trabajo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 23, la reglamentación de concursos debe ajustarse a:",
+"opciones":[
+"Lo establecido en el Convenio Colectivo",
+"Lo que disponga el sindicato",
+"Lo que disponga cada jefe de área"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, uno de los deberes del trabajador es:",
+"opciones":[
+"Prestar servicio con puntualidad y asistencia regular",
+"Presentarse solo cuando sea convocado",
+"Trabajar sin horario fijo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador debe cumplir las instrucciones de sus superiores cuando:",
+"opciones":[
+"Estén dentro de su competencia y no sean ilícitas",
+"Siempre aunque sean ilegales",
+"Solo cuando el trabajador esté de acuerdo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador debe:",
+"opciones":[
+"Cuidar los bienes del Organismo Vial",
+"Usar los bienes para fines personales",
+"Prestar los bienes del organismo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador debe mantener:",
+"opciones":[
+"Confidencialidad incluso después de cesar en sus funciones",
+"Confidencialidad solo durante el trabajo",
+"Ninguna reserva sobre la información"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador debe tratar al público con:",
+"opciones":[
+"Cortesía, diligencia y ecuanimidad",
+"Autoridad absoluta",
+"Indiferencia"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador debe:",
+"opciones":[
+"Cumplir íntegramente el horario laboral",
+"Asistir cuando pueda",
+"Trabajar sin horario"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador debe denunciar:",
+"opciones":[
+"Irregularidades en el servicio",
+"Errores personales",
+"Problemas sindicales"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador debe mantener actualizado:",
+"opciones":[
+"Su domicilio y grupo familiar",
+"Solo su teléfono",
+"Solo su correo electrónico"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, en caso de renuncia el trabajador debe permanecer en el cargo:",
+"opciones":[
+"Treinta (30) días",
+"Diez (10) días",
+"Quince (15) días"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador debe usar:",
+"opciones":[
+"La ropa y elementos de trabajo suministrados",
+"Solo su ropa personal",
+"Uniforme solo en actos oficiales"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, está prohibido al trabajador:",
+"opciones":[
+"Patrocinar trámites de terceros vinculados al organismo",
+"Realizar tareas asignadas",
+"Participar en capacitaciones"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, está prohibido:",
+"opciones":[
+"Percibir recompensas no establecidas por normas vigentes",
+"Recibir sueldo",
+"Recibir viáticos"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, está prohibido:",
+"opciones":[
+"Utilizar bienes del organismo para fines particulares",
+"Usar herramientas para el trabajo",
+"Utilizar equipos para tareas oficiales"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador tiene derecho a:",
+"opciones":[
+"La estabilidad en su cargo",
+"Ser removido sin causa",
+"Ser trasladado libremente"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador tiene derecho a:",
+"opciones":[
+"No ser discriminado",
+"Ser discriminado por antigüedad",
+"Ser discriminado por ideología"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador tiene derecho a:",
+"opciones":[
+"Una retribución justa",
+"Trabajar sin remuneración",
+"Definir su propio salario"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador tiene derecho a:",
+"opciones":[
+"La libre asociación sindical",
+"La prohibición de sindicalizarse",
+"La afiliación obligatoria"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador tiene derecho a:",
+"opciones":[
+"Tres horas mensuales de salida sin compensación",
+"Diez horas mensuales sin control",
+"Un día libre por mes"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, el trabajador tiene una tolerancia de llegada de:",
+"opciones":[
+"Diez minutos diarios con máximo de treinta mensuales",
+"Treinta minutos diarios",
+"Cinco minutos diarios"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 24, si el trabajador es demandado por daños a terceros en ejercicio de sus funciones:",
+"opciones":[
+"Las costas las paga el Organismo Vial salvo dolo o culpa grave",
+"Las paga siempre el trabajador",
+"Las paga el sindicato"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 25 del Convenio Colectivo 572/09, ¿cuántas categorías se fijan en el escalafón?",
+"opciones":[
+"Veintitrés (23)",
+"Veinte (20)",
+"Veinticinco (25)"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 25, ¿qué categoría corresponde al momento del ingreso al plantel básico?",
+"opciones":[
+"Categoría 0",
+"Categoría 1",
+"Categoría 2"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 25, para ascender de categoría el trabajador debe obtener durante dos años consecutivos una calificación mínima de:",
+"opciones":[
+"60% de la calificación máxima",
+"50% de la calificación máxima",
+"70% de la calificación máxima"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 25, cada ascenso de categoría representa un incremento acumulativo del:",
+"opciones":[
+"2% del salario básico",
+"3% del salario básico",
+"5% del salario básico"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 25, ¿cada cuánto tiempo de antigüedad se produce normalmente un ascenso de categoría?",
+"opciones":[
+"Cada 2 años",
+"Cada 1 año",
+"Cada 5 años"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 26, si el Organismo Vial no realiza la calificación de los trabajadores:",
+"opciones":[
+"El ascenso de categoría se produce automáticamente por antigüedad",
+"El trabajador pierde el ascenso",
+"Debe rendirse un examen"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 27, la retribución por antigüedad corresponde al:",
+"opciones":[
+"2% del sueldo básico por cada año de servicio",
+"1% del sueldo básico por año",
+"3% del sueldo básico por año"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 27, la antigüedad se calcula por años de servicio en:",
+"opciones":[
+"La Administración Nacional, Provincial o Municipal",
+"Solo en el Organismo Vial",
+"Solo en el sector privado"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 27, ningún trabajador percibirá una retribución por antigüedad menor al:",
+"opciones":[
+"2% de la Clase XII por año",
+"1% de la Clase X por año",
+"3% de la Clase XII por año"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 28, el trabajador podrá solicitar cambio de carrera cuando:",
+"opciones":[
+"Demuestre idoneidad o tenga título habilitante",
+"Cumpla 10 años de antigüedad",
+"Sea autorizado por el sindicato"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 28, uno de los requisitos para el cambio de carrera es:",
+"opciones":[
+"Tener dos años consecutivos con calificaciones no inferiores a 60 puntos",
+"Tener un año de antigüedad",
+"Tener 50 puntos de calificación"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 28, la idoneidad para el cambio de carrera se acredita mediante:",
+"opciones":[
+"Una prueba de suficiencia ante jurado",
+"Una entrevista sindical",
+"Una evaluación médica"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 28, el encasillamiento en la nueva carrera será determinado por:",
+"opciones":[
+"La Comisión Paritaria Provincial",
+"El Director del Organismo",
+"El sindicato"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 28, el encasillamiento en la nueva carrera no podrá ser inferior a:",
+"opciones":[
+"La clase que tenía en la carrera anterior",
+"La categoría inicial",
+"La clase VI"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 29, las funciones deben cubrirse transitoriamente cuando exista:",
+"opciones":[
+"Ausencia por enfermedad o licencias",
+"Falta de presupuesto",
+"Cambio de autoridades"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 29, el reemplazo debe realizarse con personal de:",
+"opciones":[
+"La clase o función inmediata inferior",
+"La misma categoría del reemplazado",
+"Una categoría superior"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 29, tendrá prioridad para reemplazar quien tenga:",
+"opciones":[
+"Mejor calificación en los últimos tres períodos y mayor antigüedad",
+"Más edad",
+"Más antigüedad únicamente"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 29, el reemplazante cobrará la remuneración del cargo superior cuando el reemplazo dure:",
+"opciones":[
+"No menos de 20 días hábiles",
+"Más de 10 días",
+"Más de 30 días"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 29, la remuneración del reemplazo se paga:",
+"opciones":[
+"Con efecto retroactivo al primer día",
+"Desde el día 20",
+"Solo al finalizar el reemplazo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 30, con la puesta en vigencia del convenio:",
+"opciones":[
+"No puede producirse rebaja de clase, categoría o función",
+"Se puede reducir la categoría",
+"Se puede modificar libremente el cargo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 31, cuando una función no esté contemplada en el convenio:",
+"opciones":[
+"La Comisión Paritaria Nacional lo resolverá",
+"El director del área lo decide",
+"Lo decide el sindicato"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 32, la remuneración mensual del trabajador incluye:",
+"opciones":[
+"Salario básico, categoría, antigüedad y otras retribuciones",
+"Solo salario básico",
+"Solo salario y antigüedad"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, las prestaciones complementarias son:",
+"opciones":[
+"Retribuciones adicionales a la remuneración habitual",
+"Parte del salario básico",
+"Pagos extraordinarios únicos"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, existen dos tipos de prestaciones complementarias:",
+"opciones":[
+"Remunerativas y no remunerativas",
+"Mensuales y anuales",
+"Ordinarias y extraordinarias"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, la prestación por dedicación intensiva exige una carga mínima de:",
+"opciones":[
+"45 horas semanales",
+"40 horas semanales",
+"48 horas semanales"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, la dedicación intensiva equivale al:",
+"opciones":[
+"50% del salario básico",
+"40% del salario básico",
+"30% del salario básico"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, la dedicación funcional exclusiva corresponde al trabajador que:",
+"opciones":[
+"Permanece en campaña sin poder regresar diariamente a su domicilio",
+"Trabaja más de 8 horas",
+"Realiza tareas administrativas"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, la dedicación funcional exclusiva se paga multiplicando el salario básico por:",
+"opciones":[
+"0,5",
+"0,3",
+"0,2"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, la compensación por horas extras en días comunes es:",
+"opciones":[
+"50% de recargo",
+"100% de recargo",
+"25% de recargo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, la compensación por horas extras en feriados es:",
+"opciones":[
+"100% de recargo",
+"50% de recargo",
+"75% de recargo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, el desarraigo corresponde cuando el trabajador se desempeña a más de:",
+"opciones":[
+"50 km de su domicilio",
+"30 km de su domicilio",
+"100 km de su domicilio"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, el desarraigo equivale al:",
+"opciones":[
+"40% del salario básico",
+"30% del salario básico",
+"20% del salario básico"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, el adicional por presentismo equivale al:",
+"opciones":[
+"10% del salario básico de la Clase XV",
+"5% del salario básico",
+"15% del salario básico"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, el viático diario mínimo es:",
+"opciones":[
+"10% del salario básico de la Clase VI",
+"5% del salario básico",
+"15% del salario básico"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, la compensación por zona inhóspita no será inferior al:",
+"opciones":[
+"30% del salario básico",
+"20% del salario básico",
+"40% del salario básico"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 33, las prestaciones complementarias no remunerativas incluyen:",
+"opciones":[
+"Traslado y gastos de vivienda",
+"Presentismo",
+"Horas extras"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso f) Según el convenio, ¿quiénes no podrán ser contratados como aprendices en el Organismo Vial?",
+"opciones":[
+"Personas que hayan tenido una relación laboral anterior con el Organismo Vial, de cualquier naturaleza",
+"Personas que hayan trabajado en organismos públicos",
+"Personas que hayan realizado pasantías universitarias",
+"Personas que hayan trabajado en empresas privadas"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso f) ¿Puede celebrarse un nuevo contrato de aprendizaje con el mismo sujeto una vez terminado el plazo máximo?",
+"opciones":[
+"Sí, si lo autoriza la Comisión Paritaria",
+"Sí, si existe acuerdo entre las partes",
+"No, no puede celebrarse nuevamente con el mismo sujeto",
+"Sí, pero sólo una vez más"
+],
+"correcta":2
+},
+{
+"pregunta":"(Inciso g) El aprendiz estará sujeto a qué régimen de derechos y obligaciones:",
+"opciones":[
+"Al régimen de derechos y obligaciones del Capítulo VI del Convenio, siempre que no sea incompatible con el contrato",
+"Al régimen exclusivo de la Ley de Contrato de Trabajo",
+"Al régimen especial que determine el jefe inmediato",
+"Al régimen que establezca el sindicato"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso h) El aprendiz tendrá derecho a prestaciones por:",
+"opciones":[
+"Accidentes y enfermedades inculpables y también profesionales",
+"Accidentes laborales únicamente",
+"Ninguna prestación por tratarse de un aprendiz",
+"Solo enfermedades profesionales"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso h) Las disposiciones sobre Salud, Seguridad, Ambiente y Medicina del Trabajo aplicables al aprendiz se encuentran en:",
+"opciones":[
+"Capítulo XXI del Convenio",
+"Capítulo XIX del Convenio",
+"Ley 20.744",
+"Ley 25.013"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso i) ¿Quién debe efectuar el pago de los aportes y contribuciones de la Seguridad Social del aprendiz?",
+"opciones":[
+"El Organismo Vial",
+"El aprendiz",
+"La Comisión Paritaria",
+"La Aseguradora de Riesgos del Trabajo"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso i) Los aportes y contribuciones que debe pagar el Organismo Vial por el aprendiz corresponden a:",
+"opciones":[
+"La Contribución Única de la Seguridad Social (CUSS)",
+"El régimen jubilatorio provincial",
+"La obra social privada",
+"Un fondo especial sindical"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso j) El Organismo Vial debe preavisar al aprendiz la extinción del contrato con:",
+"opciones":[
+"Treinta días de anticipación",
+"Quince días de anticipación",
+"Sesenta días de anticipación",
+"Diez días de anticipación"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso j) Si no se realiza el preaviso al aprendiz, el Organismo Vial deberá pagar:",
+"opciones":[
+"Una indemnización sustitutiva de medio mes de sueldo",
+"Un sueldo completo",
+"Dos sueldos",
+"Una indemnización equivalente a tres meses"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso k) El Contrato de Trabajo de Aprendizaje se extingue:",
+"opciones":[
+"Por el cumplimiento del plazo pactado",
+"Por decisión del sindicato",
+"Por decisión del jefe inmediato",
+"Por decisión de la Comisión Paritaria"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso k) Si se cumple el plazo del contrato y hubo preaviso:",
+"opciones":[
+"No corresponde indemnización",
+"Debe pagarse medio sueldo",
+"Debe pagarse indemnización completa",
+"Debe pagarse una indemnización proporcional"
+],
+"correcta":0
+},
+{
+"pregunta":"(Inciso k) Al finalizar el contrato de aprendizaje el Organismo Vial debe entregar:",
+"opciones":[
+"Un certificado que acredite la especialidad y experiencia adquiridas",
+"Un contrato permanente",
+"Una constancia sindical",
+"Un certificado médico"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 45) ¿Quién desarrolla el Programa de Aprendizaje del Trabajo Vial?",
+"opciones":[
+"La Comisión Paritaria Nacional en coordinación con las Provinciales",
+"El Ministerio de Trabajo",
+"La Dirección del Organismo Vial",
+"La Aseguradora de Riesgos del Trabajo"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 45) ¿Qué deben elaborar las Comisiones Paritarias para el aprendizaje?",
+"opciones":[
+"Las currículas y especificaciones de la enseñanza teórico-práctica",
+"Las escalas salariales",
+"El régimen disciplinario",
+"Las licencias laborales"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 45) Las Comisiones Paritarias también deben:",
+"opciones":[
+"Identificar trabajos y especialidades que pueden ser objeto del contrato de aprendizaje",
+"Fijar los salarios de los aprendices",
+"Determinar sanciones disciplinarias",
+"Establecer horarios de trabajo"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 45) Las instituciones que brindarán la formación teórica serán:",
+"opciones":[
+"Determinadas por la Comisión Paritaria",
+"Designadas por el sindicato",
+"Elegidas por el aprendiz",
+"Designadas por el Ministerio de Trabajo"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 46) Un objetivo esencial del Programa de Aprendizaje es:",
+"opciones":[
+"La incorporación del aprendiz a la planta orgánica del Organismo Vial",
+"La contratación permanente de aprendices",
+"La rotación obligatoria de trabajadores",
+"La capacitación exclusivamente teórica"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 46) La incorporación del aprendiz dependerá de:",
+"opciones":[
+"Su calificación, aptitud y prioridades fijadas por las Comisiones Paritarias",
+"Su antigüedad en el organismo",
+"Su afiliación sindical",
+"Su elección personal"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 47) El contrato de aprendizaje:",
+"opciones":[
+"No puede asimilarse a una pasantía",
+"Es equivalente a una pasantía universitaria",
+"Es un contrato no laboral",
+"Es idéntico a una práctica estudiantil"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 47) La pasantía se caracteriza por ser:",
+"opciones":[
+"Una relación de naturaleza no laboral",
+"Una relación laboral permanente",
+"Un contrato sindical",
+"Un contrato público"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 48) ¿Qué leyes se aplican supletoriamente?",
+"opciones":[
+"Ley 25.013 y Ley 20.744",
+"Ley 19.587 y Ley 11.544",
+"Ley 24.557 únicamente",
+"Ley 26.844"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 49) Se considera jornada de trabajo:",
+"opciones":[
+"Todo el tiempo en que el trabajador esté a disposición del Organismo Vial",
+"Solo el tiempo efectivo de trabajo manual",
+"Solo el horario administrativo",
+"El tiempo que el trabajador desee trabajar"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 49) Jornada para dependencias centrales:",
+"opciones":[
+"7 horas diarias y 35 semanales",
+"8 horas diarias y 40 semanales",
+"6 horas diarias",
+"9 horas diarias"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 49) Jornada para tareas de campaña:",
+"opciones":[
+"8 horas diarias y 40 semanales",
+"7 horas diarias",
+"6 horas diarias",
+"9 horas diarias"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 49) Los horarios de trabajo pueden organizarse mediante:",
+"opciones":[
+"Turnos fijos, rotativos, guardias o equipos",
+"Decisión individual del trabajador",
+"Elección sindical",
+"Turnos exclusivamente diurnos"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 49) La organización de la jornada debe respetar la ley:",
+"opciones":[
+"Ley 11.544",
+"Ley 23.551",
+"Ley 26.844",
+"Ley 27.275"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 50) El régimen de vacaciones y licencias se rige por:",
+"opciones":[
+"Acuerdos de Comisiones Paritarias y la Ley de Contrato de Trabajo",
+"Solo el reglamento interno",
+"Solo la ley provincial",
+"Solo el sindicato"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 50) El régimen de licencias debe aplicarse bajo el principio de:",
+"opciones":[
+"La norma más favorable al trabajador",
+"La antigüedad laboral",
+"La jerarquía administrativa",
+"La rotación obligatoria"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 51) La salud y seguridad laboral se rige por:",
+"opciones":[
+"Normas del Convenio, leyes nacionales y acuerdos paritarios",
+"Solo decisiones del empleador",
+"Solo reglamentos sindicales",
+"Solo normas provinciales"
+],
+"correcta":0
+},
+{
+"pregunta":"(Deberes del trabajador) ¿Cómo debe prestar el servicio el trabajador del Organismo Vial?",
+"opciones":[
+"Con puntualidad, asistencia regular y dedicación adecuada",
+"Únicamente cuando sea requerido",
+"Según su propio criterio sin instrucciones",
+"Solo cuando existan tareas urgentes"
+],
+"correcta":0
+},
+{
+"pregunta":"(Deberes del trabajador) ¿Qué debe hacer el trabajador respecto a las instrucciones de sus superiores?",
+"opciones":[
+"Cumplirlas siempre que sean dentro de su competencia, relativas al servicio y no manifiestamente ilícitas",
+"Ignorarlas si no está de acuerdo",
+"Cumplir solo las que estén firmadas por escrito",
+"Cumplir únicamente las que provengan del director"
+],
+"correcta":0
+},
+{
+"pregunta":"(Deberes del trabajador) ¿Qué obligación tiene el trabajador respecto a los bienes del Organismo Vial?",
+"opciones":[
+"Cuidarlos y procurar su buen estado de conservación",
+"Utilizarlos libremente fuera del horario laboral",
+"Prestarlos a terceros si es necesario",
+"Usarlos para fines personales"
+],
+"correcta":0
+},
+{
+"pregunta":"(Deberes del trabajador) ¿Qué conducta debe mantener el trabajador en el ejercicio de sus funciones?",
+"opciones":[
+"Buena conducta, ética y costumbres acordes al decoro de la función",
+"Conducta libre según su criterio personal",
+"Únicamente obediencia jerárquica",
+"Neutralidad absoluta sin relación con el público"
+],
+"correcta":0
+},
+{
+"pregunta":"(Prohibiciones) ¿Qué conducta está absolutamente prohibida para los trabajadores del Organismo Vial?",
+"opciones":[
+"Utilizar con fines particulares los elementos de transporte del organismo",
+"Usar la ropa de trabajo provista",
+"Cuidar los bienes del organismo",
+"Cumplir las órdenes jerárquicas"
+],
+"correcta":0
+},
+{
+"pregunta":"(Prohibiciones) ¿Qué actividad está prohibida para los trabajadores en relación con el Organismo Vial?",
+"opciones":[
+"Ser proveedor o contratista del organismo",
+"Solicitar capacitación",
+"Realizar reclamos laborales",
+"Participar en concursos internos"
+],
+"correcta":0
+},
+{
+"pregunta":"(Derechos del trabajador) ¿Qué adquiere el trabajador una vez incorporado definitivamente al plantel?",
+"opciones":[
+"Estabilidad en su cargo, categoría y carrera",
+"Contrato anual renovable",
+"Estabilidad únicamente por cinco años",
+"Estabilidad solo en su dependencia"
+],
+"correcta":0
+},
+{
+"pregunta":"(Derechos del trabajador) ¿Qué garantiza el principio de no discriminación?",
+"opciones":[
+"Que el trabajador no sufra discriminación por sexo, ideología, religión o condición personal",
+"Que todos los trabajadores tengan el mismo salario",
+"Que todos los trabajadores tengan el mismo cargo",
+"Que el trabajador no pueda cambiar de función"
+],
+"correcta":0
+},
+{
+"pregunta":"(Derechos del trabajador) ¿Qué derecho tiene el trabajador respecto a la capacitación?",
+"opciones":[
+"Capacitarse, participar en concursos y recibir becas o premios",
+"Capacitarse solo fuera del horario laboral",
+"Capacitarse únicamente con autorización sindical",
+"No tiene derecho a capacitación"
+],
+"correcta":0
+},
+{
+"pregunta":"(Derechos del trabajador) ¿Qué tolerancia tiene el trabajador respecto a la hora de ingreso?",
+"opciones":[
+"Diez minutos por día con un máximo de treinta minutos mensuales",
+"Cinco minutos sin límite mensual",
+"Quince minutos diarios",
+"Treinta minutos diarios"
+],
+"correcta":0
+},
+{
+"pregunta":"(Art. 51) ¿Qué aspectos de la relación de empleo en los Organismos Viales Provinciales se rigen por las normas del Convenio Colectivo según el artículo?",
+"opciones":[
+"Las condiciones de salud y seguridad en el trabajo",
+"Únicamente los salarios y bonificaciones del personal",
+"Solo el régimen de licencias y vacaciones"
+],
+"correcta":0
+},
+{
+"pregunta":"(Art. 51) ¿Qué organismo se crea en el presente Convenio para tratar temas de salud, seguridad, ambiente y medicina del trabajo?",
+"opciones":[
+"El Comité Federal de Salud, Seguridad, Ambiente y Medicina del Trabajo",
+"La Dirección Nacional de Seguridad Vial",
+"La Comisión de Administración del Personal"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 52) Uno de los objetivos es:",
+"opciones":[
+"Proteger la vida e integridad psicofísica de los trabajadores",
+"Incrementar la producción vial",
+"Reducir salarios",
+"Eliminar los controles médicos"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 52) También se busca:",
+"opciones":[
+"Reducir la siniestralidad laboral mediante prevención",
+"Eliminar licencias médicas",
+"Eliminar evaluaciones médicas",
+"Aumentar jornadas laborales"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 53) Cada Organismo Vial deberá tener:",
+"opciones":[
+"Una dependencia especializada en Salud, Seguridad, Ambiente y Medicina del Trabajo",
+"Una oficina sindical",
+"Un tribunal disciplinario",
+"Una comisión de ascensos"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 53) Esta dependencia debe tener rango:",
+"opciones":[
+"No inferior a Departamento",
+"No inferior a Dirección",
+"Nivel de oficina simple",
+"Nivel municipal"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 53) En el plantel debe existir al menos:",
+"opciones":[
+"Un médico especialista en Medicina del Trabajo",
+"Un psicólogo",
+"Un abogado",
+"Un enfermero"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 54) La dependencia de seguridad laboral debe coordinar con:",
+"opciones":[
+"La Comisión Paritaria Provincial",
+"El sindicato exclusivamente",
+"La municipalidad",
+"El Ministerio de Economía"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 55) El Comité Federal está integrado por:",
+"opciones":[
+"Dos representantes de cada parte firmante del convenio",
+"Un representante del sindicato",
+"Tres representantes del Estado",
+"Cinco representantes provinciales"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 56) Las expresiones Higiene y Seguridad, Medicina del Trabajo y similares:",
+"opciones":[
+"Se consideran conceptualmente equivalentes",
+"Son conceptos distintos",
+"Se aplican solo a empresas privadas",
+"Se aplican solo a hospitales"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 57) Las partes promoverán infraestructura como:",
+"opciones":[
+"Consultorios, ambulancias y laboratorios",
+"Oficinas administrativas",
+"Sedes sindicales",
+"Tribunales laborales"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 58) Los trabajadores no podrán ser sancionados:",
+"opciones":[
+"Sin causas y procedimientos establecidos",
+"Por decisión del jefe",
+"Por decisión sindical",
+"Por decisión política"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 59) Una sanción disciplinaria es:",
+"opciones":[
+"Llamado de atención",
+"Multa económica",
+"Reducción salarial permanente",
+"Inhabilitación profesional"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 59) Otra sanción disciplinaria prevista es:",
+"opciones":[
+"Apercibimiento",
+"Despido inmediato",
+"Multa económica",
+"Traslado obligatorio"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 59) También puede aplicarse:",
+"opciones":[
+"Suspensión",
+"Reducción salarial",
+"Cambio de función",
+"Reubicación laboral"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 59) Una sanción grave prevista es:",
+"opciones":[
+"Cesantía",
+"Aviso verbal",
+"Reducción horaria",
+"Traslado"
+],
+"correcta":0
+},
+{
+"pregunta":"(Artículo 59) La sanción más grave es:",
+"opciones":[
+"Exoneración",
+"Apercibimiento",
+"Llamado de atención",
+"Suspensión"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el Artículo 60 del Convenio Colectivo de Trabajo 572/09, ¿qué sanciones pueden aplicarse por las causas enumeradas en dicho artículo?",
+"opciones":[
+"Llamado de atención, apercibimiento o suspensión",
+"Cesantía o exoneración",
+"Suspensión o exoneración únicamente",
+"Multa económica"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 60 inciso a: ¿Cuál de las siguientes conductas puede originar sanciones disciplinarias leves?",
+"opciones":[
+"Incumplimiento reiterado del horario fijado sin autorización",
+"Abandono definitivo del cargo",
+"Condena penal por delito doloso",
+"Uso indebido de fondos públicos"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 60 inciso b: ¿Qué cantidad de inasistencias injustificadas en un año calendario puede originar sanción disciplinaria leve?",
+"opciones":[
+"Más de cinco días continuos",
+"Más de quince días",
+"Más de diez días",
+"Más de veinte días"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 60 inciso c: ¿Cuál de las siguientes conductas puede ser sancionada si no reviste gravedad suficiente para sanción mayor?",
+"opciones":[
+"Falta de respeto a superiores, compañeros o público",
+"Condena por delito doloso",
+"Fraude administrativo",
+"Abandono definitivo del servicio"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 61: ¿Cuál es una causa para aplicar la sanción de cesantía?",
+"opciones":[
+"Inasistencias injustificadas que excedan 15 días en un año",
+"Llegar tarde reiteradamente",
+"Solicitar licencia gremial",
+"Realizar capacitación laboral"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 61 inciso b: ¿Qué conducta puede originar la sanción de cesantía?",
+"opciones":[
+"Faltas reiteradas en el cumplimiento de tareas",
+"Una sola llegada tarde",
+"Solicitud de licencia médica",
+"Uso de equipo de seguridad"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 61 inciso c: ¿Qué situación puede generar cesantía?",
+"opciones":[
+"Abandono injustificado del servicio gravemente perjudicial",
+"Uso de licencia anual",
+"Participación en capacitación",
+"Solicitud de traslado"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 62: ¿Cuál es una causa de exoneración del trabajador vial?",
+"opciones":[
+"Condena por delito relacionado con sus funciones",
+"Falta leve reiterada",
+"Llegadas tarde ocasionales",
+"Ausencia por enfermedad"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 62 inciso b: ¿Qué tipo de condena puede provocar exoneración?",
+"opciones":[
+"Cualquier delito doloso",
+"Contravención municipal",
+"Infracción de tránsito leve",
+"Falta administrativa menor"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 63: ¿Cuál es la sanción máxima en la primera ocasión si el trabajador presenta signos evidentes de ebriedad en horario de trabajo?",
+"opciones":[
+"Hasta tres días de suspensión",
+"Apercibimiento verbal",
+"Cesantía directa",
+"Exoneración inmediata"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 63: ¿Cuál es la sanción máxima en la segunda oportunidad por ebriedad en horario laboral?",
+"opciones":[
+"Hasta seis días de suspensión",
+"Apercibimiento",
+"Cesantía automática",
+"Exoneración directa"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 64: Antes de aplicar una sanción disciplinaria, la autoridad debe considerar:",
+"opciones":[
+"Las circunstancias agravantes y atenuantes del trabajador",
+"La opinión pública",
+"El tiempo de servicio únicamente",
+"Las decisiones del sindicato únicamente"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 65: ¿Quién puede aplicar sanciones de llamado de atención, apercibimiento o suspensión hasta tres días?",
+"opciones":[
+"El jefe del área",
+"El gobernador",
+"La Comisión Paritaria Nacional",
+"El Ministerio de Trabajo"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 65: ¿Quién aplica suspensiones mayores a tres días y hasta diez días?",
+"opciones":[
+"La máxima autoridad ejecutiva del Organismo Vial",
+"El jefe de área",
+"El sindicato",
+"La comisión paritaria provincial"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 66: ¿Qué sanciones requieren sumario administrativo previo?",
+"opciones":[
+"Suspensiones mayores a cinco días, cesantía y exoneración",
+"Llamado de atención",
+"Apercibimiento verbal",
+"Suspensión menor a tres días"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 67: ¿Cómo puede iniciarse un sumario administrativo?",
+"opciones":[
+"De oficio o por denuncia motivada y firmada",
+"Sólo por decisión sindical",
+"Sólo por orden judicial",
+"Sólo por pedido del trabajador"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 69: ¿Cuál es el plazo máximo para reunir antecedentes antes de formular cargos?",
+"opciones":[
+"60 días prorrogables por 30 días",
+"30 días prorrogables por 15",
+"90 días sin prórroga",
+"15 días prorrogables"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 71: ¿En qué plazo debe producirse la prueba después del descargo?",
+"opciones":[
+"20 días",
+"10 días",
+"30 días",
+"5 días"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 72: ¿Cuántos días tiene el imputado para presentar alegato luego del período probatorio?",
+"opciones":[
+"3 días",
+"10 días",
+"5 días",
+"20 días"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 73: ¿En qué plazo el instructor debe formular conclusiones del sumario?",
+"opciones":[
+"10 días",
+"30 días",
+"20 días",
+"5 días"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 74: ¿Cuánto puede durar como máximo la suspensión preventiva con goce de haberes?",
+"opciones":[
+"30 días",
+"15 días",
+"60 días",
+"90 días"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 75: Si un trabajador es procesado por delitos del artículo 62, ¿cómo será su suspensión?",
+"opciones":[
+"Sin goce de haberes",
+"Con goce de haberes",
+"Con medio sueldo",
+"No será suspendido"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 80: ¿Qué carácter tiene la Comisión Paritaria Nacional?",
+"opciones":[
+"Comisión permanente y negociadora",
+"Órgano judicial",
+"Entidad sindical",
+"Autoridad administrativa provincial"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 81: ¿Quiénes integran la Comisión Paritaria Nacional?",
+"opciones":[
+"Representantes del Consejo Vial Federal y de la Federación de Trabajadores Viales",
+"Solo representantes sindicales",
+"Solo funcionarios provinciales",
+"Representantes judiciales"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 90: ¿Qué fecha se establece como Día del Trabajador Vial?",
+"opciones":[
+"5 de octubre",
+"1 de mayo",
+"10 de junio",
+"12 de octubre"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 91: ¿Qué organización es reconocida como única asociación sindical de segundo grado de los trabajadores viales?",
+"opciones":[
+"Federación Argentina de Trabajadores Viales",
+"CGT",
+"CTA",
+"SITRAVICH"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 95: ¿Qué establece el convenio sobre la obra social de F.A.T.VIAL?",
+"opciones":[
+"Es patrimonio de los trabajadores viales y ellos son beneficiarios obligatorios",
+"Es voluntaria",
+"Solo para afiliados sindicales",
+"Solo para personal jerárquico"
+],
+"correcta":0
+},
+{
+"pregunta":"Artículo 97: ¿Cuál es el porcentaje de contribución solidaria que aportan los trabajadores viales?",
+"opciones":[
+"0.5% de la remuneración bruta",
+"2%",
+"1%",
+"5%"
+],
+"correcta":0
+},
+{
+"pregunta":"(Anexo I) ¿Cuál fue el objetivo principal de elaborar el nuevo Convenio Colectivo de Trabajo mencionado en el Anexo I?",
+"opciones":[
+"Sustituir el CCT Nº 55/89",
+"Modificar únicamente los salarios",
+"Crear un reglamento interno provincial",
+"Eliminar la negociación colectiva"
+],
+"correcta":0
+},
+{
+"pregunta":"(Anexo I) ¿Por qué no fue posible acordar un texto completo del nuevo convenio al momento de su aprobación?",
+"opciones":[
+"Por la falta de participación sindical",
+"Por circunstancias de las realidades provinciales y del marco nacional",
+"Por decisión del Ministerio de Trabajo",
+"Por falta de presupuesto estatal"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I) El Anexo I forma parte:",
+"opciones":[
+"De un documento independiente del convenio",
+"Del Convenio Colectivo de Trabajo como parte integrante",
+"De un reglamento interno sindical",
+"De la legislación laboral nacional"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I) Uno de los objetivos del acuerdo entre las partes es:",
+"opciones":[
+"Eliminar las comisiones paritarias",
+"Garantizar la Paz Social en el ámbito laboral de los Organismos Viales Provinciales",
+"Reducir la planta de personal",
+"Modificar el régimen jubilatorio"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Primero) ¿Dónde se continuarán las negociaciones sobre las normas pendientes de acuerdo?",
+"opciones":[
+"En el Ministerio de Trabajo",
+"En la Comisión Paritaria Nacional Permanente",
+"En cada organismo vial provincial",
+"En el Congreso Nacional"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Primero) ¿Qué capítulo del CCT Nº 55/89 será objeto de negociación?",
+"opciones":[
+"Capítulo III",
+"Capítulo V",
+"Capítulo VI",
+"Capítulo IX"
+],
+"correcta":2
+},
+{
+"pregunta":"(Anexo I - Punto Primero) Además del Capítulo VI, ¿qué artículos del Capítulo VII del CCT Nº 55/89 serán objeto de negociación?",
+"opciones":[
+"Artículos 12, 13 y 14",
+"Artículos 16, 17 y 18",
+"Artículos 20, 21 y 22",
+"Artículos 25, 26 y 27"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Primero) Las nuevas normas deberán elaborarse principalmente sobre la base de:",
+"opciones":[
+"Las decisiones del Poder Ejecutivo",
+"Las normas proyectadas por la Comisión Mixta Redactora",
+"Las resoluciones judiciales",
+"Las recomendaciones del sindicato únicamente"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Primero) El objetivo de las negociaciones es:",
+"opciones":[
+"Eliminar las normas anteriores",
+"Arribar a un texto que reemplace las normas del CCT Nº 55/89",
+"Suspender la aplicación del convenio",
+"Crear nuevas leyes laborales"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Segundo) Mientras dure la tarea de la Comisión Paritaria Nacional, el Artículo 18 del CCT Nº 55/89 será interpretado en relación con:",
+"opciones":[
+"El Artículo 15",
+"El Artículo 16",
+"El Artículo 20",
+"El Artículo 22"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Segundo) La interpretación conjunta de los artículos 18 y 16 del CCT Nº 55/89 se mantendrá:",
+"opciones":[
+"Hasta la aprobación de una nueva ley",
+"Hasta que finalice el convenio",
+"Mientras dure la tarea de la Comisión Paritaria Nacional",
+"Por tiempo indefinido"
+],
+"correcta":2
+},
+{
+"pregunta":"(Anexo I - Punto Tercero) ¿Qué organismo deberá confeccionar definitivamente el Nomenclador de Funciones?",
+"opciones":[
+"El Ministerio de Obras Públicas",
+"La Comisión Paritaria Nacional",
+"La Dirección Nacional de Vialidad",
+"El Poder Ejecutivo"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Tercero) ¿Qué facultad utiliza la Comisión Paritaria Nacional para confeccionar el Nomenclador de Funciones?",
+"opciones":[
+"Artículo 10 de la Ley 20.744",
+"Artículo 15 de la Ley 14.250",
+"Artículo 7 de la Ley 23.551",
+"Artículo 12 de la Ley 24.557"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Tercero) El Nomenclador de Funciones incluirá:",
+"opciones":[
+"Solo los puestos existentes",
+"Los puestos existentes y los nuevos puestos creados o a crearse",
+"Únicamente cargos jerárquicos",
+"Solo cargos administrativos"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Tercero) El estudio de evaluación de funciones será realizado:",
+"opciones":[
+"Exclusivamente por el Estado",
+"Por las partes en forma conjunta",
+"Solo por el sindicato",
+"Por una consultora privada"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Tercero) Para la evaluación de funciones la Comisión Paritaria puede:",
+"opciones":[
+"Delegar todas sus funciones",
+"Requerir asesoramiento de especialistas",
+"Solicitar intervención judicial",
+"Transferir la tarea al sindicato"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Tercero) El estudio de evaluación de funciones deberá tomar referencia sobre:",
+"opciones":[
+"Distintos servicios del organismo vial",
+"Un único sector administrativo",
+"Solo las tareas técnicas",
+"Solo los puestos jerárquicos"
+],
+"correcta":0
+},
+{
+"pregunta":"(Anexo I - Punto Tercero) El objetivo del estudio de evaluación de funciones es:",
+"opciones":[
+"Reducir el personal",
+"Lograr una adecuada valoración de las tareas",
+"Modificar los horarios laborales",
+"Eliminar categorías laborales"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I - Punto Tercero) ¿Cuál es el plazo máximo para concluir la confección del Nomenclador de Funciones?",
+"opciones":[
+"90 días",
+"120 días",
+"180 días",
+"365 días"
+],
+"correcta":2
+},
+{
+"pregunta":"(Anexo I - Punto Tercero) El plazo para elaborar el Nomenclador de Funciones comienza a contarse desde:",
+"opciones":[
+"La firma del acta sindical",
+"La puesta en vigencia del convenio",
+"La aprobación del Ministerio",
+"La elección de delegados"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I) Los resultados del Nomenclador de Funciones tendrán:",
+"opciones":[
+"Vigencia temporal de un año",
+"La misma vigencia del Convenio Colectivo de Trabajo",
+"Vigencia solo administrativa",
+"Vigencia hasta nueva negociación salarial"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I) ¿En qué ciudad se firmó el documento mencionado en el texto?",
+"opciones":[
+"Rawson",
+"Ciudad Autónoma de Buenos Aires",
+"Trelew",
+"Comodoro Rivadavia"
+],
+"correcta":1
+},
+{
+"pregunta":"(Anexo I) ¿En qué fecha fue firmado el documento según el texto?",
+"opciones":[
+"5 de julio de 2017",
+"10 de mayo de 2015",
+"12 de agosto de 2018",
+"1 de enero de 2016"
+],
+"correcta":0
+}  
+]

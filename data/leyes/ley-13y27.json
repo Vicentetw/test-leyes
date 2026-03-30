@@ -1,0 +1,949 @@
+[
+{
+"pregunta":"¿Qué establece la Ley XIII Nº 13 en la Provincia del Chubut?",
+"opciones":[
+"La mediación como método alternativo de resolución de conflictos",
+"La creación del Código Procesal Penal",
+"La instauración del juicio por jurados"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación es considerada un método:",
+"opciones":[
+"Alternativo de resolución de conflictos",
+"Judicial obligatorio",
+"Administrativo sancionatorio"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es el objetivo principal de la mediación?",
+"opciones":[
+"Facilitar el diálogo entre las partes",
+"Imponer sanciones",
+"Reemplazar al juez"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quién conduce el proceso de mediación?",
+"opciones":[
+"El mediador",
+"El juez",
+"El fiscal"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué principio garantiza que lo tratado en mediación no sea divulgado?",
+"opciones":[
+"Confidencialidad",
+"Publicidad",
+"Formalidad"
+],
+"correcta":0
+},
+{
+"pregunta":"La participación en mediación es:",
+"opciones":[
+"Voluntaria",
+"Obligatoria",
+"Sancionatoria"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué institución administra el sistema de mediación en el Poder Judicial?",
+"opciones":[
+"Superior Tribunal de Justicia",
+"Ministerio de Justicia",
+"Legislatura"
+],
+"correcta":0
+},
+{
+"pregunta":"El mediador debe actuar con:",
+"opciones":[
+"Imparcialidad",
+"Autoridad judicial",
+"Poder sancionatorio"
+],
+"correcta":0
+},
+{
+"pregunta":"Si las partes llegan a un acuerdo en mediación:",
+"opciones":[
+"Se firma un acuerdo entre las partes",
+"El mediador dicta sentencia",
+"Se archiva el caso sin validez"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación busca principalmente:",
+"opciones":[
+"Soluciones consensuadas",
+"Sanciones judiciales",
+"Aplicar multas"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quién puede solicitar una mediación?",
+"opciones":[
+"Cualquiera de las partes",
+"Solo el juez",
+"Solo el fiscal"
+],
+"correcta":0
+},
+{
+"pregunta":"Uno de los beneficios de la mediación es:",
+"opciones":[
+"Reducir la litigiosidad",
+"Aumentar juicios",
+"Eliminar tribunales"
+],
+"correcta":0
+},
+{
+"pregunta":"El mediador puede:",
+"opciones":[
+"Facilitar la comunicación",
+"Dictar sentencia",
+"Imponer sanciones"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación fomenta:",
+"opciones":[
+"La cultura del diálogo",
+"El castigo inmediato",
+"La sanción administrativa"
+],
+"correcta":0
+},
+{
+"pregunta":"Si no hay acuerdo en mediación:",
+"opciones":[
+"Las partes pueden acudir a juicio",
+"Se dicta sentencia automática",
+"Se aplica multa"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación contribuye a:",
+"opciones":[
+"Descongestionar tribunales",
+"Aumentar procesos",
+"Eliminar abogados"
+],
+"correcta":0
+},
+{
+"pregunta":"El mediador debe ser:",
+"opciones":[
+"Neutral",
+"Autoritario",
+"Juez del caso"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es la función principal del mediador?",
+"opciones":[
+"Facilitar el acuerdo",
+"Resolver el conflicto por sí mismo",
+"Aplicar sanciones"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación es un proceso:",
+"opciones":[
+"Cooperativo",
+"Punitivo",
+"Policial"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué promueve la mediación entre las partes?",
+"opciones":[
+"Comunicación directa",
+"Sanción judicial",
+"Resolución policial"
+],
+"correcta":0
+},
+
+{
+"pregunta":"¿Cuál es el rol del Poder Judicial respecto a la mediación?",
+"opciones":[
+"Organizar el sistema de mediación",
+"Eliminar la mediación",
+"Imponer sanciones en mediación"
+],
+"correcta":0
+},
+{
+"pregunta":"El acuerdo alcanzado en mediación debe ser:",
+"opciones":[
+"Voluntario",
+"Impuesto",
+"Obligatorio por el mediador"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación busca:",
+"opciones":[
+"Evitar procesos judiciales largos",
+"Aumentar juicios",
+"Eliminar tribunales"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué característica debe tener el mediador?",
+"opciones":[
+"Imparcialidad",
+"Autoridad judicial",
+"Poder sancionatorio"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación permite:",
+"opciones":[
+"Resolver conflictos pacíficamente",
+"Aplicar castigos",
+"Detener personas"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué principio implica que el mediador no favorezca a ninguna parte?",
+"opciones":[
+"Neutralidad",
+"Publicidad",
+"Formalidad"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación promueve:",
+"opciones":[
+"Acuerdos mutuamente aceptables",
+"Castigos judiciales",
+"Procesos penales"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación es útil porque:",
+"opciones":[
+"Reduce tiempos de resolución",
+"Aumenta conflictos",
+"Elimina jueces"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quién decide el resultado de la mediación?",
+"opciones":[
+"Las partes",
+"El mediador",
+"El juez"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación fortalece:",
+"opciones":[
+"El diálogo social",
+"El castigo",
+"La sanción"
+],
+"correcta":0
+},
+
+{
+"pregunta":"La mediación es considerada:",
+"opciones":[
+"Un método pacífico de resolución",
+"Un proceso penal",
+"Un procedimiento policial"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué busca evitar la mediación?",
+"opciones":[
+"Conflictos judiciales prolongados",
+"Acuerdos voluntarios",
+"Diálogo entre partes"
+],
+"correcta":0
+},
+{
+"pregunta":"El mediador debe mantener:",
+"opciones":[
+"Confidencialidad",
+"Publicidad",
+"Divulgación"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación se basa en:",
+"opciones":[
+"Cooperación",
+"Imposición",
+"Sanción"
+],
+"correcta":0
+},
+{
+"pregunta":"El proceso de mediación se caracteriza por ser:",
+"opciones":[
+"Flexible",
+"Rígido",
+"Punitivo"
+],
+"correcta":0
+},
+{
+"pregunta":"El acuerdo de mediación se logra mediante:",
+"opciones":[
+"Consenso",
+"Sentencia",
+"Multa"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación permite:",
+"opciones":[
+"Resolver conflictos sin juicio",
+"Eliminar derechos",
+"Aplicar penas"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué principio asegura la libertad de las partes en mediación?",
+"opciones":[
+"Voluntariedad",
+"Publicidad",
+"Obligatoriedad"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación favorece:",
+"opciones":[
+"Soluciones rápidas",
+"Procesos largos",
+"Sanciones"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es una ventaja de la mediación?",
+"opciones":[
+"Menor costo",
+"Mayor castigo",
+"Más procesos"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación se basa en el principio de:",
+"opciones":[
+"Participación voluntaria de las partes",
+"Imposición del mediador",
+"Decisión judicial obligatoria"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué papel cumple el mediador durante el proceso?",
+"opciones":[
+"Facilitar el diálogo",
+"Resolver el conflicto por decisión propia",
+"Aplicar sanciones"
+],
+"correcta":0
+},
+{
+"pregunta":"Una característica esencial de la mediación es:",
+"opciones":[
+"La neutralidad del mediador",
+"La autoridad judicial del mediador",
+"El carácter punitivo del proceso"
+],
+"correcta":0
+},
+{
+"pregunta":"El acuerdo logrado en mediación surge de:",
+"opciones":[
+"La voluntad de las partes",
+"La decisión del mediador",
+"El dictamen del juez"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación busca principalmente:",
+"opciones":[
+"Restablecer el diálogo entre las partes",
+"Aplicar sanciones",
+"Determinar culpables"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué sucede con la información compartida en mediación?",
+"opciones":[
+"Es confidencial",
+"Se publica",
+"Se comunica a terceros"
+],
+"correcta":0
+},
+{
+"pregunta":"El mediador debe actuar con:",
+"opciones":[
+"Imparcialidad",
+"Autoridad judicial",
+"Superioridad jerárquica"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación permite que las partes:",
+"opciones":[
+"Construyan soluciones propias",
+"Reciban sanciones",
+"Pierdan derechos"
+],
+"correcta":0
+},
+{
+"pregunta":"Uno de los objetivos del sistema de mediación es:",
+"opciones":[
+"Promover acuerdos voluntarios",
+"Aplicar penas",
+"Imponer sanciones administrativas"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación es un proceso:",
+"opciones":[
+"Colaborativo",
+"Autoritario",
+"Punitivo"
+],
+"correcta":0
+},
+{
+"pregunta":"El mediador debe evitar:",
+"opciones":[
+"Favorecer a una de las partes",
+"Escuchar a las partes",
+"Promover el diálogo"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué permite la mediación dentro del sistema judicial?",
+"opciones":[
+"Reducir conflictos judicializados",
+"Aumentar juicios",
+"Eliminar tribunales"
+],
+"correcta":0
+},
+{
+"pregunta":"Las decisiones en mediación son tomadas por:",
+"opciones":[
+"Las partes",
+"El mediador",
+"El juez"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación promueve:",
+"opciones":[
+"La cooperación",
+"El castigo",
+"La sanción penal"
+],
+"correcta":0
+},
+{
+"pregunta":"El proceso de mediación se caracteriza por:",
+"opciones":[
+"Flexibilidad",
+"Rigidez procesal",
+"Formalidad estricta"
+],
+"correcta":0
+},
+{
+"pregunta":"La función del mediador es:",
+"opciones":[
+"Facilitar acuerdos",
+"Imponer soluciones",
+"Dictar sentencia"
+],
+"correcta":0
+},
+{
+"pregunta":"Una ventaja de la mediación es:",
+"opciones":[
+"Rapidez en la resolución",
+"Mayor complejidad",
+"Incremento de litigios"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación fomenta:",
+"opciones":[
+"Soluciones pacíficas",
+"Sanciones judiciales",
+"Procesos penales"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué principio protege la información del proceso de mediación?",
+"opciones":[
+"Confidencialidad",
+"Publicidad",
+"Formalidad"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación se orienta a:",
+"opciones":[
+"Resolver conflictos mediante acuerdos",
+"Aplicar sanciones",
+"Determinar culpabilidad"
+],
+"correcta":0
+},
+{
+"pregunta":"El mediador debe actuar con:",
+"opciones":[
+"Neutralidad",
+"Autoridad judicial",
+"Superioridad jerárquica"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación busca evitar:",
+"opciones":[
+"Procesos judiciales largos",
+"Acuerdos voluntarios",
+"Comunicación entre partes"
+],
+"correcta":0
+},
+{
+"pregunta":"El acuerdo alcanzado en mediación es resultado de:",
+"opciones":[
+"Consenso",
+"Sentencia",
+"Multa"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación fortalece:",
+"opciones":[
+"El diálogo social",
+"El castigo judicial",
+"La sanción administrativa"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación promueve:",
+"opciones":[
+"La resolución pacífica",
+"El castigo inmediato",
+"La sanción automática"
+],
+"correcta":0
+},
+{
+"pregunta":"El mediador debe garantizar:",
+"opciones":[
+"Equilibrio entre las partes",
+"Dominio de una parte",
+"Autoridad judicial"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación favorece:",
+"opciones":[
+"Acuerdos mutuamente aceptables",
+"Sentencias obligatorias",
+"Sanciones administrativas"
+],
+"correcta":0
+},
+{
+"pregunta":"El proceso de mediación se basa en:",
+"opciones":[
+"Comunicación",
+"Imposición",
+"Autoridad"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación ayuda a:",
+"opciones":[
+"Reducir conflictos",
+"Aumentar juicios",
+"Eliminar acuerdos"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación permite:",
+"opciones":[
+"Resolver conflictos sin juicio",
+"Eliminar derechos",
+"Aplicar penas"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué requisito fundamental debe cumplir una persona para actuar como mediador en la provincia del Chubut?",
+"opciones":[
+"Estar inscripto en el Registro Provincial de Mediadores",
+"Ser abogado matriculado exclusivamente",
+"Ser funcionario judicial"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quién administra el Registro Provincial de Mediadores?",
+"opciones":[
+"El Superior Tribunal de Justicia",
+"El Ministerio de Gobierno",
+"La Legislatura Provincial"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué característica debe mantener el mediador durante todo el proceso?",
+"opciones":[
+"Imparcialidad",
+"Autoridad judicial",
+"Representación de una de las partes"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es uno de los principios fundamentales del procedimiento de mediación?",
+"opciones":[
+"Voluntariedad",
+"Jerarquía judicial",
+"Sanción disciplinaria"
+],
+"correcta":0
+},
+{
+"pregunta":"Si las partes alcanzan un acuerdo en mediación, el mismo se formaliza mediante:",
+"opciones":[
+"Un acta de acuerdo",
+"Una sentencia judicial",
+"Una resolución administrativa"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué sucede si una de las partes no comparece a la mediación?",
+"opciones":[
+"Se deja constancia en acta",
+"Se dicta sentencia",
+"Se archiva automáticamente la causa"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué carácter tiene la información tratada durante la mediación?",
+"opciones":[
+"Confidencial",
+"Pública",
+"Administrativa"
+],
+"correcta":0
+},
+{
+"pregunta":"La función principal del mediador es:",
+"opciones":[
+"Facilitar el diálogo entre las partes",
+"Resolver el conflicto mediante sentencia",
+"Imponer una solución obligatoria"
+],
+"correcta":0
+},
+{
+"pregunta":"El acuerdo logrado en mediación puede:",
+"opciones":[
+"Tener efectos jurídicos entre las partes",
+"No tener ningún efecto legal",
+"Ser solo una recomendación"
+],
+"correcta":0
+},
+{
+"pregunta":"El procedimiento de mediación busca principalmente:",
+"opciones":[
+"La solución consensuada del conflicto",
+"La imposición de sanciones",
+"La aplicación directa de normas penales"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es la máxima autoridad del Poder Judicial de la Provincia del Chubut?",
+"opciones":[
+"El Superior Tribunal de Justicia",
+"La Cámara de Apelaciones",
+"El Ministerio Público Fiscal"
+],
+"correcta":0
+},
+{
+"pregunta":"El Superior Tribunal de Justicia ejerce principalmente:",
+"opciones":[
+"La máxima función jurisdiccional provincial",
+"La función legislativa provincial",
+"La administración municipal"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué función cumplen las Cámaras de Apelaciones?",
+"opciones":[
+"Revisar las decisiones de los juzgados inferiores",
+"Dictar leyes provinciales",
+"Administrar el Poder Ejecutivo"
+],
+"correcta":0
+},
+{
+"pregunta":"Los juzgados de primera instancia tienen como función principal:",
+"opciones":[
+"Resolver los conflictos en primera etapa judicial",
+"Revisar sentencias del STJ",
+"Dictar leyes provinciales"
+],
+"correcta":0
+},
+{
+"pregunta":"El Ministerio Público Fiscal tiene como función:",
+"opciones":[
+"Promover la acción penal y defender la legalidad",
+"Resolver conflictos civiles",
+"Representar exclusivamente a jueces"
+],
+"correcta":0
+},
+{
+"pregunta":"El Ministerio Público de la Defensa tiene como finalidad:",
+"opciones":[
+"Garantizar la defensa de las personas que lo requieran",
+"Representar al Poder Ejecutivo",
+"Controlar al Poder Legislativo"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué principio rige la actuación del mediador respecto de las partes?",
+"opciones":[
+"Neutralidad",
+"Subordinación",
+"Autoridad jerárquica"
+],
+"correcta":0
+},
+{
+"pregunta":"El sistema de mediación contribuye principalmente a:",
+"opciones":[
+"Disminuir la litigiosidad judicial",
+"Aumentar los procesos judiciales",
+"Eliminar los tribunales"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué sucede si la mediación finaliza sin acuerdo?",
+"opciones":[
+"Las partes pueden recurrir a la vía judicial",
+"Se dicta sentencia automática",
+"Se aplica una multa obligatoria"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación se considera un método:",
+"opciones":[
+"Alternativo de resolución de conflictos",
+"Penal obligatorio",
+"Administrativo sancionatorio"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Quién puede iniciar una mediación?",
+"opciones":[
+"Cualquiera de las partes interesadas",
+"Solo un juez",
+"Exclusivamente el fiscal"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación promueve principalmente:",
+"opciones":[
+"La comunicación entre las partes",
+"La imposición de decisiones judiciales",
+"La sanción disciplinaria"
+],
+"correcta":0
+},
+{
+"pregunta":"El acuerdo de mediación refleja:",
+"opciones":[
+"La voluntad de las partes",
+"La decisión del mediador",
+"La sentencia del juez"
+],
+"correcta":0
+},
+{
+"pregunta":"La confidencialidad en mediación implica que:",
+"opciones":[
+"Lo tratado no puede divulgarse",
+"Debe publicarse en registros",
+"Debe informarse al público"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación es especialmente útil porque:",
+"opciones":[
+"Permite soluciones más rápidas y consensuadas",
+"Reemplaza todos los procesos judiciales",
+"Elimina el rol del juez"
+],
+"correcta":0
+},
+{
+"pregunta":"El mediador debe actuar:",
+"opciones":[
+"Sin favorecer a ninguna de las partes",
+"Representando a una de las partes",
+"Siguiendo instrucciones del juez"
+],
+"correcta":0
+},
+{
+"pregunta":"Uno de los objetivos del sistema de mediación es:",
+"opciones":[
+"Promover la cultura del diálogo",
+"Incrementar la litigiosidad",
+"Sustituir al Poder Judicial"
+],
+"correcta":0
+},
+{
+"pregunta":"La mediación forma parte de:",
+"opciones":[
+"Los métodos alternativos de resolución de conflictos",
+"Los procedimientos penales obligatorios",
+"Los sistemas disciplinarios administrativos"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué institución organiza el sistema judicial en la provincia?",
+"opciones":[
+"El Poder Judicial",
+"El Poder Legislativo",
+"El Poder Ejecutivo"
+],
+"correcta":0
+},
+{
+"pregunta":"Los tribunales provinciales ejercen:",
+"opciones":[
+"Función jurisdiccional",
+"Función legislativa",
+"Función ejecutiva"
+],
+"correcta":0
+},
+{
+"pregunta":"El Poder Judicial provincial tiene como misión principal:",
+"opciones":[
+"Administrar justicia",
+"Crear leyes",
+"Dirigir la política económica"
+],
+"correcta":0
+},
+{
+"pregunta":"Las decisiones judiciales pueden ser revisadas por:",
+"opciones":[
+"Tribunales de alzada",
+"El Poder Ejecutivo",
+"Los municipios"
+],
+"correcta":0
+},
+{
+"pregunta":"El sistema judicial provincial se organiza en:",
+"opciones":[
+"Diferentes instancias jurisdiccionales",
+"Un único tribunal",
+"Exclusivamente tribunales federales"
+],
+"correcta":0
+},
+{
+"pregunta":"Las cámaras de apelaciones actúan principalmente como:",
+"opciones":[
+"Tribunales revisores",
+"Tribunales legislativos",
+"Órganos administrativos"
+],
+"correcta":0
+},
+{
+"pregunta":"El Superior Tribunal de Justicia tiene competencia:",
+"opciones":[
+"En todo el territorio provincial",
+"Solo en la capital",
+"Solo en materia penal"
+],
+"correcta":0
+}
+]

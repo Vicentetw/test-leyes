@@ -1,0 +1,75 @@
+[
+{
+"titulo":"Ley V Nro 80  ",
+"archivo":"leyes/ley-v-80.json"
+},
+ {
+"titulo":"Ley XIII 25  ",
+"archivo":"leyes/ley-xiii-25.json"
+},
+{
+"titulo":"Ley XIII 18 ",
+"archivo":"leyes/ley-xiii-18.json"
+},
+{
+"titulo":"Ley XIII 4 ",
+"archivo":"leyes/ley-xiii4.json"
+},
+{
+"titulo":"Ley I 18",
+"archivo":"leyes/ley-i-18.json"
+},
+{
+"titulo":"Ley I 560",
+"archivo":"leyes/ley-i-560.json"
+},
+{
+"titulo":"Casos Prácticos",
+"archivo":"leyes/casos-practicos.json"
+},
+{
+"titulo":"Ley XIII Nº 27",
+"archivo":"leyes/ley-xiii-27.json"
+},
+{
+"titulo":"836",
+"archivo":"leyes/preguntas-836.json"
+},
+{
+"titulo":"Vialidad Convenio Colectivo de Trabajo",
+"archivo":"leyes/preguntasConvenio.json"
+},
+{
+"titulo":"Ley Orgánica Vialidad Chubut",
+"archivo":"leyes/ley-org-vialidad.json"
+},
+{
+"titulo":"Ley 174",
+"archivo":"leyes/preguntasv174.json"
+},
+{
+"titulo":"Ley 13 y 27",
+"archivo":"leyes/ley-13y27.json"
+},
+
+{
+"titulo":"Programación Angular",
+"archivo":"programacion/angular.json"
+},
+{
+"titulo":"JavaScript",
+"archivo":"programacion/javascript/preguntas.json"
+},
+{
+"titulo":"Reglamento interno del poder judicial",
+"archivo":"leyes/reglamento-interno.json"
+},
+{
+"titulo":"Ley 156",
+"archivo":"leyes/ley-i-156.json"
+},
+{
+"titulo":"Ley I 231",
+"archivo":"leyes/ley-i-231.json"
+}
+]

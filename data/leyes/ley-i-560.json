@@ -1,0 +1,1060 @@
+[
+  {
+    "pregunta": "¿Cuál es el criterio central para determinar responsabilidad del Estado por actividad ilegítima?",
+    "opciones": [
+      "Sacrificio especial",
+      "Falta de servicio",
+      "Daño económico",
+      "Culpa del agente"
+    ],
+    "correcta": 1,
+    "explicacion": "En la actividad ilegítima el eje es la falta de servicio: funcionamiento irregular del Estado."
+  },
+  {
+    "pregunta": "¿Cuál es el criterio central para determinar responsabilidad del Estado por actividad legítima?",
+    "opciones": [
+      "Falta de servicio",
+      "Culpa del agente",
+      "Sacrificio especial",
+      "Daño moral"
+    ],
+    "correcta": 2,
+    "explicacion": "En actividad legítima no hay error estatal, pero se indemniza si hay sacrificio especial."
+  },
+  {
+    "pregunta": "¿Qué significa 'falta de servicio'?",
+    "opciones": [
+      "Error leve del agente",
+      "Funcionamiento irregular, tardío o inexistente del Estado",
+      "Cualquier daño causado",
+      "Falta de presupuesto"
+    ],
+    "correcta": 1,
+    "explicacion": "Es cuando el Estado funciona mal, tarde o no actúa cuando debe."
+  },
+  {
+    "pregunta": "¿Qué implica el 'sacrificio especial'?",
+    "opciones": [
+      "Daño a toda la población",
+      "Daño leve",
+      "Daño particular que recae sobre un individuo de manera desigual",
+      "Error administrativo"
+    ],
+    "correcta": 2,
+    "explicacion": "Es cuando alguien soporta una carga mayor que el resto por una acción estatal legítima."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes situaciones encuadra en falta de servicio?",
+    "opciones": [
+      "Obra pública bien ejecutada que afecta a un vecino",
+      "Omisión estatal ante un deber legal específico",
+      "Ley válida que genera perjuicio",
+      "Política pública general"
+    ],
+    "correcta": 1,
+    "explicacion": "La omisión ante un deber concreto es un típico caso de falta de servicio."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes situaciones encuadra en sacrificio especial?",
+    "opciones": [
+      "Error administrativo",
+      "Falta de control estatal",
+      "Obra pública legítima que afecta gravemente a un solo sujeto",
+      "Acto ilegal"
+    ],
+    "correcta": 2,
+    "explicacion": "Es actividad lícita con daño individualizado."
+  },
+
+  {
+    "pregunta": "CASO TIPO SENTENCIA: El Estado provincial ejecuta una obra de canalización hídrica destinada a evitar inundaciones en una ciudad. La obra es técnicamente correcta y legal. Sin embargo, como consecuencia de la misma, un campo lindero comienza a sufrir anegamientos constantes que impiden su explotación productiva. El propietario demanda indemnización. El Estado sostiene que la obra es lícita, de interés público y que no hubo error técnico ni negligencia. ¿Cómo debe resolverse el caso?",
+    "opciones": [
+      "Rechazar la demanda por tratarse de actividad lícita sin error estatal",
+      "Admitir la demanda por falta de servicio",
+      "Admitir la demanda por configurarse un sacrificio especial con daño directo",
+      "Rechazar la demanda por ausencia de culpa del agente"
+    ],
+    "correcta": 2,
+    "explicacion": "No hay falta de servicio porque la actividad es correcta. Pero existe sacrificio especial: un individuo soporta un daño desigual por una obra de interés general."
+  },
+  {
+    "pregunta": "CASO TIPO SENTENCIA: La Administración omite reparar una ruta pese a existir informes técnicos que advertían el peligro. Se produce un accidente con daños graves. ¿Cuál es el encuadre correcto?",
+    "opciones": [
+      "Actividad legítima",
+      "Sacrificio especial",
+      "Falta de servicio",
+      "Caso fortuito"
+    ],
+    "correcta": 2,
+    "explicacion": "Existe omisión frente a un deber concreto: típica falta de servicio."
+  },
+  {
+    "pregunta": "CASO TIPO SENTENCIA: Una ley válida prohíbe una actividad comercial por razones ambientales, afectando económicamente a un grupo reducido de personas. ¿Hay responsabilidad?",
+    "opciones": [
+      "No, por tratarse de ley válida",
+      "Sí, por falta de servicio",
+      "Sí, si hay sacrificio especial",
+      "Solo si hay culpa legislativa"
+    ],
+    "correcta": 2,
+    "explicacion": "Actividad legítima con posible daño especial → indemnización."
+  },
+  {
+    "pregunta": "CASO TIPO SENTENCIA: El Estado actúa correctamente pero el daño afecta a toda la comunidad por igual. ¿Qué corresponde?",
+    "opciones": [
+      "Indemnizar a todos",
+      "Indemnizar parcialmente",
+      "No hay indemnización",
+      "Depende del monto"
+    ],
+    "correcta": 2,
+    "explicacion": "No hay sacrificio especial, el daño es general."
+  },
+  {
+    "pregunta": "CASO COMPLEJO: El Estado ejecuta una obra hídrica lícita que evita inundaciones en una ciudad pero provoca filtraciones constantes en un campo rural específico, afectando su productividad de forma permanente. No hay ocupación ni expropiación. ¿Cuál es la solución correcta?",
+    "opciones": [
+      "No hay responsabilidad por tratarse de actividad lícita",
+      "Hay responsabilidad por sacrificio especial con daño directo e individualizado",
+      "No hay responsabilidad porque el daño no es inmediato",
+      "Hay responsabilidad con indemnización plena incluyendo lucro cesante"
+    ],
+    "correcta": 1,
+    "explicacion": "La actividad es lícita pero genera un daño especial, directo y diferenciado. Se indemniza sin incluir lucro cesante."
+  },
+  {
+    "pregunta": "CASO COMPLEJO: Un particular interpone recurso administrativo fuera de plazo, pero luego demanda judicialmente dentro del plazo de prescripción alegando ilegitimidad del acto. ¿Qué ocurre?",
+    "opciones": [
+      "La acción judicial es válida porque el plazo de prescripción no venció",
+      "La acción es inadmisible por falta de agotamiento válido de la vía administrativa",
+      "Se admite parcialmente",
+      "Depende de la gravedad del acto"
+    ],
+    "correcta": 1,
+    "explicacion": "El agotamiento de la vía administrativa debe ser válido; un recurso extemporáneo no cumple el requisito."
+  },
+  {
+    "pregunta": "CASO COMPLEJO: El daño se produce por omisión estatal y por una causa natural extraordinaria concurrente. ¿Cómo se analiza?",
+    "opciones": [
+      "El Estado no responde por fuerza mayor",
+      "El Estado responde totalmente",
+      "Se analiza si la omisión fue causa adecuada del daño",
+      "Responde solo la naturaleza como caso fortuito"
+    ],
+    "correcta": 2,
+    "explicacion": "Debe evaluarse la causalidad adecuada: si la omisión fue determinante, puede haber responsabilidad."
+  },
+  {
+    "pregunta": "CASO COMPLEJO: Un acto estatal legítimo afecta económicamente a toda una región, pero un sujeto prueba un perjuicio mucho mayor que el resto. ¿Tiene derecho a indemnización?",
+    "opciones": [
+      "No, porque el daño es general",
+      "Sí, si acredita un daño especial diferenciado",
+      "No, por tratarse de política pública",
+      "Solo si hay culpa estatal"
+    ],
+    "correcta": 1,
+    "explicacion": "Aunque el daño sea general, si un sujeto demuestra afectación especial, puede haber indemnización."
+  },
+  {
+    "pregunta": "CASO COMPLEJO: El Estado celebra contrato, incumple sin culpa y causa daño. ¿Qué régimen se aplica?",
+    "opciones": [
+      "Responsabilidad extracontractual pura",
+      "Código Civil",
+      "Régimen contractual específico con aplicación supletoria de la ley",
+      "No hay responsabilidad sin culpa"
+    ],
+    "correcta": 2,
+    "explicacion": "La responsabilidad contractual se rige por normas específicas y la ley actúa supletoriamente."
+  },
+  {
+    "pregunta": "CASO COMPLEJO: Un daño es consecuencia mediata de una actividad estatal. ¿Es indemnizable?",
+    "opciones": [
+      "Sí, siempre",
+      "Sí, si hay prueba",
+      "No, solo consecuencias directas e inmediatas",
+      "Depende del juez"
+    ],
+    "correcta": 2,
+    "explicacion": "La ley limita la indemnización a consecuencias directas e inmediatas."
+  },
+  {
+    "pregunta": "CASO COMPLEJO: El Estado dicta un acto ilegítimo que luego es convalidado por una norma posterior. ¿Qué ocurre con la responsabilidad por el daño causado en el período intermedio?",
+    "opciones": [
+      "No hay responsabilidad por convalidación",
+      "Se mantiene la responsabilidad por el período de ilegitimidad",
+      "Se extingue el derecho a reclamar",
+      "Depende de la norma posterior"
+    ],
+    "correcta": 1,
+    "explicacion": "La convalidación posterior no elimina el daño causado durante la ilegitimidad."
+  },
+  {
+    "pregunta": "CASO COMPLEJO: El daño surge de la actividad de un concesionario, pero el Estado omitió controles obligatorios. ¿Puede haber responsabilidad estatal?",
+    "opciones": [
+      "No, nunca responde",
+      "Sí, si la omisión estatal es causa adecuada del daño",
+      "Sí, siempre en forma solidaria",
+      "No, porque el concesionario es responsable"
+    ],
+    "correcta": 1,
+    "explicacion": "Si la omisión de control es causa adecuada, puede haber responsabilidad estatal concurrente."
+  },
+  {
+    "pregunta": "CASO COMPLEJO: El daño se manifiesta años después del hecho generador. ¿Cómo se computa la prescripción?",
+    "opciones": [
+      "Desde el hecho",
+      "Desde la manifestación del daño o cuando la acción es posible",
+      "Desde la demanda",
+      "Desde la sentencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El plazo corre desde que el daño se manifiesta o es jurídicamente exigible."
+  },
+  {
+    "pregunta": "CASO COMPLEJO: El Estado indemniza y luego detecta culpa leve del agente. ¿Puede repetir parcialmente?",
+    "opciones": [
+      "Sí, proporcionalmente",
+      "No, solo dolo o culpa grave habilitan repetición",
+      "Sí, siempre",
+      "Depende del monto"
+    ],
+    "correcta": 1,
+    "explicacion": "La repetición solo procede ante dolo o culpa grave, no culpa leve."
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia más sutil pero crítica entre daño indemnizable y perjuicio no indemnizable en esta ley?",
+    "opciones": [
+      "El monto económico",
+      "La existencia de culpa",
+      "La especialidad, certeza y relación causal directa",
+      "La voluntad del Estado"
+    ],
+    "correcta": 2,
+    "explicacion": "El daño debe ser cierto, directo e individualizado; el perjuicio general no es indemnizable."
+  },
+  {
+    "pregunta": "¿Cuál es la trampa más frecuente al analizar responsabilidad por omisión?",
+    "opciones": [
+      "No analizar el daño",
+      "Suponer deber genérico de actuar",
+      "No analizar causalidad",
+      "Aplicar equidad"
+    ],
+    "correcta": 1,
+    "explicacion": "No todo daño por omisión genera responsabilidad; debe existir deber normativo específico."
+  },
+  {
+    "pregunta": "¿Qué rompe estructuralmente esta ley respecto del sistema civil clásico?",
+    "opciones": [
+      "La existencia de daño",
+      "La relación causal",
+      "La centralidad de la culpa y la aplicación del Código Civil",
+      "La reparación económica"
+    ],
+    "correcta": 2,
+    "explicacion": "Se abandona el eje de la culpa y la aplicación del Código Civil."
+  },
+  {
+    "pregunta": "Si dudás entre indemnizar o no en actividad lícita, ¿cuál es el criterio decisivo correcto?",
+    "opciones": [
+      "Monto del daño",
+      "Gravedad del hecho",
+      "Existencia de sacrificio especial",
+      "Intención estatal"
+    ],
+    "correcta": 2,
+    "explicacion": "El criterio clave es si el daño es especial y diferenciado."
+  },
+   {
+    "pregunta": "CASO: El Estado ejecuta una obra pública lícita que provoca anegamientos periódicos en un campo, afectando su producción. No hay expropiación. ¿Corresponde indemnización?",
+    "opciones": [
+      "No, por tratarse de actividad lícita",
+      "Sí, por configurarse un daño especial, directo y cierto",
+      "No, porque no hay ocupación del inmueble",
+      "Sí, incluyendo lucro cesante"
+    ],
+    "correcta": 1,
+    "explicacion": "En actividad lícita, si existe sacrificio especial con daño directo y cierto, corresponde indemnización. No incluye lucro cesante."
+  },
+  {
+    "pregunta": "CASO: Un particular demanda sin agotar la vía administrativa previa y no acredita urgencia. ¿Cuál es la consecuencia jurídica?",
+    "opciones": [
+      "Se admite la demanda igualmente",
+      "Se reconduce como acción civil",
+      "Se rechaza por inadmisible",
+      "Se suspende hasta agotar la vía"
+    ],
+    "correcta": 2,
+    "explicacion": "El agotamiento de la vía administrativa es requisito de admisibilidad."
+  },
+  {
+    "pregunta": "CASO: El daño es causado por una omisión estatal, pero no existe norma que obligue a actuar. ¿Hay responsabilidad?",
+    "opciones": [
+      "Sí, por el daño causado",
+      "Sí, si era previsible",
+      "No, por inexistencia de deber jurídico específico",
+      "Depende del criterio judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "La omisión solo genera responsabilidad si hay deber normativo concreto incumplido."
+  },
+  {
+    "pregunta": "CASO: Un concesionario de servicio público causa daño por incumplimiento. ¿Responde el Estado?",
+    "opciones": [
+      "Sí, solidariamente",
+      "Sí, subsidiariamente",
+      "No, si el hecho es imputable al concesionario",
+      "Sí, siempre que el servicio sea público"
+    ],
+    "correcta": 2,
+    "explicacion": "El Estado no responde, ni siquiera subsidiariamente, si el daño es imputable al concesionario."
+  },
+  {
+    "pregunta": "CASO: Un acto administrativo ilegítimo es anulado, pero no se acredita daño concreto. ¿Corresponde indemnización?",
+    "opciones": [
+      "Sí, por ilegitimidad",
+      "Sí, por daño moral presumido",
+      "No, por falta de daño cierto",
+      "Depende del acto"
+    ],
+    "correcta": 2,
+    "explicacion": "La responsabilidad requiere daño cierto. La ilegalidad sola no genera indemnización."
+  },
+  {
+    "pregunta": "CASO: El daño es causado parcialmente por la víctima y parcialmente por el Estado. ¿Qué solución corresponde?",
+    "opciones": [
+      "Responsabilidad total del Estado",
+      "Exoneración total del Estado",
+      "Reducción proporcional de la responsabilidad",
+      "Responsabilidad exclusiva de la víctima"
+    ],
+    "correcta": 2,
+    "explicacion": "Se aplica la teoría de la causalidad adecuada con reducción proporcional."
+  },
+  {
+    "pregunta": "CASO: Una norma válida elimina una actividad económica lícita afectando a un grupo reducido. ¿Hay responsabilidad estatal?",
+    "opciones": [
+      "No, por tratarse de actividad legítima",
+      "Sí, si hay daño especial y directo",
+      "Solo si hay culpa del legislador",
+      "Nunca hay responsabilidad legislativa"
+    ],
+    "correcta": 1,
+    "explicacion": "Puede haber responsabilidad por actividad lícita si existe afectación especial."
+  },
+  {
+    "pregunta": "CASO: El daño es eventual o hipotético, aunque probable. ¿Es indemnizable?",
+    "opciones": [
+      "Sí, si es probable",
+      "Sí, con prueba pericial",
+      "No, debe ser cierto",
+      "Depende del juez"
+    ],
+    "correcta": 2,
+    "explicacion": "El daño debe ser cierto, no eventual ni hipotético."
+  },
+  {
+    "pregunta": "CASO: El Estado paga indemnización por daño causado por un agente con culpa leve. ¿Puede repetir contra él?",
+    "opciones": [
+      "Sí, siempre",
+      "No, solo procede en caso de dolo o culpa grave",
+      "Sí, parcialmente",
+      "Depende del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "La acción de repetición procede solo ante dolo o culpa grave."
+  },
+  {
+    "pregunta": "CASO: El daño deriva de una actividad judicial válida luego revocada. ¿Hay responsabilidad?",
+    "opciones": [
+      "Sí, siempre",
+      "Sí, por error judicial",
+      "No, si la actividad fue legítima",
+      "Depende del resultado"
+    ],
+    "correcta": 2,
+    "explicacion": "La actividad judicial legítima no genera derecho a indemnización."
+  },
+  {
+    "pregunta": "¿Cuál es el principio central que justifica la indemnización en actividad lícita?",
+    "opciones": [
+      "Culpa del agente",
+      "Riesgo creado",
+      "Sacrificio especial",
+      "Equidad judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "Se indemniza cuando un individuo soporta una carga desigual frente al resto."
+  },
+  {
+    "pregunta": "¿Cuál es el error técnico más grave al aplicar esta ley?",
+    "opciones": [
+      "No analizar causalidad",
+      "Aplicar el Código Civil supletoriamente",
+      "No cuantificar el daño",
+      "No analizar prueba"
+    ],
+    "correcta": 1,
+    "explicacion": "La ley excluye expresamente la aplicación del Código Civil."
+  },
+  {
+    "pregunta": "¿Qué elemento es indispensable para que exista responsabilidad estatal?",
+    "opciones": [
+      "Culpa",
+      "Daño cierto",
+      "Lucro cesante",
+      "Intencionalidad"
+    ],
+    "correcta": 1,
+    "explicacion": "Sin daño cierto no hay responsabilidad."
+  },
+  {
+    "pregunta": "¿Qué caracteriza la responsabilidad del Estado en esta ley?",
+    "opciones": [
+      "Subjetiva",
+      "Indirecta",
+      "Objetiva y directa",
+      "Subsidiaria"
+    ],
+    "correcta": 2,
+    "explicacion": "No requiere culpa del agente y es imputable directamente al Estado."
+  },
+  {
+    "pregunta": "Según la Ley I Nº 560, ¿pueden aplicarse las normas del Código Civil en forma supletoria a la responsabilidad del Estado?",
+    "opciones": [
+      "Sí, siempre",
+      "Sí, cuando la ley no regula el caso",
+      "No, ni directa ni subsidiariamente",
+      "Solo en materia contractual"
+    ],
+    "correcta": 2,
+    "explicacion": "La ley excluye expresamente la aplicación del Código Civil, tanto directa como supletoria."
+  },
+  {
+    "pregunta": "¿Qué tipo de sanción está expresamente excluida contra el Estado?",
+    "opciones": [
+      "Daño emergente",
+      "Lucro cesante",
+      "Sanción pecuniaria disuasiva",
+      "Intereses"
+    ],
+    "correcta": 2,
+    "explicacion": "No se admiten daños punitivos contra el Estado, sus agentes ni funcionarios."
+  },
+  {
+    "pregunta": "¿Cuándo genera responsabilidad la omisión del Estado?",
+    "opciones": [
+      "Siempre que haya daño",
+      "Cuando el daño sea grave",
+      "Solo cuando exista un deber jurídico específico incumplido",
+      "Cuando lo determine el juez"
+    ],
+    "correcta": 2,
+    "explicacion": "La omisión solo es relevante si existe un deber normativo concreto de actuar."
+  },
+  {
+    "pregunta": "En la actividad legítima del Estado, ¿cuál es el requisito esencial para que exista indemnización?",
+    "opciones": [
+      "Culpa del agente",
+      "Daño general",
+      "Sacrificio especial y daño directo",
+      "Lucro cesante probado"
+    ],
+    "correcta": 2,
+    "explicacion": "Debe existir un daño especial, diferenciado y directo; no basta un perjuicio general."
+  },
+  {
+    "pregunta": "¿El Estado responde por daños causados por concesionarios de servicios públicos?",
+    "opciones": [
+      "Sí, siempre",
+      "Sí, en forma subsidiaria",
+      "No, si el daño es imputable al concesionario",
+      "Solo si hay control estatal"
+    ],
+    "correcta": 2,
+    "explicacion": "La ley excluye la responsabilidad estatal incluso subsidiaria en estos casos."
+  },
+
+  {
+    "pregunta": "CASO: El Estado realiza una obra lícita que beneficia a la comunidad pero perjudica gravemente a un único comerciante. ¿Cómo se resuelve?",
+    "opciones": [
+      "No hay indemnización por ser actividad lícita",
+      "Se indemniza por daño especial",
+      "Se indemniza solo si hay culpa",
+      "Depende del monto del daño"
+    ],
+    "correcta": 1,
+    "explicacion": "Se aplica el principio de sacrificio especial: daño individual frente a beneficio general."
+  },
+  {
+    "pregunta": "CASO: Un ciudadano demanda sin agotar la vía administrativa y no acredita urgencia. ¿Qué sucede?",
+    "opciones": [
+      "La demanda prospera igual",
+      "Se transforma en acción civil",
+      "Se rechaza por inadmisible",
+      "Se suspende el proceso"
+    ],
+    "correcta": 2,
+    "explicacion": "El agotamiento de la vía administrativa es requisito de admisibilidad."
+  },
+  {
+    "pregunta": "CASO: Un daño es causado en parte por el Estado y en parte por la víctima. ¿Qué corresponde?",
+    "opciones": [
+      "Responsabilidad total del Estado",
+      "Exoneración total del Estado",
+      "Reducción proporcional de responsabilidad",
+      "Responsabilidad del juez"
+    ],
+    "correcta": 2,
+    "explicacion": "Se aplica la teoría de la causalidad adecuada con posible reducción proporcional."
+  },
+  {
+    "pregunta": "CASO: Un acto estatal es ilegítimo pero no genera daño. ¿Hay indemnización?",
+    "opciones": [
+      "Sí, siempre",
+      "Sí, por daño moral",
+      "No, porque falta daño cierto",
+      "Depende del tipo de acto"
+    ],
+    "correcta": 2,
+    "explicacion": "La responsabilidad exige daño cierto; la ilegalidad sola no alcanza."
+  },
+  {
+    "pregunta": "CASO: Un daño proviene de fuerza mayor, pero el Estado había asumido ese riesgo contractualmente. ¿Responde?",
+    "opciones": [
+      "No, nunca",
+      "Sí, porque asumió el riesgo",
+      "Solo si hay culpa",
+      "Depende del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "La fuerza mayor exime salvo que el Estado haya asumido expresamente la responsabilidad."
+  },
+  {
+    "pregunta": "CASO: Una norma válida elimina una actividad económica lícita afectando solo a un grupo reducido. ¿Hay indemnización?",
+    "opciones": [
+      "No, por ser norma válida",
+      "Sí, si hay daño especial y directo",
+      "Solo si hay culpa legislativa",
+      "Nunca hay responsabilidad legislativa"
+    ],
+    "correcta": 1,
+    "explicacion": "Puede haber responsabilidad por actividad lícita si hay afectación especial."
+  },
+  {
+    "pregunta": "CASO: El daño es futuro e incierto pero probable. ¿Es indemnizable?",
+    "opciones": [
+      "Sí, si es probable",
+      "Sí, con peritaje",
+      "No, debe ser cierto",
+      "Depende del juez"
+    ],
+    "correcta": 2,
+    "explicacion": "El daño debe ser cierto, no eventual ni hipotético."
+  },
+  {
+    "pregunta": "¿Cuál es el núcleo conceptual de la responsabilidad del Estado en esta ley?",
+    "opciones": [
+      "La culpa del agente",
+      "El riesgo creado",
+      "La actividad estatal y la falta de servicio",
+      "La equidad judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "El eje es la actividad estatal como generadora del daño, no la culpa subjetiva."
+  },
+  {
+    "pregunta": "¿Cuál es el mayor error al analizar la responsabilidad del Estado?",
+    "opciones": [
+      "Confundir daño con perjuicio",
+      "Aplicar el Código Civil",
+      "Exigir culpa del agente",
+      "Todas las anteriores"
+    ],
+    "correcta": 3,
+    "explicacion": "Todos son errores comunes que contradicen el sistema autónomo de la ley."
+  },
+  {
+    "pregunta": "El Estado ejecuta una obra lícita que provoca inundaciones recurrentes en un campo lindero, afectando su explotación económica. No hay expropiación ni ocupación directa. ¿Corresponde indemnización?",
+    "opciones": [
+      "No, porque la actividad es lícita",
+      "Sí, porque hay daño especial, directo y cierto",
+      "No, porque el daño es indirecto",
+      "Sí, incluyendo lucro cesante"
+    ],
+    "correcta": 1,
+    "explicacion": "Aunque la actividad sea lícita, si hay daño especial, directo e individualizado (no general), corresponde indemnización. Se excluye lucro cesante."
+  },
+  {
+    "pregunta": "Un particular demanda al Estado sin agotar la vía administrativa alegando daño irreparable. ¿Puede prosperar la acción?",
+    "opciones": [
+      "Sí, siempre que haya daño",
+      "No, porque la vía administrativa es obligatoria sin excepciones",
+      "Sí, solo si acredita urgencia o imposibilidad de agotar la vía",
+      "Depende de la cuantía del daño"
+    ],
+    "correcta": 2,
+    "explicacion": "Aunque la regla es agotar la vía administrativa, doctrinariamente se admite excepción en casos de urgencia o daño irreparable."
+  },
+  {
+    "pregunta": "Un agente estatal actúa con culpa leve causando daño. El Estado indemniza. ¿Puede repetir contra el agente?",
+    "opciones": [
+      "Sí, siempre",
+      "No, porque no hay dolo ni culpa grave",
+      "Sí, si lo decide el juez",
+      "Sí, en forma parcial"
+    ],
+    "correcta": 1,
+    "explicacion": "La acción de repetición solo procede ante dolo o culpa grave del agente."
+  },
+  {
+    "pregunta": "El daño es causado por una combinación de omisión estatal y conducta de un tercero no identificado. ¿Cómo se analiza la responsabilidad?",
+    "opciones": [
+      "El Estado responde completamente",
+      "El Estado no responde en ningún caso",
+      "Se analiza si la omisión estatal fue causa adecuada del daño",
+      "Responde solo el tercero"
+    ],
+    "correcta": 2,
+    "explicacion": "Se requiere analizar causalidad adecuada. Si la omisión estatal fue determinante, puede haber responsabilidad."
+  },
+  {
+    "pregunta": "Un acto administrativo ilegítimo es anulado judicialmente, pero el daño alegado es meramente potencial. ¿Hay responsabilidad?",
+    "opciones": [
+      "Sí, por ilegitimidad del acto",
+      "No, porque falta daño cierto",
+      "Sí, por daño moral presumido",
+      "Depende del tipo de acto"
+    ],
+    "correcta": 1,
+    "explicacion": "La responsabilidad exige daño cierto. La ilegitimidad por sí sola no genera indemnización."
+  },
+  {
+    "pregunta": "El Estado impone una restricción general que afecta a toda la población económicamente. Un individuo demanda alegando perjuicio económico. ¿Tiene derecho a indemnización?",
+    "opciones": [
+      "Sí, por el daño económico sufrido",
+      "No, porque no hay daño especial sino general",
+      "Sí, si prueba mayor afectación que otros",
+      "Depende del monto del perjuicio"
+    ],
+    "correcta": 1,
+    "explicacion": "La ley exige daño especial e individualizado; los perjuicios generales no son indemnizables."
+  },
+  {
+    "pregunta": "Una actividad estatal genera un beneficio general pero un perjuicio individual grave. ¿Qué principio se aplica?",
+    "opciones": [
+      "Interés público absoluto",
+      "Responsabilidad por sacrificio especial",
+      "Irresponsabilidad estatal",
+      "Culpa del agente"
+    ],
+    "correcta": 1,
+    "explicacion": "Se aplica el principio de sacrificio especial: quien soporta un daño particular por el interés general debe ser indemnizado."
+  },
+  {
+    "pregunta": "Si el Estado celebra un contrato y causa daño por su ejecución, ¿qué régimen se aplica prioritariamente?",
+    "opciones": [
+      "Responsabilidad extracontractual pura",
+      "Código Civil",
+      "Normas contractuales específicas y supletoriamente la ley",
+      "Derecho penal"
+    ],
+    "correcta": 2,
+    "explicacion": "La responsabilidad contractual se rige por normas específicas, con aplicación supletoria de la ley."
+  },
+  {
+    "pregunta": "El daño se produce años después del hecho generador. ¿Desde cuándo corre la prescripción?",
+    "opciones": [
+      "Desde el hecho",
+      "Desde que el daño se manifiesta o la acción está expedita",
+      "Desde la demanda",
+      "Desde la sentencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El plazo corre desde que el daño se manifiesta o la acción puede ejercerse."
+  },
+  {
+    "pregunta": "El Estado dicta una norma válida que elimina una actividad económica lícita. ¿Hay responsabilidad?",
+    "opciones": [
+      "Sí, siempre",
+      "No, nunca",
+      "Sí, si hay daño especial y directo",
+      "Solo si hay culpa del legislador"
+    ],
+    "correcta": 2,
+    "explicacion": "Puede haber responsabilidad por actividad lícita si se produce un daño especial y directo."
+  },
+  {
+    "pregunta": "Un daño deriva de múltiples causas, una estatal y otras privadas. ¿Cómo se determina la responsabilidad?",
+    "opciones": [
+      "Se excluye al Estado",
+      "Se atribuye responsabilidad total al Estado",
+      "Se aplica causalidad adecuada y posible concurrencia de responsabilidades",
+      "Se responsabiliza solo al particular"
+    ],
+    "correcta": 2,
+    "explicacion": "Se analiza causalidad adecuada y puede haber responsabilidad concurrente."
+  },
+  {
+    "pregunta": "¿Qué diferencia clave existe entre responsabilidad por actividad legítima e ilegítima?",
+    "opciones": [
+      "En la legítima hay culpa",
+      "En la ilegítima no hay daño",
+      "En la legítima se excluye lucro cesante y se exige sacrificio especial",
+      "No hay diferencia relevante"
+    ],
+    "correcta": 2,
+    "explicacion": "La actividad legítima exige daño especial y excluye lucro cesante; la ilegítima se basa en falta de servicio."
+  },
+  {
+    "pregunta": "Si el Estado paga indemnización por error judicial ilegítimo, ¿qué principio se aplica?",
+    "opciones": [
+      "Irresponsabilidad judicial",
+      "Responsabilidad objetiva por actividad ilegítima",
+      "Responsabilidad subjetiva del juez",
+      "Equidad pura"
+    ],
+    "correcta": 1,
+    "explicacion": "Si la actividad judicial es ilegítima (error), puede generar responsabilidad objetiva del Estado."
+  },
+  {
+    "pregunta": "¿Cuál es el error conceptual más común al analizar esta ley?",
+    "opciones": [
+      "Confundir daño con perjuicio",
+      "Aplicar normas del Código Civil en forma supletoria",
+      "Exigir culpa del agente",
+      "Todas las anteriores"
+    ],
+    "correcta": 3,
+    "explicacion": "La ley rompe con el esquema civil: no se aplica el Código Civil, no se exige culpa y se exige daño jurídico específico."
+  },
+  {
+    "pregunta": "Si el Estado realiza una obra pública lícita que disminuye el valor comercial de un inmueble cercano sin privar su uso, ¿corresponde indemnización?",
+    "opciones": [
+      "Sí, siempre que exista cualquier tipo de daño",
+      "Sí, incluyendo lucro cesante",
+      "No, porque no hay sacrificio especial ni daño directo indemnizable",
+      "Sí, pero solo si el propietario lo reclama administrativamente"
+    ],
+    "correcta": 2,
+    "explicacion": "En actividad legítima solo se indemniza daño cierto, directo e individualizado. La mera disminución de valor sin afectación sustancial no configura daño indemnizable."
+  },
+  {
+    "pregunta": "Un daño se produce por omisión estatal, pero no existe una norma específica que obligue a actuar. ¿Hay responsabilidad?",
+    "opciones": [
+      "Sí, porque el Estado siempre debe prevenir daños",
+      "Sí, si el daño era previsible",
+      "No, porque falta el deber jurídico específico de actuación",
+      "Depende del criterio del juez"
+    ],
+    "correcta": 2,
+    "explicacion": "La omisión solo genera responsabilidad cuando existe un deber normativo expreso y determinado incumplido."
+  },
+  {
+    "pregunta": "Si un concesionario de servicio público causa un daño por incumplimiento contractual, ¿puede el Estado ser demandado?",
+    "opciones": [
+      "Sí, en forma solidaria",
+      "Sí, en forma subsidiaria",
+      "No, si el hecho es imputable al concesionario",
+      "Sí, siempre que el servicio sea público"
+    ],
+    "correcta": 2,
+    "explicacion": "La ley excluye responsabilidad estatal incluso subsidiaria cuando el daño es imputable al concesionario."
+  },
+  {
+    "pregunta": "Si el Estado es condenado y paga una indemnización, ¿puede repetir contra el agente público?",
+    "opciones": [
+      "No, nunca",
+      "Sí, solo si hubo dolo o culpa grave del agente",
+      "Sí, automáticamente en todos los casos",
+      "Solo si lo autoriza el Poder Legislativo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Estado puede ejercer acción de repetición contra el agente en caso de dolo o culpa grave."
+  },
+  {
+    "pregunta": "Un particular sufre daño por una sentencia judicial válida pero luego revocada. ¿Hay responsabilidad estatal?",
+    "opciones": [
+      "Sí, siempre que haya daño",
+      "Sí, por error judicial",
+      "No, si la actividad judicial fue legítima",
+      "Depende del monto del daño"
+    ],
+    "correcta": 2,
+    "explicacion": "La actividad judicial legítima no genera derecho a indemnización según la ley."
+  },
+  {
+    "pregunta": "Si el daño fue causado parcialmente por la víctima y parcialmente por el Estado, ¿qué sucede?",
+    "opciones": [
+      "El Estado responde totalmente",
+      "El Estado queda totalmente exento",
+      "Se reduce proporcionalmente la responsabilidad estatal",
+      "No hay responsabilidad en ningún caso"
+    ],
+    "correcta": 2,
+    "explicacion": "La participación de la víctima en el daño reduce o excluye la responsabilidad estatal según el caso."
+  },
+  {
+    "pregunta": "¿Qué sucede si el actor inicia directamente una demanda judicial sin agotar la vía administrativa previa?",
+    "opciones": [
+      "La demanda es válida sin condiciones",
+      "Se rechaza por falta de vía administrativa previa",
+      "Se transforma automáticamente en acción civil",
+      "Se admite solo si hay urgencia"
+    ],
+    "correcta": 1,
+    "explicacion": "La ley exige agotar la vía administrativa previa como requisito de admisibilidad de la acción."
+  },
+  {
+    "pregunta": "Si el daño es eventual o hipotético, ¿puede ser indemnizado?",
+    "opciones": [
+      "Sí, si es probable",
+      "Sí, si hay peritaje",
+      "No, debe ser cierto y actual",
+      "Depende del juez"
+    ],
+    "correcta": 2,
+    "explicacion": "El daño debe ser cierto, no eventual ni hipotético, para ser indemnizable."
+  },
+  {
+    "pregunta": "Un daño surge de una actividad lícita estatal que afecta a toda la comunidad por igual. ¿Hay indemnización?",
+    "opciones": [
+      "Sí, para todos los afectados",
+      "No, porque no hay sacrificio especial",
+      "Sí, si el daño es económico",
+      "Depende del monto"
+    ],
+    "correcta": 1,
+    "explicacion": "Debe existir un daño especial y diferenciado, no general o común a todos."
+  },
+  {
+    "pregunta": "¿Qué ocurre si el Estado dicta un acto administrativo ilegítimo pero no produce daño?",
+    "opciones": [
+      "Hay responsabilidad automática",
+      "Hay nulidad pero no responsabilidad indemnizatoria",
+      "Se indemniza el daño moral",
+      "Se presume daño"
+    ],
+    "correcta": 1,
+    "explicacion": "La responsabilidad requiere daño cierto; la ilegitimidad sin daño no genera obligación de indemnizar."
+  },
+  {
+    "pregunta": "Si un daño ocurre por fuerza mayor pero el Estado había asumido contractualmente ese riesgo, ¿responde?",
+    "opciones": [
+      "No, nunca responde por fuerza mayor",
+      "Sí, porque asumió el riesgo",
+      "Solo si hay culpa",
+      "Depende del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "La fuerza mayor exime salvo que el Estado haya asumido expresamente la responsabilidad."
+  },
+  {
+    "pregunta": "¿Cuál es el fundamento central de la responsabilidad estatal en esta ley?",
+    "opciones": [
+      "La culpa del agente",
+      "El riesgo creado",
+      "La falta de servicio o actividad estatal",
+      "La equidad judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "El eje es la falta de servicio o la actividad estatal que causa daño, no la culpa subjetiva."
+  },
+  {
+    "pregunta": "Si el daño deriva de una actividad lícita pero no es directo sino mediato, ¿se indemniza?",
+    "opciones": [
+      "Sí, siempre",
+      "Sí, si hay prueba",
+      "No, solo daños directos e inmediatos",
+      "Depende del tipo de actividad"
+    ],
+    "correcta": 2,
+    "explicacion": "La ley limita la indemnización a consecuencias directas e inmediatas."
+  },
+  {
+    "pregunta": "En la acción judicial, ¿qué característica tiene la jurisdicción interviniente?",
+    "opciones": [
+      "Civil ordinaria",
+      "Penal",
+      "Contencioso-administrativa de plena jurisdicción",
+      "Laboral"
+    ],
+    "correcta": 2,
+    "explicacion": "La acción se tramita como contencioso-administrativa de plena jurisdicción."
+  },
+  {
+    "pregunta": "¿Qué sucede si transcurre el plazo de prescripción sin demandar?",
+    "opciones": [
+      "Se suspende automáticamente",
+      "Se extingue el derecho a reclamar",
+      "Se transforma en acción civil",
+      "Puede reclamarse igual"
+    ],
+    "correcta": 1,
+    "explicacion": "La prescripción extingue la acción si no se ejerce dentro del plazo legal de 3 años."
+  },
+   {
+    "pregunta": "Según la Ley I Nº 560, ¿qué carácter tiene la responsabilidad del Estado y qué implica ello jurídicamente?",
+    "opciones": [
+      "Subjetiva e indirecta, dependiente del dolo del agente",
+      "Objetiva y directa, sin necesidad de acreditar culpa del agente",
+      "Objetiva pero subsidiaria respecto del agente",
+      "Subjetiva pero solidaria con el agente"
+    ],
+    "correcta": 1,
+    "explicacion": "La ley establece que la responsabilidad del Estado es objetiva y directa, lo que implica que no se requiere probar culpa del agente sino la relación entre el daño y la actividad estatal."
+  },
+  {
+    "pregunta": "¿Cuál es el alcance de inaplicabilidad del Código Civil según la Ley I Nº 560?",
+    "opciones": [
+      "No se aplica solo en forma subsidiaria",
+      "No se aplica ni directa ni subsidiariamente",
+      "Se aplica únicamente en casos no regulados",
+      "Se aplica siempre de forma supletoria"
+    ],
+    "correcta": 1,
+    "explicacion": "La ley establece expresamente que las disposiciones del Código Civil no son aplicables ni directa ni subsidiariamente a la responsabilidad del Estado. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "pregunta": "¿Qué tipo de sanción queda expresamente excluida contra el Estado según el Art. 1?",
+    "opciones": [
+      "Daño emergente",
+      "Lucro cesante",
+      "Sanción pecuniaria disuasiva",
+      "Intereses moratorios"
+    ],
+    "correcta": 2,
+    "explicacion": "La ley excluye expresamente la sanción pecuniaria disuasiva (daños punitivos) contra el Estado, sus agentes y funcionarios. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes constituye un supuesto de exención de responsabilidad estatal?",
+    "opciones": [
+      "Falta de servicio",
+      "Relación causal indirecta",
+      "Caso fortuito o fuerza mayor",
+      "Error administrativo leve"
+    ],
+    "correcta": 2,
+    "explicacion": "El Estado se exime en caso de fuerza mayor o caso fortuito, salvo que haya asumido responsabilidad por ley especial. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "pregunta": "¿Qué ocurre si el daño es causado por la víctima o un tercero ajeno?",
+    "opciones": [
+      "El Estado responde solidariamente",
+      "El Estado responde subsidiariamente",
+      "El Estado queda exento de responsabilidad",
+      "El Estado responde parcialmente"
+    ],
+    "correcta": 2,
+    "explicacion": "La ley establece que el Estado no responde cuando el daño es causado por la víctima o un tercero por quien no debe responder. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un requisito de la responsabilidad estatal por actividad ilegítima?",
+    "opciones": [
+      "Daño cierto",
+      "Relación de causalidad adecuada",
+      "Lucro cesante probado",
+      "Falta de servicio"
+    ],
+    "correcta": 2,
+    "explicacion": "Los requisitos son daño cierto, imputabilidad, causalidad y falta de servicio; el lucro cesante no es requisito estructural."
+  },
+  {
+    "pregunta": "¿Cuándo genera responsabilidad la omisión del Estado?",
+    "opciones": [
+      "Siempre que exista daño",
+      "Solo cuando haya culpa grave",
+      "Solo cuando exista un deber normativo expreso incumplido",
+      "Cuando lo determine el juez"
+    ],
+    "correcta": 2,
+    "explicacion": "La omisión solo genera responsabilidad si hay inobservancia de un deber normativo expreso y determinado. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "pregunta": "En la responsabilidad por actividad legítima, ¿qué tipo de daños NO se indemnizan?",
+    "opciones": [
+      "Daño emergente",
+      "Daño directo",
+      "Lucro cesante",
+      "Valor objetivo del bien"
+    ],
+    "correcta": 2,
+    "explicacion": "La ley excluye expresamente el lucro cesante en la responsabilidad por actividad legítima. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "pregunta": "¿Qué criterio se utiliza para cuantificar la indemnización en actividad legítima?",
+    "opciones": [
+      "Daño subjetivo del afectado",
+      "Valor afectivo del bien",
+      "Valor objetivo y consecuencias directas e inmediatas",
+      "Ganancias futuras estimadas"
+    ],
+    "correcta": 2,
+    "explicacion": "La indemnización incluye el valor objetivo del bien y daños directos e inmediatos, excluyendo aspectos personales o hipotéticos. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "pregunta": "¿Qué ocurre con los daños derivados de la actividad judicial legítima?",
+    "opciones": [
+      "Se indemnizan siempre",
+      "Se indemnizan parcialmente",
+      "No generan derecho a indemnización",
+      "Dependen del tipo de sentencia"
+    ],
+    "correcta": 2,
+    "explicacion": "La ley establece expresamente que no hay indemnización por actividad judicial legítima. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "pregunta": "¿El Estado responde por los daños causados por concesionarios de servicios públicos?",
+    "opciones": [
+      "Sí, siempre en forma solidaria",
+      "Sí, subsidiariamente",
+      "No, cuando el hecho es imputable al concesionario",
+      "Solo si hay contrato vigente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Estado no responde ni siquiera subsidiariamente si el daño es imputable al concesionario o contratista. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "pregunta": "¿Cuál es el plazo de prescripción para demandar al Estado por responsabilidad extracontractual?",
+    "opciones": [
+      "1 año",
+      "2 años",
+      "3 años",
+      "5 años"
+    ],
+    "correcta": 2,
+    "explicacion": "La ley fija un plazo de 3 años desde el daño o desde que la acción esté expedita. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "pregunta": "¿Qué particularidad tiene la responsabilidad contractual del Estado según la ley?",
+    "opciones": [
+      "Se rige exclusivamente por esta ley",
+      "Se rige por normas específicas y esta ley supletoriamente",
+      "Se rige por el Código Civil",
+      "No existe responsabilidad contractual estatal"
+    ],
+    "correcta": 1,
+    "explicacion": "La responsabilidad contractual se rige por normas específicas y esta ley se aplica de manera supletoria. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "pregunta": "¿Qué tipo de acción puede iniciar el interesado para reclamar responsabilidad estatal?",
+    "opciones": [
+      "Acción penal directa",
+      "Acción contencioso-administrativa de plena jurisdicción",
+      "Acción laboral",
+      "Acción tributaria"
+    ],
+    "correcta": 1,
+    "explicacion": "La ley prevé la acción contencioso-administrativa de plena jurisdicción ante el Superior Tribunal de Justicia. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "pregunta": "¿Qué particularidad tiene la prueba del daño en la acción de plena jurisdicción?",
+    "opciones": [
+      "Debe presentarse íntegramente al inicio",
+      "Puede diferirse a la etapa de ejecución de sentencia",
+      "No es necesaria",
+      "Solo se admite prueba documental"
+    ],
+    "correcta": 1,
+    "explicacion": "La ley permite diferir la prueba sobre cuantificación del daño a la etapa de ejecución. :contentReference[oaicite:13]{index=13}"
+  }
+]

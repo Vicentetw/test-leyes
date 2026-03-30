@@ -1,0 +1,2278 @@
+[
+{
+"pregunta":"¿Qué herramienta permite dividir la aplicación en microfrontends?",
+"opciones":[
+"Module Federation",
+"Webpack Loader",
+"NPM scripts",
+"Angular CLI"
+],
+"correcta":0,
+"explicacion":"Module Federation permite microfrontends."
+},
+{
+"pregunta":"¿Qué técnica mejora rendimiento de listas grandes?",
+"opciones":[
+"Virtual scrolling",
+"ngFor simple",
+"CSS grid",
+"DOM cloning"
+],
+"correcta":0,
+"explicacion":"Virtual scroll renderiza solo elementos visibles."
+},
+{
+"pregunta":"¿Qué patrón de estado se usa comúnmente en Angular enterprise?",
+"opciones":[
+"NGRX",
+"MVC clásico",
+"DAO",
+"Repository SQL"
+],
+"correcta":0,
+"explicacion":"NgRx implementa Redux para manejar estado global."
+},
+{
+"pregunta":"¿Qué ventaja tiene Lazy Loading en aplicaciones grandes?",
+"opciones":[
+"Reduce bundle inicial",
+"Aumenta CSS",
+"Reduce HTML",
+"Evita HTTP"
+],
+"correcta":0,
+"explicacion":"Lazy loading carga módulos solo cuando se necesitan."
+},
+{
+"pregunta":"¿Qué estrategia mejora rendimiento de componentes grandes?",
+"opciones":[
+"OnPush",
+"Default",
+"Manual DOM",
+"DOM polling"
+],
+"correcta":0,
+"explicacion":"OnPush reduce ciclos de detección de cambios."
+},
+{
+"pregunta":"¿Qué patrón separa lógica de UI en Angular?",
+"opciones":[
+"Smart vs Dumb components",
+"MVC clásico",
+"DAO pattern",
+"Singleton"
+],
+"correcta":0,
+"explicacion":"Separa componentes de presentación y contenedores."
+},    
+{
+"pregunta":"¿Qué output produce?\n\n{{5*3}}",
+"opciones":[
+"15",
+"8",
+"53",
+"Error"
+],
+"correcta":0,
+"explicacion":"Angular evalúa operaciones matemáticas."
+},
+{
+"pregunta":"¿Qué output produce?\n\n{{true && false}}",
+"opciones":[
+"false",
+"true",
+"undefined",
+"error"
+],
+"correcta":0,
+"explicacion":"El operador lógico AND devuelve false."
+},
+{
+"pregunta":"¿Qué output produce?\n\n{{2+2}}",
+"opciones":[
+"4",
+"22",
+"Error",
+"undefined"
+],
+"correcta":0,
+"explicacion":"Angular evalúa expresiones dentro de interpolación."
+},
+{
+"pregunta":"¿Qué output produce?\n\n{{'Angular'.toUpperCase()}}",
+"opciones":[
+"ANGULAR",
+"angular",
+"Angular",
+"Error"
+],
+"correcta":0,
+"explicacion":"toUpperCase convierte texto a mayúsculas."
+},
+{
+"pregunta":"¿Qué output produce?\n\n{{[1,2,3].length}}",
+"opciones":[
+"3",
+"2",
+"1",
+"Error"
+],
+"correcta":0,
+"explicacion":"length devuelve tamaño del array."
+},
+{
+"pregunta":"¿Qué output produce?\n\n{{10>5}}",
+"opciones":[
+"true",
+"false",
+"10",
+"Error"
+],
+"correcta":0,
+"explicacion":"Angular permite evaluar expresiones booleanas."
+},    
+{
+"pregunta":"¿Qué hace este código?\n\ntrackBy(index,item){return item.id}",
+"opciones":[
+"Optimiza renderizado de listas",
+"Ordena array",
+"Filtra datos",
+"Transforma objeto"
+],
+"correcta":0,
+"explicacion":"trackBy ayuda a Angular a identificar elementos únicos."
+},
+{
+"pregunta":"¿Qué hace este código?\n\nthis.router.navigate(['/home'])",
+"opciones":[
+"Navega a ruta home",
+"Recarga página",
+"Cierra aplicación",
+"Crea componente"
+],
+"correcta":0,
+"explicacion":"Router permite navegación programática."
+},
+{
+"pregunta":"¿Qué hace este código?\n\n@Injectable({providedIn:'root'})",
+"opciones":[
+"Define servicio singleton global",
+"Crea componente",
+"Crea pipe",
+"Crea módulo"
+],
+"correcta":0,
+"explicacion":"providedIn root registra el servicio en el inyector global."
+},
+{
+"pregunta":"¿Qué hace este código?\n\nsignal(0)",
+"opciones":[
+"Crea un estado reactivo",
+"Crea observable",
+"Crea servicio",
+"Crea ruta"
+],
+"correcta":0,
+"explicacion":"Signals son la nueva API reactiva de Angular."
+},
+{
+"pregunta":"¿Qué hace este código?\n\ncomputed(()=>count()*2)",
+"opciones":[
+"Valor derivado reactivo",
+"Evento",
+"Observable",
+"HTTP request"
+],
+"correcta":0,
+"explicacion":"computed crea un valor dependiente de signals."
+},
+{
+"pregunta":"¿Qué hace este código?\n\n@Component({selector:'app-test',template:'{{title}}'})\nexport class TestComponent{ title='Angular'; }",
+"opciones":[
+"Muestra Angular en la vista",
+"Genera un error",
+"No muestra nada",
+"Renderiza JSON"
+],
+"correcta":0,
+"explicacion":"La interpolación {{title}} muestra el valor de la propiedad del componente."
+},
+{
+"pregunta":"¿Qué ocurre con este código?\n\n<button (click)='count++'>Click</button>\n{{count}}",
+"opciones":[
+"Incrementa el valor en cada click",
+"No funciona",
+"Recarga la página",
+"Solo funciona una vez"
+],
+"correcta":0,
+"explicacion":"El event binding ejecuta una expresión al hacer click."
+},
+{
+"pregunta":"¿Qué hace este código?\n\n<div *ngIf='isVisible'>Hola</div>",
+"opciones":[
+"Renderiza el div solo si isVisible es true",
+"Oculta el div con CSS",
+"Siempre muestra el div",
+"Causa error"
+],
+"correcta":0,
+"explicacion":"ngIf crea o destruye el elemento dependiendo de la condición."
+},
+{
+"pregunta":"¿Qué hace este código?\n\n<li *ngFor='let item of items'>{{item}}</li>",
+"opciones":[
+"Itera sobre un array",
+"Ordena datos",
+"Filtra datos",
+"Convierte datos"
+],
+"correcta":0,
+"explicacion":"ngFor recorre una colección y renderiza elementos."
+},
+{
+"pregunta":"¿Qué hace este código?\n\n<input [(ngModel)]='name'>\n{{name}}",
+"opciones":[
+"Two way data binding",
+"Solo binding de lectura",
+"Solo binding de escritura",
+"No funciona"
+],
+"correcta":0,
+"explicacion":"[(ngModel)] sincroniza el valor del input con la propiedad."
+},
+{
+"pregunta":"¿Qué hace este código?\n\n<div [class.active]='isActive'></div>",
+"opciones":[
+"Aplica clase CSS condicional",
+"Aplica estilo inline",
+"Cambia HTML",
+"Agrega componente"
+],
+"correcta":0,
+"explicacion":"Property binding permite activar clases dinámicamente."
+},
+{
+"pregunta":"¿Qué hace este código?\n\n{{ price | currency }}",
+"opciones":[
+"Formatea número como moneda",
+"Convierte a string",
+"Multiplica precio",
+"Parsea JSON"
+],
+"correcta":0,
+"explicacion":"currency pipe muestra números como valores monetarios."
+},
+{
+"pregunta":"¿Qué hace este código?\n\n{{ date | date:'short' }}",
+"opciones":[
+"Formatea fecha",
+"Convierte string",
+"Calcula tiempo",
+"Ordena fecha"
+],
+"correcta":0,
+"explicacion":"El pipe date transforma fechas."
+},
+{
+"pregunta":"¿Qué hace este código?\n\nthis.http.get('/api/users')",
+"opciones":[
+"Realiza petición GET",
+"Actualiza datos",
+"Elimina datos",
+"Renderiza HTML"
+],
+"correcta":0,
+"explicacion":"HttpClient.get ejecuta una solicitud HTTP."
+},
+{
+"pregunta":"¿Qué hace este código?\n\nconstructor(private service:UserService){}",
+"opciones":[
+"Inyección de dependencias",
+"Creación manual",
+"Importación dinámica",
+"Registro de módulo"
+],
+"correcta":0,
+"explicacion":"Angular inyecta automáticamente el servicio."
+},    
+{
+"pregunta":"¿Qué es Angular?",
+"opciones":[
+"Un framework frontend para construir aplicaciones web",
+"Una base de datos",
+"Un lenguaje de programación",
+"Un servidor backend"
+],
+"correcta":0,
+"explicacion":"Angular es un framework frontend desarrollado por Google que permite crear aplicaciones web modernas, especialmente SPA (Single Page Applications)."
+},
+{
+"pregunta":"¿Qué lenguaje utiliza principalmente Angular?",
+"opciones":[
+"Java",
+"TypeScript",
+"PHP",
+"Python"
+],
+"correcta":1,
+"explicacion":"Angular está construido principalmente con TypeScript, que es un superset de JavaScript que agrega tipado estático y características orientadas a objetos."
+},
+{
+"pregunta":"¿Qué comando instala Angular CLI?",
+"opciones":[
+"npm install -g @angular/cli",
+"npm angular install",
+"ng install angular",
+"npm create angular"
+],
+"correcta":0,
+"explicacion":"Angular CLI se instala globalmente usando npm con el comando npm install -g @angular/cli, lo que permite usar el comando ng desde la terminal."
+},
+{
+"pregunta":"¿Qué comando crea un nuevo proyecto Angular?",
+"opciones":[
+"ng create",
+"ng new",
+"angular new",
+"npm angular new"
+],
+"correcta":1,
+"explicacion":"El comando ng new crea un nuevo proyecto Angular completo con su estructura de carpetas, dependencias y configuración inicial."
+},
+{
+"pregunta":"¿Qué comando inicia el servidor de desarrollo en Angular?",
+"opciones":[
+"ng start",
+"ng run",
+"ng serve",
+"ng open"
+],
+"correcta":2,
+"explicacion":"El comando ng serve compila la aplicación y levanta un servidor de desarrollo normalmente en http://localhost:4200."
+},
+{
+"pregunta":"¿Qué archivo es el punto de entrada principal de una aplicación Angular?",
+"opciones":[
+"main.ts",
+"app.ts",
+"index.ts",
+"start.ts"
+],
+"correcta":0,
+"explicacion":"main.ts es el archivo donde Angular arranca la aplicación y carga el módulo principal mediante bootstrapModule."
+},
+{
+"pregunta":"¿Qué archivo define el módulo principal de Angular?",
+"opciones":[
+"app.module.ts",
+"main.module.ts",
+"angular.module.ts",
+"core.module.ts"
+],
+"correcta":0,
+"explicacion":"app.module.ts define el módulo principal de la aplicación Angular y declara los componentes que forman parte del sistema."
+},
+{
+"pregunta":"¿Qué decorador se usa para definir un componente?",
+"opciones":[
+"@Component",
+"@Module",
+"@Service",
+"@Directive"
+],
+"correcta":0,
+"explicacion":"El decorador @Component se usa para definir un componente Angular indicando su selector, template y estilos."
+},
+{
+"pregunta":"¿Qué propiedad del decorador Component define el selector HTML?",
+"opciones":[
+"selector",
+"template",
+"style",
+"component"
+],
+"correcta":0,
+"explicacion":"La propiedad selector define la etiqueta HTML que representará al componente, por ejemplo <app-root>."
+},
+{
+"pregunta":"¿Qué propiedad define la plantilla HTML de un componente?",
+"opciones":[
+"template",
+"html",
+"view",
+"render"
+],
+"correcta":0,
+"explicacion":"La propiedad template permite definir directamente el HTML dentro del decorador del componente."
+},
+{
+"pregunta":"¿Qué propiedad enlaza un archivo HTML externo en un componente?",
+"opciones":[
+"templateUrl",
+"htmlUrl",
+"viewUrl",
+"componentUrl"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué propiedad enlaza archivos CSS a un componente?",
+"opciones":[
+"styles",
+"css",
+"styleUrls",
+"cssUrls"
+],
+"correcta":2
+},
+{
+"pregunta":"¿Qué comando genera un componente nuevo?",
+"opciones":[
+"ng create component",
+"ng generate component",
+"ng make component",
+"ng new component"
+],
+"correcta":1
+},
+{
+"pregunta":"¿Cuál es la abreviatura del comando generate component?",
+"opciones":[
+"ng gc",
+"ng g c",
+"ng component",
+"ng create c"
+],
+"correcta":1
+},
+{
+"pregunta":"¿Qué archivo contiene el HTML de un componente?",
+"opciones":[
+"component.html",
+"component.ts",
+"component.css",
+"component.json"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué archivo contiene la lógica de un componente?",
+"opciones":[
+"component.ts",
+"component.html",
+"component.css",
+"component.json"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué archivo contiene los estilos de un componente?",
+"opciones":[
+"component.css",
+"component.ts",
+"component.html",
+"component.json"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué estructura usa Angular para organizar la aplicación?",
+"opciones":[
+"Componentes",
+"Tablas",
+"Servicios web",
+"Controladores SQL"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué archivo contiene la configuración del proyecto Angular?",
+"opciones":[
+"angular.json",
+"package.json",
+"tsconfig.json",
+"app.json"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué sistema de módulos usa Angular?",
+"opciones":[
+"NgModules",
+"NodeModules",
+"JavaModules",
+"PhpModules"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué decorador define un módulo?",
+"opciones":[
+"@NgModule",
+"@Module",
+"@AngularModule",
+"@ComponentModule"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué propiedad de NgModule define componentes?",
+"opciones":[
+"declarations",
+"imports",
+"providers",
+"exports"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué propiedad importa otros módulos?",
+"opciones":[
+"imports",
+"providers",
+"declarations",
+"exports"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué propiedad define servicios disponibles?",
+"opciones":[
+"providers",
+"imports",
+"exports",
+"declarations"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué propiedad define el componente raíz?",
+"opciones":[
+"bootstrap",
+"root",
+"start",
+"entry"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es el componente raíz de una app Angular?",
+"opciones":[
+"AppComponent",
+"RootComponent",
+"MainComponent",
+"AngularComponent"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué archivo HTML principal carga Angular?",
+"opciones":[
+"index.html",
+"main.html",
+"app.html",
+"root.html"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué etiqueta normalmente aparece en index.html para cargar Angular?",
+"opciones":[
+"<app-root>",
+"<angular-root>",
+"<main-root>",
+"<root-app>"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué herramienta administra dependencias en Angular?",
+"opciones":[
+"npm",
+"pip",
+"composer",
+"gradle"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué archivo lista dependencias del proyecto?",
+"opciones":[
+"package.json",
+"dependencies.json",
+"modules.json",
+"angular.json"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué comando instala dependencias del proyecto?",
+"opciones":[
+"npm install",
+"npm start",
+"ng install",
+"node install"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué comando compila la aplicación para producción?",
+"opciones":[
+"ng build",
+"ng compile",
+"ng deploy",
+"ng run"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué carpeta contiene el código fuente?",
+"opciones":[
+"src",
+"app",
+"source",
+"code"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué carpeta contiene componentes normalmente?",
+"opciones":[
+"app",
+"components",
+"views",
+"src"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué archivo define configuraciones TypeScript?",
+"opciones":[
+"tsconfig.json",
+"typescript.json",
+"ts.json",
+"config.ts"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué archivo define scripts npm?",
+"opciones":[
+"package.json",
+"angular.json",
+"npm.json",
+"scripts.json"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué comando crea un servicio Angular?",
+"opciones":[
+"ng generate service",
+"ng new service",
+"ng make service",
+"ng create service"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es la abreviatura para generar servicio?",
+"opciones":[
+"ng g s",
+"ng service",
+"ng gs",
+"ng create s"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué decorador define un servicio?",
+"opciones":[
+"@Injectable",
+"@Service",
+"@Provider",
+"@AngularService"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué sistema permite usar servicios automáticamente?",
+"opciones":[
+"Inyección de dependencias",
+"Renderización",
+"Interpolación",
+"Observables"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué palabra clave se usa para inyectar un servicio en un constructor?",
+"opciones":[
+"constructor",
+"inject",
+"service",
+"provide"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué patrón usa Angular para separar lógica y vista?",
+"opciones":[
+"MVC",
+"MVP",
+"MVVM",
+"DAO"
+],
+"correcta":2
+},
+{
+"pregunta":"¿Qué extensión tienen los archivos TypeScript?",
+"opciones":[
+".ts",
+".js",
+".angular",
+".tsx"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué archivo arranca la aplicación Angular?",
+"opciones":[
+"main.ts",
+"index.ts",
+"start.ts",
+"app.ts"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué función inicia el módulo principal?",
+"opciones":[
+"bootstrapModule",
+"startModule",
+"runModule",
+"launchModule"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué plataforma se usa para arrancar Angular en navegador?",
+"opciones":[
+"platformBrowserDynamic",
+"platformBrowser",
+"platformStart",
+"platformAngular"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué tipo de aplicación permite Angular crear?",
+"opciones":[
+"SPA",
+"CLI",
+"API",
+"FTP"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué significa SPA?",
+"opciones":[
+"Single Page Application",
+"Server Page App",
+"Static Page Angular",
+"Single Program Angular"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué característica principal tienen las SPA?",
+"opciones":[
+"No recargan la página completa",
+"Recargan cada vista",
+"Usan PHP obligatorio",
+"Solo funcionan offline"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué es la interpolación en Angular?",
+"opciones":[
+"Una forma de insertar valores dinámicos en el HTML",
+"Un método para crear componentes",
+"Un sistema para importar módulos",
+"Un tipo de servicio Angular"
+],
+"correcta":0,
+"explicacion":"La interpolación usa doble llave {{ }} para mostrar datos del componente dentro del HTML."
+},
+{
+"pregunta":"¿Qué sintaxis usa Angular para interpolación?",
+"opciones":[
+"[[valor]]",
+"{{valor}}",
+"(valor)",
+"[valor]"
+],
+"correcta":1,
+"explicacion":"Angular usa la sintaxis {{valor}} para insertar datos dinámicos dentro del template HTML."
+},
+{
+"pregunta":"¿Qué tipo de enlace permite asignar valores a propiedades HTML?",
+"opciones":[
+"Property Binding",
+"Event Binding",
+"Two-way Binding",
+"Template Binding"
+],
+"correcta":0,
+"explicacion":"Property Binding permite enlazar propiedades del componente a propiedades del DOM usando la sintaxis [propiedad]."
+},
+{
+"pregunta":"¿Qué sintaxis representa Property Binding?",
+"opciones":[
+"(propiedad)",
+"[propiedad]",
+"{{propiedad}}",
+"*propiedad"
+],
+"correcta":1,
+"explicacion":"La sintaxis [propiedad] permite enlazar datos desde el componente hacia el DOM."
+},
+{
+"pregunta":"¿Qué tipo de binding permite escuchar eventos del DOM?",
+"opciones":[
+"Property Binding",
+"Event Binding",
+"Data Binding",
+"Input Binding"
+],
+"correcta":1,
+"explicacion":"Event Binding permite reaccionar a eventos como click, input o submit."
+},
+{
+"pregunta":"¿Qué sintaxis se usa para Event Binding?",
+"opciones":[
+"[evento]",
+"(evento)",
+"{{evento}}",
+"*evento"
+],
+"correcta":1,
+"explicacion":"La sintaxis (evento) permite ejecutar métodos del componente cuando ocurre un evento del DOM."
+},
+{
+"pregunta":"¿Qué tipo de binding permite sincronizar datos en ambas direcciones?",
+"opciones":[
+"Two-way data binding",
+"Event binding",
+"Property binding",
+"Template binding"
+],
+"correcta":0,
+"explicacion":"Two-way data binding sincroniza datos entre el componente y la vista."
+},
+{
+"pregunta":"¿Qué directiva permite two-way data binding en formularios?",
+"opciones":[
+"ngModel",
+"ngForm",
+"ngInput",
+"ngBind"
+],
+"correcta":0,
+"explicacion":"ngModel permite enlazar datos bidireccionalmente entre input y componente."
+},
+{
+"pregunta":"¿Qué sintaxis usa two-way data binding?",
+"opciones":[
+"[(ngModel)]",
+"[ngModel]",
+"(ngModel)",
+"{{ngModel}}"
+],
+"correcta":0,
+"explicacion":"La sintaxis banana in a box [(ngModel)] combina property binding y event binding."
+},
+{
+"pregunta":"¿Qué módulo debe importarse para usar ngModel?",
+"opciones":[
+"FormsModule",
+"HttpModule",
+"RouterModule",
+"BrowserModule"
+],
+"correcta":0,
+"explicacion":"FormsModule debe importarse en el módulo para usar ngModel."
+},
+{
+"pregunta":"¿Qué es una directiva en Angular?",
+"opciones":[
+"Una clase que modifica el comportamiento o apariencia del DOM",
+"Un módulo que gestiona rutas",
+"Un servicio que maneja datos",
+"Un archivo de configuración"
+],
+"correcta":0,
+"explicacion":"Las directivas permiten modificar la estructura o el comportamiento de los elementos del DOM."
+},
+{
+"pregunta":"¿Cuántos tipos principales de directivas existen en Angular?",
+"opciones":[
+"2",
+"3",
+"4",
+"5"
+],
+"correcta":1,
+"explicacion":"Angular tiene tres tipos: componentes, directivas estructurales y directivas de atributo."
+},
+{
+"pregunta":"¿Qué hacen las directivas estructurales?",
+"opciones":[
+"Modifican la estructura del DOM",
+"Modifican estilos CSS",
+"Gestionan rutas",
+"Crean servicios"
+],
+"correcta":0,
+"explicacion":"Las directivas estructurales agregan o eliminan elementos del DOM."
+},
+{
+"pregunta":"¿Qué símbolo identifica una directiva estructural en el HTML?",
+"opciones":[
+"#",
+"*",
+"@",
+"$"
+],
+"correcta":1,
+"explicacion":"El asterisco (*) indica que la directiva modifica la estructura del DOM."
+},
+{
+"pregunta":"¿Qué directiva se usa para mostrar u ocultar elementos?",
+"opciones":[
+"*ngIf",
+"*ngShow",
+"*ngDisplay",
+"*ngVisible"
+],
+"correcta":0,
+"explicacion":"*ngIf agrega o elimina elementos del DOM dependiendo de una condición."
+},
+{
+"pregunta":"¿Qué directiva permite iterar listas en Angular?",
+"opciones":[
+"*ngLoop",
+"*ngEach",
+"*ngFor",
+"*ngRepeat"
+],
+"correcta":2,
+"explicacion":"*ngFor permite recorrer arrays y renderizar elementos repetidos."
+},
+{
+"pregunta":"¿Qué sintaxis básica usa ngFor?",
+"opciones":[
+"let item in items",
+"let item of items",
+"item foreach items",
+"item from items"
+],
+"correcta":1,
+"explicacion":"La sintaxis correcta es let item of items."
+},
+{
+"pregunta":"¿Qué directiva permite múltiples condiciones tipo switch?",
+"opciones":[
+"*ngIfElse",
+"*ngSwitch",
+"*ngCase",
+"*ngConditional"
+],
+"correcta":1,
+"explicacion":"ngSwitch permite renderizar diferentes elementos según un valor."
+},
+{
+"pregunta":"¿Qué directiva define un caso dentro de ngSwitch?",
+"opciones":[
+"*ngOption",
+"*ngCase",
+"*ngSwitchCase",
+"*ngValue"
+],
+"correcta":2,
+"explicacion":"ngSwitchCase define cada caso dentro de un switch."
+},
+{
+"pregunta":"¿Qué directiva define el caso por defecto en ngSwitch?",
+"opciones":[
+"*ngDefault",
+"*ngElse",
+"*ngSwitchDefault",
+"*ngOtherwise"
+],
+"correcta":2,
+"explicacion":"ngSwitchDefault se ejecuta cuando ningún caso coincide."
+},
+{
+"pregunta":"¿Qué hacen las directivas de atributo?",
+"opciones":[
+"Modifican apariencia o comportamiento de un elemento",
+"Crean rutas",
+"Crean módulos",
+"Controlan dependencias"
+],
+"correcta":0,
+"explicacion":"Las directivas de atributo cambian estilos o comportamiento del elemento."
+},
+{
+"pregunta":"¿Qué directiva cambia clases CSS dinámicamente?",
+"opciones":[
+"ngClass",
+"ngCss",
+"ngStyleClass",
+"classBind"
+],
+"correcta":0,
+"explicacion":"ngClass permite agregar o quitar clases CSS dinámicamente."
+},
+{
+"pregunta":"¿Qué directiva permite modificar estilos inline dinámicamente?",
+"opciones":[
+"ngStyle",
+"ngCss",
+"ngInline",
+"ngDesign"
+],
+"correcta":0,
+"explicacion":"ngStyle permite aplicar estilos dinámicos a elementos HTML."
+},
+{
+"pregunta":"¿Qué directiva permite aplicar múltiples clases condicionalmente?",
+"opciones":[
+"ngClass",
+"ngStyle",
+"ngIf",
+"ngFor"
+],
+"correcta":0,
+"explicacion":"ngClass puede recibir objetos, arrays o strings para aplicar clases."
+},
+{
+"pregunta":"¿Qué estructura puede recibir ngClass?",
+"opciones":[
+"Objeto",
+"Array",
+"String",
+"Todas las anteriores"
+],
+"correcta":3,
+"explicacion":"ngClass admite objetos, arrays o strings para definir clases."
+},
+{
+"pregunta":"¿Qué es un Pipe en Angular?",
+"opciones":[
+"Una herramienta para transformar datos en el template",
+"Un servicio HTTP",
+"Un módulo de Angular",
+"Un tipo de componente"
+],
+"correcta":0,
+"explicacion":"Los Pipes permiten transformar datos directamente en la vista sin modificar la lógica del componente."
+},
+{
+"pregunta":"¿Qué símbolo se usa para aplicar un Pipe en Angular?",
+"opciones":[
+"|",
+">",
+"#",
+"&"
+],
+"correcta":0,
+"explicacion":"El símbolo | permite encadenar un Pipe para transformar un valor en el template."
+},
+{
+"pregunta":"¿Qué Pipe convierte texto a mayúsculas?",
+"opciones":[
+"uppercase",
+"upper",
+"textUpper",
+"toUpper"
+],
+"correcta":0,
+"explicacion":"El Pipe uppercase transforma todo el texto a letras mayúsculas."
+},
+{
+"pregunta":"¿Qué Pipe convierte texto a minúsculas?",
+"opciones":[
+"lowercase",
+"lower",
+"textLower",
+"toLower"
+],
+"correcta":0,
+"explicacion":"El Pipe lowercase convierte el texto a letras minúsculas."
+},
+{
+"pregunta":"¿Qué Pipe formatea fechas?",
+"opciones":[
+"date",
+"time",
+"formatDate",
+"datetime"
+],
+"correcta":0,
+"explicacion":"El Pipe date permite mostrar fechas en distintos formatos."
+},
+{
+"pregunta":"¿Qué Pipe formatea números como moneda?",
+"opciones":[
+"currency",
+"money",
+"coin",
+"price"
+],
+"correcta":0,
+"explicacion":"El Pipe currency transforma números en formato monetario."
+},
+{
+"pregunta":"¿Qué Pipe permite formatear números decimales?",
+"opciones":[
+"decimal",
+"number",
+"float",
+"formatNumber"
+],
+"correcta":1,
+"explicacion":"El Pipe number permite definir cantidad de decimales y formato numérico."
+},
+{
+"pregunta":"¿Qué Pipe transforma texto capitalizando palabras?",
+"opciones":[
+"capitalize",
+"titlecase",
+"upperfirst",
+"textcase"
+],
+"correcta":1,
+"explicacion":"El Pipe titlecase convierte la primera letra de cada palabra en mayúscula."
+},
+{
+"pregunta":"¿Qué Pipe permite mostrar una parte de un array o string?",
+"opciones":[
+"slice",
+"cut",
+"split",
+"segment"
+],
+"correcta":0,
+"explicacion":"El Pipe slice devuelve una porción de un array o string."
+},
+{
+"pregunta":"¿Qué Pipe muestra datos JSON formateados?",
+"opciones":[
+"object",
+"json",
+"formatJson",
+"dataJson"
+],
+"correcta":1,
+"explicacion":"El Pipe json se usa principalmente para depuración mostrando objetos en formato JSON."
+},
+{
+"pregunta":"¿Se pueden encadenar varios Pipes?",
+"opciones":[
+"Sí",
+"No",
+"Solo dos",
+"Solo en servicios"
+],
+"correcta":0,
+"explicacion":"Angular permite aplicar múltiples Pipes en cadena."
+},
+{
+"pregunta":"¿Qué Pipe se usa para manejar Observables en el template?",
+"opciones":[
+"async",
+"observable",
+"subscribe",
+"stream"
+],
+"correcta":0,
+"explicacion":"El Pipe async se suscribe automáticamente a Observables o Promises."
+},
+{
+"pregunta":"¿Qué ventaja tiene el Pipe async?",
+"opciones":[
+"Maneja automáticamente la suscripción y cancelación",
+"Mejora el CSS",
+"Reduce el tamaño del bundle",
+"Reemplaza servicios"
+],
+"correcta":0,
+"explicacion":"async evita manejar manualmente subscribe y unsubscribe."
+},
+{
+"pregunta":"¿Qué decorador se usa para crear un Pipe personalizado?",
+"opciones":[
+"@Pipe",
+"@Transform",
+"@AngularPipe",
+"@DataPipe"
+],
+"correcta":0,
+"explicacion":"El decorador @Pipe define un Pipe personalizado en Angular."
+},
+{
+"pregunta":"¿Qué método debe implementar un Pipe personalizado?",
+"opciones":[
+"execute()",
+"run()",
+"transform()",
+"apply()"
+],
+"correcta":2,
+"explicacion":"El método transform() recibe el valor y devuelve el dato transformado."
+},
+{
+"pregunta":"¿Qué módulo de Angular permite manejar la navegación entre vistas?",
+"opciones":[
+"RouterModule",
+"NavigationModule",
+"RouteManager",
+"PageModule"
+],
+"correcta":0,
+"explicacion":"RouterModule es el módulo que permite definir rutas y navegar entre componentes en Angular."
+},
+{
+"pregunta":"¿Qué archivo suele definir las rutas de una aplicación Angular?",
+"opciones":[
+"app-routing.module.ts",
+"routes.ts",
+"router.config.ts",
+"navigation.module.ts"
+],
+"correcta":0,
+"explicacion":"El archivo app-routing.module.ts suele contener la configuración de rutas de la aplicación."
+},
+{
+"pregunta":"¿Qué interfaz define una ruta en Angular?",
+"opciones":[
+"Route",
+"RouterConfig",
+"Path",
+"Navigation"
+],
+"correcta":0,
+"explicacion":"La interfaz Route define la configuración de cada ruta."
+},
+{
+"pregunta":"¿Qué propiedad de una ruta define la URL?",
+"opciones":[
+"path",
+"url",
+"route",
+"link"
+],
+"correcta":0,
+"explicacion":"La propiedad path define la ruta que aparecerá en la URL."
+},
+{
+"pregunta":"¿Qué propiedad indica qué componente cargar en una ruta?",
+"opciones":[
+"view",
+"component",
+"target",
+"element"
+],
+"correcta":1,
+"explicacion":"La propiedad component define el componente que se mostrará cuando se acceda a esa ruta."
+},
+{
+"pregunta":"¿Qué directiva HTML permite navegar entre rutas?",
+"opciones":[
+"routerLink",
+"ngRoute",
+"routeLink",
+"routerNavigate"
+],
+"correcta":0,
+"explicacion":"routerLink se usa en el template para crear enlaces de navegación."
+},
+{
+"pregunta":"¿Qué elemento HTML renderiza los componentes de las rutas?",
+"opciones":[
+"<router-view>",
+"<router-outlet>",
+"<router-container>",
+"<route-view>"
+],
+"correcta":1,
+"explicacion":"router-outlet es el contenedor donde Angular renderiza los componentes de las rutas."
+},
+{
+"pregunta":"¿Qué servicio permite navegar programáticamente?",
+"opciones":[
+"Router",
+"NavigationService",
+"RouteService",
+"PathService"
+],
+"correcta":0,
+"explicacion":"El servicio Router permite navegar desde el código TypeScript."
+},
+{
+"pregunta":"¿Qué método del Router permite navegar a una ruta?",
+"opciones":[
+"go()",
+"navigate()",
+"open()",
+"route()"
+],
+"correcta":1,
+"explicacion":"navigate() permite cambiar de ruta desde el código."
+},
+{
+"pregunta":"¿Qué servicio permite acceder a los parámetros de una ruta?",
+"opciones":[
+"ActivatedRoute",
+"RouteParams",
+"RouterState",
+"NavigationRoute"
+],
+"correcta":0,
+"explicacion":"ActivatedRoute permite acceder a parámetros, query params y datos de la ruta actual."
+},
+{
+"pregunta":"¿Qué propiedad define parámetros dinámicos en una ruta?",
+"opciones":[
+":param",
+"{param}",
+"[param]",
+"(param)"
+],
+"correcta":0,
+"explicacion":"Los parámetros dinámicos se definen con :nombreParametro."
+},
+{
+"pregunta":"¿Qué método permite obtener parámetros de ruta?",
+"opciones":[
+"paramMap",
+"params()",
+"routeData()",
+"pathParams()"
+],
+"correcta":0,
+"explicacion":"paramMap permite obtener parámetros definidos en la ruta."
+},
+{
+"pregunta":"¿Qué propiedad permite redireccionar rutas?",
+"opciones":[
+"redirectTo",
+"navigateTo",
+"forwardTo",
+"goTo"
+],
+"correcta":0,
+"explicacion":"redirectTo permite redirigir automáticamente a otra ruta."
+},
+{
+"pregunta":"¿Qué propiedad indica coincidencia exacta de una ruta?",
+"opciones":[
+"pathMatch",
+"routeMatch",
+"exactMatch",
+"fullPath"
+],
+"correcta":0,
+"explicacion":"pathMatch:'full' asegura coincidencia exacta con la ruta."
+},
+{
+"pregunta":"¿Qué valor de pathMatch indica coincidencia completa?",
+"opciones":[
+"full",
+"complete",
+"exact",
+"total"
+],
+"correcta":0,
+"explicacion":"full significa que la URL debe coincidir completamente con la ruta."
+},
+{
+"pregunta":"¿Qué tipo de rutas permiten organizar rutas hijas?",
+"opciones":[
+"child routes",
+"nested paths",
+"sub routes",
+"inner routes"
+],
+"correcta":0,
+"explicacion":"Las child routes permiten definir rutas dentro de otras rutas."
+},
+{
+"pregunta":"¿Qué propiedad define rutas hijas?",
+"opciones":[
+"children",
+"childRoutes",
+"nested",
+"subRoutes"
+],
+"correcta":0,
+"explicacion":"La propiedad children define rutas anidadas."
+},
+{
+"pregunta":"¿Qué guard protege rutas antes de activarse?",
+"opciones":[
+"CanActivate",
+"CanStart",
+"CanLoad",
+"CanEnter"
+],
+"correcta":0,
+"explicacion":"CanActivate permite impedir el acceso a una ruta."
+},
+{
+"pregunta":"¿Qué guard evita cargar módulos lazy?",
+"opciones":[
+"CanLoad",
+"CanActivate",
+"CanOpen",
+"CanRoute"
+],
+"correcta":0,
+"explicacion":"CanLoad impide cargar módulos lazy si no se cumplen condiciones."
+},
+{
+"pregunta":"¿Qué guard se ejecuta al salir de una ruta?",
+"opciones":[
+"CanDeactivate",
+"CanLeave",
+"CanClose",
+"CanExit"
+],
+"correcta":0,
+"explicacion":"CanDeactivate permite confirmar si el usuario puede abandonar la ruta actual."
+},
+{
+"pregunta":"¿Qué módulo permite realizar peticiones HTTP en Angular?",
+"opciones":[
+"HttpClientModule",
+"HttpModule",
+"NetworkModule",
+"ApiModule"
+],
+"correcta":0,
+"explicacion":"HttpClientModule proporciona el servicio HttpClient para realizar peticiones HTTP."
+},
+{
+"pregunta":"¿Qué servicio se usa para realizar peticiones HTTP?",
+"opciones":[
+"HttpClient",
+"HttpService",
+"ApiClient",
+"NetworkClient"
+],
+"correcta":0,
+"explicacion":"HttpClient es el servicio principal para realizar solicitudes HTTP en Angular."
+},
+{
+"pregunta":"¿Dónde debe importarse HttpClientModule?",
+"opciones":[
+"En el módulo principal",
+"En cada componente",
+"En el index.html",
+"En main.ts"
+],
+"correcta":0,
+"explicacion":"HttpClientModule se importa normalmente en app.module.ts."
+},
+{
+"pregunta":"¿Qué método de HttpClient se usa para obtener datos?",
+"opciones":[
+"get()",
+"fetch()",
+"read()",
+"requestGet()"
+],
+"correcta":0,
+"explicacion":"get() realiza solicitudes HTTP GET para obtener datos de una API."
+},
+{
+"pregunta":"¿Qué método se usa para enviar datos al servidor?",
+"opciones":[
+"post()",
+"send()",
+"push()",
+"create()"
+],
+"correcta":0,
+"explicacion":"post() permite enviar datos al servidor mediante HTTP POST."
+},
+{
+"pregunta":"¿Qué método actualiza recursos existentes?",
+"opciones":[
+"put()",
+"update()",
+"patch()",
+"edit()"
+],
+"correcta":0,
+"explicacion":"put() reemplaza completamente un recurso existente."
+},
+{
+"pregunta":"¿Qué método elimina recursos?",
+"opciones":[
+"delete()",
+"remove()",
+"destroy()",
+"erase()"
+],
+"correcta":0,
+"explicacion":"delete() elimina recursos en el servidor."
+},
+{
+"pregunta":"¿Qué método permite modificar parcialmente un recurso?",
+"opciones":[
+"patch()",
+"put()",
+"update()",
+"modify()"
+],
+"correcta":0,
+"explicacion":"patch() permite actualizar parcialmente un recurso."
+},
+{
+"pregunta":"¿Qué tipo de objeto devuelve HttpClient?",
+"opciones":[
+"Observable",
+"Promise",
+"Array",
+"Stream"
+],
+"correcta":0,
+"explicacion":"HttpClient devuelve Observables de RxJS."
+},
+{
+"pregunta":"¿Qué operador se usa para transformar respuestas HTTP?",
+"opciones":[
+"map",
+"transform",
+"change",
+"switch"
+],
+"correcta":0,
+"explicacion":"map permite transformar los datos recibidos de una API."
+},
+{
+"pregunta":"¿Qué operador captura errores en RxJS?",
+"opciones":[
+"catchError",
+"handleError",
+"tryCatch",
+"errorCatch"
+],
+"correcta":0,
+"explicacion":"catchError permite manejar errores en observables."
+},
+{
+"pregunta":"¿Qué clase permite definir encabezados HTTP?",
+"opciones":[
+"HttpHeaders",
+"Headers",
+"RequestHeaders",
+"HttpConfig"
+],
+"correcta":0,
+"explicacion":"HttpHeaders permite definir encabezados en peticiones HTTP."
+},
+{
+"pregunta":"¿Qué clase permite configurar parámetros de consulta?",
+"opciones":[
+"HttpParams",
+"QueryParams",
+"RequestParams",
+"UrlParams"
+],
+"correcta":0,
+"explicacion":"HttpParams permite enviar parámetros en la URL."
+},
+{
+"pregunta":"¿Qué mecanismo permite interceptar solicitudes HTTP?",
+"opciones":[
+"HTTP Interceptor",
+"HTTP Middleware",
+"HTTP Filter",
+"HTTP Hook"
+],
+"correcta":0,
+"explicacion":"Los interceptores permiten modificar solicitudes o respuestas HTTP."
+},
+{
+"pregunta":"¿Qué interfaz debe implementar un interceptor?",
+"opciones":[
+"HttpInterceptor",
+"HttpMiddleware",
+"HttpHandler",
+"HttpProcessor"
+],
+"correcta":0,
+"explicacion":"HttpInterceptor permite interceptar solicitudes HTTP."
+},
+{
+"pregunta":"¿Qué método se implementa en un interceptor?",
+"opciones":[
+"intercept()",
+"handle()",
+"process()",
+"execute()"
+],
+"correcta":0,
+"explicacion":"El método intercept() captura solicitudes antes de enviarse."
+},
+{
+"pregunta":"¿Qué objeto representa la solicitud HTTP en un interceptor?",
+"opciones":[
+"HttpRequest",
+"HttpCall",
+"HttpMessage",
+"HttpPacket"
+],
+"correcta":0,
+"explicacion":"HttpRequest representa la solicitud HTTP interceptada."
+},
+{
+"pregunta":"¿Qué objeto permite continuar la cadena de interceptores?",
+"opciones":[
+"HttpHandler",
+"HttpNext",
+"HttpPipeline",
+"HttpFlow"
+],
+"correcta":0,
+"explicacion":"HttpHandler permite pasar la solicitud al siguiente interceptor."
+},
+{
+"pregunta":"¿Dónde se registran los interceptores?",
+"opciones":[
+"En providers",
+"En imports",
+"En declarations",
+"En bootstrap"
+],
+"correcta":0,
+"explicacion":"Los interceptores se registran en la sección providers del módulo."
+},
+{
+"pregunta":"¿Qué propiedad se usa para registrar interceptores?",
+"opciones":[
+"HTTP_INTERCEPTORS",
+"HTTP_PROVIDERS",
+"HTTP_HANDLERS",
+"HTTP_MIDDLEWARE"
+],
+"correcta":0,
+"explicacion":"HTTP_INTERCEPTORS permite registrar interceptores múltiples."
+},
+{
+"pregunta":"¿Qué es RxJS en Angular?",
+"opciones":[
+"Una librería para programación reactiva con observables",
+"Un motor de base de datos",
+"Un framework de backend",
+"Un sistema de estilos"
+],
+"correcta":0,
+"explicacion":"RxJS es una librería que permite trabajar con programación reactiva mediante observables para manejar flujos de datos asíncronos."
+},
+{
+"pregunta":"¿Qué es un Observable?",
+"opciones":[
+"Una colección de valores a lo largo del tiempo",
+"Una variable constante",
+"Un módulo Angular",
+"Un componente visual"
+],
+"correcta":0,
+"explicacion":"Un Observable representa un flujo de datos que puede emitir múltiples valores de forma asincrónica."
+},
+{
+"pregunta":"¿Qué método se usa para escuchar un Observable?",
+"opciones":[
+"subscribe()",
+"listen()",
+"watch()",
+"observe()"
+],
+"correcta":0,
+"explicacion":"subscribe() permite recibir los valores que emite un observable."
+},
+{
+"pregunta":"¿Qué operador cancela automáticamente la suscripción anterior cuando llega un nuevo valor?",
+"opciones":[
+"switchMap",
+"mergeMap",
+"concatMap",
+"map"
+],
+"correcta":0,
+"explicacion":"switchMap cancela la suscripción anterior y se suscribe al nuevo observable."
+},
+{
+"pregunta":"¿Qué operador combina múltiples observables?",
+"opciones":[
+"combineLatest",
+"map",
+"filter",
+"reduce"
+],
+"correcta":0,
+"explicacion":"combineLatest emite valores combinados de varios observables."
+},
+{
+"pregunta":"¿Qué operador permite filtrar valores emitidos?",
+"opciones":[
+"filter",
+"map",
+"take",
+"reduce"
+],
+"correcta":0,
+"explicacion":"filter permite emitir solo los valores que cumplen una condición."
+},
+{
+"pregunta":"¿Qué operador transforma valores emitidos?",
+"opciones":[
+"map",
+"filter",
+"reduce",
+"tap"
+],
+"correcta":0,
+"explicacion":"map transforma cada valor emitido por el observable."
+},
+{
+"pregunta":"¿Qué operador ejecuta efectos secundarios sin modificar el flujo?",
+"opciones":[
+"tap",
+"map",
+"switchMap",
+"reduce"
+],
+"correcta":0,
+"explicacion":"tap se usa para ejecutar código adicional como logs sin modificar los datos."
+},
+{
+"pregunta":"¿Qué operador limita la cantidad de emisiones?",
+"opciones":[
+"take",
+"limit",
+"count",
+"slice"
+],
+"correcta":0,
+"explicacion":"take permite recibir solo un número determinado de emisiones."
+},
+{
+"pregunta":"¿Qué operador emite valores después de un tiempo de espera?",
+"opciones":[
+"debounceTime",
+"delay",
+"wait",
+"timeout"
+],
+"correcta":0,
+"explicacion":"debounceTime retrasa la emisión hasta que pase un tiempo sin nuevos valores."
+},
+{
+"pregunta":"¿Qué son los Lifecycle Hooks en Angular?",
+"opciones":[
+"Métodos que se ejecutan en diferentes fases del ciclo de vida de un componente",
+"Eventos del navegador",
+"Servicios de Angular",
+"Directivas estructurales"
+],
+"correcta":0,
+"explicacion":"Los lifecycle hooks permiten ejecutar lógica cuando ocurren eventos en la vida de un componente."
+},
+{
+"pregunta":"¿Qué hook se ejecuta al inicializar el componente?",
+"opciones":[
+"ngOnInit",
+"ngStart",
+"ngCreate",
+"ngLoad"
+],
+"correcta":0,
+"explicacion":"ngOnInit se ejecuta después de que Angular inicializa las propiedades del componente."
+},
+{
+"pregunta":"¿Qué hook se ejecuta cuando cambian las propiedades de entrada?",
+"opciones":[
+"ngOnChanges",
+"ngOnUpdate",
+"ngOnModify",
+"ngOnReload"
+],
+"correcta":0,
+"explicacion":"ngOnChanges se ejecuta cuando cambian valores de propiedades @Input."
+},
+{
+"pregunta":"¿Qué hook se ejecuta después de inicializar la vista?",
+"opciones":[
+"ngAfterViewInit",
+"ngViewReady",
+"ngAfterRender",
+"ngOnDisplay"
+],
+"correcta":0,
+"explicacion":"ngAfterViewInit se ejecuta cuando la vista del componente ya fue renderizada."
+},
+{
+"pregunta":"¿Qué hook se ejecuta antes de destruir un componente?",
+"opciones":[
+"ngOnDestroy",
+"ngOnDelete",
+"ngBeforeDestroy",
+"ngExit"
+],
+"correcta":0,
+"explicacion":"ngOnDestroy se usa para limpiar recursos como suscripciones."
+},
+{
+"pregunta":"¿Qué hook permite detectar cambios manualmente?",
+"opciones":[
+"ngDoCheck",
+"ngCheck",
+"ngUpdate",
+"ngObserve"
+],
+"correcta":0,
+"explicacion":"ngDoCheck permite implementar lógica personalizada de detección de cambios."
+},
+{
+"pregunta":"¿Qué tipos de formularios existen en Angular?",
+"opciones":[
+"Template Driven y Reactive Forms",
+"HTML Forms y CSS Forms",
+"Basic Forms y Advanced Forms",
+"DOM Forms y API Forms"
+],
+"correcta":0,
+"explicacion":"Angular ofrece formularios basados en template y formularios reactivos."
+},
+{
+"pregunta":"¿Qué módulo permite formularios basados en template?",
+"opciones":[
+"FormsModule",
+"FormModule",
+"TemplateForms",
+"NgForms"
+],
+"correcta":0,
+"explicacion":"FormsModule permite trabajar con formularios template-driven."
+},
+{
+"pregunta":"¿Qué módulo permite formularios reactivos?",
+"opciones":[
+"ReactiveFormsModule",
+"FormsModule",
+"ReactiveModule",
+"FormBuilderModule"
+],
+"correcta":0,
+"explicacion":"ReactiveFormsModule habilita el uso de formularios reactivos."
+},
+{
+"pregunta":"¿Qué clase ayuda a construir formularios reactivos?",
+"opciones":[
+"FormBuilder",
+"FormCreator",
+"FormService",
+"FormGroupBuilder"
+],
+"correcta":0,
+"explicacion":"FormBuilder facilita la creación de FormGroup y FormControl."
+},
+{
+"pregunta":"¿Qué clase representa un grupo de controles?",
+"opciones":[
+"FormGroup",
+"FormCollection",
+"FormArray",
+"FormSet"
+],
+"correcta":0,
+"explicacion":"FormGroup agrupa varios controles de formulario."
+},
+{
+"pregunta":"¿Qué clase representa un control individual?",
+"opciones":[
+"FormControl",
+"FormInput",
+"FormElement",
+"FormItem"
+],
+"correcta":0,
+"explicacion":"FormControl representa un campo individual del formulario."
+},
+{
+"pregunta":"¿Qué es Lazy Loading en Angular?",
+"opciones":[
+"Cargar módulos solo cuando se necesitan",
+"Cargar toda la aplicación al inicio",
+"Cargar datos en caché",
+"Optimizar CSS"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué propiedad define carga lazy en rutas?",
+"opciones":[
+"loadChildren",
+"lazyLoad",
+"importModule",
+"loadModule"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué ventaja tiene Lazy Loading?",
+"opciones":[
+"Reduce el tamaño inicial del bundle",
+"Mejora CSS",
+"Reduce HTML",
+"Optimiza imágenes"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué son Standalone Components?",
+"opciones":[
+"Componentes que no necesitan NgModule",
+"Componentes solo para pruebas",
+"Componentes de backend",
+"Componentes de AngularJS"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué propiedad habilita un componente standalone?",
+"opciones":[
+"standalone:true",
+"standaloneComponent:true",
+"componentStandalone:true",
+"isStandalone:true"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Dónde se importan dependencias en componentes standalone?",
+"opciones":[
+"imports",
+"providers",
+"modules",
+"dependencies"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué es Change Detection en Angular?",
+"opciones":[
+"Mecanismo que detecta cambios en datos y actualiza la vista",
+"Un sistema de routing",
+"Un módulo HTTP",
+"Un sistema de estilos"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué estrategia de Change Detection mejora rendimiento?",
+"opciones":[
+"OnPush",
+"DefaultPush",
+"ReactivePush",
+"SmartPush"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué son Signals en Angular?",
+"opciones":[
+"Un sistema reactivo para manejar estado",
+"Un sistema de rutas",
+"Un motor CSS",
+"Un sistema HTTP"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué función crea un signal?",
+"opciones":[
+"signal()",
+"createSignal()",
+"makeSignal()",
+"initSignal()"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué función crea valores derivados?",
+"opciones":[
+"computed()",
+"derived()",
+"mapSignal()",
+"calcSignal()"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué framework se usa comúnmente para testing en Angular?",
+"opciones":[
+"Jasmine",
+"Mocha",
+"Jest",
+"Vitest"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué herramienta ejecuta pruebas Angular?",
+"opciones":[
+"Karma",
+"Jest",
+"Vitest",
+"Cypress"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué función define un test en Jasmine?",
+"opciones":[
+"it()",
+"test()",
+"spec()",
+"run()"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué técnica mejora rendimiento en listas grandes?",
+"opciones":[
+"trackBy",
+"fastLoop",
+"smartFor",
+"ngFast"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué estrategia reduce recalculo del DOM?",
+"opciones":[
+"OnPush",
+"FastDetect",
+"DOMCache",
+"ChangeCache"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué patrón organiza aplicaciones grandes?",
+"opciones":[
+"Arquitectura modular",
+"Arquitectura monolítica",
+"Arquitectura CSS",
+"Arquitectura DOM"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es la principal diferencia entre ChangeDetectionStrategy.Default y ChangeDetectionStrategy.OnPush?",
+"opciones":[
+"Default ejecuta detección en todo el árbol mientras OnPush solo cuando cambian inputs o eventos",
+"OnPush ejecuta más veces que Default",
+"Default solo funciona con servicios",
+"OnPush elimina el DOM virtual"
+],
+"correcta":0,
+"explicacion":"Default revisa todo el árbol de componentes cada ciclo. OnPush solo cuando cambian @Input, eventos o observables, mejorando rendimiento."
+},
+{
+"pregunta":"¿Qué problema soluciona trackBy en *ngFor?",
+"opciones":[
+"Evita recrear elementos del DOM innecesariamente",
+"Mejora el CSS",
+"Evita errores HTTP",
+"Optimiza rutas"
+],
+"correcta":0,
+"explicacion":"trackBy permite identificar elementos por una clave única evitando que Angular destruya y recree nodos del DOM."
+},
+{
+"pregunta":"¿Cuál es la diferencia entre Subject y BehaviorSubject en RxJS?",
+"opciones":[
+"BehaviorSubject mantiene el último valor emitido",
+"Subject guarda historial completo",
+"BehaviorSubject solo emite una vez",
+"Subject siempre tiene valor inicial"
+],
+"correcta":0,
+"explicacion":"BehaviorSubject guarda el último valor y lo emite inmediatamente a nuevos suscriptores."
+},
+{
+"pregunta":"¿Qué operador RxJS se recomienda para peticiones HTTP dependientes?",
+"opciones":[
+"switchMap",
+"map",
+"tap",
+"filter"
+],
+"correcta":0,
+"explicacion":"switchMap cancela solicitudes anteriores evitando condiciones de carrera."
+},
+{
+"pregunta":"¿Por qué es importante cancelar suscripciones en Angular?",
+"opciones":[
+"Para evitar memory leaks",
+"Para mejorar CSS",
+"Para evitar errores de routing",
+"Para optimizar HTML"
+],
+"correcta":0,
+"explicacion":"Las suscripciones activas pueden seguir ejecutándose y consumir memoria."
+},
+{
+"pregunta":"¿Qué patrón arquitectónico se usa comúnmente en Angular para manejo de estado?",
+"opciones":[
+"Redux/Ngrx",
+"MVC clásico",
+"DAO",
+"Repository SQL"
+],
+"correcta":0,
+"explicacion":"Ngrx implementa el patrón Redux con store centralizado."
+},
+{
+"pregunta":"¿Qué ventaja tienen los Standalone Components?",
+"opciones":[
+"Reducen dependencia de NgModules",
+"Eliminan HTML",
+"Reemplazan servicios",
+"Evitan TypeScript"
+],
+"correcta":0,
+"explicacion":"Permiten importar dependencias directamente sin necesidad de módulos."
+},
+{
+"pregunta":"Una lista con *ngFor se vuelve muy lenta al renderizar miles de elementos. ¿Cuál es la solución más eficiente?",
+"opciones":[
+"Usar trackBy",
+"Eliminar CSS",
+"Reiniciar Angular",
+"Usar más componentes"
+],
+"correcta":0,
+"explicacion":"trackBy evita que Angular recree todo el DOM al actualizar listas."
+},
+{
+"pregunta":"Una petición HTTP se ejecuta múltiples veces inesperadamente. ¿Cuál suele ser la causa?",
+"opciones":[
+"Suscripciones múltiples a un observable",
+"Problema en CSS",
+"Error en Router",
+"Problema en TypeScript"
+],
+"correcta":0,
+"explicacion":"Cada subscribe ejecuta nuevamente el observable si no se comparte."
+},
+{
+"pregunta":"Un componente no actualiza la vista al cambiar datos. Se usa OnPush. ¿Qué puede faltar?",
+"opciones":[
+"Actualizar referencia del objeto",
+"Reiniciar servidor",
+"Agregar CSS",
+"Usar routerLink"
+],
+"correcta":0,
+"explicacion":"OnPush detecta cambios solo si cambia la referencia del objeto."
+},
+{
+"pregunta":"Un observable sigue emitiendo después de destruir el componente. ¿Cuál es la solución?",
+"opciones":[
+"Desuscribirse en ngOnDestroy",
+"Eliminar componente",
+"Recargar página",
+"Usar CSS"
+],
+"correcta":0,
+"explicacion":"Las suscripciones deben cancelarse para evitar memory leaks."
+},
+{
+"pregunta":"Un formulario reactivo no valida correctamente. ¿Qué suele faltar?",
+"opciones":[
+"Agregar Validators al FormControl",
+"Reiniciar servidor",
+"Agregar routerLink",
+"Actualizar CSS"
+],
+"correcta":0,
+"explicacion":"Los validadores deben declararse explícitamente en FormControl."
+},
+{
+"pregunta":"¿Angular es lo mismo que AngularJS?",
+"opciones":[
+"No, Angular es una reescritura completa",
+"Sí, solo cambió el nombre",
+"AngularJS es backend",
+"Angular es una librería"
+],
+"correcta":0,
+"explicacion":"AngularJS (v1) y Angular (v2+) son frameworks completamente distintos."
+},
+{
+"pregunta":"¿Los servicios Angular son singleton por defecto?",
+"opciones":[
+"Sí, cuando se proveen en root",
+"No, cada componente crea uno",
+"Solo en módulos",
+"Nunca"
+],
+"correcta":0,
+"explicacion":"providedIn:'root' crea un singleton global."
+},
+{
+"pregunta":"¿*ngIf oculta elementos con CSS?",
+"opciones":[
+"No, elimina el elemento del DOM",
+"Sí, usa display:none",
+"Solo cambia visibilidad",
+"Solo oculta texto"
+],
+"correcta":0,
+"explicacion":"ngIf destruye y crea elementos del DOM."
+},
+{
+"pregunta":"¿routerLink provoca recarga completa de página?",
+"opciones":[
+"No",
+"Sí",
+"Solo en producción",
+"Solo en Angular 17"
+],
+"correcta":0,
+"explicacion":"routerLink usa navegación SPA sin recargar la página."
+},
+{
+"pregunta":"¿HttpClient devuelve Promises?",
+"opciones":[
+"No, devuelve Observables",
+"Sí",
+"A veces",
+"Solo en Angular antiguo"
+],
+"correcta":0,
+"explicacion":"HttpClient trabaja con Observables de RxJS."
+}
+]

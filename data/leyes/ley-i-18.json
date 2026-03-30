@@ -1,0 +1,1300 @@
+[
+  {
+    "pregunta": "¿Cuál es el ámbito de aplicación de la Ley I Nº 18 respecto de los sujetos alcanzados?",
+    "opciones": [
+      "Se aplica a toda la Administración pública, incluyendo órganos con procedimiento propio",
+      "Se aplica únicamente a la Administración central",
+      "Se aplica a la Administración central y organismos autónomos sin procedimiento legal propio",
+      "Se aplica a todos los poderes del Estado provincial"
+    ],
+    "correcta": 2,
+    "explicacion": "Conforme al Art. 1 de la Ley I Nº 18, la ley rige el procedimiento de los órganos y agentes de la Administración pública provincial central y de los organismos autónomos que NO tuvieran procedimiento legal propio. La opción A es incorrecta porque excluye expresamente a quienes tienen régimen propio. La opción B es incompleta porque omite a los organismos autónomos sin procedimiento propio. La opción D es errónea porque la ley no se aplica a los poderes Legislativo ni Judicial (principio de división de poderes, art. 1 Const. Prov. Chubut)."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes actos se encuentra EXCLUIDO expresamente del ámbito de aplicación de la Ley I Nº 18?",
+    "opciones": [
+      "Los actos administrativos dictados por organismos autónomos con procedimiento propio",
+      "Los actos reglamentarios del Poder Ejecutivo de alcance general",
+      "Los actos políticos o de gobierno propiamente dichos",
+      "Los actos administrativos de alcance particular que limitan derechos subjetivos"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 2 de la Ley I Nº 18 excluye expresamente: los actos políticos o de gobierno propiamente dichos, los actos legislativos o que el Poder Ejecutivo realice como colegislador, los actos judiciales, y la etapa de ejecución de los actos administrativos. La opción A también sería excluida pero por el Art. 1, no por el Art. 2. La opción B no está excluida del todo (la ley regula la elaboración de normas generales en los Arts. 122 y ss.). La opción D está expresamente regulada por la ley (Art. 30 inc. a)."
+  },
+  {
+    "pregunta": "El Poder Ejecutivo provincial interviene como colegislador en la sanción de una ley. Posteriormente, un administrado pretende impugnar ese acto por vía del procedimiento de la Ley I Nº 18. ¿Cuál es la solución normativa correcta?",
+    "opciones": [
+      "Procede la impugnación porque el Poder Ejecutivo es un órgano de la Administración",
+      "No procede porque los actos que el Poder Ejecutivo realiza como colegislador están expresamente excluidos de la ley",
+      "Procede solo si el acto afecta derechos subjetivos del administrado",
+      "Procede en la etapa de promulgación, que es un acto administrativo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 2 de la Ley I Nº 18 excluye expresamente los actos legislativos o que el Poder Ejecutivo realice como colegislador. La naturaleza del acto (colegislativa) determina su exclusión, con independencia de quién sea el órgano actuante. La opción A confunde la naturaleza orgánica con la naturaleza funcional del acto. La opción C introduce un requisito no previsto. La opción D es incorrecta porque la promulgación, aun siendo un acto formalmente ejecutivo, está íntimamente ligada al proceso legislativo."
+  },
+  {
+    "pregunta": "Conforme al Art. 3 de la Ley I Nº 18, ¿cuál es la fuente primaria que determina la competencia material y territorial de los órganos administrativos?",
+    "opciones": [
+      "Las instrucciones y circulares emitidas por los órganos superiores",
+      "Los instrumentos legales de creación del órgano",
+      "La costumbre administrativa consolidada",
+      "La voluntad del jerarca superior en cada caso concreto"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 3 establece que la competencia material y territorial será la determinada en los instrumentos legales de su creación, y solo en su defecto se aplican las disposiciones siguientes de la ley. Esto refleja el principio de legalidad de la competencia (art. 26 inc. 1 de la misma ley). La opción A describe un instrumento de dirección jerárquica (Art. 9), no de atribución de competencia. La opción C es incorrecta porque la competencia no puede fundarse en costumbre. La opción D vulnera el principio de irrenunciabilidad e improrrogabilidad (Art. 4)."
+  },
+  {
+    "pregunta": "¿Cuál es el principio general que rige la competencia administrativa según el Art. 4 de la Ley I Nº 18?",
+    "opciones": [
+      "La competencia es delegable y prorrogable por acuerdo de los órganos interesados",
+      "La competencia es irrenunciable e improrrogable, salvo casos de sustitución o avocación previstos en la ley",
+      "La competencia puede ser modificada por reglamento interno del ministerio",
+      "La competencia puede cederse cuando el órgano superior así lo disponga discrecionalmente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 4 establece expresamente que la competencia es irrenunciable e improrrogable y será ejercida directamente por los órganos a quienes haya sido conferida por la Constitución o la ley, con la única excepción de los casos de sustitución o avocación dispuestos por las leyes y resueltos expresamente por acto administrativo. La opción A invierte el principio. La opción C es incorrecta porque la competencia emana de la Constitución o la ley, no de reglamentos internos. La opción D introduce una discrecionalidad no prevista y requiere siempre acto administrativo expreso."
+  },
+  {
+    "pregunta": "Un funcionario omite resolver un expediente durante meses sin causa justificada. Según el Art. 5 de la Ley I Nº 18, ¿qué consecuencias jurídicas corresponden?",
+    "opciones": [
+      "Ninguna, dado que la demora es una facultad discrecional del órgano administrativo",
+      "Solo responsabilidad civil del funcionario, no administrativa",
+      "Constituye falta grave, susceptible de remoción u otras sanciones administrativas, sin perjuicio de responsabilidad civil o penal",
+      "Genera únicamente la nulidad del procedimiento, sin responsabilidad personal del funcionario"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 5 dispone expresamente que la demora o negligencia en ejercer la competencia atribuida por ley o reglamento constituye falta grave y puede ser motivo de remoción u otras sanciones administrativas según su gravedad, y sin perjuicio de la responsabilidad civil o penal en su caso. La opción A es incorrecta porque la discrecionalidad no habilita inacción. La opción B es incompleta al excluir la responsabilidad administrativa y penal. La opción D es incorrecta porque la consecuencia principal es la responsabilidad personal del funcionario, no la nulidad del procedimiento."
+  },
+  {
+    "pregunta": "En ausencia de disposición expresa sobre competencia y existiendo varios órganos con competencia territorial, ¿qué criterio establece el Art. 6 de la Ley I Nº 18 para dirimir la instrucción y resolución del asunto?",
+    "opciones": [
+      "El órgano que primero intervino en el asunto tendrá competencia definitiva",
+      "El Gobernador designará al órgano competente en cada caso",
+      "El órgano inferior de la Administración Central competente por materia y territorio, y si hay varios, el de competencia territorial más amplia",
+      "El órgano superior jerárquico de la Administración Central asumirá la competencia"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 6 establece que, en ausencia de disposición expresa, corresponde a los órganos inferiores de la Administración Central competentes por razón de la materia y del territorio; y si existieren varios de esa clase, la instrucción y resolución competerá al órgano de competencia territorial más amplia. La opción A introduce el criterio de 'primero en intervenir', que no tiene respaldo legal. La opción B solo aplica al supuesto del Art. 13 (conflicto entre ministerios). La opción D invierte el criterio legal, que apunta a órganos inferiores, no superiores."
+  },
+  {
+    "pregunta": "Según el Art. 7 de la Ley I Nº 18, ¿qué autoridad resuelve un conflicto de competencia entre dos órganos administrativos?",
+    "opciones": [
+      "El órgano más antiguo en el ejercicio de sus funciones",
+      "La autoridad inmediata superior a los órganos en conflicto, por razón de la materia",
+      "El Gobernador, en todos los casos sin distinción",
+      "El Poder Judicial, mediante acción declarativa de certeza"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 7 dispone que en caso de duda sobre qué autoridad debe proceder o de conflicto de competencia entre varios órganos, resolverá la autoridad inmediata superior a los mismos, por razón de la materia. La opción A carece de sustento normativo. La opción C es incorrecta porque el Gobernador solo interviene cuando el conflicto es entre órganos de distintos ministerios (Art. 13). La opción D es incorrecta porque el conflicto interno de competencia administrativa no es de naturaleza jurisdiccional."
+  },
+  {
+    "pregunta": "Conforme al Art. 8 de la Ley I Nº 18, ¿cuál es la diferencia entre el control que ejercen los órganos superiores sobre los inferiores jerárquicos y el que ejercen sobre los órganos de la administración descentralizada?",
+    "opciones": [
+      "No existe diferencia: en ambos casos el control comprende anular, suspender, revocar, rectificar y sustituir",
+      "Sobre los inferiores jerárquicos el control comprende anular, suspender, revocar, rectificar o sustituir; sobre los descentralizados, salvo ley especial, solo anular y suspender",
+      "Sobre los descentralizados el control es más amplio que sobre los inferiores jerárquicos",
+      "Sobre los inferiores jerárquicos el control es solo de legalidad; sobre los descentralizados incluye también el mérito"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 8 establece claramente la distinción: el control sobre los órganos inferiores comprende anular, suspender, revocar, rectificar o sustituir sus resoluciones. El control sobre los órganos de la administración descentralizada, salvo que una ley especial lo amplíe, comprende solo anular y suspender. Esta distinción refleja la mayor autonomía de los entes descentralizados. Las opciones A, C y D contradicen el texto expreso de la norma."
+  },
+  {
+    "pregunta": "Según el Art. 9 de la Ley I Nº 18, ¿mediante qué instrumentos pueden los órganos superiores dirigir la actividad de los inferiores con carácter general?",
+    "opciones": [
+      "Resoluciones ministeriales y decretos reglamentarios",
+      "Instrucciones y circulares",
+      "Actos administrativos individuales dirigidos a cada órgano inferior",
+      "Convenios de delegación de funciones"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 9 establece expresamente que los órganos superiores podrán dirigir la actividad de los inferiores, con carácter general, mediante instrucciones y circulares. Estos instrumentos son de dirección interna jerárquica, no actos administrativos que afecten derechos de los administrados. Las otras opciones describen instrumentos normativos o convencionales distintos que no corresponden a la función de dirección jerárquica interna prevista en este artículo."
+  },
+  {
+    "pregunta": "Conforme al Art. 10 de la Ley I Nº 18, ¿qué tipo de asuntos pueden resolver los órganos inferiores?",
+    "opciones": [
+      "Solo los asuntos de alta complejidad jurídica, previa consulta al superior",
+      "Todos los asuntos que le sean encomendados por el superior jerárquico",
+      "Aquellos que consistan en la mera confrontación de hechos o en la aplicación automática de normas",
+      "Los asuntos discrecionales que no requieran apreciación de mérito"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 10 limita la competencia resolutoria de los órganos inferiores a aquellos asuntos que consistan en la mera confrontación de hechos o en la aplicación automática de normas. Esta disposición refleja la distribución funcional dentro de la estructura jerárquica y evita que los órganos inferiores ejerzan competencias que requieren valoración jurídica compleja. Las opciones A, B y D no reflejan el texto legal."
+  },
+  {
+    "pregunta": "Conforme al Art. 11 de la Ley I Nº 18, ¿cuáles son las obligaciones del funcionario respecto de su propia competencia?",
+    "opciones": [
+      "Verificarla solo al inicio del procedimiento y, si es incompetente, continuar por economía procesal",
+      "Verificarla de oficio durante todo el curso del procedimiento y, si se considera incompetente, declararlo remitiendo el proceso al competente",
+      "Verificarla únicamente cuando el administrado lo solicite expresamente",
+      "Verificarla solo en los actos resolutorios finales, no durante la instrucción"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 11 impone al funcionario la obligación de verificar de oficio la propia competencia material y territorial durante todo el curso del procedimiento. Si en cualquier etapa considera que no es competente, debe declararlo así y remitir el proceso a quien considere que lo es. La opción A contradice la obligación de verificación continua. La opción C convierte en rogada una obligación de oficio. La opción D limita indebidamente el momento de la verificación."
+  },
+  {
+    "pregunta": "Según el Art. 12 de la Ley I Nº 18, ¿en qué momento puede declararse la incompetencia?",
+    "opciones": [
+      "Solo al inicio del procedimiento administrativo",
+      "En cualquier estado del procedimiento, de oficio o a instancias de los interesados",
+      "Únicamente en la etapa resolutoria final, a pedido de parte",
+      "Solo mediante recurso jerárquico, no de oficio"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 12 establece que la incompetencia puede ser declarada en cualquier estado del procedimiento, de oficio o a instancias de los interesados en el mismo. Esta regla es una garantía del principio de legalidad y de la irrenunciabilidad de la competencia (Art. 4). Las otras opciones restringen temporalmente o subjetivamente una facultad que la ley confiere en forma amplia y permanente."
+  },
+  {
+    "pregunta": "Conforme al Art. 13 de la Ley I Nº 18, ¿quién resuelve un conflicto de competencia entre órganos dependientes de distintos ministerios?",
+    "opciones": [
+      "El ministro del área con mayor antigüedad en el cargo",
+      "La autoridad inmediata superior común a los órganos en conflicto",
+      "El Gobernador",
+      "El Poder Judicial mediante acción de competencia"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 13 establece que las cuestiones de competencia entre órganos dependientes de un mismo ministerio serán resueltas por el Ministro; pero si el conflicto se produjere entre órganos dependientes de distintos ministerios, resolverá el Gobernador. La opción A carece de sustento normativo. La opción B aplica al supuesto del Art. 7 (duda entre órganos). La opción D es incorrecta porque los conflictos de competencia internos de la Administración son resueltos por la propia Administración."
+  },
+  {
+    "pregunta": "Según el Art. 14 de la Ley I Nº 18, ¿cuál es la consecuencia para el órgano llamado a pronunciarse sobre un conflicto de competencia que no lo hiciere dentro del plazo legal de tres días?",
+    "opciones": [
+      "Nulidad automática del procedimiento y archivo de las actuaciones",
+      "Intervención directa del Gobernador sin más trámite",
+      "Sanción equivalente a 10 veces el valor del asunto si es pecuniario, o multa de $1 en caso contrario",
+      "Remisión automática al Poder Judicial para resolver la cuestión"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 14 establece que si el conflicto se produjere de oficio, los interesados serán oídos dentro del plazo de 48 horas y deberá resolverse dentro de tres días. Si el órgano llamado a pronunciarse no lo hiciera dentro de ese plazo, se aplicará una sanción equivalente a 10 veces el valor del asunto discutido si fuera susceptible de apreciación pecuniaria, y una multa de PESO UNO ($1) en caso contrario. Las otras opciones no tienen respaldo en el texto legal."
+  },
+  {
+    "pregunta": "Conforme al Art. 15 de la Ley I Nº 18, cuando un órgano superior entiende que le compete el conocimiento de un asunto que tramita ante un órgano inferior, ¿cómo debe proceder?",
+    "opciones": [
+      "Avocarse directamente sin ningún trámite previo, por ser superior jerárquico",
+      "Solicitar informes al inferior para que, en un plazo de tres días, exprese las razones que tuvo para conocer en el asunto, y luego resolver a la vista del informe",
+      "Declarar su incompetencia y remitir al inferior para que continúe",
+      "Elevar el asunto al Gobernador para que resuelva el conflicto"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 15 establece un procedimiento específico: si un órgano entiende que le compete un asunto que tramita ante un inferior, le solicitará informes para que en un plazo de tres días exprese las razones que ha tenido para conocer en el mismo. El superior resolverá lo que proceda a la vista del informe. No puede avocarse directamente sin este trámite (opción A). Las opciones C y D no corresponden al supuesto del artículo."
+  },
+  {
+    "pregunta": "Según el Art. 16 de la Ley I Nº 18, ¿puede un órgano administrativo inferior plantear formalmente un conflicto de incompetencia a un órgano jerárquicamente superior?",
+    "opciones": [
+      "Sí, siempre que lo fundamente en razones de materia",
+      "Sí, mediante recurso jerárquico especial",
+      "No; solo puede exponerle las razones que tuviere para estimar que le compete el asunto, y el superior resolverá sin recurso alguno",
+      "Sí, pero solo si el superior es de distinto ministerio"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 16 es terminante: ningún órgano administrativo podrá requerir de incompetencia a otro jerárquicamente superior. Llegado el caso, se limitará a exponerle las razones que tuviere para estimar que le compete el conocimiento del asunto, y el superior resolverá sin recurso alguno. Esta norma preserva la estructura jerárquica y evita que los inferiores paralicen la actuación de los superiores."
+  },
+  {
+    "pregunta": "Conforme al Art. 17 de la Ley I Nº 18, en caso de conflicto negativo de competencia entre dos órganos, ¿cuál es la consecuencia si no se resuelve en plazo?",
+    "opciones": [
+      "Se aplica automáticamente el silencio positivo a favor del administrado",
+      "Se resuelve por el Art. 13, bajo pena de iguales sanciones que las previstas en el Art. 14",
+      "Se archivo el expediente sin más trámite",
+      "Se habilita la vía judicial directamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 17 dispone que en caso de conflicto negativo de competencia entre dos órganos, se resolverá en la forma dispuesta por el Art. 13 (Ministro o Gobernador según el caso), so pena de iguales sanciones que las previstas en el Art. 14 (sanción pecuniaria). La opción A no tiene sustento para este supuesto. Las opciones C y D no están previstas."
+  },
+  {
+    "pregunta": "Según el Art. 18 de la Ley I Nº 18, ¿cuál es el plazo para remitir las actuaciones al órgano que debe proseguir el procedimiento una vez resueltas las cuestiones de competencia?",
+    "opciones": [
+      "24 horas",
+      "48 horas",
+      "3 días hábiles",
+      "5 días hábiles"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 18 establece expresamente que resueltas las cuestiones de competencia, las actuaciones serán remitidas dentro de 48 horas al órgano que debe proseguir el procedimiento. Este plazo breve responde al principio de economía procesal y celeridad (Art. 26 inc. 9). Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "Conforme al Art. 19 inc. a) de la Ley I Nº 18, ¿cuándo debe abstenerse un funcionario por razón de interés en el asunto?",
+    "opciones": [
+      "Solo cuando tenga interés directo y exclusivamente económico en el asunto",
+      "Cuando tuviere interés directo o indirecto en el asunto o en otro semejante cuya resolución pueda influir en éste",
+      "Solo cuando el interesado lo recuse expresamente por esa causal",
+      "Únicamente cuando el interés sea de naturaleza patrimonial demostrable"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 19 inc. a) establece que no podrán intervenir y deberán abstenerse los funcionarios que tuvieren o pudieran tener interés directo o indirecto en el asunto o en otro semejante cuya resolución pueda influir en éste. El alcance es amplio: comprende interés tanto directo como indirecto, y también asuntos conexos. Las opciones A y D restringen indebidamente el tipo de interés. La opción C convierte en rogada una obligación que es de oficio."
+  },
+  {
+    "pregunta": "Según el Art. 19 inc. c) de la Ley I Nº 18, ¿hasta qué grado de parentesco por consanguinidad y afinidad obliga la abstención del funcionario?",
+    "opciones": [
+      "Cuarto grado de consanguinidad y cuarto grado de afinidad",
+      "Segundo grado de consanguinidad y segundo grado de afinidad",
+      "Cuarto grado de consanguinidad y segundo grado de afinidad",
+      "Segundo grado de consanguinidad y cuarto grado de afinidad"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 19 inc. c) establece la causal de abstención por parentesco de consanguinidad dentro del cuarto grado O de afinidad dentro del segundo, con cualquiera de los interesados o con los asesores, representantes legales o mandatarios que intervengan en el procedimiento. La distinción entre cuarto grado (consanguinidad) y segundo grado (afinidad) es un dato técnico de alta precisión que frecuentemente se confunde en los exámenes."
+  },
+  {
+    "pregunta": "Conforme al Art. 19 inc. e) de la Ley I Nº 18, ¿qué causal de abstención se configura respecto de quienes ya intervinieron en el procedimiento?",
+    "opciones": [
+      "Los que hubieren intervenido como representantes de una de las partes",
+      "Los que hubieren dictado el acto administrativo que se impugna",
+      "Los que hubieren tenido intervención en el procedimiento como peritos o como testigos",
+      "Los que hubieren resuelto el recurso de primera instancia"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 19 inc. e) establece que deben abstenerse los que hubieren tenido intervención en el procedimiento como peritos o como testigos. Esta causal busca preservar la imparcialidad objetiva: quien ya actuó en un rol distinto al decisorio no puede luego ejercer funciones resolutorias. Las opciones A, B y D describen supuestos no previstos en el inc. e), aunque algunos pudieran encuadrar en otros incisos."
+  },
+  {
+    "pregunta": "Según el Art. 20 de la Ley I Nº 18, ¿cuál es el plazo para que el superior inmediato resuelva la excusación del inferior y la decisión que adopte puede ser recurrida?",
+    "opciones": [
+      "Plazo de 48 horas; la decisión es recurrible en jerárquico",
+      "Plazo de 24 horas desde recibido el expediente; la decisión es irrecurrible",
+      "Plazo de 3 días hábiles; la decisión es irrecurrible",
+      "Plazo de 5 días; la decisión es recurrible ante el Gobernador"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 20 establece que dentro del plazo de 24 horas de recibido el expediente, el superior inmediato del inferior inhibido resolverá la excusación planteada y dispondrá, en su caso, el reemplazo, determinando quién deberá sustituirle. La decisión es expresamente irrecurrible. Este carácter definitivo responde a la necesidad de resolver rápidamente los impedimentos para no paralizar el procedimiento."
+  },
+  {
+    "pregunta": "Conforme al Art. 21 de la Ley I Nº 18, en la recusación de un funcionario, ¿cuánto plazo tiene el recusado para contestar y qué carácter tiene la resolución del superior?",
+    "opciones": [
+      "El recusado tiene 24 horas para contestar; la resolución del superior es apelable",
+      "El recusado tiene 48 horas para contestar, aceptando o rechazando el cargo; la resolución del superior tiene carácter definitivo",
+      "El recusado tiene 5 días para contestar; la resolución del superior es recurrible en jerárquico",
+      "El recusado tiene 3 días para contestar; la resolución es definitiva solo si el superior es el ministro"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 21 dispone que el recusado contestará dentro de 48 horas, aceptando o rechazando el cargo y ofreciendo prueba pertinente. El superior dictará dentro del mismo plazo la resolución correspondiente, que tendrá carácter definitivo. Además, si fuere necesario para producir prueba, el superior podrá disponer de hasta diez días adicionales. Las otras opciones alteran los plazos o el carácter de la resolución."
+  },
+  {
+    "pregunta": "Según el Art. 22 de la Ley I Nº 18, ¿quiénes son considerados partes en el procedimiento administrativo?",
+    "opciones": [
+      "Solo quienes formularon la petición inicial que dio origen al procedimiento",
+      "Todas las personas que requieran o a las cuales se refiera la actividad administrativa, en cuanto estén interesados en virtud de un derecho o interés legítimo",
+      "Únicamente quienes tengan un derecho subjetivo reconocido por sentencia judicial",
+      "Solo los administrados que cuenten con representación letrada acreditada"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 22 define como partes a todas las personas que requieran una actividad de la autoridad administrativa o a los cuales se refiera la actividad administrativa, en cuanto estén interesados en el asunto en virtud de un derecho o de un interés legítimo. La norma es amplia: abarca tanto a quienes inician como a quienes son afectados por el procedimiento. La opción A restringe injustificadamente. La opción C exige un requisito inexistente. La opción D agrega un requisito no previsto."
+  },
+  {
+    "pregunta": "Conforme al Art. 23 de la Ley I Nº 18, ¿cómo puede conferirse la representación en el procedimiento administrativo?",
+    "opciones": [
+      "Solo mediante poder notarial con certificación de firma",
+      "Mediante carta-poder otorgada ante el jefe de la mesa de entrada de la repartición o del juez de paz del lugar",
+      "Solo mediante mandato judicial con patrocinio letrado obligatorio",
+      "Mediante cualquier instrumento privado sin formalidad alguna"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 23 establece que los interesados con capacidad de obrar pueden actuar por representantes, con aplicación de las normas procesales y civiles del mandato judicial, y que la representación podrá conferirse mediante carta-poder otorgada ante el jefe de la mesa de entrada de la repartición o del juez de paz del lugar. Esta norma simplifica el otorgamiento de poderes respecto al proceso judicial. Las otras opciones son incorrectas porque agregan o eliminan requisitos."
+  },
+  {
+    "pregunta": "Según el Art. 24 de la Ley I Nº 18, ¿qué consecuencia jurídica genera el incumplimiento del deber de colaboración del interesado en el procedimiento?",
+    "opciones": [
+      "La caducidad automática del procedimiento a los 30 días",
+      "La nulidad de lo actuado por falta de colaboración",
+      "Una presunción en contra del remiso o renuente",
+      "La imposición de una multa administrativa"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 24 establece que los interesados tienen la obligación de colaborar aportando los informes y pruebas que se les requieran y estén a su disposición, y que la violación de este deber constituirá una presunción en contra del remiso o renuente. Esta presunción opera en el plano probatorio, no generando automáticamente caducidad ni nulidad. Las otras opciones no tienen sustento en el artículo."
+  },
+  {
+    "pregunta": "Conforme al Art. 26 inc. 1 de la Ley I Nº 18, el principio de legalidad implica que cuando el órgano tiene poder de decidir según su libre apreciación:",
+    "opciones": [
+      "Puede actuar sin límite alguno, dado que la ley le confiere discrecionalidad plena",
+      "La decisión debe tomarse dentro de los límites del poder atribuido y de conformidad con la finalidad para la cual fue conferido",
+      "No le aplican las normas de la ley, dado que la discrecionalidad excluye el procedimiento",
+      "Puede delegar la decisión en cualquier otro órgano de la Administración"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 26 inc. 1 b) establece que en los casos en que, por la ley o disposición fundada en ella, el órgano tiene poder de decidir según su libre apreciación, la decisión debe tomarse dentro de los límites del poder atribuido y de conformidad con la finalidad para la cual fue conferido. La discrecionalidad no es absoluta y está sujeta al control de razonabilidad y finalidad. Las opciones A y C son erróneas porque pretenden excluir el control jurídico. La opción D agrega la posibilidad de delegación, que requiere habilitación legal expresa."
+  },
+  {
+    "pregunta": "Según el Art. 26 inc. 3 de la Ley I Nº 18, ¿qué principio obliga a determinar el estado de hecho real en el procedimiento administrativo?",
+    "opciones": [
+      "Principio de legalidad",
+      "Principio de audiencia previa",
+      "Principio de la verdad material",
+      "Principio de libre convicción"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 26 inc. 3 consagra el principio de la verdad material: en el procedimiento administrativo debe determinarse el estado de hecho real y, a ese fin, deben comprobarse todos los hechos relevantes para adoptar una decisión legal y regular, conforme a la verdad real, no puramente formal. Se diferencia del proceso civil donde puede predominar la verdad formal. Las opciones A, B y D refieren a principios distintos del mismo artículo."
+  },
+  {
+    "pregunta": "Conforme al Art. 26 inc. 4 de la Ley I Nº 18, ¿en qué casos puede dictarse una resolución administrativa sin previa audiencia de la parte?",
+    "opciones": [
+      "Cuando la resolución es favorable al administrado",
+      "Cuando la urgencia del asunto así lo requiera a criterio del órgano",
+      "Solo en los casos expresamente consentidos por la ley",
+      "Cuando el administrado no compareció voluntariamente al procedimiento"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 26 inc. 4 establece como principio la imprescindible audiencia de parte antes de adoptarse una decisión, pero admite excepción únicamente en los casos expresamente consentidos por la ley. Esta restricción es garantía del derecho de defensa (Art. 18 CN). La opción A no está prevista como excepción. La opción B introduce discrecionalidad no prevista. La opción D también carece de sustento: la inactividad del administrado no dispensa la audiencia."
+  },
+  {
+    "pregunta": "Según el Art. 26 inc. 7 d) de la Ley I Nº 18, ¿se admiten recursos contra las decisiones de segundo grado?",
+    "opciones": [
+      "Sí, siempre que exista agravio suficiente",
+      "Sí, pero solo ante el Gobernador",
+      "No, no se admiten recursos contra las decisiones de segundo grado",
+      "Sí, cuando se trate de nulidades absolutas"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 26 inc. 7 d) establece expresamente que no se admiten recursos contra las decisiones de segundo grado. Esta norma cierra la vía recursiva administrativa, habilitando únicamente la vía judicial (contencioso-administrativa). Las opciones A, B y D contradicen el texto expreso de la ley. El inciso 7 a) garantiza el recurso en primera instancia pero el d) lo clausura en segunda."
+  },
+  {
+    "pregunta": "Conforme al Art. 26 inc. 8 de la Ley I Nº 18, ¿en qué condición deben encontrarse las decisiones para que opere el principio de estabilidad legal?",
+    "opciones": [
+      "Basta que hayan sido dictadas por un órgano competente, aunque sean recurribles",
+      "Deben ser decisiones definitivas contra las cuales no proceden recursos ni juicio administrativo, en base a las cuales una persona ha adquirido determinados derechos",
+      "Deben haber sido consentidas tácitamente por el administrado",
+      "Basta que hayan transcurrido 30 días desde su notificación sin impugnación"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 26 inc. 8 consagra el principio de estabilidad legal: las decisiones contra las cuales no proceden recursos ni contra las cuales se puede promover un juicio administrativo (resoluciones definitivas), en base a las cuales una persona ha adquirido determinados derechos, no pueden ser anuladas, abrogadas o modificadas sino en los casos previstos por la ley. Requiere que el acto sea definitivo y que haya generado derechos adquiridos. Las otras opciones establecen condiciones insuficientes."
+  },
+  {
+    "pregunta": "Según el Art. 26 inc. 12 de la Ley I Nº 18, ante duda en un procedimiento sancionador, ¿qué principio de interpretación rige?",
+    "opciones": [
+      "In dubio pro administración",
+      "In dubio pro actione",
+      "In dubio pro reo",
+      "In dubio pro lege"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 26 inc. 12 establece el principio de interpretación favorable al accionante o al reo: en caso de duda, la interpretación favorecerá a la parte (in dubio pro actione) o al reo en el procedimiento sancionador (in dubio pro reo). En el supuesto específico del procedimiento sancionador rige el in dubio pro reo. La opción B sería correcta para el procedimiento general no sancionador. Las opciones A y D no tienen sustento en el texto."
+  },
+  {
+    "pregunta": "Conforme al Art. 28 inc. 1 de la Ley I Nº 18, ¿cuál es la regla general sobre la forma de los actos administrativos?",
+    "opciones": [
+      "Los actos administrativos deben ser siempre escritos, sin excepción",
+      "Los actos se producirán o consignarán por escrito cuando su naturaleza o circunstancia no exijan o permitan otra forma más adecuada",
+      "Los actos pueden adoptarse verbalmente sin necesidad de constancia escrita posterior",
+      "La forma escrita solo es obligatoria para los actos que limiten derechos subjetivos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 28 inc. 1 establece que los actos se producirán o consignarán por escrito cuando su naturaleza o circunstancia no exijan o permitan otra forma más adecuada de expresión y constancia. La regla es la escritura, pero con la flexibilidad de admitir otras formas cuando la naturaleza del acto así lo requiera. La opción A es incorrecta porque no admite excepciones. La opción C es incorrecta porque, aun cuando se admiten actos verbales, el Art. 28 inc. 2 exige constancia escrita. La opción D restringe indebidamente la obligación."
+  },
+  {
+    "pregunta": "Según el Art. 28 inc. 2 de la Ley I Nº 18, cuando se dictan resoluciones en forma verbal, ¿qué recaudo especial se exige?",
+    "opciones": [
+      "Que cualquier funcionario inferior deje constancia escrita mediante la fórmula 'Por orden de...' sin más formalidad",
+      "Que el titular de la competencia autorice con su firma una relación de las resoluciones dictadas verbalmente con expresión de su contenido",
+      "Que se graben en soporte digital y se archive en el expediente",
+      "Que se ratifiquen mediante acto administrativo escrito posterior dentro de las 24 horas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 28 inc. 2 distingue entre los actos no resolutorios (donde la constancia la efectúa el órgano inferior que lo recibe oralmente, con la fórmula 'Por orden de...') y las resoluciones propiamente dichas, para las cuales el titular de la competencia deberá autorizar con su firma una relación de las que haya dictado en forma verbal con expresión de su contenido. La opción A confunde los dos supuestos. Las opciones C y D no están previstas."
+  },
+  {
+    "pregunta": "Conforme al Art. 28 inc. 3 de la Ley I Nº 18, ¿en qué casos NO resulta aplicable el régimen de actos verbales?",
+    "opciones": [
+      "En los actos de trámite sin efectos jurídicos para el administrado",
+      "En los casos regulados por el Art. 30 y en las decisiones de carácter sancionador",
+      "En todos los actos que afecten intereses legítimos de terceros",
+      "En los actos dictados por órganos colegiados"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 28 inc. 3 expresamente excluye del régimen de actos verbales los casos regulados por el Art. 30 (actos que deben ser motivados) y las decisiones de carácter sancionador. Esta exclusión responde al principio de debido proceso: los actos que limitan derechos o imponen sanciones requieren forma escrita con sus fundamentos. Las otras opciones no tienen respaldo en el texto legal."
+  },
+  {
+    "pregunta": "Según el Art. 29 de la Ley I Nº 18, ¿cuándo es jurídicamente admisible la refundición de actos administrativos en un único documento y quién debe firmarlo?",
+    "opciones": [
+      "Cuando se trate de actos de distinta naturaleza; firma cualquier funcionario autorizado",
+      "Cuando se trate de actos de la misma naturaleza que permitan individualización de personas u otras circunstancias; firma solo el titular de la competencia",
+      "Cuando exista urgencia administrativa; firma el jefe de la sección",
+      "Cuando lo autorice el superior jerárquico; firma el órgano que los redactó"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 29 permite refundir en un único documento una serie de actos de la misma naturaleza (como nombramientos, concesiones, licencias), siempre que se especifiquen las personas u otras circunstancias que individualicen cada uno de los actos. Solo dicho documento llevará la firma del titular de la competencia. La identidad de naturaleza y la individualización son requisitos esenciales. Las otras opciones alteran indebidamente los requisitos."
+  },
+  {
+    "pregunta": "Conforme al Art. 30 de la Ley I Nº 18, ¿cuáles son los actos que deben ser motivados con referencia de hechos y fundamentos de derecho?",
+    "opciones": [
+      "Solo los actos que limiten derechos subjetivos y los que resuelvan recursos",
+      "Los actos que limiten derechos subjetivos; los que resuelvan recursos; los que se aparten de criterios anteriores o de dictámenes consultivos; los que deban serlo por ley; y los acuerdos de suspensión de actos recurridos",
+      "Todos los actos administrativos sin excepción, por el principio de transparencia",
+      "Los actos discrecionales y los sancionatorios únicamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 30 enumera taxativamente los actos que deben ser motivados: a) los que limiten derechos subjetivos; b) los que resuelvan recursos; c) los que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos; d) los que deban serlo por disposiciones legales; y e) los acuerdos de suspensión de actos recurridos. La opción A es incompleta. La opción C es incorrecta porque no todos los actos requieren motivación. La opción D omite categorías importantes."
+  },
+  {
+    "pregunta": "Según el Art. 32 inc. 1 de la Ley I Nº 18, ¿desde cuándo producen efectos los actos administrativos como regla general?",
+    "opciones": [
+      "Desde la fecha de su notificación al interesado",
+      "Desde la fecha en que se dictan, salvo que en ellos se disponga otra cosa",
+      "Desde la fecha de su publicación en el Boletín Oficial",
+      "Desde que adquieren firmeza por el transcurso de los plazos recursivos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 32 inc. 1 establece que los actos de la Administración producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa. Sin embargo, el inc. 2 prevé que la eficacia quedará demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior. La regla general es la fecha del dictado, con excepciones. Las otras opciones invierten la regla y la excepción."
+  },
+  {
+    "pregunta": "Conforme al Art. 32 inc. 3 de la Ley I Nº 18, ¿en qué supuestos puede otorgarse eficacia retroactiva a un acto administrativo?",
+    "opciones": [
+      "Cuando lo solicite el administrado y el órgano lo considere conveniente",
+      "Solo cuando lo disponga expresamente una ley especial",
+      "Cuando se dicte en sustitución de actos anulados o cuando produzca efectos favorables al interesado, siempre que los supuestos de hecho existieran ya en la fecha a que se retrotraiga y no lesione derechos o intereses legítimos de otras personas",
+      "La retroactividad nunca es admisible en el procedimiento administrativo provincial"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 32 inc. 3 prevé la retroactividad excepcionalmente en dos supuestos: a) cuando el acto se dicta en sustitución de actos anulados, y b) cuando produzca efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia y que esta no lesione derechos o intereses legítimos de otras personas. Son requisitos acumulativos. Las otras opciones amplían, restringen o niegan la retroactividad sin sustento normativo."
+  },
+  {
+    "pregunta": "Conforme al Art. 33 inc. 1 a) de la Ley I Nº 18, ¿qué causal de nulidad absoluta se configura cuando el acto es dictado por un órgano incompetente?",
+    "opciones": [
+      "Solo cuando la incompetencia es manifiesta y no existe posibilidad de convalidación",
+      "La nulidad de pleno derecho, que opera automáticamente cuando el órgano es manifiestamente incompetente",
+      "La anulabilidad del acto, susceptible de saneamiento por el órgano competente",
+      "La inexistencia del acto, que impide cualquier efecto jurídico"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 33 inc. 1 a) establece que son nulos de pleno derecho los actos dictados por órganos manifiestamente incompetentes. La incompetencia debe ser manifiesta (evidente, no controvertida) para generar nulidad de pleno derecho. Si la incompetencia fuera discutible, podría encuadrar en anulabilidad (Art. 34). La opción C es incorrecta porque la incompetencia manifiesta no es susceptible de convalidación según el Art. 39 inc. 2, que solo admite convalidación por el superior cuando el vicio es de incompetencia, pero no cuando es 'manifiesta'. La opción D describe la 'inexistencia', que es una categoría doctrinaria distinta no consagrada expresamente."
+  },
+  {
+    "pregunta": "Según el Art. 33 inc. 1 c) de la Ley I Nº 18, ¿qué vicio formal genera nulidad absoluta?",
+    "opciones": [
+      "Cualquier defecto de forma, aunque sea menor",
+      "La falta de motivación en actos que deberían estar motivados según el Art. 30",
+      "Prescindir total y absolutamente del procedimiento legal establecido o de las normas esenciales para la formación de la voluntad de los órganos colegiados",
+      "La notificación defectuosa del acto administrativo"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 33 inc. 1 c) establece la nulidad de pleno derecho para los actos dictados prescindiendo total y absolutamente del procedimiento legal establecido para ello o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados. El incumplimiento debe ser absoluto y total, no cualquier defecto procedimental. La opción A es incorrecta porque no todo vicio formal genera nulidad absoluta (ver Art. 34 inc. 2 y Art. 35). Las opciones B y D serían vicios anulables, no nulos."
+  },
+  {
+    "pregunta": "Conforme al Art. 33 inc. 2 de la Ley I Nº 18, ¿qué disposiciones de carácter general son nulas de pleno derecho?",
+    "opciones": [
+      "Las que contraríen una resolución ministerial anterior",
+      "Las contrarias a las leyes y las disposiciones administrativas de carácter general que establezcan penas, impongan exacciones, tasas, cánones, derechos u otras cargas similares no autorizadas por ley",
+      "Todas las disposiciones administrativas que no hayan sido publicadas en el Boletín Oficial",
+      "Las disposiciones que no cuenten con dictamen previo del Fiscal de Estado"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 33 inc. 2 establece que también son nulas de pleno derecho las disposiciones contrarias a las leyes y los reglamentos, decretos, instrucciones, circulares y demás disposiciones administrativas de carácter general que establezcan penas, impongan exacciones, tasas, cánones, derechos y otras cargas similares no autorizadas por una ley. Esta disposición protege el principio de reserva de ley en materia tributaria y sancionatoria (Arts. 17 y 19 CN). Las otras opciones no reflejan la causal específica del artículo."
+  },
+  {
+    "pregunta": "Según el Art. 34 inc. 1 de la Ley I Nº 18, ¿qué es la desviación de poder como causal de anulabilidad?",
+    "opciones": [
+      "El ejercicio de la competencia por un órgano manifiestamente incompetente",
+      "La emisión de un acto sin motivación suficiente",
+      "Una infracción del ordenamiento jurídico consistente en el uso de facultades con fines distintos a los previstos por la norma que las atribuye",
+      "La prescindencia absoluta del procedimiento legal establecido"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 34 inc. 1 establece que son anulables los actos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder. La desviación de poder es una figura de la doctrina y jurisprudencia administrativista que consiste en el uso de las facultades atribuidas para fines distintos a los contemplados por la norma, aunque formalmente el órgano sea competente. La opción A describe incompetencia manifiesta (Art. 33). La opción B podría ser anulabilidad por vicio de forma. La opción D describe el vicio del Art. 33 inc. 1 c)."
+  },
+  {
+    "pregunta": "Conforme al Art. 34 inc. 2 de la Ley I Nº 18, ¿cuándo el defecto de forma determina la anulabilidad del acto?",
+    "opciones": [
+      "Siempre que el acto tenga algún vicio formal, independientemente de su importancia",
+      "Solo cuando el defecto sea de firma del titular de la competencia",
+      "Cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o haya impedido la defensa de los interesados",
+      "Cuando el defecto formal sea posterior a la notificación del acto"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 34 inc. 2 establece que el defecto de forma solo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o haya impedido la defensa de los interesados. Esta norma recepta el principio de instrumentalidad de las formas: la forma no es un fin en sí mismo sino un medio. No todo defecto formal invalida el acto. Las opciones A y B son incorrectas. La opción D agrega un requisito temporal inexistente."
+  },
+  {
+    "pregunta": "Según el Art. 35 de la Ley I Nº 18, ¿qué ocurre con las actuaciones administrativas realizadas fuera del tiempo establecido?",
+    "opciones": [
+      "Son siempre nulas de pleno derecho por violación del principio de legalidad procesal",
+      "Solo implican la anulación del acto si así lo impusiera la naturaleza del término o plazo, y la responsabilidad del funcionario si corresponde",
+      "Generan automáticamente la caducidad del procedimiento",
+      "Son válidas sin ninguna consecuencia para el funcionario actuante"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 35 establece que las actuaciones realizadas fuera del tiempo establecido solo implicarán la anulación del acto si así lo impusiera la naturaleza del término o plazo, y la responsabilidad del funcionario causante de la demora si a ello hubiere lugar. Los plazos son en principio ordenatorios, salvo que su naturaleza los haga perentorios. La opción A es incorrecta porque no toda extemporaneidad genera nulidad. La opción C no tiene sustento en este artículo. La opción D es incorrecta porque sí puede generar responsabilidad del funcionario."
+  },
+  {
+    "pregunta": "Conforme al Art. 36 inc. 1 de la Ley I Nº 18, si un acto del procedimiento es inválido, ¿qué ocurre con los actos sucesivos?",
+    "opciones": [
+      "Todos los actos sucesivos son también inválidos, por efecto propagatorio",
+      "Los actos sucesivos en el procedimiento que sean independientes del primero no se ven afectados por la invalidez",
+      "Los actos sucesivos quedan en suspenso hasta que se sanee el vicio",
+      "Los actos sucesivos son válidos solo si el administrado los consiente expresamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 36 inc. 1 consagra el principio de conservación: la invalidez de un acto no implica la de los sucesivos en el procedimiento que sean independientes del primero. Este principio evita que la invalidez de un acto arrastre innecesariamente todo el procedimiento. La opción A es incorrecta porque el efecto propagatorio solo alcanza a los actos dependientes. Las opciones C y D no tienen sustento normativo."
+  },
+  {
+    "pregunta": "Según el Art. 37 de la Ley I Nº 18, ¿qué ocurre con un acto nulo que contiene los elementos constitutivos de otro acto distinto?",
+    "opciones": [
+      "Es completamente ineficaz y no puede producir ningún efecto jurídico",
+      "Produce los efectos del acto cuyos elementos constitutivos contiene, por aplicación del instituto de la conversión",
+      "Es convalidable solo si el administrado lo acepta expresamente",
+      "Debe ser repetido íntegramente por el órgano competente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 37 consagra el instituto de la conversión del acto administrativo: los actos nulos que, sin embargo, contengan los elementos constitutivos de otro acto distinto producirán los efectos de éste. Este principio también responde a la economía procesal y a la conservación de los efectos jurídicos válidos. La opción A niega cualquier efecto, lo que contradice el Art. 37. Las opciones C y D no reflejan el mecanismo previsto."
+  },
+  {
+    "pregunta": "Conforme al Art. 38 de la Ley I Nº 18, cuando se declara la nulidad de actuaciones, ¿qué debe hacer el órgano que la declara respecto de los actos no afectados?",
+    "opciones": [
+      "Anular todas las actuaciones por razones de seguridad jurídica",
+      "Conservar los actos y trámites cuyo contenido hubiera permanecido el mismo de no haberse realizado la infracción origen de la nulidad",
+      "Elevar el expediente al superior jerárquico para que decida",
+      "Retrotraer siempre el procedimiento a la etapa inicial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 38 establece que el órgano que declare la nulidad de actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido hubiera permanecido el mismo de no haberse realizado la infracción origen de la nulidad. Es la aplicación del principio de conservación al supuesto de nulidad declarada: se preserva lo que no está contaminado por el vicio. La opción A es contraria al principio de conservación. Las opciones C y D no tienen sustento."
+  },
+  {
+    "pregunta": "Según el Art. 39 inc. 1 de la Ley I Nº 18, ¿qué tipo de actos puede convalidar la Administración?",
+    "opciones": [
+      "Los actos nulos de pleno derecho, sin limitación",
+      "Solo los actos anulables, subsanando los vicios de que adolezcan",
+      "Cualquier acto, incluso los que contengan vicios esenciales",
+      "Solo los actos con defectos de forma menor"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 39 inc. 1 establece que la Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan. Solo los actos anulables son convalidables; los nulos de pleno derecho (Art. 33) son insanables. Esta distinción entre nulidad y anulabilidad es fundamental en el régimen de invalidez del acto administrativo. La opción A es incorrecta. Las opciones C y D son incorrectas o incompletas."
+  },
+  {
+    "pregunta": "Conforme al Art. 39 inc. 2 de la Ley I Nº 18, ¿cómo puede convalidarse un acto anulable por vicio de incompetencia?",
+    "opciones": [
+      "Por el mismo órgano que lo dictó, mediante rectificación posterior",
+      "Por el órgano competente cuando sea superior jerárquico del que dictó el acto",
+      "Por el administrado afectado mediante aceptación expresa",
+      "Por el Poder Judicial mediante declaración de validez"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 39 inc. 2 establece que si el vicio consistiera en incompetencia, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto convalidado. Esta norma permite sanear el vicio a través de la jerarquía, siempre que el vicio sea de incompetencia relativa (no manifiesta, que generaría nulidad absoluta según Art. 33 inc. 1 a)). Las otras opciones no tienen respaldo legal para este supuesto específico."
+  },
+  {
+    "pregunta": "Según el Art. 39 inc. 4 de la Ley I Nº 18, ¿qué tipo de vicio puede sanearse mediante el otorgamiento posterior de la autorización correspondiente? ¿Y el inc. 5 prevé alguna excepción a esta regla?",
+    "opciones": [
+      "La falta de competencia; el inc. 5 no prevé excepciones",
+      "La falta de una autorización previa; pero el inc. 5 establece que esta convalidación no aplica a la omisión de informes o propuestas obligatorias",
+      "La falta de motivación; el inc. 5 exceptúa los actos sancionatorios",
+      "El defecto de forma; el inc. 5 exceptúa los actos que limiten derechos subjetivos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 39 inc. 4 establece que si el vicio consistiese en la falta de alguna autorización, podrá ser convalidado el acto mediante el otorgamiento de la misma por el órgano competente. Sin embargo, el inc. 5 aclara expresamente que lo dispuesto en el párrafo precedente NO será aplicable a los casos de omisión de informes o propuestas obligatorias. Esta distinción entre autorización (convalidable) e informes o propuestas obligatorias (no convalidables) es un dato de alto nivel técnico."
+  },
+  {
+    "pregunta": "Conforme al Art. 40 de la Ley I Nº 18, cuando un acto del interesado no reúne los requisitos necesarios, ¿qué debe hacer la Administración y en qué plazo debe subsanarse?",
+    "opciones": [
+      "Rechazarlo directamente por incumplimiento de formas",
+      "Notificarlo al interesado y concederle un plazo de 10 días para cumplimentar los requisitos",
+      "Archivarlo sin más trámite",
+      "Subsanarlo de oficio la propia Administración"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 40 establece que cuando en cualquier momento se considere que alguno de los actos de los interesados no reúne los requisitos necesarios, la Administración lo pondrá en conocimiento de su autor, concediéndole un plazo de diez días para cumplimentarlos. Esta norma es expresión del principio de informalismo en favor del administrado y del deber de asistencia (Art. 26 inc. 10). Las otras opciones contradicen el mecanismo previsto."
+  },
+  {
+    "pregunta": "Según el Art. 41 de la Ley I Nº 18, las cuestiones incidentales que se susciten en el procedimiento, ¿suspenden el curso del expediente?",
+    "opciones": [
+      "Siempre suspenden el procedimiento, por ser cuestiones prejudiciales",
+      "No suspenden el curso del expediente, salvo la recusación",
+      "Solo suspenden si se refieren a la nulidad de actuaciones",
+      "Suspenden solo cuando lo soliciten expresamente los interesados"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 41 establece que las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones, no suspenderán el curso del expediente, salvo la recusación. La recusación es la única excepción expresamente prevista. Esta norma responde al principio de economía procesal y celeridad (Art. 26 inc. 9). Las otras opciones amplían las excepciones sin sustento normativo."
+  },
+  {
+    "pregunta": "Conforme al Art. 42 de la Ley I Nº 18, ¿a quiénes obligan los términos y plazos establecidos en la ley?",
+    "opciones": [
+      "Solo a los administrados, no a los funcionarios",
+      "Solo a las autoridades y funcionarios administrativos",
+      "Por igual y sin necesidad de apremio, tanto a las autoridades y funcionarios competentes como a los interesados",
+      "Solo a las partes que los hayan invocado expresamente en sus escritos"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 42 establece que los términos y plazos obligan por igual y sin necesidad de apremio tanto a las autoridades y funcionarios competentes para el despacho de los asuntos como a los interesados en los mismos. Esta bilateralidad es fundamental: los plazos no son solo cargas del administrado sino también de la Administración. La opción A y B son parciales. La opción D agrega un requisito inexistente."
+  },
+  {
+    "pregunta": "Según el Art. 43 de la Ley I Nº 18, ¿en qué condiciones puede la Administración conceder una prórroga de plazos?",
+    "opciones": [
+      "Cuando lo soliciten los interesados, sin más requisito que la solicitud",
+      "A petición de los interesados, que no exceda de la mitad del plazo, si las circunstancias lo aconsejan y no se perjudican derechos de terceros",
+      "De oficio, en cualquier momento, sin límite de extensión",
+      "Solo cuando exista disposición legal expresa que lo autorice para ese plazo específico"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 43 establece que la Administración, salvo precepto en contrario, podrá conceder a petición de los interesados una prórroga de los plazos establecidos que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de terceros. Los requisitos son: solicitud de parte, que no exceda el 50% del plazo, circunstancias que lo aconsejen, y ausencia de perjuicio a terceros. La opción A omite las condiciones sustanciales. Las opciones C y D son incorrectas."
+  },
+  {
+    "pregunta": "Conforme al Art. 44 inc. 1 de la Ley I Nº 18, en el procedimiento de urgencia, ¿qué ocurre con los plazos relativos a la presentación de instancias y recursos?",
+    "opciones": [
+      "También se reducen a la mitad junto con todos los demás plazos",
+      "Se duplican para garantizar el derecho de defensa del administrado",
+      "Se mantienen inalterados; solo se reducen a la mitad los plazos del procedimiento ordinario, salvo los de presentación de instancias y recursos",
+      "Quedan suspendidos hasta la conclusión del procedimiento urgente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 44 inc. 1 establece que en el procedimiento de urgencia se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, SALVO los relativos a la presentación de instancias y recursos. Esta excepción protege el derecho de defensa del administrado, que no puede ver reducidos sus plazos para recurrir. La opción A es incorrecta porque ignora la excepción. Las opciones B y D no tienen sustento."
+  },
+  {
+    "pregunta": "Según el Art. 44 inc. 2 de la Ley I Nº 18, ¿puede recurrirse la resolución que acuerde o deniegue el carácter urgente del procedimiento?",
+    "opciones": [
+      "Sí, mediante recurso jerárquico ante el superior del Ministro",
+      "Sí, mediante recurso de reconsideración ante el mismo órgano",
+      "No, no se dará recurso alguno contra esa resolución",
+      "Sí, solo si la resolución deniega el carácter urgente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 44 inc. 2 establece expresamente que contra la resolución que acuerde o deniegue el carácter urgente del procedimiento no se dará recurso alguno. Esta irrecurribilidad aplica tanto a la concesión como a la denegación, lo que marca una excepción al principio general de revisabilidad (Art. 26 inc. 7). Las otras opciones contradicen el texto expreso."
+  },
+  {
+    "pregunta": "Conforme al Art. 45 de la Ley I Nº 18, ¿desde cuándo se cuentan los plazos?",
+    "opciones": [
+      "Desde el mismo día de la notificación o publicación del acto",
+      "Desde el día siguiente a aquel en que tenga lugar la notificación o publicación del acto",
+      "Desde el primer día hábil posterior a la semana en que se notificó el acto",
+      "Desde la fecha en que se dictó el acto, independientemente de su notificación"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 45 establece que los plazos se contarán siempre a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate. La regla 'dies a quo non computatur in termino' (el día inicial no se cuenta) es un principio procesal clásico. La opción A es incorrecta porque incluye el día de la notificación. Las opciones C y D son incorrectas por razones evidentes."
+  },
+  {
+    "pregunta": "Según el Art. 46 inc. 1 de la Ley I Nº 18, cuando los plazos se señalan por días, ¿qué tipo de días son, salvo que se exprese otra cosa?",
+    "opciones": [
+      "Días corridos, incluyendo sábados, domingos y feriados",
+      "Días hábiles, excluyéndose del cómputo los feriados provinciales",
+      "Días calendario, excluyendo solo los domingos",
+      "Días hábiles judiciales, conforme al calendario del Poder Judicial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 46 inc. 1 establece que cuando los plazos se señalen por días, siempre que no se exprese otra cosa, se entiende que son días hábiles, excluyéndose del cómputo los feriados provinciales. Esta regla distingue del proceso civil y del proceso penal. La opción A es incorrecta. La opción C incluye los sábados erróneamente. La opción D refiere al calendario judicial, que no es el parámetro aquí aplicable."
+  },
+  {
+    "pregunta": "Conforme al Art. 46 inc. 2 de la Ley I Nº 18, si el plazo se fija en meses y en el mes de vencimiento no hubiere día equivalente al de inicio del cómputo, ¿cuándo vence?",
+    "opciones": [
+      "El primer día hábil del mes siguiente",
+      "El último día del mes de vencimiento",
+      "Se extiende al mismo día del mes siguiente",
+      "El plazo queda sin efecto por imposibilidad de cumplimiento"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 46 inc. 2 establece que si el plazo se fija en meses se computará de fecha en fecha; si en el mes del vencimiento no hubiere día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el último día del mes. Esta regla evita la incertidumbre en meses de distinta extensión. La opción A añade una condición inexistente. Las opciones C y D no reflejan la norma."
+  },
+  {
+    "pregunta": "Según el Art. 47 inc. 1 de la Ley I Nº 18, ¿cuál es el plazo máximo para resolver un procedimiento administrativo desde su inicio, y qué excepciones prevé?",
+    "opciones": [
+      "Tres meses; puede prorrogarse indefinidamente por razones de interés público",
+      "Seis meses; puede superarse por causas excepcionales debidamente justificadas que se consignarán en el expediente",
+      "Un año; sin posibilidad de extensión bajo ningún concepto",
+      "Noventa días corridos; prorrogables por igual período a criterio del jefe de la sección"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 47 inc. 1 establece que no podrá exceder de seis meses el tiempo que transcurra desde el inicio del procedimiento hasta que se dicte resolución, a no mediar causas excepcionales debidamente justificadas que lo impidieren, las cuales se consignarán en el expediente por medio de diligencia firmada por el jefe de la sección correspondiente. Las otras opciones alteran el plazo o las condiciones de la excepción."
+  },
+  {
+    "pregunta": "Conforme al Art. 47 inc. 2 de la Ley I Nº 18, si la resolución se dicta transcurridos los seis meses sin justificación, ¿qué puede hacer el interesado al interponer recurso y qué consecuencia puede seguirse?",
+    "opciones": [
+      "Puede pedir la nulidad automática del procedimiento",
+      "Puede hacerlo constar al interponer el recurso, y la autoridad que conozca el recurso podrá ordenar la iniciación de expediente disciplinario para determinar el funcionario responsable",
+      "Solo puede reclamar indemnización civil sin poder cuestionar el procedimiento",
+      "Puede directamente promover acción contencioso-administrativa sin necesidad de interponer recurso previo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 47 inc. 2 establece que si la resolución se dictase transcurridos los seis meses sin justificación, los interesados podrán hacerlo constar al interponer el recurso procedente, en cuyo caso la autoridad que conozca el recurso podrá ordenar la iniciación de expediente disciplinario para determinar el funcionario o funcionarios responsables y aplicar las sanciones pertinentes. Si se trata de recurso contencioso-administrativo o acciones civiles o laborales, el Tribunal lo pondrá en conocimiento del ministro. La opción A agrega consecuencias no previstas. Las opciones C y D son incompletas o incorrectas."
+  },
+  {
+    "pregunta": "Según el Art. 61 inc. 2 de la Ley I Nº 18, ¿qué debe contener toda notificación y en qué plazo debe practicarse?",
+    "opciones": [
+      "Solo el texto íntegro del acto; plazo de 10 días desde la resolución",
+      "El texto íntegro del acto, con indicación de si es o no definitivo en vía administrativa y, en su caso, los recursos procedentes, el órgano ante el que presentarlos y el plazo; todo en el plazo máximo de cinco días desde la resolución",
+      "Solo el resumen del acto y los recursos posibles; plazo de 3 días hábiles",
+      "El texto del acto y la firma del titular; plazo de 48 horas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 61 inc. 2 establece que toda notificación se practicará en el plazo máximo de cinco días a partir de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión de los recursos que contra el mismo procedan, el órgano ante el que hubieran de presentarse y el plazo para interponerlos. Esta exigencia garantiza el ejercicio efectivo del derecho de defensa. Las otras opciones omiten elementos esenciales o alteran plazos."
+  },
+  {
+    "pregunta": "Conforme al Art. 61 inc. 3 de la Ley I Nº 18, ¿cuándo surten efecto las notificaciones defectuosas?",
+    "opciones": [
+      "Nunca; la notificación defectuosa es siempre inválida y debe repetirse",
+      "A partir de la fecha en que el interesado hace manifestación expresa en tal sentido o interpone el recurso pertinente",
+      "A los seis meses de practicada, en todos los casos",
+      "Desde el momento de su practicación, por aplicación del principio de conservación"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 61 inc. 3 establece que las notificaciones defectuosas surtirán efecto a partir de la fecha en que se haga manifestación expresa en tal sentido por el interesado o se interponga el recurso pertinente. Esta regla protege al administrado: la deficiencia de la notificación no lo perjudica mientras no manifieste conocimiento del acto. La opción A es incorrecta. La opción C confunde con el plazo del inc. 4 que aplica solo si se cumple el texto íntegro con omisión de otros requisitos. La opción D es incorrecta."
+  },
+  {
+    "pregunta": "Según el Art. 61 inc. 4 de la Ley I Nº 18, ¿en qué supuesto específico las notificaciones defectuosas surtirán efecto por el mero transcurso del tiempo y en qué plazo?",
+    "opciones": [
+      "Cuando hayan sido practicadas por Boletín Oficial, a los tres meses",
+      "Cuando conteniendo el texto íntegro del acto se hubieran omitido otros requisitos, surtirán efecto al transcurso de seis meses, salvo protesta formal dentro de ese plazo",
+      "Cuando el administrado las haya recibido personalmente, a los treinta días",
+      "En todos los casos de notificación defectuosa, al año de practicadas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 61 inc. 4 establece que surtirán efectos por el transcurso de seis meses las notificaciones practicadas personalmente al interesado que, conteniendo el texto íntegro del acto, hubieran omitido otros requisitos, salvo que se hubiera hecho protesta formal, dentro de este plazo, en solicitud de que la Administración rectifique la deficiencia. Requiere: notificación personal, texto íntegro del acto presente, omisión de otros requisitos, y ausencia de protesta formal en seis meses."
+  },
+  {
+    "pregunta": "Conforme al Art. 62 inc. 2 de la Ley I Nº 18, si el interesado no se halla presente al momento de entregarse la notificación, ¿quién puede recibirla?",
+    "opciones": [
+      "Nadie; debe intentarse nueva notificación al día siguiente hábil",
+      "Cualquier persona mayor que se encuentre en el domicilio y haga constar su parentesco o la razón de su permanencia en el mismo",
+      "Solo un familiar mayor de edad con documento de identidad",
+      "El empleado doméstico, sin necesidad de acreditar vinculación alguna"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 62 inc. 2 establece que de no hallarse presente el interesado al momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona mayor de la casa que se encuentre en el domicilio y haga constar su parentesco o la razón de su permanencia en el mismo. No exige que sea familiar, sino cualquier persona mayor que dé razón de su presencia. La opción A es incorrecta. La opción C restringe indebidamente. La opción D es incorrecta porque sí debe acreditar la razón de su presencia."
+  },
+  {
+    "pregunta": "Según el Art. 62 inc. 3 de la Ley I Nº 18, ¿cómo se notifica cuando los interesados son desconocidos o se ignora su domicilio?",
+    "opciones": [
+      "Mediante publicación en el Boletín Oficial durante tres días consecutivos",
+      "Mediante anuncios en el municipio del último domicilio conocido y en el Boletín Oficial de la Provincia, que se agregarán al expediente",
+      "Mediante telegrama colacionado al último domicilio conocido",
+      "Mediante edictos en dos diarios de circulación provincial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 62 inc. 3 establece que cuando los interesados sean desconocidos o se ignore su domicilio, la notificación se hará por medio de anuncios en el municipio de su último domicilio y en el Boletín Oficial de la Provincia, que se agregarán al expediente una vez realizados. Esta doble publicación garantiza la mayor difusión posible. Las otras opciones establecen mecanismos distintos no previstos en el artículo."
+  },
+  {
+    "pregunta": "Conforme al Art. 73 inc. 1 de la Ley I Nº 18, una vez agotada la instrucción, ¿en qué plazo deben ponerse los expedientes de manifiesto a los interesados para la audiencia final?",
+    "opciones": [
+      "No inferior a tres días ni superior a diez",
+      "No inferior a cinco días ni superior a quince",
+      "No inferior a diez días ni superior a veinte",
+      "No inferior a dos días ni superior a cinco"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 73 inc. 1 establece que agotada la instrucción, los expedientes se pondrán de manifiesto a los interesados para que, en un plazo no inferior a cinco días ni superior a quince, aleguen y presenten los documentos y justificaciones que estimen pertinentes. Este es el trámite de audiencia final. La fijación de límites mínimo y máximo garantiza tanto la celeridad del procedimiento como el derecho de defensa."
+  },
+  {
+    "pregunta": "Según el Art. 73 inc. 3 de la Ley I Nº 18, ¿cuándo puede prescindirse del trámite de audiencia?",
+    "opciones": [
+      "Cuando el asunto sea urgente y el superior jerárquico lo autorice",
+      "Cuando no figuren en el expediente ni sean tenidos en cuenta en la resolución otros hechos, alegaciones y pruebas distintas a las aducidas por el interesado",
+      "Cuando el administrado no haya comparecido al procedimiento",
+      "Cuando se trate de actos favorables al interesado"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 73 inc. 3 permite prescindir del trámite de audiencia cuando no figuren en el expediente ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado. Si la resolución se basa exclusivamente en lo que el propio interesado aportó, la audiencia sería redundante. Las otras opciones establecen supuestos no previstos o contrarios al principio de audiencia (Art. 26 inc. 4)."
+  },
+  {
+    "pregunta": "Conforme al Art. 74 de la Ley I Nº 18, ¿cuáles son las formas de terminación del procedimiento administrativo?",
+    "opciones": [
+      "Solo la resolución y el desistimiento",
+      "La resolución, el desistimiento, la renuncia al derecho en que se funde la instancia y la declaración de caducidad",
+      "La resolución, el desistimiento, la caducidad y el silencio administrativo positivo",
+      "La resolución, el desistimiento, la renuncia, la caducidad y la conciliación"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 74 establece taxativamente que pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la instancia y la declaración de caducidad. La opción A es incompleta. La opción C incluye el silencio positivo, que no es una forma de terminación sino una ficción legal. La opción D agrega la conciliación, que no está prevista en este artículo."
+  },
+  {
+    "pregunta": "Según el Art. 76 inc. 1 de la Ley I Nº 18, ¿cuál es el mecanismo para habilitar la acción recursiva ante la inactividad de la Administración?",
+    "opciones": [
+      "Transcurridos tres meses sin resolución, el silencio opera automáticamente como denegación, sin necesidad de trámite previo",
+      "Formulada una petición y no notificada la decisión en tres meses, el interesado puede denunciar la mora y, transcurrido un mes desde la denuncia, considerar desestimada su petición e interponer el recurso correspondiente o esperar la resolución expresa",
+      "Transcurrido un mes sin resolución, se produce el silencio positivo automático",
+      "El interesado puede interponer recurso directamente al día siguiente de presentada la petición, sin necesidad de esperar plazo alguno"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 76 inc. 1 establece el mecanismo del silencio negativo con denuncia de mora: si la Administración no notificase su decisión en tres meses, el interesado podrá denunciar la mora y transcurrido un mes desde la denuncia, podrá considerar desestimada su petición a efectos de interponer el recurso administrativo o jurisdiccional, o esperar la resolución expresa. El mecanismo tiene dos tiempos: primero 3 meses de inactividad, luego la denuncia de mora, luego 1 mes adicional."
+  },
+  {
+    "pregunta": "Conforme al Art. 76 inc. 2 de la Ley I Nº 18, ¿excluye la denegación presunta el deber de la Administración de dictar resolución expresa?",
+    "opciones": [
+      "Sí; una vez operado el silencio negativo, la Administración queda eximida de resolver",
+      "No; la denegación presunta no excluye el deber de la Administración de dictar resolución expresa",
+      "Solo si el interesado interpuso el recurso jurisdiccional correspondiente",
+      "Solo si el administrado renunció expresamente a la resolución expresa"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 76 inc. 2 establece expresamente que la denegación presunta no excluye el deber de la Administración de dictar una resolución expresa. El silencio negativo es solo una ficción procesal que habilita la impugnación, pero no libera a la Administración de su obligación de pronunciarse. Las opciones A, C y D contradicen este mandato expreso."
+  },
+  {
+    "pregunta": "Según el Art. 77 de la Ley I Nº 18, ¿en qué casos el silencio se entenderá positivo sin necesidad de denuncia de mora?",
+    "opciones": [
+      "Siempre que transcurran tres meses sin resolución",
+      "Cuando así se establezca por disposición expresa o cuando se trate de autorizaciones o aprobaciones en ejercicio de funciones de fiscalización y tutela de órganos superiores sobre inferiores",
+      "Solo cuando el administrado acredite perjuicio grave por la inactividad",
+      "Nunca; el silencio positivo no existe en el derecho administrativo provincial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 77 establece que el silencio se entenderá positivo, sin denuncia de mora, cuando así se establezca por disposición expresa o cuando se trate de autorizaciones o aprobaciones que deban acordarse en el ejercicio de funciones de fiscalización y tutela de los órganos superiores sobre los inferiores. Si las disposiciones no previeran plazo especial para el silencio positivo, éste será de un mes desde la petición. Las otras opciones amplían, restringen o niegan el instituto."
+  },
+  {
+    "pregunta": "Conforme al Art. 80 inc. 2 de la Ley I Nº 18, ¿puede la Administración continuar el procedimiento pese al desistimiento del interesado?",
+    "opciones": [
+      "No; el desistimiento siempre extingue el procedimiento sin excepción",
+      "Sí, pero solo si existen terceros interesados que insten la continuación dentro de 10 días",
+      "Sí, cuando la cuestión suscitada entrañe interés general o sea conveniente sustanciarla para su definición y esclarecimiento, limitando los efectos del desistimiento al interesado",
+      "Solo cuando el desistimiento sea formulado verbalmente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 80 inc. 2 establece que si la cuestión suscitada por la iniciación del procedimiento entrañase interés general o fuera conveniente sustanciarla para su definición y esclarecimiento, la Administración podrá limitar los efectos del desistimiento al interesado y seguir el procedimiento. Esto evidencia que el procedimiento administrativo no es solo de interés privado. La opción A es incorrecta porque ignora las excepciones. La opción B describe el supuesto del inc. 1. La opción D es irrelevante como criterio."
+  },
+  {
+    "pregunta": "Según el Art. 81 de la Ley I Nº 18, ¿cuál es el plazo de advertencia antes de declarar la caducidad de la instancia por inactividad del administrado?",
+    "opciones": [
+      "La Administración declara la caducidad directamente sin advertencia previa",
+      "La Administración advierte al administrado que transcurrido un mes se producirá la caducidad",
+      "La Administración advierte al administrado que transcurridos tres meses se producirá la caducidad y se archivará la actuación",
+      "La caducidad opera automáticamente a los seis meses de inactividad"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 81 establece que paralizado un expediente por causa imputable al administrado, la Administración le advertirá que, transcurrido tres meses, se producirá la caducidad de la instancia y se procederá al archivo de las actuaciones, a menos que la Administración ejercite la facultad del Art. 80 inc. 2. La advertencia previa es un requisito procedimental y el plazo es de tres meses, no uno. Las otras opciones alteran el mecanismo o el plazo."
+  },
+  {
+    "pregunta": "Conforme al Art. 83 de la Ley I Nº 18, ¿cuándo son inmediatamente ejecutivos los actos de la Administración provincial?",
+    "opciones": [
+      "Solo después de transcurridos los plazos recursivos sin impugnación",
+      "Solo cuando el administrado consiente expresamente su ejecución",
+      "Salvo lo previsto en el Art. 105 y los casos en que una disposición establezca lo contrario o requiera aprobación o autorización superior",
+      "Solo los actos definitivos que hayan quedado firmes"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 83 establece que los actos y acuerdos de las autoridades y organismos de la Administración serán inmediatamente ejecutivos, salvo lo previsto en el Art. 105 y en aquellos casos en que una disposición establezca lo contrario o requiera aprobación o autorización superior. La ejecutividad inmediata es la regla general del acto administrativo (principio de autotutela ejecutiva). Las opciones A, B y D invierten la regla o agregan condiciones inexistentes."
+  },
+  {
+    "pregunta": "Según el Art. 84 de la Ley I Nº 18, ¿puede la Administración proceder a la ejecución forzosa de sus actos administrativos directamente?",
+    "opciones": [
+      "No; siempre requiere autorización judicial previa",
+      "Sí, pero solo respecto de actos pecuniarios mediante el procedimiento de la ley de contabilidad",
+      "Sí, previo apercibimiento, salvo cuando por ley se exija la intervención de los tribunales",
+      "Solo cuando el administrado haya renunciado expresamente a resistir la ejecución"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 84 establece que la Administración podrá proceder, previo apercibimiento, a la ejecución forzosa de los actos administrativos, salvo cuando por ley se exija la intervención de los tribunales. La regla es la ejecución administrativa directa (autotutela ejecutiva); la excepción es la intervención judicial cuando la ley lo exija. La opción A invierte la regla. La opción B limita incorrectamente a casos pecuniarios. La opción D es incorrecta."
+  },
+  {
+    "pregunta": "Conforme al Art. 85 de la Ley I Nº 18, ¿se admiten interdictos contra actuaciones de los órganos administrativos realizadas en materia de su competencia y con el procedimiento legal?",
+    "opciones": [
+      "Sí, siempre que el administrado acredite perjuicio irreparable",
+      "Sí, pero solo el interdicto de recobrar la posesión",
+      "No se admiten interdictos en esos supuestos",
+      "Sí, cuando la actuación sea manifiestamente arbitraria"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 85 establece taxativamente que no se admitirán interdictos contra las actuaciones de los órganos administrativos realizados en materia de su competencia y de acuerdo con el procedimiento legalmente establecido. Esta disposición protege la ejecución administrativa de interferencias judiciales posessorias. Las otras opciones contradicen el texto expreso."
+  },
+  {
+    "pregunta": "Según el Art. 86 de la Ley I Nº 18, ¿cuál es el único medio previsto para la ejecución forzosa por la Administración?",
+    "opciones": [
+      "La multa coercitiva y la ejecución directa sobre bienes",
+      "La ejecución subsidiaria exclusivamente",
+      "La compulsión sobre las personas",
+      "La ejecución judicial mediante mandamiento"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 86 establece que la ejecución forzosa por la Administración se efectuará por medio de la ejecución subsidiaria. A diferencia de otras legislaciones administrativas que admiten múltiples medios (multa coercitiva, compulsión sobre personas, ejecución subsidiaria), la Ley I Nº 18 prevé como medio único la ejecución subsidiaria. Las otras opciones no tienen sustento en este artículo específico."
+  },
+  {
+    "pregunta": "Conforme al Art. 88 de la Ley I Nº 18, ¿cuál es el requisito esencial para que proceda la ejecución subsidiaria?",
+    "opciones": [
+      "Que el acto sea de naturaleza sancionatoria",
+      "Que se trate de actos que, por no ser personalísimos, puedan ser realizados por sujeto distinto del obligado",
+      "Que el obligado haya sido declarado en quiebra",
+      "Que exista sentencia judicial que autorice la ejecución"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 88 inc. 1 establece que habrá lugar a la ejecución subsidiaria cuando se trate de actos que, por no ser personalísimos, puedan ser realizados por sujeto distinto del obligado. Si la obligación es personalísima (intransferible), no procede la ejecución subsidiaria, sino el resarcimiento de daños (Art. 90). La opción A es incorrecta. Las opciones C y D agregan requisitos inexistentes."
+  },
+  {
+    "pregunta": "Según el Art. 90 de la Ley I Nº 18, ¿qué ocurre si la obligación es personalísima y el obligado no la cumple?",
+    "opciones": [
+      "Se aplica igualmente la ejecución subsidiaria por analogía",
+      "El obligado deberá resarcir los daños y perjuicios, a cuya liquidación y extracción se procederá en vía administrativa y judicial respectivamente",
+      "Se declara la caducidad del acto que impuso la obligación",
+      "La Administración solo puede aplicar sanciones administrativas, sin posibilidad de reclamar daños"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 90 establece que si la obligación personalísima consistiera en un hacer y no se realizase la prestación, el obligado deberá resarcir los daños y perjuicios, a cuya liquidación y extracción se procederá en vía administrativa y judicial, respectivamente. La liquidación del daño es administrativa; la extracción (cobro) es judicial. La opción A contradice la limitación del Art. 88. Las opciones C y D no tienen sustento."
+  },
+  {
+    "pregunta": "Conforme al Art. 91 inc. 2 de la Ley I Nº 18, ¿en qué condiciones puede la Administración anular de oficio sus propios actos declarativos de derechos?",
+    "opciones": [
+      "En cualquier momento, con sola declaración de lesividad",
+      "Solo si los actos incurren en nulidad absoluta, sin límite temporal",
+      "Solo cuando concurran ambas circunstancias: que infrinjan la ley y así lo haya dictaminado el Fiscal de Estado, y que no hayan transcurrido cuatro años desde que fueron adoptados",
+      "Cuando lo solicite el Fiscal de Estado, sin necesidad de plazo"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 91 inc. 2 establece que podrán ser anulados de oficio por la propia Administración los actos declarativos de derechos cuando concurran dos circunstancias acumulativas: 1) que infrinjan la ley y así lo haya dictaminado el Fiscal de Estado, y 2) que no hayan transcurrido cuatro años desde que fueron adoptados. La intervención del Fiscal de Estado es preceptiva y el plazo de cuatro años es limitador. La opción A describe el procedimiento del inc. 1 (lesividad), que requiere impugnación judicial. Las opciones B y D son incompletas."
+  },
+  {
+    "pregunta": "Según el Art. 93 de la Ley I Nº 18, ¿en qué circunstancias no pueden ejercerse las facultades de anulación y revocación?",
+    "opciones": [
+      "Cuando el acto fue dictado por un órgano manifiestamente incompetente",
+      "Cuando por prescripción de acciones, por el tiempo transcurrido u otras circunstancias, su ejercicio resultase contrario a la equidad, al derecho de los particulares o a las leyes",
+      "Cuando el acto beneficia al administrado, sin ninguna excepción",
+      "Cuando el Fiscal de Estado no ha dictaminado previamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 93 establece que las facultades de anulación y revocación no podrán ejercerse cuando, por prescripción de acciones, por el tiempo transcurrido u otras circunstancias, su ejercicio resultase contrario a la equidad, al derecho de los particulares o a las leyes. Esta norma protege la seguridad jurídica y los derechos adquiridos. La opción A describe un caso en que debería anularse. Las opciones C y D no tienen sustento."
+  },
+  {
+    "pregunta": "Conforme al Art. 96 de la Ley I Nº 18, ¿desde cuándo surten efectos la anulación, la revocación y la abrogación?",
+    "opciones": [
+      "La anulación y revocación tienen efectos ex nunc (desde que se pronuncian); la abrogación tiene efecto ex tunc (desde el acto original)",
+      "Todas tienen efectos ex nunc (desde que se pronuncian), salvo disposición legal en contrario",
+      "La anulación y revocación tienen efectos ex tunc (desde la fecha del acto anulado o revocado), salvo disposición en contrario; la abrogación surte efecto desde el momento en que es pronunciada",
+      "Las tres tienen efecto retroactivo desde la fecha del acto original"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 96 establece una distinción fundamental: salvo disposición legal en contrario, la anulación y la revocación tendrán efecto desde la fecha del acto anulado o revocado (ex tunc, retroactivo); en cambio, la abrogación surtirá efecto desde el momento en que sea pronunciada (ex nunc, hacia el futuro). Esta distinción entre anulación/revocación y abrogación es de alta relevancia técnica y frecuentemente confundida."
+  },
+  {
+    "pregunta": "Según el Art. 97 de la Ley I Nº 18, ¿la anulación o revocación de un acto administrativo da lugar automáticamente a indemnización?",
+    "opciones": [
+      "Sí, siempre que el acto declarativo de derechos haya sido anulado",
+      "No; solo cuando la indemnización esté expresamente acordada por la ley o las estipulaciones del mismo acto, quedando a salvo la acción resarcitoria cuando concurran sus presupuestos",
+      "Sí, siempre que la revocación haya sido por razones de oportunidad, mérito o conveniencia",
+      "No, en ningún caso; la estabilidad del acto administrativo excluye toda indemnización"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 97 establece que la anulación o revocación de un acto administrativo no dará lugar a indemnización si ella no está expresamente acordada por la ley o las estipulaciones del mismo acto, quedando a salvo en todo caso la acción resarcitoria de los daños cuando concurran sus presupuestos. La regla es la no indemnización automática. La opción A es incorrecta. La opción C introduce la distinción por causa de revocación, que la norma no hace. La opción D es incorrecta porque la acción resarcitoria sí puede proceder."
+  },
+  {
+    "pregunta": "Conforme al Art. 98 inc. 1 de la Ley I Nº 18, ¿cuáles son los recursos administrativos previstos contra resoluciones e actos de trámite que impidan continuar el procedimiento o produzcan indefensión?",
+    "opciones": [
+      "El recurso de reconsideración y el jerárquico únicamente",
+      "El recurso de reconsideración, el jerárquico, el de nulidad y el de revisión",
+      "El recurso jerárquico y el de revisión únicamente",
+      "El recurso de nulidad y el contencioso-administrativo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 98 inc. 1 establece que contra las resoluciones administrativas y los actos de trámite que determinen la imposibilidad de continuar un procedimiento o produzcan indefensión, los titulares de un derecho subjetivo o interés directo personal y legítimo podrán utilizar los recursos de reconsideración, el jerárquico, el de nulidad y el de revisión. La legitimación requiere derecho subjetivo o interés directo personal y legítimo. Las otras opciones son incompletas."
+  },
+  {
+    "pregunta": "Según el Art. 99 inc. 2 de la Ley I Nº 18, ¿qué ocurre si el recurrente califica erróneamente el recurso?",
+    "opciones": [
+      "El recurso es inadmisible y debe ser rechazado in limine",
+      "El error en la calificación no será obstáculo para su tramitación, siempre que del escrito se deduzca su verdadero carácter",
+      "El recurso debe ser recaratulado de oficio solo si lo solicita el recurrente",
+      "El error obliga a interponer nuevamente el recurso con la calificación correcta"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 99 inc. 2 establece que el error en la calificación del recurso por parte del recurrente no será obstáculo para su tramitación, siempre que del escrito se deduzca su verdadero carácter. Este principio de informalismo a favor del administrado evita que deficiencias formales obstaculicen el acceso a la revisión. Las otras opciones contradicen este principio."
+  },
+  {
+    "pregunta": "Conforme al Art. 100 inc. 2 de la Ley I Nº 18, ¿pueden los causantes de un vicio alegar esos vicios y defectos para impugnar el acto?",
+    "opciones": [
+      "Sí, siempre; el derecho a impugnar es irrenunciable",
+      "No; los vicios y defectos que hagan anulable el acto no podrán ser alegados por los causantes de los mismos",
+      "Solo si el vicio es de nulidad absoluta",
+      "Solo si fue involuntario y así lo acreditan"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 100 inc. 2 establece que los vicios y defectos que hagan anulable el acto no podrán ser alegados por los causantes de los mismos. Esta norma recoge el principio de que nadie puede beneficiarse de su propio acto ilícito (nemo auditur propiam turpitudinem allegans). La opción A es incorrecta. La opción C limita incorrectamente a nulidades absolutas. La opción D agrega un requisito inexistente."
+  },
+  {
+    "pregunta": "Según el Art. 101 de la Ley I Nº 18, ¿suspende la interposición de un recurso la ejecución del acto impugnado?",
+    "opciones": [
+      "Sí, siempre que el recurso sea fundado",
+      "No, como regla general, salvo que la autoridad resolutora suspenda de oficio o a instancia, cuando la ejecución pueda causar perjuicio de imposible o difícil reparación o cuando la impugnación se funde en alguna causa de nulidad de pleno derecho",
+      "Sí, siempre en los recursos de nulidad y de revisión",
+      "No, nunca; la ejecución es siempre inmediata e ininterrumpible"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 101 establece que la interposición de cualquier recurso, excepto en los casos en que una disposición establezca lo contrario, no suspenderá la ejecución del acto impugnado, pero la autoridad competente para resolverlo podrá suspender de oficio o a instancia de parte cuando la ejecución pudiera causar perjuicio de imposible o difícil reparación, o cuando la impugnación se funde en alguna causa de nulidad de pleno derecho del Art. 33. La no suspensión es la regla; la suspensión es la excepción."
+  },
+  {
+    "pregunta": "Conforme al Art. 106 de la Ley I Nº 18, ¿cuál es el plazo para interponer el recurso de reconsideración y ante quién se presenta?",
+    "opciones": [
+      "Cinco días, ante el superior jerárquico del órgano que dictó el acto",
+      "Diez días, ante el mismo órgano que dictó el acto",
+      "Tres días de notificado el acto, ante la misma autoridad que lo dictó",
+      "Quince días, ante el ministro del área correspondiente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 106 establece que el recurso de reconsideración deberá interponerse dentro del término de tres días de notificado el acto que lo motiva, ante la misma autoridad que lo dictó, a fin de que ésta lo revoque por contrario imperio. La autoridad correrá vista por cinco días al asesor de la repartición y a los demás interesados, y deberá resolver dentro de igual término. El plazo de tres días es más breve que el del recurso jerárquico (diez días, Art. 108)."
+  },
+  {
+    "pregunta": "Según el Art. 107 de la Ley I Nº 18, ¿ante quién se interpone el recurso jerárquico?",
+    "opciones": [
+      "Ante el superior jerárquico del órgano que dictó el acto",
+      "Ante la autoridad que dictó el acto que lo motiva",
+      "Directamente ante el Gobernador",
+      "Ante el Fiscal de Estado"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 107 establece que el recurso jerárquico se interpondrá ante la autoridad que dictó el acto que lo motiva, pudiendo deducirse conjuntamente con el de reconsideración, en forma subsidiaria. El recurso se interpone ante la autoridad que dictó el acto (no ante el superior), quien luego debe elevarlo al superior (Art. 108). Esta distinción entre el órgano receptor y el órgano resolutorio es técnicamente importante."
+  },
+  {
+    "pregunta": "Conforme al Art. 108 de la Ley I Nº 18, ¿cuál es el plazo para interponer el recurso jerárquico y en qué plazo debe elevarse al superior?",
+    "opciones": [
+      "Cinco días para interponer; tres días para elevar al superior",
+      "Diez días para interponer; la autoridad ante quien se interpuso debe elevarlo dentro de tres días de concedido",
+      "Quince días para interponer; cinco días para elevar",
+      "Tres días para interponer; cuarenta y ocho horas para elevar"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 108 establece que el recurso jerárquico deberá interponerse dentro del término de diez días, y la autoridad ante quien se interpuso deberá elevarlo a quien debe resolverlo dentro de tres días de concedido, debiendo expedirse el superior dentro de cinco días de interpuesto. Los plazos son: 10 días para interponer, 3 días para elevar, 5 días para resolver."
+  },
+  {
+    "pregunta": "Según el Art. 111 de la Ley I Nº 18, ¿en qué plazo debe resolver la autoridad competente el recurso jerárquico y qué trámite previo es necesario?",
+    "opciones": [
+      "Diez días; previo dictamen del Fiscal de Estado",
+      "Cinco días desde la presentación del alegato; previo dictamen del asesor letrado del órgano respectivo, quien debe expedirse dentro de cinco días de recibido el expediente",
+      "Veinte días desde la presentación del alegato; previo dictamen del asesor letrado, que debe expedirse dentro de cinco días",
+      "Treinta días desde la interposición; sin necesidad de dictamen previo"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 111 establece que la autoridad competente deberá resolver dentro del término de veinte días desde la presentación del alegato, previo dictamen del asesor letrado del órgano respectivo, que deberá expedirse dentro de cinco días de recibido el expediente en traslado a ese efecto. Los plazos son precisos: dictamen en 5 días; resolución en 20 días desde el alegato. Las otras opciones alteran estos plazos."
+  },
+  {
+    "pregunta": "Conforme al Art. 113 de la Ley I Nº 18, ¿cuáles son las facultades de la autoridad competente al resolver el recurso jerárquico?",
+    "opciones": [
+      "Solo confirmar o revocar; no puede modificar ni sustituir",
+      "Confirmar, revocar, modificar, anular o sustituir la resolución apelada",
+      "Solo anular y remitir al inferior para nueva resolución",
+      "Confirmar, revocar o suspender; no puede sustituir ni modificar"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 113 establece que en cualquier caso al resolverse el recurso jerárquico, la autoridad competente podrá confirmar, revocar, modificar, anular o sustituir la resolución apelada. Esta amplitud de poderes del superior es característica del control jerárquico pleno, que comprende legalidad y mérito. Las otras opciones limitan incorrectamente esas facultades."
+  },
+  {
+    "pregunta": "Según el Art. 117 de la Ley I Nº 18, ¿cuándo procede el recurso de nulidad?",
+    "opciones": [
+      "Contra cualquier acto administrativo que el interesado considere viciado",
+      "Contra las resoluciones dictadas en violación de las disposiciones contenidas en la presente ley",
+      "Solo contra actos nulos de pleno derecho del Art. 33",
+      "Contra las resoluciones de segundo grado que afecten derechos subjetivos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 117 establece que el recurso de nulidad procede contra las resoluciones dictadas en violación de las disposiciones contenidas en la presente ley y será tramitado y resuelto por el superior, conjuntamente con el de apelación, en la misma forma y plazos que éste. La causal específica es la violación de la Ley I Nº 18, no cualquier vicio. Las opciones A y C amplían o restringen incorrectamente la causal. La opción D introduce una limitación inexistente."
+  },
+  {
+    "pregunta": "Conforme al Art. 118 de la Ley I Nº 18, ¿cuáles son las causales del recurso extraordinario de revisión?",
+    "opciones": [
+      "Error de derecho, aparición de nuevos documentos, falsedad de pruebas, nuevas pruebas que desvirtúen las anteriores, y resolución dictada por prevaricato o maquinación fraudulenta",
+      "Manifiesto error de hecho que resulte de los propios documentos; aparición de documentos de valor esencial ignorados al dictarse la resolución; influencia de documentos o testimonios declarados falsos por sentencia firme; cualquier otra prueba que desvirtúe categóricamente las probanzas del acto; o que la resolución se dictó como consecuencia de prevaricato, cohecho, violencia u otra maquinación fraudulenta declarada por sentencia firme",
+      "Solo el error de hecho y la falsedad documental acreditada",
+      "Cualquier infracción al ordenamiento jurídico, incluyendo desviación de poder"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 118 enumera taxativamente cinco causales del recurso de revisión: 1) manifiesto error de hecho que resulte de los propios documentos; 2) aparición de documentos esenciales ignorados o de imposible aportación; 3) documentos o testimonios declarados falsos por sentencia firme que hayan influido esencialmente; 4) cualquier otra prueba que desvirtúe categóricamente las probanzas; y 5) que la resolución se haya dictado como consecuencia de prevaricato, cohecho, violencia u otra maquinación fraudulenta declarada por sentencia firme. La opción A incluye el 'error de derecho', que no es causal del recurso de revisión."
+  },
+  {
+    "pregunta": "Según el Art. 119 de la Ley I Nº 18, ¿cuáles son los plazos para interponer el recurso de revisión según la causal invocada?",
+    "opciones": [
+      "Cuatro años para todas las causales sin distinción",
+      "Cuando se trate de la causal primera (error de hecho), cuatro años desde la notificación; para las demás causales, tres meses desde el descubrimiento de los documentos o desde que quedó firme la sentencia judicial",
+      "Tres años para todas las causales sin distinción",
+      "Dos años para la causal de error de hecho; seis meses para las restantes"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 119 establece plazos diferenciados según la causal: para la primera causal (manifiesto error de hecho), el plazo es de cuatro años desde la notificación de la resolución impugnada; para las demás causales, el plazo es de tres meses a contar del descubrimiento de los documentos o desde que quedó firme la sentencia judicial. Esta diferenciación es técnicamente relevante y frecuente en exámenes."
+  },
+  {
+    "pregunta": "Conforme al Art. 120 de la Ley I Nº 18, ¿en qué casos puede el Poder Ejecutivo intervenir los entes autárquicos?",
+    "opciones": [
+      "En cualquier caso que lo estime conveniente para el interés público",
+      "Cuando notoriamente se viola la ley o el estatuto de su creación; cuando se hayan desnaturalizado totalmente los fines para los cuales se creó el ente; o cuando existan conflictos internos insolubles que impidan el desenvolvimiento normal de sus funciones",
+      "Solo cuando el Fiscal de Estado lo solicite expresamente",
+      "Cuando el ente autárquico haya incurrido en déficit presupuestario por más de dos ejercicios consecutivos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 120 establece taxativamente tres causales de intervención de entes autárquicos: 1) violación notoria de la ley o del estatuto de creación; 2) desnaturalización total de los fines del ente; y 3) conflictos internos insolubles que impidan el funcionamiento normal. Las otras opciones amplían o restringen indebidamente las causales o agregan requisitos no previstos."
+  },
+  {
+    "pregunta": "Según el Art. 121 de la Ley I Nº 18, ¿cuál es el plazo máximo de duración de la intervención de un ente autárquico y qué recaudo debe cumplirse respecto a la Legislatura?",
+    "opciones": [
+      "Seis meses; no requiere comunicación a la Legislatura",
+      "Tres meses; en el mismo acto debe darse cuenta a la Legislatura con los antecedentes que determinaron la medida",
+      "Un año prorrogable por igual período; debe solicitarse autorización previa a la Legislatura",
+      "Noventa días corridos; debe publicarse en el Boletín Oficial pero no comunicarse a la Legislatura"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 121 establece que la intervención debe resolverse en acuerdo de ministros, el acto debe ser fundado y establecerá la duración de la intervención que no podrá exceder de tres meses. En el mismo acto debe darse cuenta a la Legislatura con los antecedentes que hayan determinado la medida excepcional. El límite de tres meses y la obligación de comunicar a la Legislatura son datos técnicos precisos."
+  },
+  {
+    "pregunta": "Conforme al Art. 123 de la Ley I Nº 18, ¿desde cuándo son obligatorias las disposiciones de carácter general?",
+    "opciones": [
+      "Desde la fecha en que son aprobadas por el órgano competente",
+      "Desde que son publicadas en el Boletín Oficial de la Provincia",
+      "Después de los ocho días de publicadas en el Boletín Oficial, salvo que por razones especiales se establezca un plazo más breve",
+      "Desde que son comunicadas a los órganos de aplicación"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 123 establece que las disposiciones de carácter general no producirán efectos jurídicos antes de ser publicadas en el Boletín Oficial de la Provincia, y serán obligatorias después de los ocho días de publicadas, salvo que por razones especiales se establezcan en ellas un plazo más breve. Este plazo de vacatio legis es de ocho días, no instantáneo con la publicación. La opción B confunde el requisito de publicación con el inicio de la vigencia."
+  },
+  {
+    "pregunta": "Según el Art. 132 de la Ley I Nº 18, ¿cuándo son obligatorios los reglamentos y decretos, y puede adelantarse este plazo?",
+    "opciones": [
+      "Al día siguiente de su publicación; no puede adelantarse",
+      "Después del octavo día de publicados en el Boletín Oficial; puede establecerse en los mismos que regirán antes de ese término por razones especiales",
+      "A los treinta días de publicados; no puede adelantarse",
+      "Desde que son firmados por el Gobernador, independientemente de su publicación"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 132 establece que los reglamentos y decretos serán obligatorios después del octavo día de publicados en el Boletín Oficial, salvo que, por razones especiales, se estableciere en los mismos que regirán antes de ese término. Esto permite una vacatio legis reducida cuando las circunstancias lo justifiquen. Las otras opciones alteran el plazo o niegan la posibilidad de adelanto."
+  },
+  {
+    "pregunta": "Conforme al Art. 135 de la Ley I Nº 18, ¿cuál es el plazo para que el Poder Ejecutivo dé cuenta a la Legislatura de un decreto de necesidad y urgencia y qué sanción prevé el incumplimiento?",
+    "opciones": [
+      "Diez días corridos; el incumplimiento no genera sanción automática",
+      "Cinco días corridos desde la fecha de su dictado; bajo apercibimiento de automática derogación del decreto",
+      "Treinta días hábiles; bajo sanción de nulidad absoluta del decreto",
+      "Quince días corridos; bajo apercibimiento de suspensión del decreto hasta la ratificación legislativa"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 135 establece que el Poder Ejecutivo dará cuenta a la H. Legislatura del decreto de necesidad y urgencia dentro de un plazo máximo de cinco días corridos desde la fecha de su dictado, bajo apercibimiento de su automática derogación. El plazo es breve (5 días corridos) y la sanción es severa (derogación automática). Las otras opciones alteran el plazo o la sanción."
+  },
+  {
+    "pregunta": "Según el Art. 136 de la Ley I Nº 18, ¿es la reclamación previa en vía administrativa un requisito previo al ejercicio de acciones fundadas en responsabilidad del Estado?",
+    "opciones": [
+      "No; el administrado puede accionar directamente ante la justicia sin trámite previo",
+      "Sí; la reclamación en vía administrativa es requisito previo al ejercicio de toda clase de acciones fundadas en responsabilidad del Estado y sus funcionarios, dirigidas contra la Provincia y los entes autárquicos",
+      "Solo cuando el daño supere determinado monto pecuniario",
+      "Solo cuando el responsable sea un funcionario de rango superior"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 136 establece que la reclamación en vía administrativa será requisito previo al ejercicio de toda clase de acciones fundadas en la responsabilidad del Estado y de sus funcionarios o agentes, dirigidas contra la Provincia y los entes autárquicos de los cuales ella sea responsable. Es un requisito de admisibilidad de la acción judicial. Las opciones A, C y D contradicen el carácter preceptivo y general de este requisito."
+  },
+  {
+    "pregunta": "Conforme al Art. 137 de la Ley I Nº 18, ¿cuáles son los supuestos exceptuados del requisito de reclamación administrativa previa?",
+    "opciones": [
+      "Los cobros de salarios e indemnizaciones laborales únicamente",
+      "Los cobros de salarios, sueldos o indemnizaciones por accidentes de trabajo; los cobros fundados en ejecución de sentencias; el resarcimiento fundado en inconstitucionalidad de leyes o decretos; y cuando una norma expresa la excluya",
+      "Solo los casos en que una norma expresa excluya el requisito",
+      "Los reclamos contra entes autárquicos únicamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 137 enumera taxativamente cuatro excepciones al requisito de reclamación previa: a) cobros de salarios, sueldos o indemnizaciones por accidentes de trabajo; b) cobros fundados en ejecución de sentencias; c) resarcimiento fundado en inconstitucionalidad de leyes o decretos; y d) cuando una norma expresa la excluya. La opción A es incompleta. Las opciones C y D son parciales."
+  },
+  {
+    "pregunta": "Según el Art. 140 de la Ley I Nº 18, ¿en qué plazo debe resolverse la reclamación resarcitoria y qué debe contener la decisión?",
+    "opciones": [
+      "Tres meses; debe contener solo el monto resarcible",
+      "Cuatro meses desde su iniciación; la decisión debe contener expresa conclusión sobre la culpabilidad o responsabilidad del agente o funcionario y sobre el monto resarcible",
+      "Seis meses; debe contener la decisión de fondo y las sanciones administrativas",
+      "Noventa días; solo necesita pronunciarse sobre el monto, no sobre la culpabilidad"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 140 establece que la reclamación resarcitoria deberá resolverse dentro de los cuatro meses de iniciada, y la decisión deberá contener expresa conclusión acerca de la culpabilidad o responsabilidad del agente o funcionario y sobre el monto resarcible. Las dos exigencias son acumulativas: pronunciamiento sobre culpabilidad Y sobre el monto. Las otras opciones alteran el plazo o los requisitos del pronunciamiento."
+  },
+  {
+    "pregunta": "Conforme al Art. 142 de la Ley I Nº 18, ¿qué ocurre si la resolución sobre la reclamación es denegatoria y el reclamante no acciona judicialmente?",
+    "opciones": [
+      "La reclamación queda pendiente de resolución definitiva por tres años",
+      "La reclamación no surtirá efecto si la resolución es denegatoria y el reclamante no interpone la demanda judicial dentro del plazo de dos meses o no inicia la acción contencioso-administrativa",
+      "El reclamante puede reiniciar la reclamación administrativa por una sola vez más",
+      "La resolución denegatoria adquiere firmeza definitiva a los seis meses"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 142 establece que la reclamación no surtirá efecto si la resolución que recaiga en ella fuera denegatoria y el reclamante no interpusiera la demanda judicial dentro del plazo de dos meses, o iniciare la correspondiente acción contencioso-administrativa en su caso. El plazo de dos meses es de caducidad, no de prescripción. La inacción del reclamante hace perder el efecto habilitante de la reclamación previa."
+  },
+  {
+    "pregunta": "Según el Art. 152 de la Ley I Nº 18 (Sección II - Normas de Procedimiento Sumarial), ¿qué da lugar a la instrucción de sumario administrativo?",
+    "opciones": [
+      "Solo los hechos que importen delitos penales cometidos por agentes públicos",
+      "Cualquier hecho u omisión que importe la transgresión de normas legales o reglamentarias vigentes, cuando aparezcan directa o indirectamente involucrados agentes de la Administración Pública Provincial",
+      "Solo las omisiones de agentes públicos que causen perjuicio patrimonial al Estado",
+      "Únicamente los hechos denunciados por la Fiscalía de Estado o el Tribunal de Cuentas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 152 establece que dará lugar a la instrucción de sumario administrativo cualquier hecho u omisión que importe la transgresión de normas legales o reglamentarias vigentes, cuando aparezcan directa o indirectamente involucrados agentes de la Administración Pública Provincial. El alcance es amplio: abarca tanto hechos como omisiones, y la participación puede ser directa o indirecta. Las otras opciones restringen indebidamente el supuesto."
+  },
+  {
+    "pregunta": "Conforme al Art. 156 de la Ley I Nº 18, ¿impide el pronunciamiento judicial sobre un hecho la investigación administrativa paralela?",
+    "opciones": [
+      "Sí; el principio non bis in idem prohíbe la investigación administrativa si hay proceso penal",
+      "No; el pronunciamiento judicial no impide la investigación administrativa a efectos de determinar si existen razones que hagan procedente el ejercicio de las facultades disciplinarias del Estado Provincial",
+      "Sí; debe esperarse la sentencia penal firme antes de instruir el sumario",
+      "Solo si el hecho ya fue sobreseído definitivamente por la justicia penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 156 establece que el pronunciamiento judicial acerca de un hecho que dé lugar a la instrucción sumarial no impide la investigación administrativa a efectos de determinar si existen razones que hagan procedente el ejercicio de las facultades disciplinarias del Estado Provincial. La independencia de la instancia administrativa respecto de la judicial en materia disciplinaria es un principio consolidado. Las opciones A, C y D son incorrectas."
+  },
+  {
+    "pregunta": "Según el Art. 165 de la Ley I Nº 18, ¿qué personas no pueden formular denuncias en el sumario administrativo?",
+    "opciones": [
+      "Los funcionarios con cargos superiores a Director, por tener otras vías de queja",
+      "Los descendientes contra ascendientes consanguíneos o afines y viceversa, los cónyuges entre sí, y los hermanos entre sí, salvo que el hecho perjudique directamente al denunciante",
+      "Los terceros ajenos a la Administración Pública Provincial",
+      "Los agentes con menos de dos años de antigüedad en el cargo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 165 establece que no se admitirán denuncias de descendientes contra ascendientes consanguíneos o afines y viceversa, ni de un cónyuge contra el otro, ni de hermano contra hermano, salvo que el hecho perjudique directamente al denunciante. Esta restricción responde a la protección de los vínculos familiares, con la excepción de que el hecho afecte directamente al denunciante. Las otras opciones no reflejan el texto."
+  },
+  {
+    "pregunta": "Conforme al Art. 181 de la Ley I Nº 18, ¿cuándo deja de ser secreto el sumario administrativo y para quiénes?",
+    "opciones": [
+      "Es secreto solo durante la etapa instructoria inicial",
+      "Es secreto desde su iniciación hasta el momento de la vista del Art. 253, oportunidad en que deja de ser secreto solo para quienes el reglamento confiere el derecho de examinarlo",
+      "Es público desde su inicio para todos los interesados",
+      "Es secreto hasta que se dicta la sanción, momento en que se publica íntegramente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 181 establece que el sumario es secreto desde su iniciación hasta el momento en que tenga lugar la vista establecida en el Art. 253, oportunidad en que dejará de serlo solo para aquellos a quienes el Reglamento confiere el derecho de examinarlo. El secreto es la regla durante la instrucción; la publicidad restringida comienza con la vista. Las otras opciones distorsionan esta regla."
+  },
+  {
+    "pregunta": "Según el Art. 221 de la Ley I Nº 18, ¿en qué condiciones surte efecto de confesión una manifestación del declarante?",
+    "opciones": [
+      "Siempre que sea espontánea y no retractada, sin más requisito",
+      "Cuando no mediare error evidente, violencia, intimidación, dádiva o promesa; el hecho confesado sea posible y verosímil atendiendo las circunstancias personales del sumariado; y la existencia del delito o falta esté debidamente probada y la confesión concuerde con sus circunstancias",
+      "Solo si el sumariado renuncia expresamente a retractarse",
+      "Cuando esté corroborada por al menos dos testigos hábiles"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 221 establece que toda manifestación no retractada por la cual el declarante se reconozca autor, cómplice o responsable surtirá efectos de confesión y probará acabadamente el hecho, siempre que: a) no mediare error evidente, violencia, intimidación, dádiva o promesa; b) el hecho confesado sea posible y verosímil; y c) la existencia del delito o falta esté debidamente probada y la confesión concuerde con sus circunstancias. Los tres requisitos son acumulativos."
+  },
+  {
+    "pregunta": "Conforme al Art. 253 de la Ley I Nº 18, ¿en qué plazo hábil se otorga la vista de las actuaciones al imputado y desde cuándo corre ese plazo?",
+    "opciones": [
+      "Diez días hábiles desde la notificación personal",
+      "Cinco días hábiles; se computa desde el primer día hábil siguiente a la notificación; si el agente toma vista dentro de las 48 horas de notificado, el término se computa desde el primer día hábil siguiente al de la vista",
+      "Tres días hábiles desde la citación",
+      "Quince días hábiles desde que el informe final es agregado al sumario"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 253 establece que se otorgará al imputado un plazo de cinco días hábiles para ejercitar su derecho de defensa. El plazo se computa desde el primer día hábil siguiente a la notificación de la citación. Sin embargo, si el agente compareciera a tomar vista dentro de las 48 horas de notificado, el término de cinco días se considerará a partir del primer día hábil siguiente al que tuvo lugar o comenzó la vista. Esta doble regla de cómputo es técnicamente relevante."
+  },
+  {
+    "pregunta": "Según el Art. 269 de la Ley I Nº 18, ¿cuáles son los plazos de prescripción de la acción disciplinaria?",
+    "opciones": [
+      "Dos años para faltas con penas correctivas; cinco años para faltas con penas expulsivas",
+      "Un año para faltas susceptibles de penas correctivas; tres años para faltas susceptibles de penas expulsivas; cuando el hecho constituye delito, el plazo del Código Penal sin que sea inferior a los anteriores",
+      "Tres años para todas las faltas, sin distinción",
+      "Seis meses para faltas correctivas; dos años para faltas expulsivas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 269 establece que la acción prescribe: a) al año, para faltas susceptibles de ser sancionadas con penas correctivas; b) a los tres años, para faltas susceptibles de ser sancionadas con penas expulsivas; c) cuando el hecho constituye delito, el plazo de prescripción será el del Código Penal para el delito de que se trate, no inferior a los plazos de los incisos a) y b). Los tres supuestos son diferenciados y la referencia al Código Penal como piso mínimo es un dato técnico relevante."
+  },
+  {
+    "pregunta": "Conforme al Art. 270 de la Ley I Nº 18, ¿desde cuándo se computa el término de prescripción de la acción disciplinaria?",
+    "opciones": [
+      "Desde la fecha en que la Administración tomó conocimiento del hecho",
+      "Desde la fecha en que tuvo lugar el hecho objeto de la causa",
+      "Desde la fecha en que se inicia formalmente el sumario administrativo",
+      "Desde la fecha de la primera denuncia formulada ante el órgano competente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 270 establece expresamente que el término de prescripción se computará a partir de la fecha en que tuvo lugar el hecho objeto de la causa. La fecha del hecho, no la del conocimiento ni la del inicio del sumario, es el punto de partida del cómputo. Esta distinción es relevante porque puede determinar si la acción está prescripta o no en casos límite."
+  },
+  {
+    "pregunta": "Según el Art. 277 de la Ley I Nº 18, ¿qué tipo de instancia se crea entre los Poderes Públicos de la Provincia, sus organismos y los Municipios antes de poder accionar judicialmente?",
+    "opciones": [
+      "Una instancia arbitral obligatoria ante el Tribunal Superior de Justicia",
+      "Una instancia de conciliación obligatoria, previa a la promoción de cualquier acción judicial susceptible de apreciación pecuniaria",
+      "Un procedimiento de mediación voluntaria ante el Ministerio de Economía",
+      "Una instancia de negociación directa entre las partes sin intervención de terceros"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 277 crea una instancia de conciliación obligatoria cuando existieren cuestiones controvertidas entre los Poderes Públicos de la Provincia y/o sus organismos, sociedades o entes autárquicos, entre sus similares de los Municipios, o entre la Provincia y los Municipios, que pudieran dar lugar a situaciones litigiosas previstas en la Constitución Provincial, previo a la promoción de cualquier acción judicial susceptible de apreciación pecuniaria. Las otras opciones describen mecanismos distintos."
+  },
+  {
+    "pregunta": "Conforme al Art. 280 de la Ley I Nº 18, ¿cuál es el plazo máximo de la instancia de conciliación?",
+    "opciones": [
+      "30 días corridos",
+      "60 días hábiles",
+      "90 días corridos",
+      "6 meses desde la intervención de la Comisión"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 280 establece que durante el desarrollo de la instancia de conciliación, que no podrá superar el plazo de 90 días corridos, la Comisión deberá proponer fórmulas de acuerdo. El Art. 279 establece que la convocatoria debe resolverse en no más de 30 días desde que cualquiera de las partes solicitó la intervención. Los plazos son distintos: 30 días para convocar, 90 días para conciliar. Las otras opciones alteran el plazo máximo de la instancia."
+  },
+  {
+    "pregunta": "CASO INTEGRADOR: Un organismo autárquico provincial con procedimiento propio invoca la Ley I Nº 18 para resolver un recurso jerárquico interpuesto en su sede, cuando el acto cuestionado fue dictado prescindiendo total y absolutamente del procedimiento legal. El recurrente alega nulidad absoluta y también sostiene que operó el silencio positivo porque la Administración no resolvió en un mes. ¿Cuál es la solución jurídica correcta?",
+    "opciones": [
+      "La Ley I Nº 18 no aplica al organismo autárquico con procedimiento propio; el silencio positivo no opera en recursos; el acto es nulo de pleno derecho pero debe declararse por la propia Administración",
+      "La Ley I Nº 18 no aplica al organismo por tener procedimiento propio (Art. 1); sin perjuicio de ello, si aplicara, el acto sería nulo de pleno derecho por prescindencia total del procedimiento (Art. 33 inc. 1 c); el silencio positivo del Art. 77 aplica solo a autorizaciones y aprobaciones, no a recursos, por lo que no opera en este caso",
+      "La Ley I Nº 18 aplica supletoriamente; el silencio positivo opera y el recurso debe considerarse resuelto favorablemente; el acto es anulable, no nulo",
+      "El acto es inexistente por prescindencia total del procedimiento; el silencio positivo opera en todos los supuestos de inactividad administrativa"
+    ],
+    "correcta": 1,
+    "explicacion": "Análisis integrado: (1) Art. 1: la Ley I Nº 18 no aplica a organismos autónomos que TENGAN procedimiento propio, por lo que el primer planteo del caso ya tiene un obstáculo inicial. (2) Si aplicara la ley: el Art. 33 inc. 1 c) prevé nulidad de pleno derecho para actos dictados prescindiendo total y absolutamente del procedimiento legal. (3) Art. 77: el silencio positivo opera solo para autorizaciones o aprobaciones en ejercicio de funciones de fiscalización y tutela, o cuando una disposición expresa así lo establezca; NO aplica genéricamente a la resolución de recursos. La opción A confunde el efecto del silencio. La opción C aplica la ley incorrectamente y clasifica mal el vicio. La opción D confunde nulidad con inexistencia y amplía indebidamente el silencio positivo."
+  }
+]

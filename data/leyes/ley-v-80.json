@@ -1,0 +1,761 @@
+[
+  {
+    "pregunta": "En relación con la legitimación del denunciante en el proceso de enjuiciamiento, ¿cuál es el alcance de su intervención conforme la normativa?",
+    "opciones": [
+      "Solo puede intervenir si es directamente ofendido por el hecho.",
+      "Puede constituirse en acusador particular en cualquier etapa hasta la clausura del proceso, aun sin ser ofendido directo.",
+      "Solo puede intervenir en la etapa inicial del proceso.",
+      "Debe acreditar un interés patrimonial directo para intervenir."
+    ],
+    "correcta": 1,
+    "explicacion": "La norma establece que el denunciante puede constituirse en acusador particular en cualquier etapa hasta la clausura del proceso, aun cuando no sea particularmente ofendido, remitiendo supletoriamente al régimen del querellante adhesivo del Código Procesal Penal. La opción A es incorrecta porque limita indebidamente la legitimación. La opción C restringe temporalmente su intervención. La opción D introduce un requisito no previsto. Se trata de una ampliación de legitimación activa en clave de control institucional y responsabilidad funcional."
+  },
+  {
+    "pregunta": "¿Qué régimen supletorio se aplica a las facultades del acusador particular?",
+    "opciones": [
+      "El Código Civil y Comercial.",
+      "La Ley de Procedimiento Administrativo.",
+      "El Código Procesal Penal en lo relativo al querellante adhesivo.",
+      "El Código Procesal Civil y Comercial."
+    ],
+    "correcta": 2,
+    "explicacion": "La norma remite expresamente al Código Procesal Penal en cuanto a las facultades del querellante adhesivo. Las demás opciones son incorrectas por no corresponder al régimen procesal aplicable. Esto refuerza el carácter cuasi penal del procedimiento de enjuiciamiento."
+  },
+  {
+    "pregunta": "Respecto de los requisitos formales de la denuncia, ¿cuál de los siguientes elementos es obligatorio según el Artículo 20?",
+    "opciones": [
+      "Identificación del denunciante, del acusado, relación de hechos y ofrecimiento de prueba.",
+      "Solo la identificación del acusado.",
+      "Únicamente la narración de los hechos.",
+      "Exclusivamente la prueba documental."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 20 exige cumulativamente: datos del denunciante, identificación del acusado, relato circunstanciado de los hechos y ofrecimiento de prueba. Las demás opciones son incompletas. Se trata de requisitos esenciales para garantizar el debido proceso (art. 18 CN)."
+  },
+  {
+    "pregunta": "En el caso de denuncia formulada por organismos de Superintendencia o el Consejo de la Magistratura, ¿qué exigencia formal se flexibiliza?",
+    "opciones": [
+      "La identificación del acusado.",
+      "El ofrecimiento de prueba.",
+      "La presentación de la denuncia, bastando copia de la resolución o acordada.",
+      "La ratificación posterior."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 20 establece que en estos casos basta con la copia de la resolución o acordada respectiva. Las demás opciones no reflejan la dispensa normativa. Se reconoce la presunción de formalidad y sustento institucional de dichos órganos."
+  },
+  {
+    "pregunta": "¿Ante qué órganos puede presentarse la denuncia según el Artículo 20?",
+    "opciones": [
+      "Exclusivamente ante el Superior Tribunal de Justicia.",
+      "Ante el Superior Tribunal de Justicia, el Consejo de la Magistratura o el Poder Ejecutivo según corresponda.",
+      "Solo ante el Consejo de la Magistratura.",
+      "Ante cualquier juzgado de primera instancia."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 20 prevé opción entre STJ, Consejo de la Magistratura o Poder Ejecutivo para funcionarios fuera del Poder Judicial. Las demás opciones son incorrectas. Se trata de una competencia funcional diferenciada."
+  },
+  {
+    "pregunta": "En relación con la pluralidad de sujetos pasivos en la denuncia, ¿qué regla establece el Artículo 21?",
+    "opciones": [
+      "Puede denunciarse a múltiples funcionarios sin restricciones.",
+      "Solo puede denunciarse a un funcionario, salvo conexión o participación en los hechos.",
+      "Debe denunciarse siempre a todos los involucrados conjuntamente.",
+      "No se admite acumulación en ningún caso."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 21 establece la regla de unicidad subjetiva con excepción por conexión o participación. Las demás opciones son incorrectas. Se busca evitar dispersión procesal y garantizar coherencia."
+  },
+  {
+    "pregunta": "Si existen múltiples denuncias contra un mismo funcionario formuladas por distintas personas, ¿qué solución normativa se adopta?",
+    "opciones": [
+      "Se tramitan por separado obligatoriamente.",
+      "Se rechazan las denuncias posteriores.",
+      "Se acumulan al mismo proceso.",
+      "Se resuelve por sorteo cuál continúa."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 21 dispone la acumulación de denuncias. Las demás opciones son incorrectas. Se aplica el principio de economía procesal."
+  },
+  {
+    "pregunta": "¿Qué acto procesal debe ordenarse una vez recibida la denuncia según el Artículo 22?",
+    "opciones": [
+      "Archivo inmediato.",
+      "Ratificación del denunciante mediante acta.",
+      "Traslado al denunciado.",
+      "Remisión automática al Tribunal de Enjuiciamiento."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 22 exige la ratificación del denunciante. Las demás opciones son incorrectas. Este acto asegura autenticidad y voluntad procesal."
+  },
+  {
+    "pregunta": "Si la denuncia presenta defectos formales, ¿qué facultad tiene el órgano receptor?",
+    "opciones": [
+      "Debe rechazarla sin más trámite.",
+      "Debe requerir subsanación en el mismo acto si fuere necesario.",
+      "Debe remitirla al Poder Ejecutivo.",
+      "Debe suspender el proceso indefinidamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 22 permite requerir subsanación de requisitos formales. Las demás opciones son incorrectas. Se aplica el principio pro actione."
+  },
+  {
+    "pregunta": "¿Cuál es el efecto de la falta de cumplimiento de los requisitos formales de la denuncia?",
+    "opciones": [
+      "Impide necesariamente la continuación del proceso.",
+      "Produce la nulidad absoluta del trámite.",
+      "No impide la elevación si existe sustento suficiente.",
+      "Genera responsabilidad del denunciante únicamente."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 22 establece que la falta de requisitos formales no impide la elevación si hay sustento. Las demás opciones son incorrectas. Se prioriza la sustancia sobre la forma, conforme principios de razonabilidad y tutela institucional."
+  },
+  {
+    "pregunta": "Supuesto práctico: un ciudadano presenta denuncia incompleta, sin ofrecer prueba pero con relato verosímil de hechos graves contra un magistrado. ¿Qué corresponde?",
+    "opciones": [
+      "Rechazarla por falta de prueba.",
+      "Archivar sin trámite.",
+      "Requerir subsanación y eventualmente elevarla si tiene sustento.",
+      "Remitirla al Poder Ejecutivo."
+    ],
+    "correcta": 2,
+    "explicacion": "Conforme Artículos 20 y 22, debe requerirse subsanación y no impedir la elevación si existe sustento. Las opciones A y B son formalistas excesivas. La opción D es incompetente. Se aplica principio de verdad material."
+  },
+  {
+    "pregunta": "Supuesto práctico: un denunciante pretende acusar a tres magistrados sin alegar conexión entre los hechos. ¿Qué corresponde?",
+    "opciones": [
+      "Admitir la denuncia en forma conjunta.",
+      "Rechazarla totalmente.",
+      "Exigir su adecuación a la regla de un solo imputado o acreditar conexión.",
+      "Elevarla directamente al Tribunal."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 21 impone la regla de unicidad salvo conexión. Debe requerirse adecuación. Las demás opciones son incorrectas. Se evita acumulación indebida."
+  },
+  {
+    "pregunta": "Supuesto complejo: durante el proceso, se presentan múltiples denuncias independientes contra el mismo funcionario por hechos distintos. ¿Cómo deben tramitarse?",
+    "opciones": [
+      "En procesos separados obligatoriamente.",
+      "Acumuladas en un único proceso.",
+      "Solo se admite la primera denuncia.",
+      "Se decide por sorteo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 21 dispone acumulación aun si son por distintas personas. No distingue por hechos, priorizando unidad procesal. Las demás opciones son incorrectas. Se aplica economía procesal y coherencia decisoria."
+  },
+  {
+    "pregunta": "En el procedimiento posterior a la ratificación de la denuncia, ¿qué trámite corresponde cuando el denunciado no es funcionario o magistrado del Poder Judicial?",
+    "opciones": [
+      "El Consejo de la Magistratura instruye el sumario y resuelve.",
+      "El Poder Ejecutivo remite la causa al Presidente del Tribunal de Enjuiciamiento.",
+      "El Superior Tribunal de Justicia asume directamente la investigación.",
+      "La Legislatura inicia el proceso sin intervención del Poder Ejecutivo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 23 inciso a) dispone que el Poder Ejecutivo debe enviar la causa al Presidente del Tribunal de Enjuiciamiento, quien convocará a sus miembros. Las opciones A y C asignan competencia incorrecta. La D omite la intervención del Ejecutivo. Se respeta la distribución funcional según el tipo de funcionario."
+  },
+  {
+    "pregunta": "Cuando la denuncia recae sobre magistrados comprendidos en el artículo 209 de la Constitución de la Provincia del Chubut, ¿qué órgano instruye el sumario?",
+    "opciones": [
+      "El Poder Ejecutivo.",
+      "El Superior Tribunal de Justicia.",
+      "El Consejo de la Magistratura a través de un miembro sorteado.",
+      "La Legislatura Provincial."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 23 inciso b) establece que el Consejo de la Magistratura instruye el sumario mediante un consejero sorteado, conforme art. 192 inc. 4 de la Constitución Provincial. Las demás opciones son incorrectas. Se trata de una competencia constitucional específica."
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad de la instrucción sumarial a cargo del Consejo de la Magistratura?",
+    "opciones": [
+      "Aplicar directamente sanciones disciplinarias.",
+      "Determinar únicamente la culpabilidad del acusado.",
+      "Establecer hechos, circunstancias, calificación y participación del denunciado.",
+      "Emitir sentencia definitiva."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 23 define como finalidad de la instrucción establecer la existencia de los hechos, sus circunstancias, calificación y participación. Las opciones A, B y D son incorrectas por atribuir funciones decisorias finales. Se trata de una etapa investigativa (debido proceso, art. 18 CN)."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo máximo para concluir la investigación en el Consejo de la Magistratura?",
+    "opciones": [
+      "30 días hábiles.",
+      "90 días corridos.",
+      "6 meses desde la recepción de la denuncia.",
+      "1 año prorrogable."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 23 establece un plazo máximo de seis meses desde la entrada de la denuncia. Las demás opciones son incorrectas. Este plazo responde al principio de celeridad."
+  },
+  {
+    "pregunta": "¿Qué sucede si el hecho denunciado manifiestamente no constituye causal de destitución?",
+    "opciones": [
+      "Se archiva sin más trámite.",
+      "Se remite al Poder Ejecutivo.",
+      "Se envía al Superior Tribunal de Justicia.",
+      "Se continúa igualmente ante el Tribunal de Enjuiciamiento."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 23 dispone que en tal caso se remite al Superior Tribunal de Justicia. Las demás opciones son incorrectas. Se respeta la competencia disciplinaria residual."
+  },
+  {
+    "pregunta": "Cuando el Consejo decide remitir la causa al Tribunal de Enjuiciamiento, ¿qué órgano actúa como acusador?",
+    "opciones": [
+      "El Ministerio Público.",
+      "Una Comisión Acusadora integrada por tres miembros del Consejo.",
+      "El Poder Ejecutivo.",
+      "La Legislatura."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 23 prevé la designación de una Comisión Acusadora de tres miembros. Las demás opciones son incorrectas. Se institucionaliza la acusación."
+  },
+  {
+    "pregunta": "En el supuesto del Artículo 24 (evaluación insatisfactoria), ¿qué órgano actúa ante el Tribunal de Enjuiciamiento?",
+    "opciones": [
+      "El Consejo Directivo del Colegio de Escribanos.",
+      "Una Comisión Evaluadora de tres miembros del Consejo de la Magistratura.",
+      "El Superior Tribunal de Justicia.",
+      "El Poder Ejecutivo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 24 establece la intervención de una Comisión Evaluadora. Las demás opciones son incorrectas. Se diferencia de la Comisión Acusadora."
+  },
+  {
+    "pregunta": "¿Qué facultad tienen el Consejo de la Magistratura o el Poder Ejecutivo antes de la remisión de la causa en caso de circunstancias graves?",
+    "opciones": [
+      "Dictar sentencia anticipada.",
+      "Solicitar la suspensión al Tribunal de Enjuiciamiento y adoptar medidas de seguridad.",
+      "Archivar el proceso.",
+      "Remitir directamente a la Legislatura."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25 prevé la adopción de medidas de seguridad y solicitud de suspensión. Las demás opciones son incorrectas. Se trata de medidas cautelares."
+  },
+  {
+    "pregunta": "Cuando la causa involucra funcionarios ajenos al Poder Judicial, ¿qué intervención corresponde a la Legislatura?",
+    "opciones": [
+      "Emitir sentencia definitiva.",
+      "Analizar la causa y eventualmente formar Comisión Acusadora Legislativa.",
+      "Ejercer control disciplinario directo.",
+      "No tiene intervención."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26 establece intervención legislativa con posible formación de comisión acusadora. Las demás opciones son incorrectas. Se respeta el sistema de control político."
+  },
+  {
+    "pregunta": "En el caso de jueces, fiscales o defensores, ¿quién interviene como acusador ante el Tribunal de Enjuiciamiento?",
+    "opciones": [
+      "El Poder Ejecutivo.",
+      "La Legislatura.",
+      "La Comisión Acusadora del Consejo de la Magistratura.",
+      "El Superior Tribunal de Justicia."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 26 remite a la Comisión Acusadora del Consejo. Las demás opciones son incorrectas. Se mantiene coherencia institucional."
+  },
+  {
+    "pregunta": "Una vez abierta la causa a prueba, ¿cuál es el plazo establecido?",
+    "opciones": [
+      "30 días.",
+      "60 días.",
+      "90 días.",
+      "120 días."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 28 fija un plazo de 90 días. Las demás opciones son incorrectas. Se garantiza amplitud probatoria."
+  },
+  {
+    "pregunta": "¿Qué facultad tiene el Tribunal respecto de la admisión de la prueba ofrecida?",
+    "opciones": [
+      "Debe admitir toda la prueba sin excepción.",
+      "Puede rechazar prueba inconducente sin recurso.",
+      "Solo puede rechazar prueba documental.",
+      "Debe consultar al Superior Tribunal."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 28 permite rechazar prueba inconducente sin recurso. Las demás opciones son incorrectas. Se aplica principio de pertinencia probatoria."
+  },
+  {
+    "pregunta": "¿Qué facultad tiene el Presidente del Tribunal respecto de diligencias probatorias?",
+    "opciones": [
+      "No puede intervenir.",
+      "Puede realizar diligencias imposibles de cumplir en audiencia y recibir testimonios.",
+      "Solo puede delegar en el Consejo.",
+      "Debe remitirlas al Poder Ejecutivo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 29 habilita estas facultades. Las demás opciones son incorrectas. Se facilita la producción de prueba."
+  },
+  {
+    "pregunta": "En relación con los testigos que residen lejos, ¿qué derecho tienen?",
+    "opciones": [
+      "Negarse a declarar.",
+      "Solicitar indemnización fijada por el Tribunal si están a más de 80 km.",
+      "Exigir traslado obligatorio del Tribunal.",
+      "Declarar por escrito únicamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 29 reconoce derecho a indemnización. Las demás opciones son incorrectas. Se trata de garantía de acceso y equidad."
+  },
+  {
+    "pregunta": "¿Qué principio rige en materia probatoria para las partes?",
+    "opciones": [
+      "Limitación estricta a prueba documental.",
+      "Libre utilización de medios probatorios admitidos por la ley.",
+      "Prohibición de intervención del acusado.",
+      "Exclusividad del Tribunal en la producción de prueba."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 30 reconoce amplitud probatoria. Las demás opciones son incorrectas. Se vincula con el derecho de defensa (art. 18 CN)."
+  },
+  {
+    "pregunta": "Caso práctico: el Consejo de la Magistratura concluye que los hechos denunciados no constituyen causal de destitución pero sí podrían implicar responsabilidad disciplinaria. ¿Qué corresponde?",
+    "opciones": [
+      "Remitir al Tribunal de Enjuiciamiento igualmente.",
+      "Archivar definitivamente.",
+      "Remitir al Superior Tribunal de Justicia.",
+      "Elevar al Poder Ejecutivo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 23 establece que en tal supuesto se remite al STJ. Las demás opciones son incorrectas. Se diferencia entre responsabilidad política y disciplinaria."
+  },
+  {
+    "pregunta": "Caso complejo: durante la etapa probatoria, una parte ofrece prueba manifiestamente irrelevante. El Tribunal la rechaza sin recurso. ¿Es válida la decisión?",
+    "opciones": [
+      "No, toda prueba debe admitirse.",
+      "Sí, conforme facultad legal de rechazar prueba inconducente sin recurso.",
+      "Solo si lo autoriza el Superior Tribunal.",
+      "Solo si hay acuerdo de partes."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 28 habilita el rechazo sin recurso. Las demás opciones son incorrectas. Se aplica principio de economía procesal."
+  },
+  {
+    "pregunta": "¿Dónde deben practicarse las citaciones y notificaciones al acusado en el procedimiento de enjuiciamiento?",
+    "opciones": [
+      "En su domicilio real exclusivamente.",
+      "En el domicilio constituido.",
+      "En el lugar de trabajo del acusado.",
+      "En cualquier domicilio denunciado por la acusación."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 31 establece que las citaciones y notificaciones al acusado se practican en el domicilio constituido. Las demás opciones son incorrectas por apartarse del principio de domicilio procesal. Esto se vincula con el debido proceso (art. 18 CN)."
+  },
+  {
+    "pregunta": "¿Qué medio debe utilizarse para notificar a testigos fuera del radio del Tribunal de Enjuiciamiento?",
+    "opciones": [
+      "Carta simple.",
+      "Notificación personal.",
+      "Telegrama colacionado o radiograma policial.",
+      "Correo electrónico."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 31 prevé expresamente telegrama colacionado o radiograma policial. Las demás opciones no están contempladas. Se trata de asegurar fehaciencia."
+  },
+  {
+    "pregunta": "¿Qué facultades tiene el Presidente del Tribunal de Enjuiciamiento en materia de trámite?",
+    "opciones": [
+      "Dictar sentencia definitiva.",
+      "Resolver recursos extraordinarios.",
+      "Dictar providencias de mero trámite y realizar citaciones.",
+      "Intervenir solo en la deliberación final."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 32 asigna al Presidente facultades de mero trámite. Las demás opciones son incorrectas. Se trata de funciones ordenatorias."
+  },
+  {
+    "pregunta": "¿Qué tipo de facultades posee el Tribunal de Enjuiciamiento para el ejercicio de sus funciones?",
+    "opciones": [
+      "Limitadas exclusivamente a lo administrativo.",
+      "Las mismas que las de los jueces según la ley.",
+      "Solo facultades disciplinarias.",
+      "Únicamente facultades consultivas."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33 establece que tiene facultades equivalentes a las de los jueces. Las demás opciones son incorrectas. Esto implica amplitud jurisdiccional."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo mínimo entre la fijación de la audiencia de debate y su realización?",
+    "opciones": [
+      "5 días.",
+      "10 días.",
+      "15 días.",
+      "30 días."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 34 fija un intervalo no menor de 10 días. Las demás opciones son incorrectas. Se garantiza preparación de defensa."
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la incomparecencia del acusado o su defensor al debate?",
+    "opciones": [
+      "Suspende automáticamente el juicio.",
+      "Se archiva la causa.",
+      "No suspende el juicio, debiendo intervenir el Defensor Oficial.",
+      "Se declara la nulidad del proceso."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 34 dispone que no suspende el juicio y se da intervención al Defensor de Oficio. Las demás opciones son incorrectas. Se protege la continuidad del proceso."
+  },
+  {
+    "pregunta": "¿Cuál es la regla general del debate en el Tribunal de Enjuiciamiento?",
+    "opciones": [
+      "Es escrito y reservado.",
+      "Es oral y público.",
+      "Es secreto en todos los casos.",
+      "Es mixto obligatorio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 35 establece oralidad y publicidad. Las demás opciones son incorrectas. Se vincula con el principio republicano (art. 1 CN)."
+  },
+  {
+    "pregunta": "¿En qué casos puede el Tribunal disponer que el debate se realice a puertas cerradas?",
+    "opciones": [
+      "En cualquier caso sin fundamento.",
+      "Por decisión unilateral del Presidente.",
+      "Por graves razones de moral y orden público, mediante resolución fundada.",
+      "Solo si lo pide el acusado."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 35 exige motivación y razones graves. Las demás opciones son incorrectas. Se trata de excepción al principio de publicidad."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo máximo de suspensión del debate por circunstancias extraordinarias?",
+    "opciones": [
+      "3 días.",
+      "5 días.",
+      "10 días.",
+      "15 días."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 35 establece un máximo de 5 días. Las demás opciones son incorrectas. Se garantiza continuidad."
+  },
+  {
+    "pregunta": "¿Qué ocurre en el acto de apertura del debate?",
+    "opciones": [
+      "Se dicta sentencia.",
+      "Se leen acusación y defensa, se ofrece prueba y se resuelven cuestiones preliminares.",
+      "Se archiva la causa.",
+      "Se suspende automáticamente el proceso."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 36 regula el acto inicial del debate. Las demás opciones son incorrectas. Se concentra actividad procesal."
+  },
+  {
+    "pregunta": "¿Qué facultad tiene el Presidente respecto de preguntas a testigos?",
+    "opciones": [
+      "Debe admitir todas.",
+      "Puede rechazar preguntas sugestivas o capciosas sin recurso.",
+      "Debe consultar al Tribunal.",
+      "Solo puede intervenir la defensa."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 37 le otorga esta facultad. Las demás opciones son incorrectas. Se protege la pureza del interrogatorio."
+  },
+  {
+    "pregunta": "Si surge un hecho nuevo no incluido en la acusación, ¿qué sucede?",
+    "opciones": [
+      "Se ignora.",
+      "Se amplía la acusación con suspensión del proceso.",
+      "Se dicta sentencia inmediata.",
+      "Se archiva la causa."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 38 prevé ampliación con suspensión. Las demás opciones son incorrectas. Se garantiza congruencia y defensa."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo máximo para que la defensa se expida tras una ampliación de acusación?",
+    "opciones": [
+      "3 días.",
+      "5 días.",
+      "10 días.",
+      "15 días."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 38 fija un máximo de 5 días. Las demás opciones son incorrectas. Se respeta derecho de defensa."
+  },
+  {
+    "pregunta": "¿Quién tiene la última palabra en el debate?",
+    "opciones": [
+      "La Comisión Acusadora.",
+      "El Presidente.",
+      "El acusado y su defensor.",
+      "El Ministerio Público."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 39 establece que el acusado y su defensor tienen la última palabra. Las demás opciones son incorrectas. Es garantía fundamental."
+  },
+  {
+    "pregunta": "¿Cómo se documenta el debate?",
+    "opciones": [
+      "Solo mediante acta manuscrita.",
+      "Mediante versión taquigráfica o fonoeléctrica.",
+      "No se documenta.",
+      "Solo con grabaciones privadas."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 40 establece estos medios. Las demás opciones son incorrectas. Se garantiza registro fiel."
+  },
+  {
+    "pregunta": "¿Qué ocurre si se requiere aclaración sobre una prueba durante el debate?",
+    "opciones": [
+      "Se rechaza automáticamente.",
+      "Se reabre el debate limitado al punto.",
+      "Se dicta sentencia.",
+      "Se remite al Superior Tribunal."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 41 prevé reapertura limitada. Las demás opciones son incorrectas. Se asegura contradicción."
+  },
+  {
+    "pregunta": "¿Cómo se valora la prueba en la deliberación?",
+    "opciones": [
+      "Según reglas tasadas.",
+      "Conforme a la libre convicción del Tribunal.",
+      "Solo según prueba documental.",
+      "Según criterio del Poder Ejecutivo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 42 establece la libre convicción. Las demás opciones son incorrectas. Se aplica principio de sana crítica."
+  },
+  {
+    "pregunta": "¿Cuál es el efecto principal del fallo condenatorio?",
+    "opciones": [
+      "Prisión del acusado.",
+      "Destitución del cargo.",
+      "Multa económica.",
+      "Suspensión temporal automática."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 44 dispone la destitución. Las demás opciones son incorrectas. No sustituye jurisdicción penal."
+  },
+  {
+    "pregunta": "¿Qué sucede si el hecho implica delito penal?",
+    "opciones": [
+      "El Tribunal lo juzga penalmente.",
+      "Se remiten antecedentes al Ministerio Fiscal.",
+      "Se archiva.",
+      "Se aplica sanción administrativa."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 44 prevé remisión al Ministerio Fiscal. Las demás opciones son incorrectas. Se respeta división de jurisdicciones."
+  },
+  {
+    "pregunta": "¿Es recurrible la sentencia absolutoria?",
+    "opciones": [
+      "Sí, siempre.",
+      "No, es irrecurrible.",
+      "Solo ante la Legislatura.",
+      "Solo por el acusador."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 45 establece su irrecurribilidad. Las demás opciones son incorrectas. Se protege estabilidad del acusado absuelto."
+  },
+  {
+    "pregunta": "¿En qué caso puede recurrirse la sentencia condenatoria?",
+    "opciones": [
+      "Siempre.",
+      "Nunca.",
+      "Cuando se invoque cuestión federal ante el Superior Tribunal de Justicia.",
+      "Solo ante el Poder Ejecutivo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 45 limita el recurso a cuestión federal. Las demás opciones son incorrectas. Se vincula con el recurso extraordinario (art. 14 Ley 48)."
+  },
+   {
+    "pregunta": "¿Qué ocurre si se retira la acusación?",
+    "opciones": [
+      "El Tribunal continúa de oficio.",
+      "El Tribunal pierde jurisdicción para fallar.",
+      "Se dicta sentencia absolutoria automática.",
+      "Se remite al Poder Ejecutivo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 46 dispone pérdida de jurisdicción. Las demás opciones son incorrectas. Refleja el principio acusatorio."
+  },
+  {
+    "pregunta": "Caso práctico: el acusado no comparece al debate y su defensor tampoco. ¿Qué corresponde?",
+    "opciones": [
+      "Suspender el juicio.",
+      "Continuar el juicio con intervención del Defensor Oficial.",
+      "Declarar nulidad.",
+      "Archivar la causa."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 34 establece continuidad con Defensor Oficial. Las demás opciones son incorrectas. Se evita paralización del proceso."
+  },
+  {
+    "pregunta": "Caso complejo: durante el debate se formulan preguntas sugestivas reiteradas. El Presidente las rechaza sin recurso. ¿Es válido?",
+    "opciones": [
+      "No, siempre deben admitirse.",
+      "Sí, conforme facultad legal expresa.",
+      "Solo si lo autoriza el Tribunal.",
+      "Solo si lo pide la defensa."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 37 habilita rechazo sin recurso. Las demás opciones son incorrectas. Garantiza legalidad del interrogatorio."
+  },
+  {
+    "pregunta": "¿Cómo se computan los plazos procesales en el régimen de enjuiciamiento?",
+    "opciones": [
+      "Por días corridos, salvo disposición en contrario.",
+      "Por días hábiles exclusivamente.",
+      "Por días corridos con exclusión de feriados.",
+      "A criterio del Tribunal en cada caso."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 47 establece expresamente que todos los términos se computan por días hábiles. Las demás opciones son incorrectas. Se trata de una regla general de cómputo procesal que asegura previsibilidad y garantía de defensa (art. 18 CN)."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo supletorio para dictar resoluciones, traslados o vistas cuando no esté previsto expresamente?",
+    "opciones": [
+      "24 horas.",
+      "3 días hábiles.",
+      "5 días hábiles.",
+      "10 días hábiles."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 47 fija un plazo de tres días hábiles. Las demás opciones son incorrectas. Se trata de una norma de integración para evitar vacíos procedimentales."
+  },
+  {
+    "pregunta": "¿Cómo deben adoptarse las decisiones del Tribunal de Enjuiciamiento?",
+    "opciones": [
+      "Por mayoría simple sin formalidades.",
+      "Por votación secreta.",
+      "Por votación nominal y mayoría de votos.",
+      "Por unanimidad obligatoria."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 48 exige votación nominal y mayoría. Las demás opciones son incorrectas. La votación nominal garantiza transparencia y responsabilidad funcional."
+  },
+  {
+    "pregunta": "¿Cuál es la situación remuneratoria del funcionario suspendido durante el proceso?",
+    "opciones": [
+      "Percibe la totalidad de sus haberes.",
+      "No percibe remuneración alguna.",
+      "Percibe el 50% de sus haberes y el resto queda embargado.",
+      "Percibe el 75% sin restricciones."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 49 establece el pago del 50% y embargo del saldo. Las demás opciones son incorrectas. Se equilibra presunción de inocencia con tutela institucional."
+  },
+  {
+    "pregunta": "Si el funcionario suspendido resulta reintegrado, ¿qué ocurre con el saldo embargado?",
+    "opciones": [
+      "Se pierde en favor del Estado.",
+      "Se destina al Colegio de Escribanos.",
+      "Se le restituye íntegramente.",
+      "Se distribuye entre las partes."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 49 dispone la restitución total. Las demás opciones son incorrectas. Se vincula con el principio de inocencia (art. 18 CN)."
+  },
+  {
+    "pregunta": "¿Qué resoluciones deben ser comunicadas al Superior Tribunal de Justicia y al Poder Ejecutivo?",
+    "opciones": [
+      "Todas las resoluciones sin excepción.",
+      "Solo la sentencia final.",
+      "Formación de causa, suspensión del acusado y sentencia final.",
+      "Únicamente las resoluciones interlocutorias."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 50 establece expresamente esas tres categorías. Las demás opciones son incorrectas. Se trata de control institucional y coordinación de poderes."
+  },
+  {
+    "pregunta": "¿Qué normativa se aplica supletoriamente al procedimiento de enjuiciamiento?",
+    "opciones": [
+      "Código Procesal Civil y Comercial.",
+      "Código Penal.",
+      "Código Procesal Penal, en cuanto sea compatible.",
+      "Ley de Procedimiento Administrativo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 51 remite al Código Procesal Penal. Las demás opciones son incorrectas. Se reafirma la naturaleza cuasi penal del proceso."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo máximo de duración del juicio de enjuiciamiento?",
+    "opciones": [
+      "1 año.",
+      "2 años desde la formación de la causa.",
+      "3 años.",
+      "Sin límite temporal."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 52 fija un máximo de dos años. Las demás opciones son incorrectas. Se garantiza el derecho a ser juzgado en plazo razonable (art. 8 CADH)."
+  },
+  {
+    "pregunta": "¿Qué efecto produce el vencimiento del plazo máximo sin sentencia?",
+    "opciones": [
+      "Se prorroga automáticamente.",
+      "Se archiva la causa.",
+      "El acusado queda absuelto.",
+      "Se remite al Superior Tribunal."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 52 establece la absolución automática. Las demás opciones son incorrectas. Se trata de una sanción al retardo judicial."
+  },
+  {
+    "pregunta": "En caso de múltiples denuncias contra un mismo acusado, ¿qué regla aplica el Tribunal?",
+    "opciones": [
+      "Tramitar todas simultáneamente.",
+      "Resolver por sorteo el orden.",
+      "Suspender las posteriores hasta resolver la primera.",
+      "Rechazar las denuncias nuevas."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 52 dispone la suspensión sucesiva de denuncias. Las demás opciones son incorrectas. Se prioriza orden lógico-procesal."
+  },
+  {
+    "pregunta": "¿Qué ocurre con los plazos procesales cuando una causa se encuentra suspendida?",
+    "opciones": [
+      "Continúan corriendo normalmente.",
+      "Se duplican.",
+      "Quedan suspendidos.",
+      "Se reducen a la mitad."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 52 establece la suspensión de plazos. Las demás opciones son incorrectas. Se evita indefensión."
+  },
+  {
+    "pregunta": "¿Cuál es el criterio de aplicación temporal de la ley según el Artículo 53?",
+    "opciones": [
+      "Solo rige para causas futuras.",
+      "Se aplica retroactivamente incluso a sentencias firmes.",
+      "Se aplica a causas en trámite en el estado en que se encuentren.",
+      "Solo rige para causas iniciadas por el Poder Ejecutivo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 53 dispone aplicación inmediata a causas en trámite. Las demás opciones son incorrectas. Se aplica principio de aplicación inmediata de leyes procesales."
+  },
+  {
+    "pregunta": "Respecto del plazo de investigación del Artículo 23 en causas en trámite, ¿cómo se computa?",
+    "opciones": [
+      "Desde la denuncia original.",
+      "Desde la resolución judicial.",
+      "Desde la entrada en vigencia de la ley.",
+      "Desde la notificación al acusado."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 53 establece que se computa desde la vigencia de la ley. Las demás opciones son incorrectas. Se evita retroactividad perjudicial."
+  },
+  {
+    "pregunta": "Caso práctico: un funcionario suspendido es finalmente absuelto. ¿Qué sucede con el 50% de haberes retenido?",
+    "opciones": [
+      "Se pierde.",
+      "Se distribuye entre el Estado.",
+      "Se le reintegra íntegramente.",
+      "Se destina a multas."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 49 establece la restitución total. Las demás opciones son incorrectas. Se vincula con el principio de reparación."
+  },
+  {
+    "pregunta": "Caso complejo: transcurren dos años desde la formación de la causa sin sentencia, pero existían causas acumuladas suspendidas. ¿Qué corresponde?",
+    "opciones": [
+      "Se dicta sentencia igualmente.",
+      "Se prorroga el plazo.",
+      "El acusado queda absuelto respecto de la causa en trámite.",
+      "Se remite al Superior Tribunal."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 52 establece absolución automática por vencimiento del plazo. La suspensión de otras causas no altera el plazo de la causa activa. Las demás opciones son incorrectas. Se protege el plazo razonable."
+  }
+]

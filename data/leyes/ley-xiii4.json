@@ -1,0 +1,1718 @@
+[
+  {
+    "pregunta": "¿Cuál es el ámbito de aplicación territorial de la Ley XIII Nº 4 en materia arancelaria para abogados y procuradores?",
+    "opciones": [
+      "Se aplica a toda actividad profesional de abogados en el territorio nacional",
+      "Se aplica cuando la competencia correspondiere a los Tribunales de la Provincia del Chubut, tanto para actividad judicial como extrajudicial",
+      "Se aplica únicamente a la actividad judicial ante tribunales provinciales, no a la extrajudicial",
+      "Se aplica solo a los abogados matriculados en el Colegio Público de Abogados de Chubut"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 1 de la Ley XIII Nº 4 establece que el régimen arancelario rige para el servicio profesional de abogados y procuradores por su actividad judicial O extrajudicial, cuando la competencia correspondiere a los Tribunales de la Provincia del Chubut. El criterio de atribución es la competencia de los tribunales provinciales, no la matriculación ni la exclusividad judicial. La opción C restringe indebidamente al excluir la actividad extrajudicial."
+  },
+  {
+    "pregunta": "Según el Art. 1 de la Ley XIII Nº 4, ¿a quiénes más, además de abogados y procuradores, se aplica esta ley?",
+    "opciones": [
+      "A los escribanos públicos por su actuación en juicio",
+      "A los contadores públicos en procesos de quiebra",
+      "A los peritos por su actuación en juicio",
+      "A los mediadores habilitados por el Poder Judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 1 párrafo segundo establece expresamente que también será de aplicación esta ley en la regulación de los honorarios de los peritos por su actuación en juicio. Los demás profesionales mencionados en las otras opciones no están incluidos en este artículo."
+  },
+  {
+    "pregunta": "Un abogado trabaja en relación de dependencia para una empresa y lleva un juicio cuya materia es completamente ajena a su relación laboral. ¿Le aplica la Ley XIII Nº 4?",
+    "opciones": [
+      "No; los profesionales en relación de dependencia nunca están comprendidos en la ley",
+      "Sí; porque el asunto es ajeno a la relación que motiva la asignación fija, lo que es una excepción expresa del Art. 2",
+      "Solo si el empleador da su consentimiento escrito",
+      "Solo si el juicio supera determinado monto pecuniario"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 2 establece que los profesionales con asignación fija, periódica, global o en relación de dependencia NO están comprendidos en la ley, EXCEPTO en tres casos, el primero de los cuales es: respecto de los asuntos cuya materia fuera ajena a aquella relación. Al ser el asunto ajeno a la relación laboral, se activa la excepción y la ley resulta aplicable. Las opciones A, C y D contradicen el mecanismo de excepción."
+  },
+  {
+    "pregunta": "Conforme al Art. 2 de la Ley XIII Nº 4, ¿cuáles son los tres casos en que un profesional con asignación fija SÍ queda comprendido en la ley?",
+    "opciones": [
+      "Cuando el asunto supere cierto monto, cuando actúe en segunda instancia y cuando lo solicite el cliente",
+      "Cuando el asunto sea ajeno a la relación; si hubiere acuerdo expreso en contrario; y cuando mediare condena en costas de otra parte",
+      "Cuando el profesional sea también procurador, cuando actúe ante tribunales federales y cuando haya pacto de cuota litis",
+      "Cuando el asunto sea penal, cuando haya litis consorcio y cuando el proceso sea voluntario"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 2 establece exactamente tres excepciones a la exclusión de los profesionales con asignación fija: 1) respecto de asuntos cuya materia fuera ajena a aquella relación; 2) si hubiere expresamente acuerdo en contrario; y 3) cuando mediare condena en costas de otra de las partes intervinientes en el proceso. Son taxativas y no admiten interpretación extensiva."
+  },
+  {
+    "pregunta": "Según el Art. 3 de la Ley XIII Nº 4, ¿cuál es la presunción que rige respecto de la actividad profesional de abogados y procuradores?",
+    "opciones": [
+      "Se presume gratuita, salvo pacto expreso de honorarios",
+      "Se presume onerosa en la medida de su oficiosidad, salvo excepciones legales que permitan o exijan actuar gratuitamente",
+      "Se presume onerosa solo cuando el cliente es una persona jurídica",
+      "No existe presunción; debe probarse en cada caso la existencia de una relación remunerada"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 3 establece que la actividad profesional de los abogados y procuradores se presume de carácter oneroso, en la medida de su oficiosidad, salvo los casos en que conforme a excepciones legales pudieren o debieren actuar gratuitamente. La onerosidad es la regla y la gratuidad es la excepción que debe estar legalmente fundada. Las demás opciones invierten la presunción o agregan condiciones inexistentes."
+  },
+  {
+    "pregunta": "Conforme al Art. 3 de la Ley XIII Nº 4, ¿cuál es el carácter de las disposiciones de la ley respecto de los acuerdos entre profesional y cliente?",
+    "opciones": [
+      "Son de orden público y no pueden ser modificadas por acuerdo de partes bajo ninguna circunstancia",
+      "Se aplicarán supletoriamente a falta de acuerdo expreso en contrario",
+      "Prevalecen siempre sobre cualquier acuerdo privado celebrado entre las partes",
+      "Solo se aplican cuando el cliente es una persona física; para personas jurídicas rigen los acuerdos privados"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 3 párrafo segundo establece que las disposiciones de la ley se aplicarán supletoriamente a falta de acuerdo expreso en contrario. Esto significa que las partes pueden pactar honorarios distintos a los de la ley; la ley opera solo en ausencia de acuerdo. La opción A es incorrecta porque la ley admite acuerdo en contrario. Las opciones C y D no tienen sustento."
+  },
+  {
+    "pregunta": "Según el Art. 4 de la Ley XIII Nº 4, ¿pueden los profesionales pactar participar en el resultado del asunto o proceso (cuota litis)?",
+    "opciones": [
+      "No; está absolutamente prohibido el pacto de cuota litis en la Provincia del Chubut",
+      "Sí; pueden pactar que sus honorarios consistirán en participar en el resultado del asunto o proceso",
+      "Solo en asuntos civiles patrimoniales de monto superior a 100 Jus",
+      "Solo cuando el cliente sea una persona jurídica y el asunto sea comercial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 4 autoriza expresamente a los profesionales a pactar con sus clientes que los honorarios consistirán en participar en el resultado del asunto o proceso. La opción A es incorrecta porque el pacto está expresamente permitido, aunque con límites. Las opciones C y D agregan restricciones inexistentes en la norma."
+  },
+  {
+    "pregunta": "Conforme al Art. 4 de la Ley XIII Nº 4, ¿cuál es el límite máximo que pueden percibir el abogado y el procurador en conjunto por pacto de cuota litis?",
+    "opciones": [
+      "El treinta por ciento (30%) del resultado económico obtenido",
+      "El cuarenta por ciento (40%) del resultado económico obtenido, sin perjuicio del derecho a percibir honorarios declarados a cargo de la parte contraria",
+      "El cincuenta por ciento (50%) del resultado económico obtenido",
+      "El veinte por ciento (20%) del resultado económico obtenido"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 4 párrafo segundo establece que los honorarios del abogado y del procurador en conjunto y por todo concepto no podrán exceder del CUARENTA POR CIENTO (40%) del resultado económico obtenido, sin perjuicio del derecho de los profesionales a percibir los honorarios que se declaren a cargo de la parte contraria. El tope es del 40% y es conjunto para ambos profesionales."
+  },
+  {
+    "pregunta": "Según el Art. 4 de la Ley XIII Nº 4, cuando la participación del profesional en el resultado del pleito supera el veinte por ciento (20%), ¿quién asume los gastos de defensa del cliente y la responsabilidad por costas?",
+    "opciones": [
+      "El cliente, como titular del interés en el proceso",
+      "Se reparten por mitades entre el profesional y el cliente",
+      "El profesional, salvo convención en contrario",
+      "El fondo de garantía del Colegio de Abogados"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 4 párrafo tercero establece que cuando la participación del profesional en el resultado del pleito sea superior al VEINTE POR CIENTO (20%), los gastos que correspondieren a la defensa del cliente y la responsabilidad de éste por las costas estarán a cargo del profesional, EXCEPTO convención en contrario. El umbral del 20% activa la obligación del profesional por los gastos y costas, salvo pacto diferente."
+  },
+  {
+    "pregunta": "Conforme al Art. 4 de la Ley XIII Nº 4, ¿qué tipo de asuntos o procesos NO pueden ser objeto de pactos de honorarios?",
+    "opciones": [
+      "Los asuntos penales y los de derecho público",
+      "Los asuntos previsionales, alimentarios y de familia; tampoco pueden pactarse honorarios exclusivamente con relación a la duración del asunto",
+      "Los asuntos laborales y los concursales",
+      "Los asuntos en que intervenga el Estado provincial como parte"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 4 parte final establece dos prohibiciones de pacto: 1) los asuntos o procesos previsionales, alimentarios y de familia no podrán ser objeto de pactos; y 2) tampoco podrán pactarse honorarios exclusivamente con relación a la duración del asunto o proceso. La enumeración es taxativa. Las opciones A, C y D incluyen categorías no mencionadas en la norma."
+  },
+  {
+    "pregunta": "Un abogado pretende pactar honorarios con su cliente consistentes exclusivamente en una suma mensual por cada mes que dure el proceso. Según el Art. 4 de la Ley XIII Nº 4, ¿es válido ese pacto?",
+    "opciones": [
+      "Sí; es una forma lícita de acordar honorarios basada en la autonomía de la voluntad",
+      "No; está expresamente prohibido pactar honorarios exclusivamente con relación a la duración del asunto o proceso",
+      "Sí, pero solo si el proceso supera los seis meses de duración",
+      "Depende de si el asunto es de naturaleza civil o comercial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 4 parte final prohíbe expresamente pactar honorarios exclusivamente con relación a la duración del asunto o proceso. La prohibición apunta a evitar que el profesional tenga incentivos para prolongar artificialmente el proceso. La opción A ignora esta prohibición expresa. Las opciones C y D agregan condiciones no previstas."
+  },
+  {
+    "pregunta": "Según el Art. 5 inc. a) de la Ley XIII Nº 4, ¿qué componentes integran el 'monto del asunto o proceso' como pauta para fijar honorarios?",
+    "opciones": [
+      "Solo el capital reclamado, excluidos los intereses",
+      "El capital, los intereses y demás accesorios",
+      "El capital, los intereses y las costas del proceso",
+      "El monto de la sentencia firme, excluidos los intereses devengados durante el proceso"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 5 inc. a) establece que el monto del asunto o proceso, si fuere susceptible de apreciación pecuniaria, estará comprendido por el capital e intereses y demás accesorios. La inclusión de intereses y accesorios es expresa. La opción A excluye incorrectamente los intereses. La opción C agrega las costas que no integran el monto base. La opción D limita al monto de sentencia firme, lo que no está previsto."
+  },
+  {
+    "pregunta": "Conforme al Art. 5 de la Ley XIII Nº 4, ¿cuál de las siguientes NO es una pauta expresamente prevista para fijar el monto del honorario?",
+    "opciones": [
+      "El mérito de la labor profesional, apreciada por la calidad, eficacia y extensión del trabajo",
+      "La actuación profesional respecto de la aplicación del principio de celeridad procesal",
+      "El tiempo de duración del proceso",
+      "La trascendencia jurídica, moral y económica del asunto para casos futuros, para el cliente y la situación económica de las partes"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 5 enumera las pautas en sus incisos a) a f). El tiempo de duración del proceso no es una pauta expresamente prevista. De hecho, el Art. 4 prohíbe pactar honorarios exclusivamente en relación a la duración del asunto, lo que refuerza que la duración no es criterio válido por sí solo. Las opciones A (inc. d), B (inc. e) y D (inc. f) sí están expresamente enumeradas."
+  },
+  {
+    "pregunta": "Según el Art. 5 inc. c) de la Ley XIII Nº 4, ¿cuál es la pauta relacionada con el resultado del proceso?",
+    "opciones": [
+      "El monto total del proceso incluyendo capital e intereses",
+      "El resultado obtenido y la relación entre la gestión profesional y la probabilidad de efectiva satisfacción de la pretensión reclamada por el vencido",
+      "La calidad y extensión del trabajo profesional desarrollado",
+      "La trascendencia económica del asunto para la situación de las partes"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 5 inc. c) establece como pauta el resultado que se hubiere obtenido y la relación entre la gestión profesional y la probabilidad de efectiva satisfacción de la pretensión reclamada en el juicio por el vencido. Esta pauta doble considera tanto el resultado obtenido como la viabilidad de cobro real. La opción A es el inc. a); la opción C es el inc. d); la opción D es el inc. f)."
+  },
+  {
+    "pregunta": "Conforme al Art. 6 de la Ley XIII Nº 4, ¿entre qué porcentajes del monto del proceso se fijan los honorarios del abogado de la parte vencedora en primera instancia, cuando se trata de sumas de dinero o bienes susceptibles de apreciación pecuniaria?",
+    "opciones": [
+      "Entre el siete por ciento (7%) y el diecisiete por ciento (17%)",
+      "Entre el once por ciento (11%) y el veinte por ciento (20%)",
+      "Entre el quince por ciento (15%) y el veinticinco por ciento (25%)",
+      "Entre el diez por ciento (10%) y el quince por ciento (15%)"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 6 párrafo primero establece que los honorarios de los abogados por su actividad en primera instancia, cuando se tratare de sumas de dinero o bienes susceptibles de apreciación pecuniaria, serán fijados entre el ONCE POR CIENTO (11%) y el VEINTE POR CIENTO (20%) del monto del proceso. La opción A corresponde a la escala del abogado de la parte VENCIDA, no de la vencedora. La confusión entre ambas escalas es un error frecuente y es un distractor de alta calidad."
+  },
+  {
+    "pregunta": "Según el Art. 6 de la Ley XIII Nº 4, ¿entre qué porcentajes se fijan los honorarios del abogado de la parte vencida en primera instancia?",
+    "opciones": [
+      "Entre el once por ciento (11%) y el veinte por ciento (20%)",
+      "Entre el siete por ciento (7%) y el diecisiete por ciento (17%)",
+      "Entre el cinco por ciento (5%) y el quince por ciento (15%)",
+      "Entre el diez por ciento (10%) y el veinte por ciento (20%)"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 6 párrafo segundo establece expresamente que los honorarios del abogado de la parte VENCIDA serán fijados entre el SIETE POR CIENTO (7%) y el DIECISIETE POR CIENTO (17%) del monto del proceso. Esta escala diferenciada respecto a la parte vencedora (11%-20%) reconoce la situación de quien pierde el juicio. La opción A corresponde a la escala del abogado vencedor."
+  },
+  {
+    "pregunta": "Según el Art. 6 bis de la Ley XIII Nº 4, ¿cómo se define el 'Jus' como unidad de medida arancelaria?",
+    "opciones": [
+      "Equivale al uno por ciento (1%) de la remuneración total del cargo de Juez de Primera Instancia",
+      "Equivale al uno con doscientos sesenta y cinco por ciento (1,265%) de la remuneración total asignada al cargo de Juez de Cámara de la Provincia del Chubut",
+      "Equivale a un porcentaje fijo del salario mínimo vital y móvil nacional",
+      "Equivale a un punto del índice de precios al consumidor de la Provincia del Chubut"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 6 bis define el 'Jus' como la unidad de medida del honorario profesional del Abogado, que representará el uno con doscientos sesenta y cinco por ciento (1,265%) de la remuneración total asignada al cargo de Juez de Cámara de la Provincia del Chubut, entendiéndose por tal la suma resultante de los rubros básico, bonificación por funcionalidad y suma fija, cuya determinación no dependa de la situación particular del Magistrado. El cargo de referencia es el de Juez de Cámara, no de primera instancia ni de STJ."
+  },
+  {
+    "pregunta": "Conforme al Art. 6 bis de la Ley XIII Nº 4, ¿qué rubros integran la remuneración total del cargo de Juez de Cámara a los efectos del cálculo del Jus?",
+    "opciones": [
+      "Básico y antigüedad únicamente",
+      "Básico, bonificación por funcionalidad y suma fija (Ley I Nº 378), cuya determinación no dependa de la situación particular del Magistrado",
+      "Básico, antigüedad, presentismo y bonificación por zona desfavorable",
+      "La remuneración bruta total incluyendo todos los suplementos y adicionales del magistrado"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 6 bis define que la remuneración total del Juez de Cámara a los efectos del Jus está comprendida por: básico, bonificación por funcionalidad y suma fija (Ley I Nº 378 antes Ley Nº 5818), cualquiera fuere su denominación, cuya determinación no dependa de la situación particular del Magistrado. Se excluyen los rubros que varían según la situación individual del juez (antigüedad, zona, etc.). Las otras opciones incluyen rubros excluidos o distorsionan la definición."
+  },
+  {
+    "pregunta": "Según el Art. 6 bis de la Ley XIII Nº 4, ¿quién suministra mensualmente el valor del Jus y a quiénes informa?",
+    "opciones": [
+      "El Ministerio de Economía de la Provincia del Chubut, informando a los jueces",
+      "El Superior Tribunal de Justicia de la Provincia de Chubut, informando a los Colegios Públicos de Abogados",
+      "El Colegio Público de Abogados de la Primera Circunscripción Judicial, informando al STJ",
+      "La Secretaría de Trabajo de la Provincia del Chubut, informando a los Colegios"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 6 bis establece que el Superior Tribunal de Justicia de la Provincia de Chubut suministrará mensualmente el valor resultante, informando a los Colegios Públicos de Abogados las variaciones salariales de que fueran pasibles los índices de cálculo. La obligación de comunicación recae sobre el STJ hacia los Colegios, no al revés. Las otras opciones atribuyen esta función a órganos no previstos."
+  },
+  {
+    "pregunta": "Conforme al Art. 7 de la Ley XIII Nº 4, ¿cuál es el honorario mínimo en los procesos de conocimiento, salvo pacto en contrario?",
+    "opciones": [
+      "Quince (15) Jus",
+      "Veinte (20) Jus",
+      "Ocho (8) Jus",
+      "Cuarenta (40) Jus"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 7 establece que salvo pacto en contrario, los honorarios tendrán un mínimo de veinte (20) Jus en los procesos de conocimiento. Los distintos mínimos son: 20 Jus en conocimiento; 8 Jus por cada etapa en procesos especiales del Art. 40; 4 Jus en ejecutivos por cada etapa; y 15 Jus en juicios voluntarios. No deben confundirse estos valores entre sí."
+  },
+  {
+    "pregunta": "Según el Art. 7 de la Ley XIII Nº 4, ¿cuál es el mínimo de honorarios en los juicios voluntarios?",
+    "opciones": [
+      "Veinte (20) Jus",
+      "Ocho (8) Jus",
+      "Quince (15) Jus",
+      "Cuatro (4) Jus"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 7 establece que en los juicios voluntarios el mínimo es de quince (15) Jus. El mínimo de 20 Jus es para procesos de conocimiento; el de 8 Jus por etapa para procesos especiales del Art. 40; y el de 4 Jus por etapa para ejecutivos. La confusión entre los cuatro valores distintos es la principal trampa en este artículo."
+  },
+  {
+    "pregunta": "Conforme al Art. 7 de la Ley XIII Nº 4, ¿cuál es el mínimo de honorarios en los procesos ejecutivos?",
+    "opciones": [
+      "Veinte (20) Jus por proceso",
+      "Quince (15) Jus por proceso",
+      "Cuatro (4) Jus por cada etapa",
+      "Ocho (8) Jus por proceso completo"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 7 establece que en los procesos ejecutivos el mínimo es de cuatro (4) Jus por cada etapa. La unidad de medida es la etapa, no el proceso completo. El mínimo de 8 Jus por etapa es para los procesos especiales del Art. 40; el de 20 Jus para conocimiento; el de 15 Jus para voluntarios. La combinación de valor y unidad (etapa vs. proceso) es el dato técnico clave."
+  },
+  {
+    "pregunta": "Según el Art. 7 de la Ley XIII Nº 4, en procesos penales con aplicación de criterios de oportunidad, suspensión del juicio a prueba y/o juicio abreviado, ¿cuál es el mínimo de honorarios y cuándo debe regularse?",
+    "opciones": [
+      "Cuarenta (40) Jus; al dictarse la sentencia definitiva",
+      "Veinte (20) Jus; la regulación debe realizarse cuando se dicte la resolución que otorga el beneficio",
+      "Sesenta (60) Jus; al inicio del proceso penal",
+      "Quince (15) Jus; cuando queda firme la resolución del beneficio"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 7 establece que cuando se apliquen criterios de oportunidad, suspensión del juicio a prueba y/o juicio abreviado, la regulación mínima será de veinte (20) Jus y la regulación de los honorarios deberá realizarse cuando se dicte la resolución que otorga el beneficio. El momento de la regulación es un dato técnico relevante. El mínimo de 40 Jus es para procesos con pena privativa inferior a seis años, y el de 60 Jus para los demás procesos penales."
+  },
+  {
+    "pregunta": "Conforme al Art. 7 de la Ley XIII Nº 4, ¿cuáles son los mínimos en procesos penales que conlleven pena privativa de libertad inferior a seis años y en los demás procesos penales?",
+    "opciones": [
+      "Veinte (20) Jus para pena inferior a seis años; cuarenta (40) Jus para los demás",
+      "Cuarenta (40) Jus para pena inferior a seis años; sesenta (60) Jus para los demás procesos penales",
+      "Treinta (30) Jus para pena inferior a seis años; cincuenta (50) Jus para los demás",
+      "Sesenta (60) Jus para todos los procesos penales sin distinción"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 7 establece tres escalas para procesos penales: a) 20 Jus para criterios de oportunidad/suspensión/juicio abreviado; b) 40 Jus para procesos que conlleven pena privativa de libertad inferior a seis años; c) 60 Jus para los demás procesos penales. La distinción por el tope de pena de seis años es el criterio técnico diferenciador. La opción A invierte los valores correctos."
+  },
+  {
+    "pregunta": "Según el Art. 7 de la Ley XIII Nº 4, ¿puede el juez regular una suma inferior a ocho (8) Jus en cualquier juicio o incidente?",
+    "opciones": [
+      "Sí, cuando las circunstancias del caso lo justifiquen a criterio del juez",
+      "Sí, pero solo en incidentes de escaso monto económico",
+      "No; en ningún juicio o incidente el juez podrá regular una suma inferior a ocho (8) Jus, cualquiera sean las etapas cumplidas y la instancia",
+      "Solo puede bajar de ocho Jus si existe pacto expreso entre las partes que así lo autorice"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 7 establece expresamente que sean cuales fueren las etapas cumplidas y en cualquier instancia que corresponda, en ningún juicio o incidente el juez podrá regular una suma inferior a ocho (8) Jus. Este es el piso absoluto infranqueable para cualquier regulación judicial, con independencia de las circunstancias del caso. Las opciones A, B y D introducen excepciones no previstas."
+  },
+  {
+    "pregunta": "Conforme al Art. 7 de la Ley XIII Nº 4, cuando los honorarios fijados superan los mínimos establecidos, ¿qué obligación tiene el juez?",
+    "opciones": [
+      "Puede reducirlos discrecionalmente si los considera excesivos para el caso",
+      "Debe fijar montos superiores a los mínimos, basando la regulación en los parámetros del Art. 5 y Art. 6",
+      "Debe consultar al Colegio de Abogados antes de regular por encima de los mínimos",
+      "Debe aplicar siempre el porcentaje máximo de la escala del Art. 6"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 7 establece que cuando se superen los mínimos establecidos, el juez deberá fijar montos superiores, basando la regulación en los parámetros establecidos en el Art. 5 y Art. 6 de la ley. Los mínimos son un piso, no un techo. La superación de los mínimos activa la obligación de regular conforme a las pautas generales. Las otras opciones contradicen este mandato."
+  },
+  {
+    "pregunta": "Según el Art. 8 de la Ley XIII Nº 4, ¿entre qué porcentajes de los honorarios del abogado se fijan los honorarios de los procuradores?",
+    "opciones": [
+      "Entre el veinte por ciento (20%) y el treinta por ciento (30%)",
+      "Entre el treinta por ciento (30%) y el cuarenta por ciento (40%) de lo que correspondiere a los abogados",
+      "Entre el cuarenta por ciento (40%) y el cincuenta por ciento (50%)",
+      "Entre el veinticinco por ciento (25%) y el treinta y cinco por ciento (35%)"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 8 establece que los honorarios de los procuradores serán fijados entre un TREINTA POR CIENTO (30%) y un CUARENTA POR CIENTO (40%) de lo que correspondiere a los abogados. La referencia son los honorarios del abogado, no el monto del proceso directamente. Las otras opciones alteran los porcentajes correctos."
+  },
+  {
+    "pregunta": "Conforme al Art. 8 de la Ley XIII Nº 4, ¿qué ocurre cuando el abogado actúa también como procurador en el mismo proceso?",
+    "opciones": [
+      "Solo percibirá los honorarios correspondientes a la función de abogado, sin adicional por la procuración",
+      "Percibirá los honorarios que corresponderían si actuaren por separado abogados y procuradores",
+      "Percibirá el cincuenta por ciento (50%) de los honorarios que corresponderían a dos profesionales distintos",
+      "No puede percibir honorarios por ambas funciones por existir incompatibilidad legal"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 8 párrafo segundo establece que cuando los abogados también actuaren como procuradores percibirán los honorarios que correspondiere fijar si actuaren por separado abogados y procuradores. Es decir, acumulan íntegramente ambas retribuciones. No hay reducción por la acumulación de funciones. Las opciones A, C y D son incorrectas."
+  },
+  {
+    "pregunta": "Según el Art. 9 de la Ley XIII Nº 4, cuando actúan conjuntamente varios abogados por una misma parte, ¿cómo se regula su honorario?",
+    "opciones": [
+      "Se regula individualmente para cada abogado por su actuación específica",
+      "Se considera que ha existido un solo patrocinio y se regula como tal, distribuyéndose entre ellos",
+      "Cada abogado cobra el monto mínimo establecido en el Art. 7",
+      "El honorario se duplica si actúan dos abogados y se triplica si actúan tres"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 9 párrafo primero establece que cuando actuaren conjuntamente varios abogados o procuradores por una misma parte, a fin de regular honorarios se considerará que ha existido un solo patrocinio o una sola representación, según fuere el caso. La actuación plural no multiplica el honorario: se fija uno solo como si fuera un único profesional. Las otras opciones contradicen este principio."
+  },
+  {
+    "pregunta": "Conforme al Art. 9 de la Ley XIII Nº 4, cuando actúan sucesivamente varios abogados por una misma parte, ¿cómo se distribuye el honorario entre ellos?",
+    "opciones": [
+      "En partes iguales entre todos los abogados que intervinieron",
+      "En proporción a la importancia jurídica de la respectiva actuación y a la labor desarrollada por cada uno",
+      "El último abogado que intervino percibe el honorario íntegro",
+      "El honorario se distribuye según el orden cronológico de actuación, a razón del tiempo de cada intervención"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 9 párrafo segundo establece que cuando actuaren sucesivamente, el honorario correspondiente se distribuirá en proporción a la importancia jurídica de la respectiva actuación y a la labor desarrollada por cada uno. El criterio es cualitativo (importancia jurídica y labor), no cronológico ni aritmético. Las opciones A, C y D aplican criterios distintos no previstos."
+  },
+  {
+    "pregunta": "Según el Art. 10 de la Ley XIII Nº 4, en casos de litis consorcio con diferentes profesionales, ¿cómo se regulan los honorarios de cada uno y existe algún límite al total?",
+    "opciones": [
+      "Cada profesional cobra el máximo del Art. 6 sin limitación alguna por el litis consorcio",
+      "Los honorarios de cada uno se regulan atendiendo a su actuación, el interés de cada litis consorte y las pautas del Art. 5, sin que el total exceda el cuarenta por ciento (40%) de los honorarios del Art. 6 primera parte",
+      "Los honorarios se fijan como si hubiera un solo profesional y se distribuyen por partes iguales",
+      "Cada profesional cobra en proporción exacta al interés económico de su litis consorte en el proceso"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 10 establece que en los casos de litis consorcio en que actuaren diferentes profesionales, los honorarios de cada uno se regularán atendiendo a la respectiva actuación cumplida, al interés de cada litis consorte y a las pautas del Art. 5, sin que el TOTAL excediere en el CUARENTA POR CIENTO (40%) de los honorarios que correspondiere por la aplicación del Art. 6 primera parte. El límite del 40% opera sobre el total."
+  },
+  {
+    "pregunta": "Conforme al Art. 11 de la Ley XIII Nº 4, ¿puede un profesional percibir honorarios cuando actúa en un asunto o proceso propio?",
+    "opciones": [
+      "No; el principio general es que nadie puede regularse honorarios a sí mismo",
+      "Sí, pero solo de su propio patrimonio, no de la parte contraria",
+      "Sí; los profesionales que actuaren en asuntos propios percibirán sus honorarios de las partes contrarias, si éstas fueren condenadas a pagar las costas",
+      "Solo si renuncian al honorario de patrocinio y reclaman únicamente el de representación"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 11 establece que los profesionales que actuaren en asuntos o procesos propios percibirán sus honorarios de las partes contrarias, si éstas fueren condenadas a pagar las costas. La percepción queda condicionada a la condena en costas de la contraparte. Las opciones A y B son incorrectas. La opción D introduce una distinción no prevista."
+  },
+  {
+    "pregunta": "Según el Art. 12 de la Ley XIII Nº 4, ¿qué efecto tiene la firma del abogado patrocinante en un escrito respecto de actuaciones posteriores no firmadas por él?",
+    "opciones": [
+      "No tiene efecto sobre actuaciones que el abogado no firmó personalmente",
+      "Al solo efecto de regular honorarios, implica el mantenimiento de su intervención profesional en las actuaciones posteriores aunque éstas no fueren firmadas por él",
+      "Implica la renuncia al cobro de honorarios por las actuaciones posteriores no firmadas",
+      "Solo tiene efecto si existe poder notarial que acredite la representación continua"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 12 establece una presunción legal específica: al solo efecto de regular honorarios, la firma del abogado patrocinante en un escrito implicará el mantenimiento de su intervención profesional en las actuaciones posteriores, aunque éstas no fueren firmadas por él. La presunción opera exclusivamente en el plano arancelario. Cesa por renuncia del abogado o manifestación expresa del cliente o su apoderado."
+  },
+  {
+    "pregunta": "Conforme al Art. 12 de la Ley XIII Nº 4, ¿cuándo cesa la presunción de intervención profesional continua del abogado patrocinante?",
+    "opciones": [
+      "Cuando el cliente deja de pagar los honorarios acordados",
+      "Cuando el proceso supera los seis meses de duración sin nueva firma del abogado",
+      "Por renuncia del abogado, o cuando así lo manifestare en forma expresa el cliente o su apoderado",
+      "Cuando el abogado no firma tres escritos consecutivos en el proceso"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 12 establece que la intervención profesional cesará por renuncia del abogado, o cuando así lo manifestare en forma expresa el cliente o su apoderado. Son dos las causas de cese: la renuncia del profesional o la manifestación expresa del cliente/apoderado. No existe cese automático por el transcurso del tiempo ni por ausencia de firma en escritos consecutivos."
+  },
+  {
+    "pregunta": "Según el Art. 13 de la Ley XIII Nº 4, ¿qué porcentaje de los honorarios de primera instancia corresponde regular en segunda o ulterior instancia?",
+    "opciones": [
+      "Del veinte por ciento (20%) al treinta por ciento (30%) de la primera instancia",
+      "Del veinticinco por ciento (25%) al treinta y cinco por ciento (35%) de la cantidad fijada para primera instancia",
+      "Del treinta por ciento (30%) al cuarenta por ciento (40%) de la primera instancia",
+      "Del quince por ciento (15%) al veinticinco por ciento (25%) de la primera instancia"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 13 establece que por las actuaciones correspondientes a segunda o ulterior instancia se regulará en cada una de ellas del VEINTICINCO POR CIENTO (25%) al TREINTA Y CINCO POR CIENTO (35%) de la cantidad que deba fijarse para los honorarios de primera instancia. La base de cálculo son los honorarios de primera instancia, no el monto del proceso directamente. Las demás opciones alteran los porcentajes."
+  },
+  {
+    "pregunta": "Conforme al Art. 13 de la Ley XIII Nº 4, si la sentencia apelada es revocada en todas sus partes en favor del apelante, ¿cómo se fija el honorario del letrado apelante en segunda instancia?",
+    "opciones": [
+      "En el veinticinco por ciento (25%) de los honorarios de primera instancia, como mínimo especial",
+      "En el treinta y cinco por ciento (35%) de los honorarios de primera instancia",
+      "En el cuarenta por ciento (40%) de los honorarios de primera instancia, como máximo especial",
+      "En el mismo porcentaje que el de primera instancia, por equiparación de la labor"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 13 establece que si la sentencia apelada fuere revocada en todas sus partes en favor del apelante, el honorario de su letrado se fijará en el TREINTA Y CINCO POR CIENTO (35%) de los honorarios de primera instancia. Es el porcentaje máximo de la escala del Art. 13, que se aplica automáticamente en este supuesto como reconocimiento al éxito total de la apelación. Las otras opciones son incorrectas."
+  },
+  {
+    "pregunta": "Según el Art. 14 de la Ley XIII Nº 4, ¿cuál es el criterio principal para fijar los honorarios del profesional que actúa como administrador judicial?",
+    "opciones": [
+      "Las pautas del Art. 6 primera parte sobre el valor total del patrimonio administrado",
+      "En principio las pautas del Art. 6 primera parte sobre el monto de las utilidades realizadas durante su desempeño",
+      "Un porcentaje fijo del cincuenta por ciento (50%) de los honorarios del abogado actuante",
+      "Las pautas del Art. 5 exclusivamente, sin referencia a porcentajes del monto"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 14 establece que si el profesional actuare como administrador judicial, en principio serán aplicadas las pautas del Art. 6 primera parte sobre el monto de las UTILIDADES REALIZADAS durante su desempeño. La base son las utilidades realizadas, no el valor total del patrimonio ni los ingresos brutos. En circunstancias especiales (honorario excesivamente elevado o reducido) puede aplicarse el criterio del caudal administrado o ingresos producidos más el lapso de actuación."
+  },
+  {
+    "pregunta": "Conforme al Art. 14 de la Ley XIII Nº 4, ¿en qué circunstancias puede el juez apartarse del criterio principal para regular los honorarios del administrador judicial?",
+    "opciones": [
+      "Cuando el administrador lo solicite expresamente al momento de presentar la rendición de cuentas",
+      "Cuando en circunstancias especiales el honorario resultante fuera un monto excesivamente elevado o reducido, pudiendo aplicarse el criterio del valor del caudal administrado o ingresos producidos y el lapso de actuación",
+      "Cuando el proceso fuera declarado de interés público por el tribunal",
+      "Nunca; el criterio principal del Art. 14 es de aplicación obligatoria sin excepciones"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 14 establece que en circunstancias especiales, cuando el honorario resultante fuera un monto excesivamente elevado o reducido, podrá aplicarse el criterio de tener en cuenta, total o parcialmente, además de las pautas del Art. 5, el valor del caudal administrado o ingresos producidos y el lapso de actuación. La desproporción manifiesta del resultado es el presupuesto del criterio alternativo. La opción D es incorrecta y las opciones A y C no tienen sustento normativo."
+  },
+  {
+    "pregunta": "Según el Art. 15 de la Ley XIII Nº 4, ¿qué porcentaje de los honorarios del administrador judicial corresponde al interventor y cuál al veedor?",
+    "opciones": [
+      "Interventor: cuarenta por ciento (40%); veedor: veinte por ciento (20%)",
+      "Interventor: cincuenta por ciento (50%) de lo que correspondería al administrador; veedor: treinta por ciento (30%)",
+      "Interventor: sesenta por ciento (60%); veedor: cuarenta por ciento (40%)",
+      "Interventor: treinta y cinco por ciento (35%); veedor: veinticinco por ciento (25%)"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 15 establece dos porcentajes diferenciados con referencia al honorario del administrador judicial: si el profesional actuare como interventor, el honorario se fijará en el CINCUENTA POR CIENTO (50%) de lo que correspondería al administrador; si actuare como veedor, en el TREINTA POR CIENTO (30%). La jerarquía funcional interventor > veedor se refleja en los porcentajes: 50% > 30%. Las otras opciones alteran estos valores."
+  },
+  {
+    "pregunta": "CASO INTEGRADOR: Un abogado trabaja con asignación fija mensual para una empresa de seguros. La empresa es demandada en un juicio de daños por un asegurado y es condenada con costas. Adicionalmente, ese mismo abogado lleva un proceso de divorcio propio donde la ex pareja es condenada en costas. ¿Cuál es el encuadre correcto según los Arts. 2 y 11 de la Ley XIII Nº 4?",
+    "opciones": [
+      "En ambos casos la ley no aplica: el primero por relación de dependencia y el segundo porque no puede regularse a sí mismo",
+      "En el juicio de la empresa: aplica la ley por la excepción de condena en costas de otra parte (Art. 2 inc. 3); en el divorcio propio: aplica el Art. 11, que permite al profesional percibir honorarios de la parte contraria condenada en costas",
+      "Solo aplica la ley en el juicio de la empresa, pero el abogado pierde el derecho a honorarios por ser dependiente",
+      "En el divorcio propio no aplica la ley porque los asuntos de familia no pueden ser objeto de pactos según el Art. 4"
+    ],
+    "correcta": 1,
+    "explicacion": "Análisis integrado: (1) Juicio de la empresa aseguradora: el Art. 2 excluye en principio a los profesionales con asignación fija, pero el inc. 3 del mismo artículo establece como excepción 'cuando mediare condena en costas de otra de las partes intervinientes en el proceso'. Al ser la empresa condenada en costas, el abogado puede percibir honorarios de la parte contraria conforme a la ley. (2) Divorcio propio: el Art. 11 expresamente dispone que los profesionales que actuaren en asuntos o procesos propios percibirán sus honorarios de las partes contrarias si éstas fueren condenadas a pagar las costas. Respecto a la opción D: la prohibición de pactar del Art. 4 para asuntos de familia no impide la aplicación de los honorarios legales del Art. 11; son institutos distintos."
+  },
+  {
+    "pregunta": "CASO INTEGRADOR: Un abogado trabaja con asignación fija mensual para una empresa de seguros. La empresa es demandada en un juicio de daños por un asegurado y resulta vencida con imposición de costas. Paralelamente, ese mismo abogado actúa en un proceso de divorcio propio, donde la contraria también es condenada en costas. ¿Cuál es el encuadre correcto conforme a los Arts. 2 y 11 de la Ley XIII Nº 4?",
+    "opciones": [
+      "En ambos casos la ley no resulta aplicable: en el primero por la relación de dependencia y en el segundo porque el profesional no puede regular honorarios en causa propia",
+      "En el juicio de la empresa no aplica la ley por la relación de dependencia; en el divorcio propio sí aplica el Art. 11 permitiendo percibir honorarios de la contraria",
+      "En el juicio de la empresa aplica la excepción del Art. 2 inc. 3 solo si la condena en costas recae sobre la contraparte, lo que no ocurre; en el divorcio propio aplica el Art. 11, pudiendo percibir honorarios de la contraria condenada en costas",
+      "En ambos casos aplica la ley: en el primero por la excepción del Art. 2 inc. 3 aun cuando la empresa sea condenada en costas, y en el segundo por el Art. 11"
+    ],
+    "correcta": 2,
+    "explicacion": "La respuesta correcta es la opción 2. En cuanto al primer supuesto, el Art. 2 de la Ley XIII Nº 4 excluye de su aplicación a los profesionales con asignación fija (relación de dependencia), salvo excepciones. El inc. 3 establece como excepción el caso en que mediare condena en costas de otra de las partes intervinientes. Aquí, la empresa empleadora resulta condenada en costas, no la contraparte, por lo que no se configura la excepción y la ley no resulta aplicable. Interpretar lo contrario implicaría una indebida extensión de la excepción, violando el principio de legalidad (arts. 17 CN y normas arancelarias de interpretación restrictiva). \n\nEn el segundo supuesto, el Art. 11 dispone expresamente que el profesional que actúe en causa propia tiene derecho a percibir honorarios de la parte contraria si ésta fuere condenada en costas. No existe prohibición de autorregulación en estos casos, sino una habilitación expresa. \n\nAnálisis de distractores: \nOpción 0: Incorrecta, porque el Art. 11 sí permite percibir honorarios en causa propia bajo condena en costas. \nOpción 1: Incorrecta, porque omite analizar correctamente la excepción del Art. 2 inc. 3 y presenta una afirmación incompleta. \nOpción 3: Incorrecta, ya que aplica erróneamente la excepción del Art. 2 inc. 3 aun cuando la condena en costas no recae sobre la contraparte, lo cual contradice la letra expresa de la norma y su interpretación restrictiva."
+  },
+  {
+    "pregunta": "Un abogado que reviste como asesor legal con remuneración fija mensual de una empresa estatal interviene en un proceso contencioso administrativo en el cual la demanda es rechazada, imponiéndose las costas al actor. Pretende luego ejecutar honorarios contra la parte actora. ¿Cuál es la solución correcta conforme al Art. 2 inc. 3 de la Ley XIII Nº 4?",
+    "opciones": [
+      "Puede percibir honorarios porque intervino profesionalmente, sin importar su situación de revista",
+      "No puede percibir honorarios porque su relación de dependencia excluye totalmente la aplicación de la ley, sin excepciones",
+      "Puede percibir honorarios porque la condena en costas recae sobre la contraparte, configurando la excepción legal",
+      "Solo puede percibir honorarios si renuncia previamente a su salario como dependiente"
+    ],
+    "correcta": 2,
+    "explicacion": "La opción correcta es la 2. El Art. 2 de la Ley XIII Nº 4 establece la exclusión de los profesionales con asignación fija, pero prevé excepciones. El inc. 3 dispone que la ley será aplicable cuando exista condena en costas de otra de las partes intervinientes. En este caso, la actora resulta condenada en costas, por lo que el profesional dependiente puede percibir honorarios de dicha contraparte. \n\nOpción 0: Incorrecta, porque ignora la regla general de exclusión del Art. 2. \nOpción 1: Incorrecta, ya que desconoce la existencia de excepciones expresas en la norma. \nOpción 3: Incorrecta, introduce un requisito inexistente en la ley, vulnerando el principio de legalidad (arts. 18 CN y 44 CP Chubut)."
+  },
+  {
+    "pregunta": "Un abogado actúa en un proceso propio sin patrocinio externo y obtiene sentencia favorable con imposición de costas a la contraria. Luego solicita regulación de honorarios. El juez rechaza el pedido por considerar que nadie puede ser acreedor y deudor de sí mismo. ¿Qué solución corresponde conforme al Art. 11 de la Ley XIII Nº 4?",
+    "opciones": [
+      "El rechazo es correcto porque el profesional no puede generar honorarios en causa propia",
+      "El rechazo es incorrecto, ya que el Art. 11 habilita a percibir honorarios de la contraparte condenada en costas",
+      "El rechazo es correcto salvo que exista pacto de cuota litis",
+      "El rechazo es correcto porque en materia civil rige el principio de gratuidad en causa propia"
+    ],
+    "correcta": 1,
+    "explicacion": "La respuesta correcta es la opción 1. El Art. 11 de la Ley XIII Nº 4 establece expresamente que los profesionales que actúen en asuntos o procesos propios podrán percibir honorarios de las partes contrarias cuando éstas sean condenadas en costas. La decisión judicial resulta errónea al desconocer una norma expresa. \n\nOpción 0: Incorrecta, contradice directamente el Art. 11. \nOpción 2: Incorrecta, introduce una condición no prevista por la ley. \nOpción 3: Incorrecta, no existe tal principio de gratuidad en este supuesto; por el contrario, rige el principio de retribución profesional."
+  },
+  {
+    "pregunta": "Un abogado dependiente de una aseguradora interviene en un proceso donde su empleadora resulta parcialmente vencedora y las costas se imponen en un 70% a la contraparte y 30% a su representada. ¿Cómo se aplica el Art. 2 inc. 3 de la Ley XIII Nº 4?",
+    "opciones": [
+      "No puede percibir honorarios en ningún caso por su condición de dependiente",
+      "Puede percibir honorarios solo en proporción a las costas impuestas a la contraparte",
+      "Puede percibir la totalidad de los honorarios porque existe condena en costas",
+      "Solo puede percibir honorarios si la condena en costas es total"
+    ],
+    "correcta": 1,
+    "explicacion": "La opción correcta es la 1. La excepción del Art. 2 inc. 3 permite percibir honorarios cuando existe condena en costas de la contraparte. En caso de costas parciales, debe estarse a la proporción en que la contraparte ha sido condenada. Ello responde al principio de proporcionalidad y al carácter restrictivo de las excepciones. \n\nOpción 0: Incorrecta, desconoce la excepción legal. \nOpción 2: Incorrecta, implica una aplicación extensiva indebida de la excepción. \nOpción 3: Incorrecta, introduce una exigencia no prevista normativamente."
+  },
+  {
+    "pregunta": "Un profesional actúa en causa propia pero la sentencia impone las costas por su orden. Posteriormente solicita regulación de honorarios contra la contraparte. ¿Qué corresponde según el Art. 11 de la Ley XIII Nº 4?",
+    "opciones": [
+      "Corresponde regular honorarios contra la contraparte porque intervino profesionalmente",
+      "No corresponde regular honorarios contra la contraparte al no existir condena en costas",
+      "Corresponde regular honorarios pero solo si se acredita enriquecimiento sin causa",
+      "Corresponde regular honorarios de oficio con cargo al Estado"
+    ],
+    "correcta": 1,
+    "explicacion": "La respuesta correcta es la opción 1. El Art. 11 condiciona expresamente la percepción de honorarios en causa propia a que la contraparte sea condenada en costas. Si las costas se imponen por su orden, no existe sujeto obligado al pago, por lo que no corresponde regulación contra la contraparte. \n\nOpción 0: Incorrecta, ignora el requisito legal. \nOpción 2: Incorrecta, introduce un instituto ajeno al régimen arancelario. \nOpción 3: Incorrecta, carece de sustento normativo en la ley aplicable."
+  },
+  {
+    "pregunta": "Artículo 15. Un profesional es designado interventor judicial en una sociedad comercial. El honorario del administrador hubiera sido fijado en 100 Jus. ¿Cuál es el honorario correcto del interventor?",
+    "opciones": [
+      "100 Jus, por equiparación funcional",
+      "50 Jus, por aplicación del 50% del honorario del administrador",
+      "30 Jus, por analogía con el veedor",
+      "Depende de la complejidad del caso según el art. 5"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 15 de la Ley XIII Nº 4 establece que el interventor percibe el 50% de lo que correspondería al administrador. Por tanto, si el administrador percibiría 100 Jus, corresponde 50 Jus. Opción 0 incorrecta: no hay equiparación. Opción 2 incorrecta: el 30% es para el veedor. Opción 3 incorrecta: la norma fija porcentaje específico, no discrecional."
+  },
+  {
+    "pregunta": "Artículo 15. Un profesional actúa como veedor en un proceso. ¿Cómo se determina su honorario?",
+    "opciones": [
+      "En el 50% del honorario del administrador",
+      "En el 30% del honorario del administrador",
+      "En el 20% del art. 6",
+      "Libremente por el juez según art. 5"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 15 dispone que el veedor percibe el 30% de lo que correspondería al administrador. Opción 0 incorrecta: corresponde al interventor. Opción 2 incorrecta: refiere al partidor (art. 16). Opción 3 incorrecta: la norma fija criterio específico."
+  },
+  {
+    "pregunta": "Artículo 16. Un abogado actúa como partidor en un proceso sucesorio. El honorario base conforme art. 6 primera parte sería 200 Jus. ¿Cuál es su honorario?",
+    "opciones": [
+      "200 Jus",
+      "100 Jus",
+      "40 Jus",
+      "60 Jus"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 16 establece el 20% del monto que resultaría del art. 6. 20% de 200 Jus = 40 Jus. Opción 0 incorrecta: ignora reducción. Opción 1 incorrecta: aplica 50%. Opción 3 incorrecta: porcentaje erróneo."
+  },
+  {
+    "pregunta": "Artículo 17. En un proceso arbitral, ¿qué criterio corresponde para regular honorarios?",
+    "opciones": [
+      "Se aplica exclusivamente el reglamento arbitral",
+      "Se aplican los artículos precedentes y siguientes en cuanto sean compatibles",
+      "Se aplican solo los artículos siguientes",
+      "No se aplica la ley arancelaria"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 17 dispone aplicación de normas precedentes y siguientes en cuanto sean compatibles con la naturaleza del proceso. Opción 0 incorrecta: exclusión no prevista. Opción 2 incorrecta: omite precedentes. Opción 3 incorrecta: contradice norma expresa."
+  },
+  {
+    "pregunta": "Artículo 18. ¿Qué se considera monto del proceso a efectos regulatorios?",
+    "opciones": [
+      "La suma reclamada en la demanda",
+      "La suma fijada prudencialmente por el juez",
+      "La suma que resulta de la sentencia o transacción",
+      "El valor fiscal del bien"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 18 establece que el monto es el que resulta de la sentencia o transacción. Opción 0 incorrecta: refiere a pretensión. Opción 1 incorrecta: aplica solo art. 19. Opción 3 incorrecta: no es regla general."
+  },
+  {
+    "pregunta": "Artículo 19. En ausencia de sentencia o transacción, ¿qué límite tiene el monto del proceso fijado judicialmente?",
+    "opciones": [
+      "No puede superar el total reclamado",
+      "No puede superar la mitad de la suma reclamada",
+      "Debe coincidir con la demanda",
+      "Queda a discreción absoluta del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 19 fija como límite máximo la mitad de lo reclamado en demanda y reconvención. Opción 0 incorrecta: excede límite. Opción 2 incorrecta: no es obligatorio. Opción 3 incorrecta: requiere resolución fundada."
+  },
+  {
+    "pregunta": "Artículo 20. Si luego de regulados honorarios se dicta sentencia, ¿qué corresponde?",
+    "opciones": [
+      "Se mantienen los honorarios firmes",
+      "Se dicta nueva regulación conforme al resultado",
+      "Se anulan los honorarios",
+      "Se requiere nuevo juicio"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 20 dispone nueva regulación acorde al resultado del proceso. Opción 0 incorrecta: contradice norma. Opción 2 incorrecta: no hay nulidad automática. Opción 3 incorrecta: improcedente."
+  },
+  {
+    "pregunta": "Artículo 21. ¿Cómo incide la depreciación monetaria en la regulación?",
+    "opciones": [
+      "No se considera",
+      "Se considera solo si hay petición de parte",
+      "Integra el monto del juicio",
+      "Se aplica solo en ejecución"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 21 establece que integra el monto del juicio. Opción 0 incorrecta: contradice norma. Opción 1 incorrecta: no requiere petición. Opción 3 incorrecta: no limita aplicación."
+  },
+  {
+    "pregunta": "Artículo 22. ¿Cuál es el plazo para que las partes estimen el valor de bienes?",
+    "opciones": [
+      "5 días",
+      "3 días",
+      "10 días",
+      "48 horas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 22 fija plazo de 3 días. Opción 0,2,3 incorrectas por apartarse del texto legal."
+  },
+  {
+    "pregunta": "Artículo 22. Ante falta de conformidad en la tasación, ¿qué corresponde?",
+    "opciones": [
+      "Se toma el valor del actor",
+      "Se designa perito de oficio y el tribunal fija el valor",
+      "Se archiva la causa",
+      "Se fija el promedio de valores"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 22 establece intervención de perito tasador y decisión judicial. Opción 0 incorrecta: parcial. Opción 2 incorrecta: improcedente. Opción 3 incorrecta: no previsto."
+  },
+  {
+    "pregunta": "Artículo 23. En sucesiones, ¿qué reducción se aplica al honorario base?",
+    "opciones": [
+      "10%",
+      "25%",
+      "50%",
+      "No hay reducción"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 23 establece reducción del 25%. Opción 0 y 2 incorrectas. Opción 3 contradice norma."
+  },
+  {
+    "pregunta": "Artículo 23. Sobre gananciales del cónyuge supérstite, ¿qué porcentaje se aplica?",
+    "opciones": [
+      "100% del honorario base",
+      "50% del honorario reducido",
+      "25% del total",
+      "No corresponde honorario"
+    ],
+    "correcta": 1,
+    "explicacion": "Se aplica el 50% del honorario reducido conforme art. 6. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 23. Si intervienen varios abogados en sucesión, ¿cómo se consideran sus honorarios?",
+    "opciones": [
+      "Independientes entre sí",
+      "Comunes y a cargo de la sucesión",
+      "A cargo de cada heredero",
+      "A cargo del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo dispone que son comunes y a cargo de la sucesión. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 absurda."
+  },
+  {
+    "pregunta": "Artículo 23. Actuaciones en interés particular dentro de sucesión, ¿cómo se regulan?",
+    "opciones": [
+      "Como honorarios comunes",
+      "Separadamente y a cargo de la parte interesada",
+      "A cargo del acervo",
+      "No se regulan"
+    ],
+    "correcta": 1,
+    "explicacion": "La norma indica regulación separada a cargo exclusivo de la parte interesada. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 23. En caso de albacea que solo cumple mandas testamentarias, ¿cómo se fijan honorarios?",
+    "opciones": [
+      "Por escala del art. 6 sin variaciones",
+      "Según valor económico y extensión de la tarea",
+      "Siempre mínimo legal",
+      "No corresponde honorario"
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo establece criterio específico basado en valor económico y extensión. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 24. En un proceso de alimentos se fija judicialmente una cuota mensual de 50.000 pesos. A los fines regulatorios, ¿cuál es el monto del proceso?",
+    "opciones": [
+      "600.000 pesos, equivalente a un año de cuota",
+      "50.000 pesos, correspondiente a una cuota",
+      "El monto total reclamado en la demanda",
+      "El monto que el juez estime prudencialmente"
+    ],
+    "correcta": 0,
+    "explicacion": "El Art. 24 de la Ley XIII Nº 4 establece que el monto será el importe correspondiente a un año de la cuota fijada. 50.000 x 12 = 600.000. Opción 1 incorrecta: reduce indebidamente el monto. Opción 2 incorrecta: refiere a pretensión. Opción 3 incorrecta: no aplica criterio del art. 19."
+  },
+  {
+    "pregunta": "Artículo 24. En una acción de aumento de cuota alimentaria, se incrementa la cuota de 30.000 a 50.000 pesos mensuales. ¿Cuál es el monto del proceso?",
+    "opciones": [
+      "600.000 pesos",
+      "240.000 pesos",
+      "50.000 pesos",
+      "360.000 pesos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 24 establece que en reclamos posteriores el monto es la diferencia durante un año. Diferencia: 20.000 x 12 = 240.000. Opción 0 incorrecta: toma valor total. Opción 2 incorrecta: mensual. Opción 3 incorrecta: cálculo erróneo."
+  },
+  {
+    "pregunta": "Artículo 25. En un proceso de desalojo con alquiler mensual de 80.000 pesos, ¿cuál es el monto del proceso?",
+    "opciones": [
+      "80.000 pesos",
+      "960.000 pesos",
+      "El valor del inmueble",
+      "El total de deuda acumulada"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 25 establece un año de alquiler como monto. 80.000 x 12 = 960.000. Opción 0 incorrecta: mensual. Opción 2 incorrecta: no corresponde. Opción 3 incorrecta: no es criterio legal."
+  },
+  {
+    "pregunta": "Artículo 25. En consignación de alquileres por un total de 300.000 pesos, ¿cuál es el monto?",
+    "opciones": [
+      "300.000 pesos",
+      "Un año de alquiler",
+      "La mitad del monto consignado",
+      "El valor locativo anual"
+    ],
+    "correcta": 0,
+    "explicacion": "El Art. 25 dispone que el monto será el total consignado. Opción 1 incorrecta: criterio de desalojo. Opción 2 incorrecta: sin sustento. Opción 3 incorrecta: no previsto."
+  },
+  {
+    "pregunta": "Artículo 26. En una medida cautelar que asegura un crédito de 1.000.000 de pesos, ¿qué pauta se aplica?",
+    "opciones": [
+      "100% del art. 7",
+      "33% del art. 7 con mínimo de 8 Jus",
+      "10% del monto asegurado",
+      "Libre regulación judicial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 26 fija 33% de las pautas del art. 7 con mínimo de 8 Jus. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 26. Si el cálculo de honorarios en medida cautelar arroja 5 Jus, ¿qué corresponde?",
+    "opciones": [
+      "Se regula 5 Jus",
+      "Se eleva a 8 Jus por mínimo legal",
+      "Se reduce a 3 Jus",
+      "Se deja sin regulación"
+    ],
+    "correcta": 1,
+    "explicacion": "El mínimo es 8 Jus según Art. 26. Opción 0 incorrecta: viola mínimo. Opción 2 incorrecta: sin base. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 27. En expropiación, ¿cómo se determina el monto?",
+    "opciones": [
+      "Valor total del inmueble",
+      "Diferencia entre depósito y sentencia en valores constantes",
+      "Monto de la demanda",
+      "Valor fiscal"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 27 establece la diferencia entre depósito y monto indemnizatorio en valores constantes. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 28. En retrocesión, ¿qué se considera para fijar el monto?",
+    "opciones": [
+      "Valor original del bien",
+      "Diferencia entre valor actual y lo percibido",
+      "Monto de la expropiación inicial",
+      "Valor fiscal actualizado"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 28 fija la diferencia entre valor del bien al momento de sentencia y lo percibido. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 29. En procesos de familia sin contenido económico, ¿qué pauta se aplica?",
+    "opciones": [
+      "Artículo 6",
+      "Artículo 5",
+      "Monto fijo de 10 Jus",
+      "Libre regulación"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 29 remite al art. 5. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 29. ¿Cuál es el mínimo en etapa prejudicial de avenimiento?",
+    "opciones": [
+      "5 Jus",
+      "8 Jus",
+      "10 Jus",
+      "20 Jus"
+    ],
+    "correcta": 1,
+    "explicacion": "El mínimo es 8 Jus. Otras opciones incorrectas por apartarse del texto."
+  },
+  {
+    "pregunta": "Artículo 29. En divorcio por presentación conjunta, ¿cuál es el mínimo por abogado?",
+    "opciones": [
+      "10 Jus",
+      "15 Jus",
+      "20 Jus",
+      "30 Jus"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 29 fija mínimo de 20 Jus por abogado. Opciones restantes incorrectas."
+  },
+  {
+    "pregunta": "Artículo 30. En concursos y quiebras, ¿qué normativa se aplica?",
+    "opciones": [
+      "Solo art. 6",
+      "Art. 5 y legislación específica",
+      "Solo ley concursal",
+      "Libre criterio judicial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 30 remite al art. 5 y normativa específica. Opción 0 incorrecta. Opción 2 incompleta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 30. Para honorarios del abogado del acreedor en incidente, ¿qué base se toma?",
+    "opciones": [
+      "Monto del proceso principal",
+      "Monto del crédito verificado",
+      "Valor del activo",
+      "Monto del pasivo total"
+    ],
+    "correcta": 1,
+    "explicacion": "Inciso c) del Art. 30. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 31. En acciones posesorias con beneficio general, ¿cómo se fija el monto?",
+    "opciones": [
+      "Valor del bien total",
+      "Solo cuota del actor",
+      "Monto estimado judicial",
+      "Valor fiscal"
+    ],
+    "correcta": 0,
+    "explicacion": "El Art. 31 dispone valor total si beneficio general. Opción 1 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 31. Si la actuación es solo en beneficio del patrocinado, ¿qué se toma?",
+    "opciones": [
+      "Valor total del bien",
+      "Cuota parte defendida",
+      "Monto del proceso principal",
+      "Valor fiscal"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 31 establece cuota parte. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 32. ¿Cuál es el rango de honorarios en incidentes?",
+    "opciones": [
+      "5% a 10%",
+      "10% a 20%",
+      "20% a 30%",
+      "Libre"
+    ],
+    "correcta": 1,
+    "explicacion": "El Art. 32 fija 10% a 20%. Otras opciones incorrectas."
+  },
+  {
+    "pregunta": "Artículo 32. ¿Cuál es el mínimo legal en incidentes?",
+    "opciones": [
+      "5 Jus",
+      "8 Jus",
+      "10 Jus",
+      "No hay mínimo"
+    ],
+    "correcta": 1,
+    "explicacion": "Mínimo de 8 Jus salvo pacto. Otras incorrectas."
+  },
+  {
+    "pregunta": "Artículo 32. En simples incidencias, ¿qué se aplica?",
+    "opciones": [
+      "La mitad de la escala",
+      "Un tercio de la escala",
+      "El doble",
+      "Sin mínimo"
+    ],
+    "correcta": 1,
+    "explicacion": "Se aplica un tercio. Otras incorrectas."
+  },
+  {
+    "pregunta": "Artículo 33. En tercerías, ¿cuál es el rango del monto?",
+    "opciones": [
+      "10% a 20%",
+      "30% a 50%",
+      "50% a 70%",
+      "70% a 100%"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 33 fija 50% a 70%. Otras incorrectas."
+  },
+  {
+    "pregunta": "Artículo 34. En liquidación de sociedad conyugal, ¿sobre qué base se regula?",
+    "opciones": [
+      "100% del activo",
+      "50% del activo total",
+      "Monto de la demanda",
+      "Valor fiscal"
+    ],
+    "correcta": 1,
+    "explicacion": "Se aplica sobre el 50% del activo. Opción 0 incorrecta. Opción 2 incorrecta. Opción 3 incorrecta."
+  },
+  {
+    "pregunta": "Artículo 34. ¿Qué porcentaje del art. 6 se aplica en liquidación conyugal?",
+    "opciones": [
+      "100%",
+      "75%",
+      "50%",
+      "25%"
+    ],
+    "correcta": 2,
+    "explicacion": "El Art. 34 establece 50% del honorario del art. 6 sobre el 50% del activo. Otras opciones incorrectas."
+  },
+  {
+    "pregunta": "En un proceso de amparo, el juez regula honorarios por veinticinco (25) Jus en atención a la baja complejidad del caso. ¿Es conforme a derecho?",
+    "opciones": [
+      "Sí, porque el juez puede apartarse del mínimo por razones de equidad",
+      "Sí, si no hubo actividad probatoria relevante",
+      "No, porque el mínimo legal es de treinta (30) Jus",
+      "No, salvo consentimiento expreso de las partes"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 35 establece que en procesos de Hábeas Corpus, Hábeas Data, Amparo y Extradición el honorario no podrá ser inferior a treinta (30) Jus. Se trata de un mínimo legal imperativo. La opción A es incorrecta porque la equidad no habilita a reducir mínimos legales. La opción B es incorrecta por idéntico motivo. La opción D es incorrecta porque el consentimiento no puede vulnerar normas de orden público arancelario."
+  },
+  {
+    "pregunta": "¿Qué criterio general establece el Artículo 36 respecto de la regulación de honorarios?",
+    "opciones": [
+      "Que los honorarios se fijan en función exclusiva del resultado del proceso",
+      "Que los procesos deben dividirse en etapas según su naturaleza",
+      "Que todos los procesos tienen tres etapas sin excepción",
+      "Que la división en etapas es facultativa del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 36 dispone que los procesos, según su naturaleza, se considerarán divididos en etapas para regular honorarios. La opción A es incorrecta porque el resultado no es el único criterio. La opción C es falsa ya que varía según el tipo de proceso. La opción D es incorrecta porque no es facultativo sino normativo."
+  },
+  {
+    "pregunta": "En un proceso ordinario, ¿qué actos integran la primera etapa?",
+    "opciones": [
+      "Solo la demanda",
+      "Demanda, reconvención y sus respectivas contestaciones",
+      "Demanda y producción de prueba",
+      "Demanda y alegatos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 37 establece que la primera etapa comprende la demanda o escrito inicial, la reconvención y sus respectivas contestaciones. Las opciones A, C y D son incompletas o incorrectas."
+  },
+  {
+    "pregunta": "En los procesos ordinarios, la etapa probatoria corresponde a:",
+    "opciones": [
+      "Primera etapa",
+      "Segunda etapa",
+      "Tercera etapa",
+      "No constituye etapa autónoma"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 37 dispone que la segunda etapa comprende las actuaciones sobre la prueba. Las demás opciones contradicen la estructura normativa."
+  },
+  {
+    "pregunta": "¿Qué incluye la tercera etapa de un proceso ordinario?",
+    "opciones": [
+      "Solo los alegatos",
+      "Alegatos y actuaciones hasta la sentencia definitiva",
+      "La ejecución de sentencia",
+      "La producción de prueba restante"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 37 establece que la tercera etapa incluye los alegatos y cualquier actuación posterior hasta la sentencia definitiva. La ejecución no está incluida (opción C incorrecta)."
+  },
+  {
+    "pregunta": "En procesos sumarios, sumarísimos, laborales ordinarios e incidentes, ¿cuántas etapas existen?",
+    "opciones": [
+      "Una",
+      "Dos",
+      "Tres",
+      "Depende del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 38 establece que estos procesos se dividen en dos etapas. Las otras opciones contradicen la norma."
+  },
+  {
+    "pregunta": "En los procesos del Artículo 38, el ofrecimiento de prueba se ubica en:",
+    "opciones": [
+      "Primera etapa",
+      "Segunda etapa",
+      "Tercera etapa",
+      "No forma parte de ninguna etapa"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 38 incluye el ofrecimiento de prueba dentro de la primera etapa. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En procesos de ejecución sin excepciones, ¿qué reducción corresponde aplicar?",
+    "opciones": [
+      "10%",
+      "20%",
+      "30%",
+      "Ninguna"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 39 establece una reducción del 30% si no hay excepciones. La opción A corresponde a cuando sí hay excepciones. Las demás son incorrectas."
+  },
+  {
+    "pregunta": "En un proceso de ejecución con excepciones, ¿cómo se calcula el honorario?",
+    "opciones": [
+      "Aplicando el Artículo 6 sin modificaciones",
+      "Aplicando el Artículo 6 con reducción del 10%",
+      "Aplicando el Artículo 6 con reducción del 30%",
+      "Aplicando un monto fijo de 8 Jus"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 39 dispone que si hay excepciones se aplica el Artículo 6 con reducción del 10%. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En procesos especiales del Artículo 40, ¿cuántas etapas se reconocen?",
+    "opciones": [
+      "Una",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 40 establece dos etapas. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Qué procesos están incluidos en el Artículo 40?",
+    "opciones": [
+      "Solo interdictos",
+      "Interdictos, incapacidad, alimentos, mensura, expropiación, entre otros",
+      "Solo procesos civiles patrimoniales",
+      "Únicamente procesos administrativos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 40 enumera diversos procesos especiales como interdictos, alimentos, expropiación, etc. Las demás opciones son incompletas o incorrectas."
+  },
+  {
+    "pregunta": "En concursos y quiebras, la primera etapa finaliza con:",
+    "opciones": [
+      "La sentencia definitiva",
+      "La apertura del concurso o declaración de quiebra",
+      "La verificación de créditos",
+      "La distribución final"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 41 establece que la primera etapa llega hasta la declaración de quiebra o apertura del concurso. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En procesos sucesorios, la declaratoria de herederos se ubica en:",
+    "opciones": [
+      "Primera etapa",
+      "Segunda etapa",
+      "Tercera etapa",
+      "Fuera del esquema de etapas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 42 establece que la segunda etapa incluye actuaciones hasta la declaratoria de herederos o aprobación del testamento."
+  },
+  {
+    "pregunta": "En procesos sucesorios, ¿cuántas etapas existen?",
+    "opciones": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Depende del tipo de sucesión"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 42 establece tres etapas. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En procesos arbitrales, la división en etapas:",
+    "opciones": [
+      "Es siempre de tres etapas",
+      "Depende del procedimiento adoptado",
+      "Es igual a los procesos ordinarios",
+      "No existe división en etapas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 43 establece que las etapas serán las correspondientes al procedimiento adoptado. Esto respeta el principio de autonomía del arbitraje. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En un proceso penal, ¿cuál es el alcance de la primera etapa conforme al Artículo 44 de la Ley XIII N° 4?",
+    "opciones": [
+      "Desde la formulación de cargos hasta la audiencia preliminar",
+      "Desde la apertura de la investigación penal preparatoria hasta la audiencia del artículo 274 del CPPCH, incluyendo salidas alternativas",
+      "Desde la investigación hasta la sentencia definitiva",
+      "Desde la audiencia preliminar hasta el juicio oral"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 44 establece que la primera etapa va desde la apertura de la Investigación Penal Preparatoria hasta la audiencia del artículo 274 del CPPCH, incluyendo criterios de oportunidad, juicio abreviado y suspensión del juicio a prueba. La opción A es incorrecta por recortar el tramo final. La C es incorrecta por extender indebidamente la etapa. La D refiere a otra etapa."
+  },
+  {
+    "pregunta": "¿Qué delimita el inicio de la tercera etapa en el proceso penal según el Artículo 44?",
+    "opciones": [
+      "La audiencia del artículo 274 del CPPCH",
+      "La apertura de la investigación",
+      "La audiencia preliminar del artículo 295 del CPPCH",
+      "La interposición del recurso de apelación"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 44 establece que la tercera etapa comienza desde la audiencia preliminar del artículo 295 del CPPCH. Las otras opciones refieren a momentos anteriores o posteriores."
+  },
+  {
+    "pregunta": "La cuarta etapa del proceso penal comprende:",
+    "opciones": [
+      "Solo la ejecución de la pena",
+      "Las instancias de impugnación, incidencias y remedios recursivos",
+      "La etapa probatoria final",
+      "El juicio oral exclusivamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 44 dispone que la cuarta etapa incluye impugnaciones, incidencias y recursos. Las demás opciones son parciales o incorrectas."
+  },
+  {
+    "pregunta": "En causas penales con contenido económico determinable, ¿cómo deben regularse los honorarios?",
+    "opciones": [
+      "Mediante suma fija",
+      "Aplicando las pautas de los artículos 5 y 6 de la ley",
+      "Según criterio exclusivo del juez",
+      "Conforme a la complejidad únicamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 45 establece que cuando el monto es apreciable pecuniariamente, se aplican las pautas de los artículos 5 y 6. Las demás opciones desconocen el sistema legal."
+  },
+  {
+    "pregunta": "Si el proceso penal no permite apreciación pecuniaria, el juez debe considerar:",
+    "opciones": [
+      "Solo el resultado del proceso",
+      "La importancia del proceso, cuestiones jurídicas, audiencias y trabajo profesional",
+      "Únicamente la duración del proceso",
+      "Solo la cantidad de escritos presentados"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 45 establece criterios integrales: importancia, cuestiones jurídicas, audiencias, trabajos y resultado. Las demás opciones son parciales."
+  },
+  {
+    "pregunta": "¿Qué obligación tiene el juez respecto a la regulación de honorarios en resoluciones?",
+    "opciones": [
+      "Regular solo si se solicita",
+      "Regular solo en sentencia definitiva",
+      "Regular en toda sentencia definitiva o interlocutoria aun sin petición",
+      "Diferir la regulación hasta ejecución de sentencia"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 46 impone la regulación obligatoria en toda sentencia definitiva o interlocutoria, aun sin petición. Las demás opciones contradicen la norma."
+  },
+  {
+    "pregunta": "¿Qué consecuencia genera diferir la regulación de honorarios?",
+    "opciones": [
+      "Nulidad del auto",
+      "Simple irregularidad",
+      "Facultad revisable",
+      "Ninguna consecuencia"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 46 establece expresamente la nulidad si se difiere la regulación. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "El auto regulatorio debe:",
+    "opciones": [
+      "Limitarse a citar artículos",
+      "Ser fundado con argumentos concretos",
+      "Ser discrecional sin fundamentación",
+      "Depender del acuerdo de partes"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 46 exige fundamentación, no bastando la mera cita normativa. Las otras opciones son contrarias al debido proceso (art. 18 CN)."
+  },
+  {
+    "pregunta": "En caso del artículo 282 del CPCC Chubut, la Alzada debe:",
+    "opciones": [
+      "Regular solo los honorarios de segunda instancia",
+      "Regular todos los honorarios devengados hasta esa instancia",
+      "Diferir la regulación",
+      "Regular solo si hay pedido"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 46 establece que la Alzada debe regular la totalidad de los honorarios devengados. Las demás opciones contradicen la norma."
+  },
+  {
+    "pregunta": "¿Cuándo puede el profesional cobrar honorarios a su cliente?",
+    "opciones": [
+      "Solo al finalizar el proceso",
+      "Al cesar en su actuación",
+      "Solo si gana el juicio",
+      "Únicamente con autorización judicial previa"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 47 permite solicitar regulación y cobro al cesar en la actuación. Las demás opciones son restrictivas sin base legal."
+  },
+  {
+    "pregunta": "En juicios contenciosos, la regulación inicial debe:",
+    "opciones": [
+      "Ser definitiva",
+      "Aplicar el mínimo de la escala según etapas",
+      "Depender del resultado final",
+      "Ser libremente fijada"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 47 establece regulación mínima según etapas, con posterior reajuste. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Cómo se conceden las apelaciones contra regulaciones del Artículo 47?",
+    "opciones": [
+      "Con efecto suspensivo",
+      "Sin efecto diferido",
+      "Con efecto devolutivo diferido",
+      "No son apelables"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 47 dispone que se conceden sin efecto diferido. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Quiénes pueden apelar un auto regulatorio?",
+    "opciones": [
+      "Solo el profesional",
+      "Solo el condenado en costas",
+      "El profesional y los obligados al pago",
+      "Únicamente el Ministerio Público"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 48 habilita al profesional y a los obligados al pago. Las demás opciones restringen indebidamente."
+  },
+  {
+    "pregunta": "El plazo para apelar un auto regulatorio es:",
+    "opciones": [
+      "Tres días",
+      "Cinco días",
+      "Diez días",
+      "Quince días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 48 fija el plazo en cinco días. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "Si la parte condenada en costas no paga los honorarios, el profesional:",
+    "opciones": [
+      "Pierde el derecho",
+      "Debe esperar ejecución",
+      "Puede reclamar al cliente",
+      "Solo puede iniciar juicio ordinario"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 49 habilita el reclamo al cliente. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Qué requisito debe cumplirse para reclamar al cliente?",
+    "opciones": [
+      "Aprobación judicial previa",
+      "Notificación del auto regulatorio al cliente",
+      "Consentimiento del cliente",
+      "Intervención del Ministerio Público"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 49 exige notificación al cliente, garantizando su derecho de defensa (art. 18 CN)."
+  },
+  {
+    "pregunta": "La acción de cobro de honorarios tramita por:",
+    "opciones": [
+      "Proceso ordinario",
+      "Proceso sumarísimo",
+      "Ejecución de sentencia",
+      "Incidente simple"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 50 establece la vía de ejecución de sentencia. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "Un abogado designado de oficio pacta honorarios con su cliente. ¿Consecuencia?",
+    "opciones": [
+      "Es válido si es razonable",
+      "Es válido si no cobra anticipo",
+      "Está prohibido",
+      "Es válido con autorización judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 51 prohíbe pactar honorarios en designaciones de oficio. Las demás opciones contradicen la norma."
+  },
+  {
+    "pregunta": "¿Qué sanción corresponde por violar el Artículo 51?",
+    "opciones": [
+      "Apercibimiento",
+      "Multa, exclusión de matrícula y suspensión",
+      "Solo multa",
+      "Solo suspensión"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 52 prevé sanciones acumulativas: multa, exclusión y suspensión. Las demás opciones son incompletas."
+  },
+  {
+    "pregunta": "Antes de archivar un expediente sin pago de honorarios, el tribunal debe:",
+    "opciones": [
+      "Archivar directamente",
+      "Citar a los profesionales",
+      "Esperar petición de parte",
+      "Notificar solo al actor"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 55 exige citación previa de los profesionales. Garantiza tutela del crédito profesional."
+  },
+  {
+    "pregunta": "¿Cuándo no corresponde la citación del Artículo 55?",
+    "opciones": [
+      "Si el proceso es breve",
+      "Si hay regulación de honorarios",
+      "Si hay acuerdo de partes",
+      "Si lo decide el juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El mismo artículo exceptúa cuando ya hay regulación de honorarios."
+  },
+  {
+    "pregunta": "El uso de denominación \"estudio jurídico\" sin identificar abogados:",
+    "opciones": [
+      "Es libre",
+      "Es permitido con aviso",
+      "Está prohibido",
+      "Depende de la matrícula"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 56 prohíbe el uso sin identificación. Protege la fe pública."
+  },
+  {
+    "pregunta": "En un proceso penal, ¿cuál es el alcance de la primera etapa conforme al Artículo 44 de la Ley XIII N° 4?",
+    "opciones": [
+      "Desde la formulación de cargos hasta la audiencia preliminar",
+      "Desde la apertura de la investigación penal preparatoria hasta la audiencia del artículo 274 del CPPCH, incluyendo salidas alternativas",
+      "Desde la investigación hasta la sentencia definitiva",
+      "Desde la audiencia preliminar hasta el juicio oral"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 44 establece que la primera etapa va desde la apertura de la Investigación Penal Preparatoria hasta la audiencia del artículo 274 del CPPCH, incluyendo criterios de oportunidad, juicio abreviado y suspensión del juicio a prueba. La opción A es incorrecta por recortar el tramo final. La C es incorrecta por extender indebidamente la etapa. La D refiere a otra etapa."
+  },
+  {
+    "pregunta": "¿Qué delimita el inicio de la tercera etapa en el proceso penal según el Artículo 44?",
+    "opciones": [
+      "La audiencia del artículo 274 del CPPCH",
+      "La apertura de la investigación",
+      "La audiencia preliminar del artículo 295 del CPPCH",
+      "La interposición del recurso de apelación"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 44 establece que la tercera etapa comienza desde la audiencia preliminar del artículo 295 del CPPCH. Las otras opciones refieren a momentos anteriores o posteriores."
+  },
+  {
+    "pregunta": "La cuarta etapa del proceso penal comprende:",
+    "opciones": [
+      "Solo la ejecución de la pena",
+      "Las instancias de impugnación, incidencias y remedios recursivos",
+      "La etapa probatoria final",
+      "El juicio oral exclusivamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 44 dispone que la cuarta etapa incluye impugnaciones, incidencias y recursos. Las demás opciones son parciales o incorrectas."
+  },
+  {
+    "pregunta": "En causas penales con contenido económico determinable, ¿cómo deben regularse los honorarios?",
+    "opciones": [
+      "Mediante suma fija",
+      "Aplicando las pautas de los artículos 5 y 6 de la ley",
+      "Según criterio exclusivo del juez",
+      "Conforme a la complejidad únicamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 45 establece que cuando el monto es apreciable pecuniariamente, se aplican las pautas de los artículos 5 y 6. Las demás opciones desconocen el sistema legal."
+  },
+  {
+    "pregunta": "Si el proceso penal no permite apreciación pecuniaria, el juez debe considerar:",
+    "opciones": [
+      "Solo el resultado del proceso",
+      "La importancia del proceso, cuestiones jurídicas, audiencias y trabajo profesional",
+      "Únicamente la duración del proceso",
+      "Solo la cantidad de escritos presentados"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 45 establece criterios integrales: importancia, cuestiones jurídicas, audiencias, trabajos y resultado. Las demás opciones son parciales."
+  },
+  {
+    "pregunta": "¿Qué obligación tiene el juez respecto a la regulación de honorarios en resoluciones?",
+    "opciones": [
+      "Regular solo si se solicita",
+      "Regular solo en sentencia definitiva",
+      "Regular en toda sentencia definitiva o interlocutoria aun sin petición",
+      "Diferir la regulación hasta ejecución de sentencia"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 46 impone la regulación obligatoria en toda sentencia definitiva o interlocutoria, aun sin petición. Las demás opciones contradicen la norma."
+  },
+  {
+    "pregunta": "¿Qué consecuencia genera diferir la regulación de honorarios?",
+    "opciones": [
+      "Nulidad del auto",
+      "Simple irregularidad",
+      "Facultad revisable",
+      "Ninguna consecuencia"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 46 establece expresamente la nulidad si se difiere la regulación. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "El auto regulatorio debe:",
+    "opciones": [
+      "Limitarse a citar artículos",
+      "Ser fundado con argumentos concretos",
+      "Ser discrecional sin fundamentación",
+      "Depender del acuerdo de partes"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 46 exige fundamentación, no bastando la mera cita normativa. Las otras opciones son contrarias al debido proceso (art. 18 CN)."
+  },
+  {
+    "pregunta": "En caso del artículo 282 del CPCC Chubut, la Alzada debe:",
+    "opciones": [
+      "Regular solo los honorarios de segunda instancia",
+      "Regular todos los honorarios devengados hasta esa instancia",
+      "Diferir la regulación",
+      "Regular solo si hay pedido"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 46 establece que la Alzada debe regular la totalidad de los honorarios devengados. Las demás opciones contradicen la norma."
+  },
+  {
+    "pregunta": "¿Cuándo puede el profesional cobrar honorarios a su cliente?",
+    "opciones": [
+      "Solo al finalizar el proceso",
+      "Al cesar en su actuación",
+      "Solo si gana el juicio",
+      "Únicamente con autorización judicial previa"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 47 permite solicitar regulación y cobro al cesar en la actuación. Las demás opciones son restrictivas sin base legal."
+  },
+  {
+    "pregunta": "En juicios contenciosos, la regulación inicial debe:",
+    "opciones": [
+      "Ser definitiva",
+      "Aplicar el mínimo de la escala según etapas",
+      "Depender del resultado final",
+      "Ser libremente fijada"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 47 establece regulación mínima según etapas, con posterior reajuste. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Cómo se conceden las apelaciones contra regulaciones del Artículo 47?",
+    "opciones": [
+      "Con efecto suspensivo",
+      "Sin efecto diferido",
+      "Con efecto devolutivo diferido",
+      "No son apelables"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 47 dispone que se conceden sin efecto diferido. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Quiénes pueden apelar un auto regulatorio?",
+    "opciones": [
+      "Solo el profesional",
+      "Solo el condenado en costas",
+      "El profesional y los obligados al pago",
+      "Únicamente el Ministerio Público"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 48 habilita al profesional y a los obligados al pago. Las demás opciones restringen indebidamente."
+  },
+  {
+    "pregunta": "El plazo para apelar un auto regulatorio es:",
+    "opciones": [
+      "Tres días",
+      "Cinco días",
+      "Diez días",
+      "Quince días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 48 fija el plazo en cinco días. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "Si la parte condenada en costas no paga los honorarios, el profesional:",
+    "opciones": [
+      "Pierde el derecho",
+      "Debe esperar ejecución",
+      "Puede reclamar al cliente",
+      "Solo puede iniciar juicio ordinario"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 49 habilita el reclamo al cliente. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Qué requisito debe cumplirse para reclamar al cliente?",
+    "opciones": [
+      "Aprobación judicial previa",
+      "Notificación del auto regulatorio al cliente",
+      "Consentimiento del cliente",
+      "Intervención del Ministerio Público"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 49 exige notificación al cliente, garantizando su derecho de defensa (art. 18 CN)."
+  },
+  {
+    "pregunta": "La acción de cobro de honorarios tramita por:",
+    "opciones": [
+      "Proceso ordinario",
+      "Proceso sumarísimo",
+      "Ejecución de sentencia",
+      "Incidente simple"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 50 establece la vía de ejecución de sentencia. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "Un abogado designado de oficio pacta honorarios con su cliente. ¿Consecuencia?",
+    "opciones": [
+      "Es válido si es razonable",
+      "Es válido si no cobra anticipo",
+      "Está prohibido",
+      "Es válido con autorización judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 51 prohíbe pactar honorarios en designaciones de oficio. Las demás opciones contradicen la norma."
+  },
+  {
+    "pregunta": "¿Qué sanción corresponde por violar el Artículo 51?",
+    "opciones": [
+      "Apercibimiento",
+      "Multa, exclusión de matrícula y suspensión",
+      "Solo multa",
+      "Solo suspensión"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 52 prevé sanciones acumulativas: multa, exclusión y suspensión. Las demás opciones son incompletas."
+  },
+  {
+    "pregunta": "Antes de archivar un expediente sin pago de honorarios, el tribunal debe:",
+    "opciones": [
+      "Archivar directamente",
+      "Citar a los profesionales",
+      "Esperar petición de parte",
+      "Notificar solo al actor"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 55 exige citación previa de los profesionales. Garantiza tutela del crédito profesional."
+  },
+  {
+    "pregunta": "¿Cuándo no corresponde la citación del Artículo 55?",
+    "opciones": [
+      "Si el proceso es breve",
+      "Si hay regulación de honorarios",
+      "Si hay acuerdo de partes",
+      "Si lo decide el juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El mismo artículo exceptúa cuando ya hay regulación de honorarios."
+  },
+  {
+    "pregunta": "El uso de denominación \"estudio jurídico\" sin identificar abogados:",
+    "opciones": [
+      "Es libre",
+      "Es permitido con aviso",
+      "Está prohibido",
+      "Depende de la matrícula"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 56 prohíbe el uso sin identificación. Protege la fe pública."
+  },
+  {
+    "pregunta": "Respecto del Artículo 53 de la Ley XIII N° 4, ¿cuál es el destino legal de las multas impuestas a los profesionales?",
+    "opciones": [
+      "Se distribuyen entre las partes del proceso",
+      "Se acreditan en una cuenta judicial administrada por el Poder Judicial",
+      "Se acreditan en una cuenta especial creada por el Poder Ejecutivo con destino a gastos e inversiones de los tribunales",
+      "Se destinan al Colegio Público de Abogados"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 53 establece que los importes de las multas se acreditarán en una cuenta especial que creará el Poder Ejecutivo Provincial, con destino a inversiones y gastos de los Tribunales Provinciales. La opción A es incorrecta porque no hay distribución a partes. La B es incorrecta porque la administración corresponde al Poder Ejecutivo, no directamente al Judicial. La D carece de sustento normativo."
+  },
+  {
+    "pregunta": "¿Ante qué órgano se interpone la apelación contra la sanción prevista en el Artículo 52?",
+    "opciones": [
+      "Ante el mismo juez que la dictó",
+      "Ante el Tribunal Superior de Justicia directamente",
+      "Ante el Tribunal de alzada del juez que la impuso",
+      "Ante el Ministerio Público Fiscal"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 54 dispone que la apelación se interpone ante el Tribunal de alzada del juez que impuso la sanción. La opción A es incorrecta porque no se trata de reposición. La B es incorrecta salvo competencia originaria. La D es incorrecta ya que el MPF no es órgano jurisdiccional."
+  },
+  {
+    "pregunta": "¿Qué rol cumple el Ministerio Público Fiscal en el trámite de apelación del Artículo 54?",
+    "opciones": [
+      "Actúa solo en primera instancia",
+      "Es parte eventual",
+      "Es parte necesaria en todas las instancias",
+      "Interviene solo si hay interés público comprometido"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 54 establece expresamente que el Ministerio Público Fiscal es parte necesaria en todas las instancias. Las demás opciones restringen indebidamente su intervención obligatoria."
+  },
+  {
+    "pregunta": "Si un tribunal dispone el archivo de un expediente sin citar a los profesionales cuyos honorarios no constan como pagados, ¿cuál es la consecuencia?",
+    "opciones": [
+      "El acto es válido si pasaron más de dos años",
+      "Es válido si no hay oposición de partes",
+      "El acto es irregular por violar el Artículo 55",
+      "Es válido si no hay regulación previa"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 55 impone la citación obligatoria de los profesionales antes de determinadas decisiones procesales, si no consta el pago de honorarios. Su omisión vulnera el derecho de propiedad del profesional (art. 17 CN) y el debido proceso. Las demás opciones no tienen respaldo normativo."
+  },
+  {
+    "pregunta": "¿En qué supuesto no corresponde la citación de profesionales prevista en el Artículo 55?",
+    "opciones": [
+      "Cuando han transcurrido dos años",
+      "Cuando el proceso es de baja cuantía",
+      "Cuando existe regulación de honorarios",
+      "Cuando el juez lo considera innecesario"
+    ],
+    "correcta": 2,
+    "explicacion": "El propio Artículo 55 establece como excepción que no corresponde citación cuando ya existe regulación de honorarios. Las demás opciones no están previstas en la norma."
+  },
+  {
+    "pregunta": "Una sociedad comercial utiliza la denominación “Estudio Jurídico Patagonia” sin identificar abogados responsables. ¿Cuál es la solución conforme al Artículo 56?",
+    "opciones": [
+      "Es válido si no presta asesoramiento jurídico",
+      "Es válido si se inscribe en AFIP",
+      "Está prohibido y puede disponerse clausura y multa",
+      "Solo genera responsabilidad civil"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 56 prohíbe el uso de denominaciones jurídicas sin identificar a los abogados responsables. Prevé clausura y multa, sin perjuicio de sanciones penales. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Quién es competente para aplicar las sanciones del Artículo 56?",
+    "opciones": [
+      "El Tribunal Superior de Justicia",
+      "El Juez Civil",
+      "El Juez Correccional de la circunscripción",
+      "El Colegio de Abogados"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 56 establece que la competencia corresponde al Juez Correccional de la circunscripción donde se comete la infracción. Las demás opciones carecen de sustento legal."
+  },
+  {
+    "pregunta": "En gestiones extrajudiciales, ¿cuál es el límite mínimo de honorarios respecto de la labor judicial equivalente?",
+    "opciones": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 57 establece que en ningún caso los honorarios serán inferiores al 50% de lo que correspondería si fuera gestión judicial. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En ausencia de acuerdo, ¿cuál es el mínimo por consulta oral conforme al Artículo 58?",
+    "opciones": [
+      "1 Jus",
+      "1,5 Jus",
+      "2 Jus",
+      "4 Jus"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 58 inciso 1 fija en 1,5 Jus el mínimo por consulta oral. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Cuál es el mínimo por redacción de contrato no societario según el Artículo 58?",
+    "opciones": [
+      "1 Jus",
+      "2 Jus",
+      "4 Jus",
+      "14 Jus"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 58 establece un mínimo de 4 Jus para redacción de contratos no societarios. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En materia de honorarios de peritos, ¿cuál es la regla general cuando el proceso tiene contenido económico?",
+    "opciones": [
+      "Monto fijo",
+      "Entre 1% y 5% del monto de la sentencia",
+      "Entre 5% y 10%",
+      "Depende exclusivamente del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 60 fija entre 1% y 5% del monto de la sentencia. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Cuándo puede el juez apartarse del porcentaje previsto para peritos?",
+    "opciones": [
+      "Nunca",
+      "Siempre que lo considere conveniente",
+      "Cuando exista desproporción evidente entre trabajo y retribución",
+      "Solo si las partes lo solicitan"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 60 habilita apartarse cuando haya desproporción manifiesta, en función de criterios de razonabilidad. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En caso de mora en el pago de honorarios en procesos sin contenido económico, ¿qué tasa se aplica?",
+    "opciones": [
+      "Pasiva del Banco Nación",
+      "Activa del Banco del Chubut",
+      "Activa del Banco Nación siempre",
+      "Libremente fijada por el juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 61 establece la tasa activa del Banco del Chubut, y supletoriamente la del Banco Nación. Las demás opciones son incorrectas o incompletas."
+  },
+  {
+    "pregunta": "¿Dónde debe notificarse al cliente según el Artículo 62?",
+    "opciones": [
+      "En el domicilio constituido del abogado",
+      "En el domicilio real o el constituido especialmente",
+      "En el juzgado interviniente",
+      "En cualquier domicilio denunciado"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 62 exige notificación en domicilio real o constituido especialmente. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "La Ley XIII N° 4 se aplica a procesos pendientes cuando:",
+    "opciones": [
+      "Siempre",
+      "Nunca",
+      "No exista regulación firme de honorarios",
+      "Solo si las partes lo solicitan"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 63 dispone su aplicación a procesos pendientes sin regulación firme. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En caso de vacío normativo en la ley arancelaria, se aplica supletoriamente:",
+    "opciones": [
+      "Código Civil y Comercial",
+      "Código Procesal Penal",
+      "Código Procesal Civil y Comercial de Chubut",
+      "Ley Nacional de Aranceles"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 63 establece la aplicación supletoria del Código Procesal Civil y Comercial de Chubut. Las demás opciones son incorrectas."
+  }
+]

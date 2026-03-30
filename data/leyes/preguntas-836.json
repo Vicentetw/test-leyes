@@ -1,0 +1,1856 @@
+[
+{
+"pregunta":"¿Cuál es el objeto principal de la Ley I N° 836 según su artículo 1°?",
+"opciones":[
+"Regular el proceso contencioso-administrativo destinado al control judicial de la actividad de la Administración Pública y asegurar la tutela judicial efectiva frente a diversas manifestaciones de la función administrativa",
+"Establecer exclusivamente el régimen disciplinario de los funcionarios públicos provinciales",
+"Regular únicamente los procedimientos administrativos internos del Poder Ejecutivo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 1°, ¿qué finalidad garantiza el proceso contencioso-administrativo regulado por la ley?",
+"opciones":[
+"El control legislativo de los actos administrativos",
+"La tutela judicial efectiva frente a actos, hechos, omisiones y demás manifestaciones de la función administrativa",
+"La revisión administrativa obligatoria de todas las decisiones estatales"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 1°, ¿cuál de las siguientes manifestaciones de la función administrativa puede ser objeto de control judicial?",
+"opciones":[
+"Únicamente los actos administrativos individuales",
+"Solo los reglamentos dictados por el Poder Ejecutivo",
+"Actos, hechos, omisiones, reglamentos, contratos, vías de hecho y demás manifestaciones de la función administrativa"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 2°, ¿qué órganos del Estado provincial se consideran autoridades administrativas cuando ejercen función administrativa?",
+"opciones":[
+"Los órganos del Poder Ejecutivo, Legislativo y Judicial provincial",
+"Exclusivamente los órganos del Poder Ejecutivo",
+"Únicamente los organismos descentralizados"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 2°, ¿cuándo se consideran autoridades administrativas los entes no estatales?",
+"opciones":[
+"Cuando reciban financiamiento estatal",
+"Cuando ejerzan potestades públicas o funciones administrativas",
+"Cuando celebren contratos con el Estado"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 2°, ¿cuál de los siguientes sujetos puede ser considerado autoridad administrativa a los fines de la ley?",
+"opciones":[
+"Únicamente organismos estatales provinciales",
+"Solamente los municipios y comunas rurales",
+"Empresas y sociedades con participación estatal mayoritaria, concesionarios o permisionarios de servicios públicos"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 3°, la competencia procesal administrativa es:",
+"opciones":[
+"No prorrogable en ningún caso, salvo en materia de competencia territorial",
+"Prorrogable únicamente por acuerdo de partes",
+"Siempre prorrogable cuando lo disponga el juez interviniente"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 4°, cuando el juez de primera instancia tenga dudas sobre su competencia podrá:",
+"opciones":[
+"Declarar la incompetencia sin más trámite",
+"Correr vista previa al Ministerio Público Fiscal conforme a su Ley Orgánica",
+"Remitir directamente el expediente al Superior Tribunal de Justicia"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 4°, en qué supuesto la vista al Ministerio Público Fiscal es obligatoria:",
+"opciones":[
+"Cuando el actor lo solicite expresamente",
+"En todos los procesos contenciosos administrativos",
+"En los casos de conflicto de competencia"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 4°, la Cámara de Apelaciones en lo Contencioso Administrativo debe dar vista al Ministerio Público Fiscal:",
+"opciones":[
+"Únicamente en los recursos directos",
+"En todos los casos en que intervenga",
+"Solo cuando actúe como tribunal de segunda instancia"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 5°, la competencia procesal administrativa comprende:",
+"opciones":[
+"Las controversias relativas a actos administrativos de alcance general, individual o pluriindividual",
+"Únicamente las acciones de nulidad contra reglamentos",
+"Solo los conflictos entre organismos provinciales"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 5°, inciso a), quedan incluidos dentro del cuestionamiento de actos administrativos:",
+"opciones":[
+"Únicamente los actos dictados por el Poder Ejecutivo",
+"Las resoluciones emanadas del Tribunal de Cuentas, del Consejo de la Magistratura y de otros órganos que ejerzan función jurisdiccional administrativa",
+"Solo los actos administrativos firmes y consentidos"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 5°, ¿qué tipo de controversias entre prestadores de servicios públicos y usuarios quedan comprendidas en la competencia contencioso administrativa?",
+"opciones":[
+"Todas las controversias sin excepción",
+"Solo aquellas relacionadas con el derecho privado",
+"Aquellas regidas por el derecho administrativo"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 5°, ¿cuándo interviene la competencia contencioso administrativa respecto de personas públicas no estatales?",
+"opciones":[
+"Cuando actúen en ejercicio de prerrogativas regidas por el derecho administrativo",
+"Cuando celebren contratos civiles",
+"Cuando actúen exclusivamente como particulares"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 5°, inciso d), la competencia contencioso administrativa comprende:",
+"opciones":[
+"La responsabilidad estatal de la Provincia, municipios, comunas rurales y entes públicos estatales",
+"La responsabilidad penal de los funcionarios públicos",
+"La responsabilidad contractual entre particulares"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 5°, las controversias relacionadas con tributos provinciales o municipales comprenden:",
+"opciones":[
+"Únicamente las determinaciones tributarias administrativas",
+"Las determinaciones y aplicaciones de tributos y las demandas de repetición vinculadas a ellos",
+"Solo las sanciones penales tributarias"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 5°, ¿qué tipo de conflictos vinculados con la propiedad privada se encuentran comprendidos?",
+"opciones":[
+"Exclusivamente los procesos de expropiación",
+"Las acciones civiles por daños entre particulares",
+"Las limitaciones y restricciones a la propiedad privada en el interés público"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 5°, los casos de empleo público incluidos en la competencia contencioso administrativa abarcan:",
+"opciones":[
+"También aquellos regidos por convenciones colectivas celebradas en el marco de la Ley X N° 39",
+"Únicamente los regidos por estatutos administrativos",
+"Solo los cargos jerárquicos del Poder Ejecutivo"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 5°, entre las pretensiones incluidas dentro de la competencia contencioso administrativa se encuentran:",
+"opciones":[
+"Las acciones penales contra funcionarios",
+"Las pretensiones de amparo por mora",
+"Las demandas laborales privadas"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 5°, las acciones meramente declarativas de certeza son procedentes cuando:",
+"opciones":[
+"Se vinculen con relaciones jurídicas entre particulares",
+"Sean solicitadas por el Poder Ejecutivo exclusivamente",
+"Se susciten con los sujetos enumerados en el artículo 1°"
+],
+"correcta":2
+},
+{
+"pregunta":"De acuerdo con el artículo 5°, la enumeración de controversias comprendidas en la competencia contencioso administrativa es:",
+"opciones":[
+"No taxativa",
+"Taxativa y excluyente",
+"Aplicable solo a los actos administrativos"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 6°, los conflictos interorgánicos e interadministrativos provinciales serán dirimidos por:",
+"opciones":[
+"La Cámara de Apelaciones en lo Contencioso Administrativo",
+"El Poder Ejecutivo",
+"El Tribunal de Cuentas"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 6°, ¿qué órgano resuelve originariamente los conflictos entre los Poderes del Estado provincial o entre municipalidades?",
+"opciones":[
+"La Cámara Contencioso Administrativa",
+"El Poder Ejecutivo",
+"El Superior Tribunal de Justicia"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 6°, no corresponde a la competencia contencioso administrativa:",
+"opciones":[
+"Las ejecuciones fiscales para el cobro de tributos, multas o sanciones pecuniarias",
+"Las demandas por responsabilidad estatal",
+"Las acciones declarativas contra actos administrativos"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 6°, la oposición del fisco al beneficio de litigar sin gastos:",
+"opciones":[
+"Se tramita ante el fuero contencioso administrativo",
+"No corresponde a la competencia de los tribunales contencioso administrativos",
+"Debe resolverse por el Superior Tribunal de Justicia"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 6°, ¿qué tipo de conflictos familiares quedan excluidos de la competencia contencioso administrativa?",
+"opciones":[
+"Los vinculados con la responsabilidad estatal",
+"Los relacionados con contratos administrativos",
+"Los relativos a familia, capacidad, salud mental o protección de derechos donde el Estado pudiera resultar demandado"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 6°, los conflictos derivados de la aplicación de la Ley Nacional N° 23.551:",
+"opciones":[
+"Están excluidos de la competencia contencioso administrativa",
+"Son siempre competencia de la Cámara Contencioso Administrativa",
+"Se tramitan ante el Ministerio Público Fiscal"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 6°, los procesos sucesorios donde tramiten sucesiones vacantes:",
+"opciones":[
+"Corresponden al fuero contencioso administrativo",
+"Se encuentran excluidos de su competencia",
+"Son competencia exclusiva del Superior Tribunal de Justicia"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 6°, las controversias por relaciones de consumo regidas por la Ley Nacional N° 24.240:",
+"opciones":[
+"Son competencia contencioso administrativa",
+"No pueden tramitar en sede judicial",
+"Se encuentran excluidas de la competencia contencioso administrativa"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 7°, en lo no previsto por la ley procesal contencioso administrativa se aplica:",
+"opciones":[
+"El Código Procesal Civil y Comercial de la Provincia",
+"La Ley Nacional de Procedimiento Administrativo",
+"El Código Procesal Penal"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 8°, para determinar la competencia territorial será competente el tribunal correspondiente:",
+"opciones":[
+"Al domicilio del demandante o al de quien haya realizado la actuación u omisión administrativa, a elección del actor",
+"Siempre al domicilio del demandado",
+"Únicamente al lugar donde se dictó el acto administrativo"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 8°, si el demandante se domicilia fuera de la provincia:",
+"opciones":[
+"Será competente el tribunal del domicilio del actor",
+"Interviene directamente el Superior Tribunal de Justicia",
+"Será competente el juez correspondiente al domicilio del demandado"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 9°, en los conflictos entre prestadores de servicios públicos y usuarios será competente:",
+"opciones":[
+"El juez del lugar de ejecución de la prestación cuestionada",
+"El juez del domicilio del demandante",
+"El juez del domicilio del concesionario"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 9°, en las pretensiones vinculadas con contratos administrativos será competente:",
+"opciones":[
+"El tribunal del domicilio del actor",
+"El tribunal correspondiente al lugar de celebración del contrato",
+"El tribunal del domicilio del Estado"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 9°, en las controversias relativas a servidumbres administrativas y expropiaciones será competente:",
+"opciones":[
+"El tribunal del domicilio del actor",
+"El tribunal del lugar de cumplimiento del acto administrativo",
+"El tribunal correspondiente al lugar de radicación de los bienes"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 9°, en las relaciones de empleo público será competente:",
+"opciones":[
+"El tribunal donde preste servicios el agente",
+"El tribunal del domicilio del actor",
+"El tribunal del domicilio del empleador público"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 9°, en las acciones de amparo será competente:",
+"opciones":[
+"El tribunal del domicilio del actor",
+"El tribunal del lugar en que la lesión o restricción tuviere o debiere tener efecto",
+"El tribunal del domicilio del demandado"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 9°, cuando el demandante sea el Estado será competente:",
+"opciones":[
+"El tribunal del domicilio del actor",
+"El tribunal del lugar de celebración del acto administrativo",
+"El tribunal correspondiente al domicilio del demandado dentro de la provincia"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 10°, ¿quién interviene en los procesos contencioso administrativos representando al Estado provincial?",
+"opciones":[
+"El Fiscal de Estado",
+"El Procurador General",
+"El Ministro de Gobierno"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 10°, el Asesor General de Gobierno interviene:",
+"opciones":[
+"En defensa de los funcionarios provinciales denunciados en mandamientos de ejecución o prohibición",
+"En representación del Poder Judicial",
+"Como acusador en procesos disciplinarios"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 10°, cuando el Fiscal de Estado promueve la pretensión anulatoria de un acto administrativo provincial:",
+"opciones":[
+"La defensa del acto corresponde al propio Fiscal de Estado",
+"La defensa corresponde al organismo que dictó el acto",
+"La defensa procesal corresponderá al Asesor General de Gobierno"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 10°, los municipios y demás entes provinciales o municipales que comparezcan en el proceso serán representados:",
+"opciones":[
+"Por los abogados de sus servicios jurídicos o los letrados que designen",
+"Exclusivamente por el Fiscal de Estado",
+"Únicamente por defensores oficiales"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 10°, los representantes o letrados de los entes previstos en el artículo 1°:",
+"opciones":[
+"Tienen facultades limitadas respecto de los demás litigantes",
+"Tienen los mismos derechos y obligaciones que los demás que intervengan en el proceso",
+"Solo pueden actuar con autorización judicial previa"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 11 de la Ley I N° 836, ¿qué tipo de pretensión puede articularse en el proceso contencioso administrativo?",
+"opciones":[
+"La anulación total o parcial de actos administrativos de alcance particular, pluriindividual o general",
+"Únicamente la anulación de actos administrativos de alcance particular",
+"Exclusivamente la revisión judicial de sentencias administrativas firmes"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 11, ¿qué finalidad puede perseguir una pretensión contencioso administrativa respecto de derechos o intereses?",
+"opciones":[
+"Su simple constatación administrativa",
+"El restablecimiento o reconocimiento de derechos e intereses tutelados",
+"La homologación judicial de actos administrativos"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 11, una de las pretensiones posibles en el proceso contencioso administrativo consiste en:",
+"opciones":[
+"La imposición de sanciones disciplinarias a funcionarios públicos",
+"La declaración de inconstitucionalidad de leyes nacionales",
+"El resarcimiento de los daños y perjuicios"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 11, ¿qué tipo de acción puede promoverse para determinar la existencia de una relación jurídica regida por el derecho administrativo?",
+"opciones":[
+"La declaración de certeza sobre una determinada relación o situación jurídica",
+"La nulidad absoluta del acto administrativo",
+"La revisión administrativa extraordinaria"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 11, ¿qué pretensión procede cuando se busca poner fin a una actuación administrativa ilegítima sin acto formal?",
+"opciones":[
+"La suspensión del procedimiento administrativo",
+"El cese de una vía de hecho administrativa",
+"La declaración de nulidad del acto administrativo inexistente"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 11, entre las pretensiones posibles se encuentra:",
+"opciones":[
+"La creación de normas administrativas",
+"La revisión disciplinaria de funcionarios",
+"La realización de una determinada prestación"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 11, puede solicitarse judicialmente:",
+"opciones":[
+"El emplazamiento para el dictado de un acto administrativo por los entes previstos en el artículo 1°",
+"La sanción disciplinaria de funcionarios",
+"La aprobación judicial de reglamentos administrativos"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 11, la enumeración de pretensiones establecida por la ley es:",
+"opciones":[
+"Limitativa y excluyente",
+"No taxativa",
+"Aplicable únicamente a la Administración Provincial"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 11, como regla general las pretensiones contencioso administrativas se sustanciarán mediante:",
+"opciones":[
+"Un procedimiento abreviado obligatorio",
+"Un procedimiento sumario administrativo",
+"El proceso ordinario previsto por la ley"
+],
+"correcta":2
+},
+{
+"pregunta":"De acuerdo con el artículo 12, la pretensión resarcitoria puede plantearse:",
+"opciones":[
+"Juntamente con la pretensión de anulación o como reclamo autónomo posterior",
+"Únicamente después de finalizado el proceso de anulación",
+"Solo de manera previa al proceso de anulación"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 12, el reclamo autónomo de daños posterior al proceso anulatorio debe interponerse:",
+"opciones":[
+"Sin límite temporal",
+"Dentro del plazo de caducidad previsto en el artículo 15",
+"En el plazo de prescripción civil ordinaria"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 12, la acumulación de pretensiones y procesos se rige:",
+"opciones":[
+"Por normas especiales del Poder Ejecutivo",
+"Por la jurisprudencia del Superior Tribunal de Justicia",
+"Por las reglas generales sobre acumulación"
+],
+"correcta":2
+},
+{
+"pregunta":"De acuerdo con el artículo 13, el cuestionamiento judicial de actos administrativos exige:",
+"opciones":[
+"El previo agotamiento de la vía administrativa",
+"La autorización del Fiscal de Estado",
+"La intervención previa del Superior Tribunal de Justicia"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 13, cuando se impugnan resoluciones ministeriales, la vía administrativa se agota mediante:",
+"opciones":[
+"Resolución del Tribunal de Cuentas",
+"El dictado del acto definitivo del Poder Ejecutivo provincial",
+"La resolución del Consejo de la Magistratura"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 13, cuando el acto administrativo haya sido dictado originariamente por el titular del Poder Ejecutivo o la máxima autoridad de un ente autárquico:",
+"opciones":[
+"La vía administrativa se agota mediante apelación judicial directa",
+"La vía administrativa se agota mediante revisión legislativa",
+"La vía se agota con la resolución del recurso de reconsideración o el vencimiento de su plazo"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 13, en la vía reclamatoria no se sustanciará acción contencioso administrativa:",
+"opciones":[
+"Sin acreditar previamente el reclamo administrativo sin éxito",
+"Sin autorización del Poder Ejecutivo",
+"Sin informe del Ministerio Público Fiscal"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 14, ¿cuál de los siguientes supuestos constituye una excepción a la reclamación previa?",
+"opciones":[
+"Las demandas contra actos administrativos firmes",
+"Los cobros fundados en la ejecución de sentencias",
+"Las acciones por nulidad de reglamentos"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 14, también se exceptúa de la reclamación previa:",
+"opciones":[
+"La impugnación de actos administrativos generales",
+"Las acciones declarativas de certeza",
+"El resarcimiento fundado en la inconstitucionalidad de leyes o decretos"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 14, se exceptúa de la reclamación previa:",
+"opciones":[
+"El cese de vías de hecho producidas por la autoridad administrativa",
+"La impugnación de actos administrativos firmes",
+"La revisión de sanciones disciplinarias"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 14, puede prescindirse de la reclamación previa:",
+"opciones":[
+"Siempre que lo solicite el actor",
+"Cuando exista una conducta clara de la demandada que haga presumir la ineficacia de la vía administrativa",
+"Cuando se trate de actos administrativos de alcance general"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 14, también se exceptúan de la reclamación previa:",
+"opciones":[
+"Los procesos disciplinarios administrativos",
+"Las acciones contra reglamentos",
+"Los cobros de salarios o sueldos"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 15, la pretensión judicial debe interponerse dentro de un plazo de:",
+"opciones":[
+"Ciento veinte días hábiles judiciales",
+"Noventa días corridos",
+"Ciento ochenta días corridos"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 15, el plazo para demandar comienza a computarse:",
+"opciones":[
+"Desde la interposición del recurso administrativo",
+"Desde la notificación de la decisión que agota la vía administrativa",
+"Desde la publicación de la ley aplicable"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 15, si se pretende la anulación de actos administrativos de alcance general el plazo se computa:",
+"opciones":[
+"Desde la notificación al actor",
+"Desde el inicio de su ejecución",
+"Desde el día siguiente de su publicación"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 15, en el caso de una vía de hecho administrativa el plazo para demandar se computa:",
+"opciones":[
+"Desde que fue conocida por el afectado",
+"Desde la resolución judicial previa",
+"Desde la notificación al Fiscal de Estado"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 15, la sustanciación de una acción de anulación:",
+"opciones":[
+"No tiene efectos sobre los plazos",
+"Suspende los plazos hasta que la sentencia adquiera firmeza",
+"Interrumpe definitivamente los plazos"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 15, si la acción de anulación finaliza por caducidad o desistimiento imputable al actor:",
+"opciones":[
+"El plazo vuelve a computarse desde cero",
+"No puede iniciarse una nueva acción",
+"Se considera como no transcurrida la suspensión de plazos"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 16, la reclamación administrativa debe presentarse:",
+"opciones":[
+"Por escrito ante el ministerio correspondiente o el órgano superior del ente autárquico o municipal",
+"Verbalmente ante cualquier autoridad administrativa",
+"Ante el Superior Tribunal de Justicia"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 16, la reclamación administrativa debe resolverse dentro de:",
+"opciones":[
+"Quince días hábiles",
+"Treinta días hábiles",
+"Sesenta días corridos"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 16, si el reclamo administrativo es negado expresamente:",
+"opciones":[
+"Debe reiterarse el reclamo",
+"Debe intervenir el Ministerio Público",
+"La instancia judicial queda habilitada"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 17, si la autoridad administrativa no dicta resolución dentro del plazo legal:",
+"opciones":[
+"Se presume la existencia de una resolución denegatoria",
+"Se entiende concedido el reclamo",
+"Debe iniciarse un nuevo trámite administrativo"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 17, la presunción de resolución denegatoria también se aplica:",
+"opciones":[
+"Solo ante silencio absoluto",
+"Ante una respuesta ambigua de la administración",
+"Únicamente cuando lo determine el juez"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 18, la demanda judicial posterior a la reclamación administrativa:",
+"opciones":[
+"Puede modificar libremente el objeto del reclamo",
+"No puede modificar el objeto ni el contenido sustancial planteado en sede administrativa",
+"Debe ampliar obligatoriamente la pretensión"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 19, las pretensiones cautelares contra actuaciones u omisiones del Estado:",
+"opciones":[
+"Se rigen por las disposiciones del capítulo de medidas cautelares de esta ley",
+"Se rigen exclusivamente por el Código Procesal Civil",
+"No pueden solicitarse en procesos contencioso administrativos"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 20, los jueces deben abstenerse de decretar medidas cautelares cuando:",
+"opciones":[
+"El actor no lo solicite expresamente",
+"El conocimiento de la causa no sea de su competencia",
+"El Estado sea demandado"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 20, una medida cautelar dictada por juez incompetente contra el Estado solo tendrá eficacia cuando:",
+"opciones":[
+"Se trate de cuestiones patrimoniales",
+"Lo autorice el Ministerio Público Fiscal",
+"Estén comprometidas la vida, la salud o personas en situación de vulnerabilidad"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 21, las medidas cautelares pueden solicitarse:",
+"opciones":[
+"Antes, simultáneamente o después de la interposición de la demanda",
+"Únicamente con posterioridad a la demanda",
+"Solo antes de iniciar el proceso"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 21, el juez puede disponer una medida distinta de la solicitada:",
+"opciones":[
+"Cuando lo solicite la parte demandada",
+"Para evitar perjuicios o gravámenes innecesarios al interés público",
+"Únicamente con acuerdo de las partes"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 21, como regla general las medidas cautelares:",
+"opciones":[
+"Deben coincidir con el objeto de la demanda",
+"Siempre sustituyen al proceso principal",
+"No pueden coincidir con el objeto de la demanda principal"
+],
+"correcta":2
+},
+{
+"pregunta":"De acuerdo con el artículo 22, antes de resolver una medida cautelar el juez debe:",
+"opciones":[
+"Solicitar informe a la autoridad cuya actuación se controvierte",
+"Convocar a audiencia pública",
+"Dar intervención al Poder Ejecutivo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 22, el informe requerido a la autoridad administrativa debe presentarse dentro de:",
+"opciones":[
+"Tres días",
+"Cinco días",
+"Diez días"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 22, el juez podrá dictar una medida interina:",
+"opciones":[
+"Siempre que lo solicite el actor",
+"Solo cuando exista consentimiento del demandado",
+"Cuando circunstancias graves y objetivamente impostergables lo justifiquen"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 23, al otorgar una medida cautelar contra el Estado Provincial o Municipal el juez debe:",
+"opciones":[
+"Fijar un límite razonable de vigencia bajo pena de nulidad",
+"Dejar su vigencia librada al desarrollo del proceso",
+"Establecer su duración hasta la sentencia definitiva"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 23, el plazo máximo de vigencia de una medida cautelar contra el Estado en el proceso ordinario es de:",
+"opciones":[
+"Tres meses",
+"Seis meses",
+"Un año"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 23, en los procesos especiales del Título III o en los juicios de amparo, el plazo máximo de vigencia de la medida cautelar no podrá exceder de:",
+"opciones":[
+"Seis meses",
+"Un año",
+"Tres meses"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 23, no rige el límite temporal de vigencia de la medida cautelar cuando:",
+"opciones":[
+"La medida tenga por finalidad tutelar la vida, la salud o personas en situación de vulnerabilidad",
+"El actor lo solicite expresamente",
+"La administración no conteste la demanda"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 23, al vencimiento del plazo fijado para la medida cautelar el tribunal podrá:",
+"opciones":[
+"Declarar automáticamente su caducidad",
+"Prorrogarla fundadamente a pedido de parte",
+"Convertirla en definitiva"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 23, la prórroga de la medida cautelar no podrá exceder:",
+"opciones":[
+"Tres meses",
+"Un año",
+"Seis meses"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 23, para decidir la prórroga de la medida cautelar el tribunal considerará especialmente:",
+"opciones":[
+"La actitud dilatoria o de impulso procesal de la parte favorecida",
+"La complejidad jurídica del caso",
+"La cuantía del litigio"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 23, cuando la medida cautelar se dicta mientras está pendiente el agotamiento de la vía administrativa, su vigencia:",
+"opciones":[
+"Se limita a treinta días",
+"Se extiende hasta la notificación del acto que agote la vía administrativa o el silencio administrativo",
+"Se mantiene hasta la sentencia judicial"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 24, las medidas cautelares subsisten:",
+"opciones":[
+"Durante todo el proceso",
+"Solo hasta el dictado de la sentencia",
+"Mientras dure su plazo de vigencia"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 24, el levantamiento de una medida cautelar puede solicitarse:",
+"opciones":[
+"Cuando cesen o se modifiquen las circunstancias que determinaron su dictado",
+"Solo al finalizar el proceso",
+"Únicamente por el juez de oficio"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 25, quien obtuvo una medida cautelar puede solicitar:",
+"opciones":[
+"Su revocación automática",
+"Su ampliación, mejora o sustitución",
+"Su conversión en sentencia"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 25, la parte contra quien se decretó una medida cautelar puede pedir:",
+"opciones":[
+"La nulidad del proceso",
+"Su levantamiento inmediato",
+"Su sustitución por otra menos gravosa"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 25, antes de resolver sobre la modificación de la medida cautelar el juez debe:",
+"opciones":[
+"Correr traslado a la otra parte",
+"Convocar audiencia pública",
+"Solicitar informe al Ministerio Público"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 25, el plazo del traslado para resolver la modificación de la medida cautelar en el proceso ordinario es de:",
+"opciones":[
+"Tres días",
+"Cinco días",
+"Diez días"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 25, en los procesos especiales del Título III o en amparo el traslado para resolver la modificación es de:",
+"opciones":[
+"Cinco días",
+"Diez días",
+"Tres días"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 26, caducan de pleno derecho las medidas cautelares dictadas antes de la demanda cuando:",
+"opciones":[
+"No se interpone demanda dentro de los diez días de su traba",
+"El actor no ofrece prueba",
+"El juez lo disponga expresamente"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 26, cuando la medida cautelar se dictó durante el trámite de agotamiento de la vía administrativa caduca:",
+"opciones":[
+"Al dictarse la sentencia",
+"A los diez días de notificado el acto que agota la vía administrativa",
+"A los treinta días de su dictado"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 26, las costas y daños derivados de la caducidad de la medida cautelar serán a cargo de:",
+"opciones":[
+"El Estado",
+"La parte demandada",
+"Quien solicitó y obtuvo la medida"
+],
+"correcta":2
+},
+{
+"pregunta":"De acuerdo con el artículo 27, los jueces no pueden dictar medidas cautelares que:",
+"opciones":[
+"Afecten o perturben los bienes o recursos propios del Estado",
+"Suspdan actos administrativos",
+"Modifiquen la situación jurídica de las partes"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 27, también se encuentra prohibido en medidas cautelares:",
+"opciones":[
+"Suspender reglamentos administrativos",
+"Imponer cargas personales pecuniarias a los funcionarios",
+"Suspender actos particulares"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 28, la eficacia práctica de las medidas cautelares contra el Estado se produce:",
+"opciones":[
+"Al dictarse la resolución judicial",
+"Al notificarse al demandado",
+"Una vez otorgada caución real o personal"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 28, la caución juratoria:",
+"opciones":[
+"Solo es admisible excepcionalmente cuando el juez lo determine",
+"Es obligatoria en todas las medidas cautelares",
+"Está prohibida frente al Estado"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 29, no se exigirá contracautela cuando quien obtuvo la medida sea:",
+"opciones":[
+"Un particular",
+"El Estado Provincial o Municipal",
+"Una empresa privada"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 29, tampoco se exigirá contracautela cuando el solicitante:",
+"opciones":[
+"Sea funcionario público",
+"Sea persona jurídica",
+"Actúe con beneficio de litigar sin gastos"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 30, la parte afectada por una medida cautelar puede solicitar:",
+"opciones":[
+"La mejora de la caución si la considera insuficiente",
+"La nulidad de la demanda",
+"La intervención del Ministerio Público"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 31, la suspensión judicial de efectos de actos estatales procede cuando:",
+"opciones":[
+"Se acrediten simultáneamente los requisitos establecidos por la ley",
+"Lo solicite el actor sin prueba",
+"Exista cualquier irregularidad administrativa"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 31, uno de los requisitos para suspender los efectos de un acto estatal es:",
+"opciones":[
+"La existencia de sentencia firme",
+"La intervención del Poder Ejecutivo",
+"La verosimilitud del derecho invocado"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 31, también se exige para la suspensión cautelar:",
+"opciones":[
+"Que la ejecución del acto cause perjuicios graves de imposible reparación ulterior",
+"Que exista daño patrimonial comprobado",
+"Que el acto haya sido recurrido judicialmente"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 31, otro requisito para suspender un acto estatal es:",
+"opciones":[
+"La declaración previa de nulidad",
+"La verosimilitud de la ilegitimidad del acto",
+"La autorización legislativa"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 31, la suspensión cautelar también exige:",
+"opciones":[
+"Que exista recurso administrativo pendiente",
+"Que el acto sea definitivo",
+"Que no se afecte directamente el interés público"
+],
+"correcta":2
+},
+{
+"pregunta":"De acuerdo con el artículo 32, las medidas cautelares positivas implican:",
+"opciones":[
+"Imponer a la autoridad administrativa la realización de una conducta",
+"Suspender actos administrativos",
+"Declarar la nulidad de reglamentos"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 32, para dictar una medida cautelar positiva debe acreditarse:",
+"opciones":[
+"Una falta administrativa leve",
+"La inobservancia clara de un deber jurídico concreto",
+"La existencia de contrato administrativo"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 32, también se requiere:",
+"opciones":[
+"Que exista sentencia previa",
+"Que se trate de un acto general",
+"La fuerte posibilidad de que el derecho invocado exista"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 33, la medida de no innovar procede cuando:",
+"opciones":[
+"La conducta material cause perjuicios graves de imposible reparación ulterior",
+"El actor solicite su dictado sin prueba",
+"El acto administrativo esté firme"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 33, uno de los requisitos de la medida de no innovar es:",
+"opciones":[
+"La verosimilitud del derecho invocado",
+"La existencia de sentencia firme",
+"La autorización legislativa"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 33, también se requiere:",
+"opciones":[
+"La intervención del Poder Ejecutivo",
+"La existencia de contrato estatal",
+"La verosimilitud de la ilegitimidad de la conducta material estatal"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 34, el Estado Provincial o Municipal puede solicitar medidas cautelares cuando exista:",
+"opciones":[
+"Riesgo cierto e inminente de perjuicios al interés público o patrimonio estatal",
+"Simple controversia jurídica",
+"Cualquier litigio administrativo"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 34, para conceder una cautelar al Estado se requiere:",
+"opciones":[
+"La verosimilitud del derecho invocado",
+"La existencia de sentencia",
+"La intervención legislativa"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 35, el Estado puede solicitar medidas cautelares cuando se amenace:",
+"opciones":[
+"La estabilidad política",
+"La continuidad y regularidad de los servicios públicos",
+"La competencia judicial"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 35, lo dispuesto sobre tutela urgente de servicios públicos no se aplica a:",
+"opciones":[
+"Servicios municipales",
+"Servicios concesionados",
+"Conflictos laborales"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 36, el régimen de medidas cautelares se aplica a los procesos de amparo:",
+"opciones":[
+"Con excepción de los artículos 27, 28, 29 y 30",
+"Sin excepción alguna",
+"Solo parcialmente a criterio judicial"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 37, el plazo para interponer la demanda en el proceso ordinario es:",
+"opciones":[
+"Noventa días",
+"Ciento veinte días hábiles judiciales",
+"Sesenta días hábiles"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 38, la representación de autoridades administrativas puede acreditarse mediante:",
+"opciones":[
+"Resolución judicial previa",
+"Copia del acto administrativo emanado de autoridad competente",
+"Acta notarial obligatoria"
+],
+"correcta":2
+},
+{
+"pregunta":"De acuerdo con el artículo 39, para desistir, allanarse o transigir en juicio la autoridad administrativa debe:",
+"opciones":[
+"Contar con autorización expresa de la autoridad competente",
+"Solicitar autorización judicial",
+"Consultar al Ministerio Público"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 40, no constituye causal de recusación:",
+"opciones":[
+"La enemistad manifiesta",
+"Haber sido juez letrado de alguno de los sujetos del artículo 2° sin intervención directa en la causa",
+"El parentesco con las partes"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 40, en ningún caso procederá:",
+"opciones":[
+"La recusación con causa",
+"La recusación fundada en intervención previa",
+"La recusación sin expresión de causa"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 41, la demanda debe presentarse:",
+"opciones":[
+"Por escrito y digitalmente",
+"En forma verbal ante el juzgado",
+"Solo en soporte papel"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 41, el actor debe denunciar:",
+"opciones":[
+"Solo domicilio electrónico",
+"Domicilio real o legal y constituir domicilio dentro del perímetro del juzgado",
+"Únicamente domicilio laboral"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 41, en la demanda debe indicarse:",
+"opciones":[
+"La opinión del juez",
+"La futura sentencia esperada",
+"El objeto o pretensión con exactitud"
+],
+"correcta":2
+},
+{
+"pregunta":"Conforme al artículo 41, cuando se impugnen actos administrativos deben acompañarse:",
+"opciones":[
+"Copias completas del acto y de su notificación",
+"Únicamente una referencia al acto",
+"Solo la fecha del acto"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 41, la demanda debe precisar:",
+"opciones":[
+"La cuantía aproximada del proceso",
+"El monto reclamado",
+"La tasa judicial"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 41, los hechos en que se funda la pretensión deben exponerse:",
+"opciones":[
+"En forma extensa y detallada",
+"Sin orden ni claridad",
+"De modo conciso y claro"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 41, el actor debe ofrecer:",
+"opciones":[
+"Toda la prueba cuya producción propone",
+"Solo prueba documental",
+"Ninguna prueba hasta la audiencia"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 41, la prueba documental en poder del actor debe:",
+"opciones":[
+"Presentarse solo en papel",
+"Presentarse digitalizada junto con la demanda",
+"Reservarse para la audiencia"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 41, si la demanda no cumple los requisitos el juez:",
+"opciones":[
+"La rechaza inmediatamente",
+"La admite sin observaciones",
+"Intima a subsanar en cinco días"
+],
+"correcta":2
+},
+{
+"pregunta":"¿Qué condición debe cumplir un documento para ser presentado después de la demanda, reconvención o contestación de demanda según el artículo 42?",
+"opciones":[
+"Ser de fecha posterior y tener relación directa con la cuestión sometida al proceso",
+"Ser anterior a la demanda pero estar autenticado por escribano público",
+"Ser presentado con autorización previa del juez"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 42, ¿qué requisito debe cumplirse cuando un documento es de fecha anterior a la presentación pero la parte afirma no haber conocido su existencia?",
+"opciones":[
+"Acompañar certificación notarial del documento",
+"Prestar juramento de no haber tenido conocimiento previo de su existencia",
+"Solicitar autorización previa de la contraparte"
+],
+"correcta":1
+},
+{
+"pregunta":"Si un documento fue individualizado en la demanda o contestación pero se obtuvo posteriormente, ¿qué debe hacer la parte que lo presenta?",
+"opciones":[
+"Acreditar mediante testigos la fecha de obtención",
+"Prestar juramento de haberlo obtenido después de presentado el escrito respectivo",
+"Solicitar apertura de incidente probatorio"
+],
+"correcta":1
+},
+{
+"pregunta":"Cuando se presentan documentos bajo las condiciones del artículo 42, ¿qué plazo tiene la contraparte para pronunciarse sobre su autenticidad?",
+"opciones":[
+"Tres días",
+"Cinco días",
+"Diez días"
+],
+"correcta":1
+},
+{
+"pregunta":"¿Qué consecuencia puede tener el silencio o respuesta ambigua de la contraparte respecto de la autenticidad de documentos presentados conforme al artículo 42?",
+"opciones":[
+"Se presume su nulidad procesal",
+"Se considera desistida la prueba documental",
+"Puede considerarse como reconocimiento de su autenticidad y recepción"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 43, ¿qué puede disponer el tribunal una vez presentada la demanda en forma?",
+"opciones":[
+"La remisión de los expedientes administrativos o copias certificadas relacionados con la acción",
+"La suspensión del proceso hasta que lo solicite la administración",
+"La apertura automática a prueba"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál es el plazo general para que el organismo administrativo remita los expedientes requeridos por el tribunal?",
+"opciones":[
+"Cinco días",
+"Diez días",
+"Quince días"
+],
+"correcta":1
+},
+{
+"pregunta":"¿En qué supuesto el tribunal puede ampliar el plazo para remitir expedientes administrativos conforme al artículo 43?",
+"opciones":[
+"Cuando lo solicite cualquier parte del proceso",
+"Cuando exista acuerdo entre las partes",
+"Ante pedido fundado de la autoridad administrativa dentro del plazo inicial"
+],
+"correcta":2
+},
+{
+"pregunta":"¿Cuál es el plazo máximo adicional que puede otorgar el tribunal para la remisión de expedientes administrativos?",
+"opciones":[
+"Hasta diez días adicionales",
+"Hasta quince días adicionales",
+"Hasta veinte días adicionales"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué medida puede adoptar el tribunal si la autoridad administrativa no remite los expedientes dentro del plazo correspondiente?",
+"opciones":[
+"Ordenar el archivo de la causa",
+"Disponer el secuestro de los expedientes",
+"Declarar la caducidad de la instancia"
+],
+"correcta":1
+},
+{
+"pregunta":"Además del secuestro de expedientes, ¿qué otra consecuencia puede derivarse para el funcionario que incumple el requerimiento del artículo 43?",
+"opciones":[
+"Responsabilidades administrativas",
+"Responsabilidad penal automática",
+"Suspensión inmediata del cargo"
+],
+"correcta":0
+},
+{
+"pregunta":"¿En qué plazo debe el tribunal pronunciarse sobre la admisibilidad de la demanda conforme al artículo 44?",
+"opciones":[
+"Dentro de cinco días",
+"Dentro de diez días",
+"Dentro de quince días"
+],
+"correcta":1
+},
+{
+"pregunta":"¿Desde qué momento se computa el plazo para que el tribunal se pronuncie sobre la admisibilidad de la demanda?",
+"opciones":[
+"Desde la contestación de la demanda",
+"Desde la notificación al demandado",
+"Desde la recepción de los expedientes administrativos o vencido el plazo para su remisión"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 45, ¿cuál de los siguientes supuestos constituye causal de inadmisibilidad de la demanda?",
+"opciones":[
+"La falta de cumplimiento de los requisitos establecidos en el artículo 41",
+"La inexistencia de prueba testimonial",
+"La ausencia de patrocinio letrado del actor"
+],
+"correcta":0
+},
+{
+"pregunta":"La demanda será declarada inadmisible cuando:",
+"opciones":[
+"No se haya dado cumplimiento a lo establecido en el artículo 13",
+"No se hayan ofrecido testigos en la demanda",
+"No se haya acompañado jurisprudencia relevante"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué ocurre si la demanda se interpone fuera del plazo de caducidad establecido en el artículo 15?",
+"opciones":[
+"Se suspende el proceso hasta subsanar el defecto",
+"Se declara inadmisible la demanda",
+"Se concede un plazo de gracia de cinco días"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 45, ¿qué ocurre si se impugna un acto reiteratorio de otro consentido anteriormente?",
+"opciones":[
+"La demanda será declarada inadmisible",
+"Se suspenderá el proceso hasta nueva impugnación",
+"El juez deberá tramitar el proceso ordinario"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 46, ¿qué plazo tiene el demandado para comparecer y contestar la demanda en general?",
+"opciones":[
+"Quince días",
+"Veinte días",
+"Treinta días"
+],
+"correcta":0
+},
+{
+"pregunta":"Cuando la demandada sea una autoridad administrativa comprendida en el artículo 2°, ¿cuál es el plazo para contestar la demanda?",
+"opciones":[
+"Quince días",
+"Veinte días",
+"Treinta días"
+],
+"correcta":2
+},
+{
+"pregunta":"Según el artículo 47, cuando la demanda se dirige contra la Provincia, ¿a quién debe notificarse?",
+"opciones":[
+"Al Fiscal de Estado y al Gobernador",
+"Al Ministro del área correspondiente",
+"Al Presidente del Superior Tribunal de Justicia"
+],
+"correcta":0
+},
+{
+"pregunta":"Si la demanda se dirige contra una municipalidad, ¿a quién debe notificarse según el artículo 47?",
+"opciones":[
+"Al presidente del Concejo Deliberante únicamente",
+"Al Intendente Municipal",
+"Al Fiscal de Estado provincial"
+],
+"correcta":1
+},
+{
+"pregunta":"Cuando se impugna una ordenanza municipal, además del Intendente, ¿a quién debe notificarse?",
+"opciones":[
+"Al Defensor del Pueblo",
+"Al Presidente del Concejo Deliberante",
+"Al Secretario de Gobierno Municipal"
+],
+"correcta":1
+},
+{
+"pregunta":"Si el demandado es un ente descentralizado provincial, ¿a quién debe notificarse la demanda?",
+"opciones":[
+"A la autoridad superior del ente descentralizado provincial",
+"Al Gobernador de la Provincia",
+"Al Ministerio de Economía"
+],
+"correcta":0
+},
+{
+"pregunta":"Cuando el demandado sea un particular, ¿cómo se notificará la demanda?",
+"opciones":[
+"Mediante las reglas del Código Procesal Civil y Comercial",
+"Por oficio al Ministerio Público",
+"Por notificación administrativa previa"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 47, ¿en qué supuesto se debe notificar al Asesor General de Gobierno?",
+"opciones":[
+"Cuando el actor sea una entidad descentralizada",
+"Cuando se configure el supuesto previsto en el artículo 7 incisos b) o c)",
+"Cuando la demanda se dirija contra un municipio"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 48, además de las previstas en el Código Procesal Civil y Comercial, ¿qué excepción previa se admite expresamente?",
+"opciones":[
+"Falta de habilitación de instancia",
+"Caducidad de la prueba",
+"Nulidad absoluta del proceso"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Cuál de las siguientes constituye una excepción previa adicional contemplada en el artículo 48?",
+"opciones":[
+"Incumplimiento de los requisitos del artículo 41",
+"Falta de patrocinio letrado",
+"Inexistencia de legitimación activa"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Qué excepción previa vinculada con la competencia puede interponerse conforme al artículo 48?",
+"opciones":[
+"Falta de jurisdicción",
+"Incompetencia territorial del abogado",
+"Nulidad de la instancia administrativa"
+],
+"correcta":0
+},
+{
+"pregunta":"¿Hasta qué momento pueden formularse las excepciones previas mencionadas en el artículo 48?",
+"opciones":[
+"Hasta la apertura a prueba",
+"Hasta el momento de contestar la demanda",
+"Hasta el dictado de la sentencia"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 60, ¿cómo deben satisfacerse los pronunciamientos judiciales que condenen al Estado Provincial o a los Municipios al pago de una suma de dinero?",
+"opciones":[
+"Con cargo a partidas especiales autorizadas por el Superior Tribunal de Justicia",
+"Dentro de las autorizaciones para efectuar gastos contenidas en la ley u ordenanzas de presupuesto",
+"Mediante pago inmediato con recursos del Tesoro disponibles"
+],
+"correcta":1
+},
+{
+"pregunta":"Conforme al artículo 60, ¿qué limitación se establece respecto de los recursos asignados a la partida destinada al pago de condenas judiciales dinerarias?",
+"opciones":[
+"No podrán comprometer los fondos destinados a la prestación de servicios públicos",
+"No podrán superar el cinco por ciento del presupuesto general",
+"Deberán ser autorizados previamente por el Poder Legislativo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 61, cuando exista condena firme al pago de una suma de dinero contra la Provincia o un Municipio, ¿qué organismo debe confeccionar el informe correspondiente?",
+"opciones":[
+"El organismo que llevó adelante el proceso judicial",
+"El Tribunal que dictó la sentencia",
+"La Contaduría General de la Provincia"
+],
+"correcta":0
+},
+{
+"pregunta":"El informe previsto en el artículo 61 debe contener, entre otros elementos:",
+"opciones":[
+"El detalle de las causas, su origen, tipo de proceso, fecha de sentencia y monto correspondiente",
+"Únicamente el monto total de la condena firme",
+"El análisis jurídico completo del fallo condenatorio"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 61, ¿dónde se incluirá el monto correspondiente a la condena judicial firme?",
+"opciones":[
+"En el programa de pagos de sentencias judiciales del siguiente ejercicio presupuestario",
+"En una partida extraordinaria aprobada por decreto",
+"En el presupuesto vigente al momento de la sentencia"
+],
+"correcta":0
+},
+{
+"pregunta":"El programa de pagos de sentencias judiciales previsto en el artículo 61 constituirá:",
+"opciones":[
+"Una partida del proyecto de presupuesto",
+"Un fondo fiduciario independiente",
+"Un anexo del presupuesto judicial"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 61, cuando el cumplimiento de condenas judiciales pudiera afectar recursos destinados a servicios públicos, el pago podrá:",
+"opciones":[
+"Suspenderse indefinidamente",
+"Realizarse en más de un ejercicio presupuestario",
+"Ser reducido por decisión administrativa"
+],
+"correcta":1
+},
+{
+"pregunta":"De acuerdo con el artículo 62, ¿cuándo se entenderá que una suma excede lo que razonablemente puede destinarse al pago de sentencias judiciales?",
+"opciones":[
+"Cuando supere el monto previsto en la ley de presupuesto",
+"Cuando sea susceptible de poner en riesgo cierto la prestación de servicios públicos",
+"Cuando exceda el monto fijado por el Poder Ejecutivo"
+],
+"correcta":1
+},
+{
+"pregunta":"Según el artículo 62, una pauta indicativa de que la erogación es excesiva es que:",
+"opciones":[
+"Determine la supresión o afectación prolongada de un servicio público",
+"Supere el monto de la recaudación anual",
+"Sea superior al presupuesto del Poder Judicial"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 62, se considerará indicio de afectación grave cuando la erogación:",
+"opciones":[
+"Cause la privación del uso colectivo de un bien afectado a un servicio público",
+"Supere la capacidad financiera de un ministerio",
+"Obligue a reformular el presupuesto legislativo"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 62, también constituye pauta indicativa de riesgo para el interés público que la erogación:",
+"opciones":[
+"Obstaculice la percepción de contribuciones fiscales",
+"Genere retrasos administrativos",
+"Exija la intervención de la legislatura"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 62, ¿qué otra consecuencia puede indicar que la suma es excesiva?",
+"opciones":[
+"Provocar graves inconvenientes al Tesoro Público",
+"Exigir autorización judicial adicional",
+"Implicar una reducción de partidas menores"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 63, ¿en qué supuesto pueden ejecutarse judicialmente las condenas firmes contra el Estado?",
+"opciones":[
+"Cuando no se haya incluido la liquidación aprobada en el programa de pagos del presupuesto siguiente",
+"Cuando el actor lo solicite expresamente al tribunal",
+"Cuando lo autorice el Poder Ejecutivo"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 63, la ejecución judicial solo podrá disponerse luego de transcurrido:",
+"opciones":[
+"Un año desde la notificación de la liquidación aprobada judicialmente",
+"Seis meses desde la sentencia firme",
+"Treinta días desde la intimación de pago"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 63, la ejecución compulsiva quedará expedita:",
+"opciones":[
+"Una vez transcurrido todo el ejercicio presupuestario",
+"Al dictarse la sentencia firme",
+"Con la notificación de la liquidación"
+],
+"correcta":0
+},
+{
+"pregunta":"En caso de fraccionamiento del pago en varios ejercicios presupuestarios, la ejecución judicial podrá comprender:",
+"opciones":[
+"Solo las cuotas vencidas e impagas",
+"Todo el monto total de la condena",
+"Únicamente los intereses acumulados"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 64, las sumas presupuestadas para el pago de sentencias pueden pagarse en forma fraccionada:",
+"opciones":[
+"Cuando la particularidad del monto y la causa lo ameriten mediante acto fundado",
+"En todos los casos sin necesidad de fundamentación",
+"Solo por decisión del tribunal"
+],
+"correcta":0
+},
+{
+"pregunta":"El artículo 64 establece que el monto presupuestado para un ejercicio debe quedar íntegramente pago:",
+"opciones":[
+"Al 31 de diciembre del año correspondiente",
+"Antes del cierre del trimestre fiscal",
+"Antes de la aprobación del presupuesto siguiente"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 65, ¿qué pagos quedan exceptuados del diferimiento en sucesivos ejercicios presupuestarios?",
+"opciones":[
+"Las indemnizaciones por expropiaciones",
+"Las condenas laborales",
+"Las deudas tributarias del Estado"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 66, ¿qué bienes o rentas no serán pasibles de ejecución o embargo?",
+"opciones":[
+"Aquellos afectados específicamente en garantía de una obligación",
+"Los pertenecientes al dominio privado del Estado",
+"Los bienes adquiridos con recursos extraordinarios"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 67, cuando se trate de sentencias estructurales su ejecución deberá:",
+"opciones":[
+"Fraccionarse conforme a los planes de ejecución aprobados",
+"Cumplirse inmediatamente",
+"Ser revisada por el Superior Tribunal de Justicia"
+],
+"correcta":0
+},
+{
+"pregunta":"El tribunal competente para la ejecución y control de una sentencia estructural será:",
+"opciones":[
+"El tribunal de primera instancia que dictó la sentencia",
+"La Cámara en lo Contencioso Administrativo",
+"El Superior Tribunal de Justicia"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 67, el tribunal podrá modificar los planes de ejecución cuando:",
+"opciones":[
+"Existan razones objetivas que lo ameriten",
+"Lo solicite el Poder Ejecutivo",
+"Se modifique el presupuesto provincial"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 68, ¿cuándo pueden extenderse los efectos de una sentencia firme a personas que no fueron parte en el proceso?",
+"opciones":[
+"Cuando se encuentren en idéntica situación jurídica que los favorecidos por el fallo",
+"Cuando presenten una acción independiente",
+"Cuando el tribunal lo disponga de oficio sin solicitud"
+],
+"correcta":0
+},
+{
+"pregunta":"Para solicitar la extensión de los efectos de una sentencia, el interesado debe hacerlo dentro de:",
+"opciones":[
+"Un año desde la última notificación de la sentencia a las partes",
+"Seis meses desde el dictado del fallo",
+"Tres años desde la sentencia"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 69, ¿ante qué órgano debe presentarse la solicitud de extensión de efectos de la sentencia?",
+"opciones":[
+"Ante el órgano jurisdiccional que dictó la resolución",
+"Ante la Cámara en lo Contencioso Administrativo",
+"Ante el Superior Tribunal de Justicia"
+],
+"correcta":0
+},
+{
+"pregunta":"Antes de resolver la solicitud de extensión de efectos, el juez deberá requerir a la administración:",
+"opciones":[
+"Un informe detallado sobre la viabilidad de la extensión solicitada",
+"Una nueva liquidación de la sentencia",
+"La certificación del presupuesto vigente"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 70, la acción de extensión de efectos se desestimará cuando:",
+"opciones":[
+"Exista cosa juzgada",
+"El monto de la sentencia sea elevado",
+"El fallo sea favorable al actor"
+],
+"correcta":0
+},
+{
+"pregunta":"También se desestimará la acción de extensión de efectos cuando:",
+"opciones":[
+"La doctrina del fallo sea contraria a la jurisprudencia del Superior Tribunal de Justicia",
+"El proceso haya sido tramitado por vía ordinaria",
+"El actor resida fuera de la provincia"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 71, si una persona ya tiene una acción en trámite que encuadra en el artículo 68, podrá:",
+"opciones":[
+"Solicitar la suspensión del proceso e iniciar la acción de extensión",
+"Desistir obligatoriamente de su acción",
+"Continuar el proceso sin otra opción"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 71, la sentencia que resuelva la acción de extensión de efectos será:",
+"opciones":[
+"Inapelable",
+"Apelable ante la Cámara",
+"Revisable por el Superior Tribunal"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 72, cuando la normativa vigente al momento de entrada en vigor de la ley no exigía agotar la vía administrativa:",
+"opciones":[
+"No se aplicarán las regulaciones del artículo 13",
+"Se aplicará obligatoriamente el artículo 13",
+"Se deberá iniciar nuevamente el procedimiento administrativo"
+],
+"correcta":0
+},
+{
+"pregunta":"Conforme al artículo 73, ¿desde cuándo comienzan a computarse los plazos del artículo 15?",
+"opciones":[
+"Desde la entrada en vigencia de la ley, siempre que la acción no esté prescripta",
+"Desde la publicación del reglamento",
+"Desde la notificación personal al interesado"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 74, con la entrada en vigencia de la ley:",
+"opciones":[
+"Quedan derogadas las normas incompatibles con ella",
+"Se suspenden todas las leyes administrativas anteriores",
+"Se mantienen todas las normas previas"
+],
+"correcta":0
+},
+{
+"pregunta":"El artículo 75 dispone:",
+"opciones":[
+"La derogación del Capítulo XI de la Ley XVI N°46",
+"La derogación total de la Ley XVI N°46",
+"La modificación parcial de la Ley XVI N°46"
+],
+"correcta":0
+},
+{
+"pregunta":"Según el artículo 76, ¿qué norma se deroga expresamente?",
+"opciones":[
+"El artículo 9 de la Ley XVIII N°32",
+"La Ley XVIII N°32 completa",
+"El artículo 3 de la Ley XVIII N°32"
+],
+"correcta":0
+},
+{
+"pregunta":"De acuerdo con el artículo 77, ¿cuándo entran en vigencia las disposiciones de la ley?",
+"opciones":[
+"A partir de su publicación",
+"Treinta días después de su promulgación",
+"Al inicio del siguiente ejercicio presupuestario"
+],
+"correcta":0
+}
+]

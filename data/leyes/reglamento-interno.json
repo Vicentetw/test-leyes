@@ -1,0 +1,1124 @@
+[
+  {
+    "pregunta": "¿A quiénes comprende la reglamentación del Artículo 1° del Reglamento Interno General?",
+    "opciones": [
+      "Todo el personal del Poder Judicial, excepto Secretarios, titulares de Ministerios Públicos y Magistrados",
+      "Solo los Magistrados y Funcionarios Letrados",
+      "Todo el personal sin excepción",
+      "Solo el personal Administrativo y Técnico"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 1° establece que la reglamentación abarca a todo el personal del Poder Judicial excepto los mencionados, que se rigen por normas específicas de Constitución y leyes."
+  },
+  {
+    "pregunta": "Según el Artículo 2°, ¿cómo se distribuye el personal del Poder Judicial?",
+    "opciones": [
+      "En tres grupos: Magistrados y Funcionarios, Administrativo y Técnico, Operacional",
+      "En dos grupos: Administrativo y Operativo",
+      "Solo en un grupo general de empleados",
+      "En cuatro grupos incluyendo Magistrados, Técnicos, Operativos y de Apoyo"
+    ],
+    "correcta": 0,
+    "explicacion": "El personal se divide en tres grupos: a) Magistrados y Funcionarios, b) Administrativo y Técnico, c) Operacional (Maestranza)."
+  },
+  {
+    "pregunta": "Según el Artículo 3°, ¿cuál es la edad mínima requerida para ingresar al Poder Judicial en los grupos Administrativo, Técnico u Operativo?",
+    "opciones": [
+      "18 años cumplidos",
+      "21 años cumplidos",
+      "16 años cumplidos",
+      "No hay edad mínima"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 3° inciso a) establece que el ingreso requiere tener 18 años cumplidos."
+  },
+  {
+    "pregunta": "Para el personal Administrativo y Técnico, ¿qué nivel mínimo de estudios se exige según el Artículo 3°?",
+    "opciones": [
+      "Secundarios completos, salvo casos de Juzgados de Paz de segunda categoría o choferes, que requieren primarios completos",
+      "Solo primaria completa",
+      "Universitario completo",
+      "No se requiere educación formal"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 3° inciso b) indica que el personal Administrativo y Técnico debe contar con estudios secundarios completos, salvo excepciones específicas."
+  },
+  {
+    "pregunta": "Según el Artículo 4°, ¿quiénes no pueden ingresar al Poder Judicial?",
+    "opciones": [
+      "Condenados por delitos dolosos o culposos contra la Administración Pública, sujetos a proceso criminal, concursados o quebrados no rehabilitados y separados por mal desempeño",
+      "Cualquier persona con antecedentes penales, incluso menores",
+      "Solo los que no tengan estudios secundarios",
+      "Todos los mayores de 60 años"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 4° detalla restricciones legales para el ingreso, incluyendo condenas, procesos judiciales y situaciones de cesantía o exoneración."
+  },
+  {
+    "pregunta": "El Artículo 5° establece que el ingreso a la Administración de Justicia se realiza:",
+    "opciones": [
+      "En el cargo de menor jerarquía mediante concurso de antecedentes y oposición",
+      "Directamente en cualquier cargo disponible",
+      "Por nombramiento discrecional sin concurso",
+      "Solo por designación del Superior Tribunal"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 5° especifica que todo ingreso debe ser al cargo de menor jerarquía y mediante concurso de antecedentes y oposición."
+  },
+  {
+    "pregunta": "Según el Artículo 6°, para ascensos de categoría se debe tener en cuenta:",
+    "opciones": [
+      "Idoneidad, antigüedad y capacidad evidenciada en el cargo",
+      "Solo antigüedad",
+      "Solo capacidad académica",
+      "Preferencia por el personal que trabaja en Tribunales de mayor ciudad"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 6° establece que los ascensos deben considerar idoneidad, antigüedad y capacidad del agente."
+  },
+  {
+    "pregunta": "De acuerdo al Artículo 7°, los ascensos se efectúan mediante:",
+    "opciones": [
+      "Concurso de antecedentes y oposición",
+      "Designación directa del Superior Tribunal sin concurso",
+      "Sorteo entre el personal disponible",
+      "Acuerdo de los empleados"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 7° indica que todos los ascensos deben realizarse mediante concurso de antecedentes y oposición, con procedimientos específicos de convocatoria, inscripción y evaluación."
+  },
+  {
+    "pregunta": "En el procedimiento de oposición teórico-escrita del Artículo 7°, ¿cómo se asegura el anonimato del concursante?",
+    "opciones": [
+      "Mediante código numérico individualizado y examen en sobre cerrado",
+      "No se asegura anonimato, se entrega nombre y apellido",
+      "Solo se revisa el examen al final sin control previo",
+      "Se usa firma electrónica visible"
+    ],
+    "correcta": 0,
+    "explicacion": "El examen se realiza con código numérico y sobre cerrado para garantizar anonimato, según el reglamento del Artículo 7°."
+  },
+  {
+    "pregunta": "Según el reglamento, la lista de mérito tendrá vigencia de:",
+    "opciones": [
+      "Dos años",
+      "Un año",
+      "Cinco años",
+      "Hasta que el empleado renuncie"
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento establece que la lista de mérito resultante de los concursos tiene vigencia de dos años para cubrir vacantes dentro de ese período."
+  },
+  {
+    "pregunta": "¿Qué establece el Artículo 1° del Reglamento Interno General sobre la extensión de la reglamentación?",
+    "opciones": [
+      "Comprende a todo el personal del Poder Judicial, excepto Secretarios, titulares de los Ministerios Públicos y Magistrados",
+      "Solo aplica a Magistrados y Funcionarios Letrados",
+      "Incluye únicamente al personal Administrativo",
+      "No aplica a ningún empleado de planta"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 1° aclara que la reglamentación comprende a todo el personal del Poder Judicial, con las excepciones señaladas, que se rigen por leyes y Constitución."
+  },
+  {
+    "pregunta": "Según el Artículo 1°, qué se aplica a los artículos 19° a 46° de la reglamentación?",
+    "opciones": [
+      "Régimen de Licencias, con excepción del artículo 38° inciso 2",
+      "Solo procedimientos de ascenso",
+      "Exclusivamente reglas de ingreso al Poder Judicial",
+      "No tienen aplicación alguna"
+    ],
+    "correcta": 0,
+    "explicacion": "Los artículos 19° a 46° se refieren al Régimen de Licencias y aplican salvo la excepción prevista en el artículo 38° inciso 2."
+  },
+  {
+    "pregunta": "El Artículo 2° establece que el personal del Poder Judicial se distribuye en cuántos grupos?",
+    "opciones": [
+      "Tres grupos",
+      "Dos grupos",
+      "Cuatro grupos",
+      "Un único grupo general"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 2° establece tres grupos: a) Magistrados y Funcionarios, b) Administrativo y Técnico, c) Operacional."
+  },
+  {
+    "pregunta": "¿Qué incluye el Grupo de Magistrados y Funcionarios según el Artículo 2°?",
+    "opciones": [
+      "Magistrados y Funcionarios Letrados y profesionales equiparados con título habilitante",
+      "Todo el personal de oficina",
+      "Personal de maestranza",
+      "Solo empleados administrativos"
+    ],
+    "correcta": 0,
+    "explicacion": "Este grupo comprende a los Magistrados y Funcionarios Letrados y profesionales equiparados que requieren título habilitante."
+  },
+  {
+    "pregunta": "Según el Artículo 3°, cuál es el requisito de edad para ingresar al Poder Judicial?",
+    "opciones": [
+      "18 años cumplidos",
+      "21 años cumplidos",
+      "16 años cumplidos",
+      "No hay edad mínima"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso a) del Artículo 3° establece que los ingresantes deben tener 18 años cumplidos."
+  },
+  {
+    "pregunta": "Para el personal Administrativo y Técnico, ¿qué nivel mínimo de estudios se exige según el Artículo 3°?",
+    "opciones": [
+      "Secundarios completos, salvo casos de Juzgados de Paz de segunda categoría o choferes, que requieren primarios completos",
+      "Primaria completa",
+      "Universitario completo",
+      "No se exige educación formal"
+    ],
+    "correcta": 0,
+    "explicacion": "Se exige secundaria completa para la mayoría, con excepción de algunos puestos donde alcanza primaria completa."
+  },
+  {
+    "pregunta": "Según el Artículo 3°, el personal Operativo debe tener qué nivel educativo?",
+    "opciones": [
+      "Ciclo de enseñanza primaria completo",
+      "Secundaria completa",
+      "Universitario completo",
+      "No se requiere educación"
+    ],
+    "correcta": 0,
+    "explicacion": "El personal Operativo o de Maestranza debe tener educación primaria completa según el inciso b) 2."
+  },
+  {
+    "pregunta": "Qué certificados deben presentar los postulantes según el Artículo 3°?",
+    "opciones": [
+      "Certificados de Antecedentes Penales Nacional y Provincial",
+      "Solo certificado de estudios",
+      "Certificado de buena conducta laboral",
+      "No se requiere certificación"
+    ],
+    "correcta": 0,
+    "explicacion": "Se exige certificado de antecedentes penales provincial (RAP) y nacional (Ministerio de Justicia y Derechos Humanos)."
+  },
+  {
+    "pregunta": "El Artículo 4° indica que no podrán ingresar al Poder Judicial:",
+    "opciones": [
+      "Los condenados por delitos dolosos/culposos contra la Administración Pública, sujetos a proceso criminal, quebrados no rehabilitados, separados por mal desempeño",
+      "Todos los mayores de 50 años",
+      "Solo quienes no tengan estudios secundarios",
+      "Solo los empleados temporales"
+    ],
+    "correcta": 0,
+    "explicacion": "Se detallan inhabilidades legales específicas para el ingreso, incluyendo antecedentes penales y cesantía o exoneración previa."
+  },
+  {
+    "pregunta": "En el Artículo 4°, ¿cuándo procede la rehabilitación automática?",
+    "opciones": [
+      "Tras cinco años por cesantía decretada por inasistencias injustificadas, no aplica en exoneración",
+      "Tras un año para cualquier cesantía o exoneración",
+      "Nunca procede rehabilitación automática",
+      "Solo si el Superior Tribunal lo autoriza explícitamente"
+    ],
+    "correcta": 0,
+    "explicacion": "Se produce rehabilitación automática a los cinco años solo por cesantía por inasistencias, según el reglamento."
+  },
+  {
+    "pregunta": "Según el Artículo 5°, ¿cómo se ingresa a la Administración de Justicia?",
+    "opciones": [
+      "En el cargo de menor jerarquía mediante concurso de antecedentes y oposición",
+      "Directamente en cualquier cargo vacante",
+      "Por designación discrecional del Superior Tribunal",
+      "Mediante sorteo"
+    ],
+    "correcta": 0,
+    "explicacion": "El ingreso debe ser al cargo de menor jerarquía y mediante concurso de antecedentes y oposición."
+  },
+  {
+    "pregunta": "El Artículo 6° establece que los ascensos deben considerar:",
+    "opciones": [
+      "Idoneidad, antigüedad y capacidad evidenciada en el cargo",
+      "Solo antigüedad",
+      "Solo estudios realizados",
+      "Preferencia por el personal de Tribunales grandes"
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento indica que ascensos se otorgan según idoneidad, antigüedad y capacidad."
+  },
+  {
+    "pregunta": "Según el Artículo 7°, la oposición consta de:",
+    "opciones": [
+      "Prueba teórico-escrita y teórico-práctica oral con entrevista",
+      "Solo examen escrito",
+      "Solo entrevista personal",
+      "Solo antecedentes laborales"
+    ],
+    "correcta": 0,
+    "explicacion": "La oposición se divide en prueba teórico-escrita y teórico-práctica oral, según el reglamento."
+  },
+  {
+    "pregunta": "En el procedimiento de oposición, ¿cómo se asigna la puntuación por antecedentes?",
+    "opciones": [
+      "Antigüedad: 1 punto por año hasta 15, Capacitación: hasta 10 puntos por área, cursos actitudinales hasta 7, áreas relacionadas hasta 3",
+      "Todo el puntaje depende de la entrevista",
+      "Solo la antigüedad cuenta",
+      "Se asigna al azar por el jurado"
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento detalla cómo se distribuyen los puntos por antecedentes, diferenciando antigüedad y capacitación."
+  },
+  {
+    "pregunta": "Según el Artículo 8°, ¿qué requisitos adicionales se pueden exigir para ingresar a ciertos cargos?",
+    "opciones": [
+      "Cualificaciones específicas o experiencia previa según la categoría del cargo",
+      "Solo presentar antecedentes penales",
+      "No se exige ningún requisito adicional",
+      "Solo se considera la antigüedad en otro organismo"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 8° permite que algunos cargos tengan requisitos adicionales específicos según la naturaleza y jerarquía del puesto."
+  },
+  {
+    "pregunta": "El Artículo 9° establece que los concursos para ingreso o ascenso deben realizarse:",
+    "opciones": [
+      "Por concurso de antecedentes y oposición bajo modalidades abiertas, cerradas o entre circunscripciones",
+      "Solo mediante designación directa del Superior Tribunal",
+      "A través de sorteo entre postulantes",
+      "Por decisión discrecional del titular del Organismo Judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento indica que todos los concursos se realizan mediante antecedentes y oposición, en las modalidades especificadas."
+  },
+  {
+    "pregunta": "En los concursos abiertos según Artículo 9°, ¿quién puede presentarse?",
+    "opciones": [
+      "Cualquier persona de la comunidad cumpliendo requisitos de inscripción",
+      "Solo personal interno del Poder Judicial",
+      "Solo Magistrados y Funcionarios Letrados",
+      "Solo personal administrativo de Tribunales grandes"
+    ],
+    "correcta": 0,
+    "explicacion": "El concurso abierto permite la participación de la comunidad, siguiendo los requisitos de inscripción y acreditación establecidos."
+  },
+  {
+    "pregunta": "Según el Artículo 10°, ¿cómo se asignan los puntajes por capacitación en los concursos?",
+    "opciones": [
+      "Hasta 10 puntos por acreditación en el área, hasta 7 por cursos actitudinales, hasta 3 por cursos relacionados",
+      "Todo el puntaje depende solo de la entrevista",
+      "Se asigna uniformemente sin evaluar antecedentes",
+      "Solo se puntúa la antigüedad"
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento establece la distribución detallada de puntajes por antecedentes, diferenciando tipo de capacitación."
+  },
+  {
+    "pregunta": "Según Artículo 10°, ¿cuál es la puntuación mínima para aprobar cada etapa de la oposición?",
+    "opciones": [
+      "25 puntos en cada etapa",
+      "50 puntos en total",
+      "No hay mínimo establecido",
+      "Solo se considera la nota final"
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento indica que no se considera aprobado al postulante que no alcance al menos 25 puntos en cada etapa."
+  },
+  {
+    "pregunta": "Según el Artículo 8°, ¿cuándo pueden efectuarse permutas entre personal de distintas dependencias judiciales?",
+    "opciones": [
+      "Cuando haya igualdad de categoría presupuestaria, acuerdo de ambas partes, aceptación de autoridades y autorización del Superior Tribunal",
+      "Solo si los agentes están de acuerdo",
+      "Solo si las autoridades lo permiten",
+      "Solo si hay una vacante en otra dependencia"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 8° establece que las permutas requieren igualdad de categoría, acuerdo de los permutantes, aceptación de autoridades y autorización del STJ."
+  },
+  {
+    "pregunta": "¿Qué significa la 'asignación de funciones' según el Artículo 8° bis?",
+    "opciones": [
+      "Traslado transitorio de un agente judicial a otra dependencia, manteniendo imputación presupuestaria",
+      "Permuta definitiva de un cargo",
+      "Nombramiento de un nuevo Magistrado",
+      "Traslado sin mantener el cargo"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 8° bis define la asignación de funciones como un traslado transitorio de un agente, conservando su cargo presupuestario."
+  },
+  {
+    "pregunta": "Según el Artículo 8° bis, ¿cuánto tiempo máximo puede durar una asignación de funciones por común acuerdo?",
+    "opciones": [
+      "6 meses",
+      "12 meses",
+      "5 años",
+      "Indefinidamente"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso b) establece que el plazo máximo por común acuerdo es de 6 meses, tras lo cual debe resolverse la situación permanente."
+  },
+  {
+    "pregunta": "En el Artículo 8° bis, ¿qué ocurre si la asignación de funciones es por designación directa del STJ y transcurren cinco años sin objeción?",
+    "opciones": [
+      "Se procede de oficio al traslado del agente con cargo al organismo de destino",
+      "Debe regresar al organismo de origen",
+      "Se extingue el cargo del agente",
+      "Debe concursar nuevamente"
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento indica que al cumplirse cinco años sin objeción, el traslado se realiza de oficio con el cargo."
+  },
+  {
+    "pregunta": "Según Artículo 8° bis, la asignación por indicación médica tiene un plazo máximo de:",
+    "opciones": [
+      "6 meses prorrogables 6 meses",
+      "12 meses sin prórroga",
+      "Indefinido según la necesidad del agente",
+      "3 meses sin prórroga"
+    ],
+    "correcta": 0,
+    "explicacion": "Los incisos d) y e) establecen que la asignación por motivos médicos o de RRHH dura 6 meses prorrogables, con intervención de los órganos correspondientes."
+  },
+  {
+    "pregunta": "Artículo 9°: ¿Cuál es uno de los derechos fundamentales del personal del Poder Judicial?",
+    "opciones": [
+      "Retribución de su servicio según el grado y categoría, salvo suspensiones sin goce o inasistencias injustificadas",
+      "Elegir su horario laboral sin límites",
+      "Asignar libremente funciones a otros",
+      "Tomar vacaciones cuando quiera"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 9° inciso a) garantiza la retribución conforme al cargo, considerando suspensiones o inasistencias."
+  },
+  {
+    "pregunta": "Según Artículo 9°, ¿qué derecho tiene el personal en relación a la jornada laboral?",
+    "opciones": [
+      "Descanso semanal y anual y jornada máxima de 180 horas mensuales",
+      "Trabajo obligatorio más de 200 horas",
+      "Vacaciones ilimitadas",
+      "Solo derecho a descanso semanal, no anual"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso d) del Artículo 9° limita la jornada y garantiza descanso semanal y anual."
+  },
+  {
+    "pregunta": "Artículo 10°: ¿Cuál es un deber del personal judicial respecto a consultas externas sobre causas?",
+    "opciones": [
+      "No evacuar consultas ni dar asesoramiento sobre casos judiciales",
+      "Responder cualquier consulta para acelerar causas",
+      "Informar libremente al público de los procesos",
+      "Derivar todos los casos a abogados externos"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso e) obliga a no dar indicaciones sobre causas ni formar parte de organizaciones que afecten la función judicial."
+  },
+  {
+    "pregunta": "Artículo 10°: ¿Qué debe hacer un agente que recibe regalos o dádivas por sus tareas?",
+    "opciones": [
+      "Rehusar cualquier regalo o beneficio",
+      "Aceptar solo si no es un monto significativo",
+      "Entregar al superior jerárquico",
+      "Registrar en su legajo y conservar"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso g) indica que no se deben aceptar beneficios, regalos o sumas por las tareas judiciales."
+  },
+  {
+    "pregunta": "Según Artículo 10°, ¿qué obligación tiene el agente ante embargos sobre su sueldo?",
+    "opciones": [
+      "Levantar el embargo en 60 días desde la notificación, salvo excepciones legales",
+      "Ignorar los embargos hasta que el Superior Tribunal intervenga",
+      "Solo cumplir si es embargo por alimentos",
+      "No tiene obligación alguna"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso h) establece el plazo de 60 días para levantar embargos, con excepciones y posible extensión por STJ."
+  },
+  {
+    "pregunta": "Artículo 11°: ¿Cuál es la duración del horario de atención al público?",
+    "opciones": [
+      "6 horas por la mañana y 4 horas por la tarde",
+      "8 horas continuas sin distinción",
+      "5 horas por la mañana y 5 horas por la tarde",
+      "Horario libre según cada dependencia"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 11° establece la atención de 6 horas en la mañana y 4 en la tarde, con turnos rotativos."
+  },
+  {
+    "pregunta": "Artículo 12°: ¿Qué sucede cuando el personal trabaja fuera del horario habitual?",
+    "opciones": [
+      "Tiene derecho a un franco compensatorio según cálculo de 1 día cada 6 horas",
+      "No recibe compensación alguna",
+      "Solo se compensa si es fin de semana",
+      "Debe compensarlo trabajando más horas en la semana siguiente"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 12° detalla la compensación por trabajo fuera de horario, incluyendo cálculo de días y períodos especiales."
+  },
+  {
+    "pregunta": "Artículo 13°: ¿Cómo se controla la asistencia del personal?",
+    "opciones": [
+      "Registro obligatorio diario de entrada, salida y regresos, con firma del agente o sistema automático autorizado",
+      "Solo mediante firma manual de asistencia semanal",
+      "No se registra asistencia",
+      "Control verbal del superior jerárquico"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 13° establece la obligatoriedad del registro de asistencia con detalles diarios y autorización del STJ para sistemas automáticos."
+  },
+  {
+    "pregunta": "Artículo 14°: ¿Cuál es el margen de tolerancia para registrar la asistencia?",
+    "opciones": [
+      "Máximo 10 minutos",
+      "15 minutos",
+      "30 minutos",
+      "No hay margen de tolerancia"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 14° indica que el margen de tolerancia no puede exceder los 10 minutos desde el inicio de tareas."
+  },
+  {
+    "pregunta": "Artículo 15°: ¿Cómo se considera la llegada tarde dentro de la primera hora de tareas?",
+    "opciones": [
+      "\"Con aviso\" o \"sin aviso\" según se haya comunicado o no la demora",
+      "Siempre como inasistencia",
+      "Nunca se considera tarde si es menos de 30 minutos",
+      "Se compensa automáticamente con horas extras"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 15° distingue llegadas tarde dentro de la primera hora como con o sin aviso según comunicación previa."
+  },
+  {
+    "pregunta": "Artículo 16°: ¿Cuántas llegadas tarde con aviso pueden justificarse en un mismo mes?",
+    "opciones": [
+      "Máximo dos (2) llegadas tarde justificadas",
+      "Todas las llegadas tarde con aviso se justifican automáticamente",
+      "Solo una por mes",
+      "No hay límite"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 16° establece un máximo de dos llegadas tarde justificadas con aviso por mes."
+  },
+  {
+    "pregunta": "Artículo 17°: ¿Cómo se considera la llegada tarde después de la primera hora de tareas?",
+    "opciones": [
+      "Como inasistencia a todos los efectos, con descuento de haberes",
+      "Como media falta",
+      "No se contabiliza",
+      "Solo se registra en legajo personal"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 17° indica que la llegada tarde después de la primera hora se computa como inasistencia y puede dar lugar a descuentos."
+  },
+  {
+    "pregunta": "Artículo 18°: ¿Qué debe informarse mensualmente al Servicio Administrativo del STJ?",
+    "opciones": [
+      "Inasistencias no justificadas para descuentos de haberes",
+      "Todas las ausencias, incluso justificadas",
+      "Solo retrasos menores de 10 minutos",
+      "Únicamente permisos especiales"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 18° requiere informar inasistencias no justificadas dentro de los primeros cinco días del mes siguiente."
+  },
+  {
+    "pregunta": "Artículo 18° bis: ¿Quiénes se consideran autoridades concedentes a efectos de este capítulo?",
+    "opciones": [
+      "Cámaras en lo Criminal, Cámaras de Apelaciones, Defensores de Cámara y Fiscales de Cámara según corresponda",
+      "Solo el Superior Tribunal de Justicia",
+      "Cada jefe de departamento administrativo",
+      "Los agentes judiciales con más de 10 años de antigüedad"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 18° bis define específicamente las autoridades concedentes según tipo de órgano y fuero."
+  },
+  {
+    "pregunta": "Según el Artículo 19°, ¿cuál es el período único de licencia anual ordinaria con goce de haberes en el Poder Judicial de Chubut?",
+    "opciones": [
+      "Feria anual del 1 al 31 de enero inclusive",
+      "Todo el mes de diciembre",
+      "Dos períodos de 15 días en junio y julio",
+      "La segunda quincena de febrero"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 19° establece que la licencia anual ordinaria se otorga durante la Feria Anual comprendida entre el 01 y 31 de enero."
+  },
+  {
+    "pregunta": "Según el Artículo 19° bis, ¿quiénes son las autoridades concedentes de la Feria Anual para los Ministerios Públicos?",
+    "opciones": [
+      "El Procurador General y el Defensor General",
+      "El Superior Tribunal de Justicia",
+      "Los Jueces de Primera Instancia",
+      "Los agentes judiciales de mayor antigüedad"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 19° bis establece que el Procurador General y el Defensor General son autoridades concedentes para sus respectivos Ministerios Públicos."
+  },
+  {
+    "pregunta": "Artículo 20°: Durante la feria ordinaria, ¿cuál es el límite de personal que puede prestar servicios en cada dependencia?",
+    "opciones": [
+      "No puede exceder la tercera parte de la dotación normal",
+      "Hasta la mitad del personal",
+      "Todo el personal debe asistir",
+      "Solo un magistrado por dependencia"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso a) del Artículo 20° indica que el personal de servicio no debe exceder la tercera parte de la dotación."
+  },
+  {
+    "pregunta": "Según Artículo 20°, ¿rigen las suspensiones de términos para la jurisdicción penal durante la feria?",
+    "opciones": [
+      "No, el trámite continúa normalmente, salvo debates unipersonales o colegiados",
+      "Sí, todos los plazos se suspenden",
+      "Solo se suspenden los casos contravencionales",
+      "Se suspenden solo los Juzgados de Paz"
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso f) aclara que la suspensión de términos no aplica en jurisdicción penal, salvo excepciones de debates."
+  },
+  {
+    "pregunta": "Artículo 21°: ¿Qué derecho tienen los agentes que ingresaron en el año calendario anterior a la feria?",
+    "opciones": [
+      "Licencia proporcional a los días trabajados, no inferior a 7 días corridos",
+      "No tienen derecho a licencia en el primer año",
+      "Licencia completa de 30 días",
+      "Licencia solo si son funcionarios"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 21° establece que se otorga licencia proporcional a los días trabajados, con un mínimo de 7 días."
+  },
+  {
+    "pregunta": "Artículo 22°: ¿Qué ocurre con la licencia compensatoria por servicios durante la feria?",
+    "opciones": [
+      "El agente tiene derecho a licencia compensatoria equivalente",
+      "Se pierde si no se utiliza inmediatamente",
+      "Solo se otorga si hay resolución judicial",
+      "Se convierte en dinero automáticamente"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 22° indica que quienes prestaron servicios durante la feria tienen derecho a una licencia compensatoria equivalente."
+  },
+  {
+    "pregunta": "Según Artículo 22°, ¿cuánto tiempo tiene un agente para hacer uso de la licencia compensatoria no utilizada?",
+    "opciones": [
+      "Hasta finalizar el año calendario siguiente",
+      "Solo durante el mes siguiente",
+      "Indefinidamente mientras trabaje en el Poder Judicial",
+      "Hasta la próxima feria"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 22° establece que la licencia compensatoria no utilizada caduca al finalizar el año calendario siguiente."
+  },
+  {
+    "pregunta": "Artículo 23°: ¿Qué puede hacer la autoridad concedente respecto de un agente durante su licencia?",
+    "opciones": [
+      "Cancelar la licencia y reintegrar al agente por necesidades impostergables",
+      "Interrumpir la licencia sin causa justificada",
+      "Aumentar la duración de la licencia automáticamente",
+      "Reducir el salario durante la licencia"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 23° permite reintegrar al agente por resolución escrita fundamentada en necesidades de servicio."
+  },
+  {
+    "pregunta": "Artículo 24°: ¿Qué sucede si durante la licencia anual el agente contrae enfermedad o inicia licencia por maternidad?",
+    "opciones": [
+      "Se interrumpe la licencia y aplica la normativa correspondiente a salud o maternidad",
+      "Se pierde el derecho a la licencia",
+      "Debe reincorporarse inmediatamente",
+      "Se otorga un bono en dinero"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 24° establece la interrupción de la licencia y la aplicación de normas específicas de salud o maternidad."
+  },
+  {
+    "pregunta": "Artículo 25°: ¿Cuántos días de licencia con goce de haberes se conceden por enfermedades comunes o accidentes fuera del servicio?",
+    "opciones": [
+      "Hasta 30 días corridos por año calendario",
+      "15 días por semestre",
+      "Solo 7 días por incidente",
+      "No hay límite"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 25° establece un máximo de 30 días corridos al año con haberes para enfermedades comunes o accidentes menores."
+  },
+  {
+    "pregunta": "Artículo 26°: Para afecciones de largo tratamiento, ¿cuánto tiempo puede concederse licencia con goce íntegro de haberes?",
+    "opciones": [
+      "Hasta 365 días corridos con goce íntegro",
+      "180 días en total",
+      "30 días renovables",
+      "Solo durante el primer semestre"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 26° permite licencias sucesivas hasta 365 días con goce íntegro para afecciones de largo tratamiento."
+  },
+  {
+    "pregunta": "Artículo 26°: ¿Qué porcentaje del haberes se percibe si la licencia supera los 365 días hasta 180 días adicionales?",
+    "opciones": [
+      "50%",
+      "75%",
+      "100%",
+      "No se percibe haberes"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 26° establece que tras los 365 días con haberes íntegros, los 180 días adicionales se perciben al 50%."
+  },
+  {
+    "pregunta": "Artículo 27°: ¿Cuántos días de licencia con goce íntegro se otorgan por enfermedad profesional o accidente de trabajo?",
+    "opciones": [
+      "Hasta 730 días corridos",
+      "365 días",
+      "30 días",
+      "Solo hasta que se reincorpore el agente"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 27° establece que enfermedades profesionales o accidentes de trabajo permiten hasta 730 días corridos con haberes íntegros."
+  },
+  {
+    "pregunta": "Artículo 27° bis: ¿Qué se abona a los derecho-habientes en caso de fallecimiento del agente?",
+    "opciones": [
+      "Sueldos del mes del deceso y el siguiente, más asignaciones y suplementos",
+      "Solo el sueldo del mes del deceso",
+      "Solo un bono de emergencia",
+      "No se abona si no fue en acto de servicio"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 27° bis establece el pago de sueldos y beneficios a los derecho-habientes, con plus de tres meses si fue por acto de servicio."
+  },
+  {
+    "pregunta": "Artículo 28°: ¿Qué sucede con licencias sucesivas concedidas por períodos discontinuos según Artículo 26°?",
+    "opciones": [
+      "Se acumulan hasta los topes máximos salvo que medie un período mayor a 3 años entre ellas",
+      "Cada licencia se pierde si no se toma consecutivamente",
+      "Se acumulan indefinidamente",
+      "Solo la primera licencia se toma en cuenta"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 28° establece acumulación de licencias discontinuas hasta los límites máximos, salvo que entre licencias haya más de 3 años."
+  },
+  {
+    "pregunta": "Artículo 29°: ¿Qué procedimiento debe realizarse si un agente está incapacitado permanentemente para el servicio?",
+    "opciones": [
+      "Formar una Junta Médica y proceder al sumario según Ley N° 37",
+      "Se otorga licencia automáticamente",
+      "Debe renunciar de inmediato",
+      "Solo se informa al Superior Tribunal"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 29° establece que la incapacidad permanente requiere Junta Médica y sumario conforme la ley."
+  },
+  {
+    "pregunta": "Artículo 30°: ¿Cuál es la duración de la licencia especial por maternidad con goce íntegro de haberes?",
+    "opciones": [
+      "210 días corridos, comenzando a partir de los 7,5 meses de embarazo",
+      "180 días desde el inicio del embarazo",
+      "90 días previos al parto",
+      "120 días posparto"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 30° establece 210 días corridos de licencia especial con goce íntegro, iniciando a los 7,5 meses de embarazo."
+  },
+  {
+    "pregunta": "Artículo 30°: ¿Cuál es la duración de la licencia especial por maternidad con goce íntegro de haberes?",
+    "opciones": [
+      "210 días corridos, comenzando a partir de los 7,5 meses de embarazo",
+      "180 días desde el inicio del embarazo",
+      "90 días previos al parto",
+      "120 días posparto"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 30° establece 210 días corridos de licencia especial con goce íntegro, iniciando a los 7,5 meses de embarazo."
+  },
+  {
+    "pregunta": "Artículo 30°: ¿Cuál es el período mínimo de licencia preparto que puede optar la madre?",
+    "opciones": [
+      "30 días",
+      "45 días",
+      "60 días",
+      "210 días"
+    ],
+    "correcta": 0,
+    "explicacion": "Aunque la licencia total es de 210 días, la madre puede reducir la licencia preparto a un mínimo de 30 días según el Artículo 30°."
+  },
+  {
+    "pregunta": "Artículo 30°: En caso de nacimiento prematuro, ¿cuál es la cantidad de días de licencia condicionada a la supervivencia del niño?",
+    "opciones": [
+      "180 días",
+      "210 días",
+      "240 días",
+      "270 días"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 30° indica que por nacimiento prematuro se conceden 240 días corridos, condicionados a la supervivencia del niño."
+  },
+  {
+    "pregunta": "Artículo 30°: Si se produce un nacimiento prematuro múltiple, ¿cuál es la licencia para la madre si sobreviven al menos dos de los nacidos?",
+    "opciones": [
+      "210 días",
+      "240 días",
+      "270 días",
+      "180 días"
+    ],
+    "correcta": 2,
+    "explicacion": "Por nacimientos prematuros múltiples, la madre tiene derecho a 270 días corridos de licencia, condicionado a la sobrevivencia de al menos dos recién nacidos."
+  },
+  {
+    "pregunta": "Artículo 30°: En caso de defunción fetal durante el 4° o 5° mes de gestación, ¿cuántos días de licencia corresponde a la madre?",
+    "opciones": [
+      "15 días",
+      "30 días",
+      "60 días",
+      "90 días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 30° establece 30 días corridos con goce de haberes a partir de la fecha de interrupción del embarazo."
+  },
+  {
+    "pregunta": "Artículo 30° bis: ¿Cuál es la duración de la licencia para la pareja por nacimiento de hijo?",
+    "opciones": [
+      "10 días hábiles",
+      "15 días hábiles",
+      "20 días hábiles",
+      "30 días hábiles"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 30° bis establece 20 días hábiles con goce íntegro de haberes para la pareja, justificando posteriormente con la partida de nacimiento."
+  },
+  {
+    "pregunta": "Artículo 30° bis: En caso de hijo con discapacidad, ¿cuántos días de licencia especial recibe el padre?",
+    "opciones": [
+      "20 días hábiles",
+      "25 días hábiles",
+      "30 días hábiles",
+      "40 días hábiles"
+    ],
+    "correcta": 2,
+    "explicacion": "Si el hijo tiene discapacidad, la licencia del padre será de 30 días hábiles, según el Artículo 30° bis."
+  },
+  {
+    "pregunta": "Artículo 31°: ¿Qué opciones de permisos diarios tiene la madre tras el reingreso después de la licencia por nacimiento?",
+    "opciones": [
+      "1 hora por jornada",
+      "2 permisos de media hora cada uno",
+      "Opciones 1 y 2 correctas",
+      "Solo al inicio de la jornada"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 31° permite a la madre optar por un permiso de 1 hora diaria o 2 permisos de media hora, cualquiera de las dos formas es válida."
+  },
+  {
+    "pregunta": "Artículo 32°: ¿Qué porcentaje de remuneración percibe un agente incorporado al servicio militar por un período menor a 6 meses?",
+    "opciones": [
+      "50%",
+      "75%",
+      "100%",
+      "Depende del cargo"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 32° establece que los agentes incorporados al Servicio Militar por menos de 6 meses reciben el 50% de la remuneración de su cargo."
+  },
+  {
+    "pregunta": "Artículo 33° c) 1: Por fallecimiento del cónyuge o concubino, ¿cuántos días de licencia corresponden?",
+    "opciones": [
+      "3 días",
+      "5 días",
+      "10 días",
+      "15 días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33° c) establece 5 días hábiles de licencia con goce de haberes por fallecimiento del cónyuge o concubino."
+  },
+  {
+    "pregunta": "Artículo 33° d): ¿Cuál es el período máximo de licencia para atención de familiar enfermo grave de largo tratamiento?",
+    "opciones": [
+      "15 días",
+      "30 días",
+      "60 días",
+      "120 días"
+    ],
+    "correcta": 3,
+    "explicacion": "Cuando se trata de enfermedad grave y prolongada, el Artículo 33° d) permite hasta 120 días hábiles de licencia con goce de haberes previa Junta Médica."
+  },
+  {
+    "pregunta": "Artículo 33 bis: ¿Qué garantía tiene la trabajadora que solicita licencia por violencia de género?",
+    "opciones": [
+      "Acceso público a la solicitud",
+      "Preservación de intimidad y confidencialidad",
+      "Exclusión de ascensos futuros",
+      "Solo válida si hay denuncia policial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33 bis garantiza la confidencialidad e intimidad de la trabajadora que solicita la licencia por violencia de género."
+  },
+  {
+    "pregunta": "Artículo 34: ¿Cuántos días hábiles puede solicitar un agente para actividades científico-culturales, incluyendo posible ampliación?",
+    "opciones": [
+      "5 días",
+      "10 días",
+      "15 días",
+      "20 días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 34° establece 5 días hábiles, ampliables a 5 más, totalizando 10 días hábiles por año."
+  },
+  {
+    "pregunta": "Artículo 41°: ¿Qué profesional certifica las licencias por enfermedad para agentes?",
+    "opciones": [
+      "Médico particular del agente",
+      "Médico Forense del Poder Judicial",
+      "Superior jerárquico directo",
+      "Recursos Humanos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 41° establece que los Médicos Forenses son los profesionales encargados de certificar todas las licencias por enfermedad."
+  },
+  {
+    "pregunta": "Artículo 41° bis: ¿Quién integra la Junta Médica cuando el agente propone un médico particular?",
+    "opciones": [
+      "Dos médicos forenses y un médico particular propuesto por el agente",
+      "Tres médicos forenses",
+      "Un médico forense y dos médicos particulares",
+      "Solo el médico particular del agente"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 41° bis establece que la Junta Médica se integra por dos médicos forenses y un médico particular propuesto por el agente."
+  },
+  {
+    "pregunta": "Artículo 42°: ¿Cuál es la licencia especial para traslado de domicilio a más de 200 km de la sede?",
+    "opciones": [
+      "5 días corridos",
+      "10 días corridos",
+      "15 días hábiles",
+      "20 días corridos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 42° otorga 10 días corridos con goce de haberes para el traslado de familia y efectos personales dentro de los 180 días de designación."
+  },
+  {
+    "pregunta": "Artículo 43°: ¿Qué ocurre si un agente no da aviso de inasistencia por enfermedad en la primera hora de trabajo?",
+    "opciones": [
+      "Se le aplica una multa fija",
+      "Se descuenta el haber del día o días transcurridos",
+      "Se le suspende automáticamente",
+      "No ocurre nada si hay certificado médico"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 43° establece que el incumplimiento del aviso hará pasible al agente al descuento de haberes del día o días transcurridos."
+  },
+  {
+    "pregunta": "Artículo 44°: ¿Quiénes pueden otorgar licencias de los artículos 26°, 27°, 33° inc. d) segundo párrafo, 34°, 35° y 38°?",
+    "opciones": [
+      "Cualquier autoridad del Poder Judicial",
+      "Superior Tribunal de Justicia, Procuración General o Defensor General",
+      "Junta Médica exclusivamente",
+      "Recursos Humanos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 44° establece que estas licencias deben otorgarse exclusivamente por las máximas autoridades mencionadas."
+  },
+  {
+    "pregunta": "Artículo 45°: ¿Qué constituye falta grave en relación a las licencias?",
+    "opciones": [
+      "No presentar certificado médico",
+      "Usar la licencia antes de ser concedida por la autoridad competente",
+      "Solicitar licencia fuera de término",
+      "No justificar inasistencia por fuerza mayor"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 45° considera falta grave usar la licencia antes de ser concedida o sin constituir domicilio válido para notificaciones."
+  },
+  {
+    "pregunta": "Artículo 46°: ¿Cuál es el plazo para solicitar justificación de ausencia después de reincorporarse al servicio?",
+    "opciones": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "5 días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 46° establece que la solicitud debe presentarse dentro de las 48 horas siguientes al reintegro al servicio."
+  },
+  {
+    "pregunta": "Artículo 47°: ¿Cuál de las siguientes no es una sanción disciplinaria prevista?",
+    "opciones": [
+      "Prevención",
+      "Apercibimiento",
+      "Multa de 5 unidades jus",
+      "Exoneración"
+    ],
+    "correcta": 2,
+    "explicacion": "La multa según el Artículo 47° no puede ser inferior a 10 unidades jus; 5 unidades jus es incorrecto."
+  },
+  {
+    "pregunta": "Artículo 48°: ¿Quién aplica las sanciones a los funcionarios y empleados de su respectiva dependencia?",
+    "opciones": [
+      "Superior Tribunal de Justicia y Procurador General",
+      "Recursos Humanos",
+      "La Junta Médica",
+      "El agente sancionado mismo"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 48° indica que las sanciones corresponden a las máximas autoridades de cada dependencia."
+  },
+  {
+    "pregunta": "Artículo 49°: ¿Cómo se aplican las sanciones de prevención y apercibimiento?",
+    "opciones": [
+      "Mediante sumario escrito",
+      "Directo, verbal y actuado, previo descargo",
+      "Por votación del cuerpo administrativo",
+      "Solo con intervención de la Junta Médica"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 49° establece que estas sanciones son directas, verbales y actuadas, con certificación de la transgresión y previo descargo."
+  },
+  {
+    "pregunta": "Artículo 51°: ¿Cuál es una causal para la sanción de prevención o apercibimiento?",
+    "opciones": [
+      "Más de 3 inasistencias injustificadas en el año",
+      "Violación menor de los deberes del artículo 10°",
+      "Simulación de causal de licencia",
+      "Falsedad en declaración jurada"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 51° establece que violación menor de los deberes del artículo 10° es causal de prevención o apercibimiento."
+  },
+  {
+    "pregunta": "Artículo 52°: ¿A partir de cuántas inasistencias injustificadas se aplican sanciones de multa o suspensión?",
+    "opciones": [
+      "Segunda inasistencia",
+      "Cuarta inasistencia",
+      "Sexta inasistencia",
+      "Octava inasistencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 52° indica que desde la cuarta inasistencia injustificada se pueden aplicar sanciones de multa o suspensión."
+  },
+  {
+    "pregunta": "Artículo 54°: ¿Cuál es una causal de cesantía o exoneración?",
+    "opciones": [
+      "Más de 30 días de suspensión en un año calendario",
+      "Una inasistencia injustificada",
+      "Violación menor del artículo 10°",
+      "Aviso tardío de inasistencia"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 54° establece que exceder 30 días de suspensión en un año calendario es causal de cesantía o exoneración."
+  },
+  {
+    "pregunta": "Artículo 56°: ¿Quién instruye el sumario cuando la falta pudiera dar lugar a cesantía o exoneración?",
+    "opciones": [
+      "Junta Médica",
+      "Superior Tribunal de Justicia",
+      "Jueces o titulares del Ministerio Público",
+      "Recursos Humanos"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 56° indica que los sumarios para faltas graves son instruidos por Jueces o titulares del Ministerio Público."
+  },
+   {
+    "pregunta": "Artículo 57°: ¿En cuántos días debe formular el instructor el capítulo de cargos?",
+    "opciones": [
+      "10 días",
+      "25 días",
+      "30 días",
+      "15 días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 57° establece que el instructor debe formular el capítulo de cargos dentro de los 25 días de iniciada su gestión."
+  },
+  {
+    "pregunta": "Artículo 57°: ¿Cuál es el plazo para que el imputado produzca prueba ofrecida si no es manifiestamente improcedente?",
+    "opciones": [
+      "5 días",
+      "10 días",
+      "3 días",
+      "7 días"
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 57° indica que la prueba debe producirse dentro de los cinco días siguientes, prorrogables por otros cinco días si fuera necesario."
+  },
+  {
+    "pregunta": "Artículo 57°: ¿En cuántos días debe expedirse la autoridad de aplicación luego de recibir el sumario?",
+    "opciones": [
+      "5 días",
+      "10 días",
+      "15 días",
+      "20 días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 57° establece que la autoridad de aplicación debe expedirse indefectiblemente dentro de los 10 días."
+  },
+  {
+    "pregunta": "Artículo 58°: ¿Cómo se notifica la iniciación del sumario al sumariado si se encuentra en su lugar de trabajo?",
+    "opciones": [
+      "Por correo electrónico",
+      "En forma personal y durante el horario de trabajo",
+      "Por cédula en su domicilio",
+      "Mediante Junta Médica"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 58° establece que la notificación se hace en el lugar de tareas y durante el horario de trabajo en forma personal."
+  },
+  {
+    "pregunta": "Artículo 60°: ¿Cuál es la duración máxima de la suspensión preventiva por resolución fundada durante el sumario?",
+    "opciones": [
+      "30 días corridos",
+      "45 días corridos ampliable por otro lapso igual",
+      "60 días corridos",
+      "15 días corridos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 60° establece 45 días corridos ampliable por otro lapso igual como suspensión preventiva."
+  },
+  {
+    "pregunta": "Artículo 61°: ¿Cuál es el plazo para interponer recurso de reconsideración contra sanciones de prevención o apercibimiento?",
+    "opciones": [
+      "1 día",
+      "3 días",
+      "5 días",
+      "7 días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 61° establece que el recurso de reconsideración debe interponerse dentro de los tres días."
+  },
+  {
+    "pregunta": "Artículo 61°: ¿Cuál es el plazo máximo para resolver el recurso de reconsideración sin substanciación?",
+    "opciones": [
+      "3 días",
+      "5 días",
+      "10 días",
+      "7 días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 61° indica que debe resolverse sin substanciación dentro de los cinco días."
+  },
+  {
+    "pregunta": "Artículo 62°: Si la autoridad sancionadora mantiene su decisión, ¿en cuántos días debe resolver el Superior Tribunal de Justicia?",
+    "opciones": [
+      "3 días",
+      "5 días",
+      "10 días",
+      "7 días"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 62° establece que el Superior resuelve sin otra substanciación dentro de los cinco días de estar el sumario al acuerdo."
+  },
+  {
+    "pregunta": "Artículo 63°: ¿Qué recurso puede interponer un agente dependiente directamente del Superior Tribunal contra la sanción?",
+    "opciones": [
+      "Apelación ordinaria",
+      "Reconsideración",
+      "Recurso extraordinario",
+      "Ninguno"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 63° indica que la decisión será recurrible únicamente por vía de reconsideración dentro de los tres días."
+  },
+  {
+    "pregunta": "Artículo 64°: ¿Quién resuelve dudas de interpretación del Reglamento Interno General?",
+    "opciones": [
+      "La Junta Médica",
+      "Superior Tribunal de Justicia",
+      "El Ministerio Público",
+      "Recursos Humanos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 64° establece que cualquier duda de interpretación será puesta a consideración del Superior Tribunal de Justicia."
+  }
+]

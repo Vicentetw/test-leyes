@@ -1,0 +1,343 @@
+[
+  {
+    "pregunta": "Un ciudadano solicita acceder a documentación de una cooperativa concesionaria de servicios públicos sin explicar el motivo. ¿Puede el funcionario exigirle justificar su interés?",
+    "opciones": [
+      "Sí, siempre debe justificar el interés legítimo para acceder a información",
+      "No, el acceso es libre y no requiere expresión de motivos",
+      "Sí, pero solo si la documentación es administrativa",
+      "No, excepto cuando se trate de actos jurisdiccionales"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 2 establece que todo habitante tiene derecho al libre acceso sin necesidad de indicar razones. Esto incluye actos de prestadores de servicios públicos concesionados. Las otras opciones son incorrectas porque introducen requisitos que la ley no exige o limitaciones inexistentes."
+  },
+  {
+    "pregunta": "Una empresa privada que ejecuta un contrato administrativo con el Estado recibe un pedido de acceso a información. ¿Está obligada a responder?",
+    "opciones": [
+      "No, por ser una empresa privada",
+      "Sí, pero solo respecto de toda su información interna",
+      "Sí, únicamente en lo relacionado con fondos o bienes públicos vinculados al contrato",
+      "No, salvo que haya recibido subsidios directos"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 2 extiende la obligación a empresas privadas con contratos administrativos, pero únicamente respecto de información relacionada con fondos o bienes públicos. No abarca toda su información interna (descarta B) ni depende exclusivamente de subsidios (descarta D)."
+  },
+  {
+    "pregunta": "Un funcionario recibe un pedido verbal de acceso a información. ¿Cuál es su obligación formal inmediata?",
+    "opciones": [
+      "Rechazarlo por no ser escrito",
+      "Aceptar el pedido sin dejar constancia",
+      "Labrar acta o diligencia y entregar constancia al solicitante",
+      "Solicitar que se ratifique por escrito dentro de 48 horas"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 3 establece que el requerimiento puede ser incluso verbal, pero en ese caso debe labrarse acta o diligencia y entregarse constancia. Las demás opciones contradicen la validez del pedido verbal o agregan requisitos inexistentes."
+  },
+  {
+    "pregunta": "Si un funcionario no responde un pedido de acceso a información dentro del plazo legal, ¿qué se configura?",
+    "opciones": [
+      "Un silencio administrativo positivo",
+      "Una denegatoria tácita",
+      "Una prórroga automática del plazo",
+      "Una falta leve sin consecuencias jurídicas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 3 establece expresamente que la falta de respuesta en término se considera denegatoria tácita. No hay silencio positivo ni prórroga automática. Tampoco es una falta leve, ya que puede derivar en responsabilidad."
+  },
+  {
+    "pregunta": "En relación al plazo para facilitar el acceso a la información, ¿cuál es la regla general?",
+    "opciones": [
+      "Cinco días hábiles desde la solicitud escrita",
+      "Diez días corridos desde cualquier tipo de solicitud",
+      "Diez días hábiles desde el requerimiento, incluso si fue verbal",
+      "Quince días hábiles prorrogables automáticamente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 3 fija un plazo de diez días hábiles desde la formulación del requerimiento, incluso si fue verbal. Las otras opciones alteran el plazo, el tipo de días o agregan prórrogas no previstas."
+  },
+  {
+    "pregunta": "Un solicitante pide copias de documentación pública. ¿Quién debe asumir el costo de reproducción?",
+    "opciones": [
+      "El Estado en todos los casos",
+      "El solicitante exclusivamente",
+      "El Estado salvo que se trate de particulares",
+      "Se comparte el costo entre el Estado y el solicitante"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 4 es claro: la reproducción será a exclusiva costa del solicitante. No existen excepciones en el texto que permitan trasladar ese costo al Estado."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes situaciones constituye una excepción válida al acceso a la información pública?",
+    "opciones": [
+      "Información administrativa en trámite",
+      "Documentación que afecte la intimidad personal y familiar",
+      "Toda información generada por empresas privadas",
+      "Actos legislativos aún no publicados"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5 establece como excepción la información que afecte la intimidad personal y familiar. Las demás opciones no están previstas como excepciones generales o son interpretaciones erróneas del alcance de la ley."
+  },
+  {
+    "pregunta": "Un sumario administrativo en etapa inicial es solicitado por un ciudadano. ¿Debe entregarse?",
+    "opciones": [
+      "Sí, siempre por el principio de publicidad",
+      "No, hasta la formulación de cargos por el instructor sumariante",
+      "Sí, pero solo parcialmente",
+      "No, salvo autorización judicial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5 inciso c establece que los sumarios administrativos están exceptuados hasta la etapa de formulación de cargos. No requiere autorización judicial ni admite acceso parcial como regla general."
+  },
+  {
+    "pregunta": "Un juez decide declarar secreta una actuación judicial por razones de orden público. ¿Es válido?",
+    "opciones": [
+      "No, porque el principio general es la publicidad absoluta",
+      "Sí, pero solo si lo autoriza el Poder Ejecutivo",
+      "Sí, mediante resolución motivada en cada caso",
+      "No, salvo en materia penal"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 5 permite a jueces y tribunales limitar la publicidad mediante resolución motivada por razones de orden público o protección de derechos. No requiere autorización del Ejecutivo ni se limita solo a materia penal."
+  },
+  {
+    "pregunta": "Un funcionario entrega información incompleta de manera injustificada. ¿Qué consecuencia prevé la ley?",
+    "opciones": [
+      "Ninguna, mientras haya entregado parte de la información",
+      "Solo una advertencia administrativa",
+      "Se considera falta grave de sus deberes",
+      "Responsabilidad civil exclusivamente"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 6 establece que suministrar información incompleta u obstaculizar el acceso constituye una grave falta de sus deberes. No se limita a advertencias ni exclusivamente a responsabilidad civil."
+  },
+  {
+    "pregunta": "Ante una denegación tácita de acceso a la información, ¿qué vía tiene el solicitante?",
+    "opciones": [
+      "Recurso administrativo obligatorio previo",
+      "Acción de amparo conforme a la Constitución Provincial",
+      "Denuncia penal directa",
+      "Acción civil ordinaria"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 7 prevé que ante denegación expresa o tácita, el afectado puede interponer acción de amparo conforme al artículo 54 de la Constitución Provincial. No exige recurso previo ni limita a otras vías."
+  },
+  {
+    "pregunta": "Respecto de la publicación de actos, ¿qué obligación tiene el Estado?",
+    "opciones": [
+      "Publicar únicamente normas legislativas",
+      "Publicar todas las actuaciones internas",
+      "Publicar normas generales y facilitar conocimiento de actos definitivos",
+      "Publicar solo actos administrativos"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 8 establece la obligación de publicar normas de carácter general y adoptar medidas para que los actos definitivos lleguen a conocimiento de interesados y comunidad. No se limita a un solo tipo de acto."
+  },
+  {
+    "pregunta": "¿Quién tiene a su cargo la publicación del Boletín Oficial de la Provincia?",
+    "opciones": [
+      "El Poder Legislativo",
+      "El Poder Judicial",
+      "El Poder Ejecutivo",
+      "Las Corporaciones Municipales"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 9 establece que el Poder Ejecutivo tiene a su cargo la publicación del Boletín Oficial, debiendo asegurar su impresión regular y periódica en días hábiles administrativos."
+  },
+  {
+    "pregunta": "Un decreto del Poder Ejecutivo que produce efectos particulares y no generales, sin disposición expresa que ordene su publicación, ¿debe publicarse obligatoriamente en el Boletín Oficial?",
+    "opciones": [
+      "Sí, porque todos los actos del Poder Ejecutivo deben publicarse",
+      "No, salvo que produzca efectos generales o exista disposición que ordene su publicación",
+      "Sí, pero solo si afecta a terceros",
+      "No, porque solo se publican leyes y reglamentos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 10 inciso b establece que deben publicarse los actos destinados a producir efectos generales o aquellos cuya publicación sea dispuesta por ley o por el propio Poder Ejecutivo. No todos los actos deben publicarse automáticamente, lo que invalida las otras opciones."
+  },
+  {
+    "pregunta": "Las acordadas del Superior Tribunal de Justicia, ¿en qué caso deben publicarse en el Boletín Oficial?",
+    "opciones": [
+      "Siempre, sin excepción",
+      "Solo cuando se refieran a causas judiciales concretas",
+      "Cuando estén destinadas a producir efectos generales",
+      "Únicamente si lo solicita el Poder Ejecutivo"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 10 inciso d establece que deben publicarse las acordadas y resoluciones del STJ cuando estén destinadas a producir efectos generales. No es una obligación absoluta ni depende de otros poderes."
+  },
+  {
+    "pregunta": "Un contrato de concesión celebrado por un ente descentralizado del Estado Provincial, ¿debe publicarse?",
+    "opciones": [
+      "No, porque solo se publican actos del Poder Ejecutivo central",
+      "Sí, siempre que el Estado Provincial sea parte, incluso a través de entes descentralizados",
+      "Solo si el contrato supera determinado monto",
+      "No, salvo que sea una licitación pública"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 10 inciso h incluye contratos, convenios o concesiones en los que sea parte el Estado Provincial, incluso a través de entes descentralizados u organismos autárquicos. No depende del monto ni del tipo de procedimiento."
+  },
+  {
+    "pregunta": "Respecto del Artículo 10 bis, ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "La publicación en sitios web es facultativa",
+      "Solo deben publicarse actos de carácter general",
+      "Debe publicarse tanto información general como individual, incluyendo actos y antecedentes",
+      "Solo se exige publicar información presupuestaria"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 10 bis impone una obligación amplia de transparencia activa, incluyendo actos generales e individuales, dictámenes, actas, estructura, personal, presupuesto, contrataciones, entre otros. No es facultativo ni limitado a un tipo de información."
+  },
+  {
+    "pregunta": "Un organismo decide no publicar dictámenes técnicos previos a una resolución. ¿Es correcto?",
+    "opciones": [
+      "Sí, porque solo deben publicarse las decisiones finales",
+      "No, porque deben publicarse los antecedentes que sirvieron de sustento",
+      "Sí, salvo que se trate de actos generales",
+      "No, pero solo si lo exige una ley especial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 10 bis inciso d exige publicar no solo las resoluciones, sino también los dictámenes jurídicos y técnicos que sirvieron de sustento. Omitirlos viola el principio de transparencia activa."
+  },
+  {
+    "pregunta": "¿Qué efecto jurídico produce la publicación en el Boletín Oficial según la ley?",
+    "opciones": [
+      "Otorga validez al acto administrativo",
+      "Confiere autenticidad y cumple con la exigencia de publicidad legal",
+      "Reemplaza la firma del funcionario",
+      "Solo tiene efectos informativos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 11 establece que los actos publicados se tienen por auténticos y se considera cumplida la exigencia legal de publicidad. No otorga validez por sí misma ni reemplaza firmas."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo que tiene la autoridad que dicta un acto para remitirlo al Boletín Oficial?",
+    "opciones": [
+      "10 días corridos desde su dictado",
+      "5 días hábiles desde su emisión",
+      "15 días hábiles desde su publicación",
+      "Inmediato sin plazo definido"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 12 establece que los actos deben remitirse dentro de los cinco días hábiles de su emisión. Las otras opciones modifican el plazo o lo hacen inexistente."
+  },
+  {
+    "pregunta": "Si el Secretario General de la Gobernación recibe un acto para su publicación, ¿qué plazo tiene para publicarlo?",
+    "opciones": [
+      "5 días hábiles desde la recepción",
+      "10 días hábiles desde la recepción",
+      "15 días corridos desde la emisión",
+      "No tiene plazo legal establecido"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 12 establece un plazo de diez días hábiles desde la recepción para la publicación. No es desde la emisión ni es indeterminado."
+  },
+  {
+    "pregunta": "Un decreto que no es de interés general se publica en forma sintetizada. ¿Qué requisito mínimo debe cumplir esa publicación?",
+    "opciones": [
+      "Solo indicar el número del decreto",
+      "Indicar número, fecha y contenido sustancial",
+      "Publicar únicamente el resumen del objeto",
+      "No requiere datos específicos"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 13 exige que la publicación sintetizada incluya número de registro, fecha de emisión y menciones necesarias para conocer su contenido sustancial. Las demás opciones omiten elementos obligatorios."
+  },
+  {
+    "pregunta": "Una agencia de publicidad quiere contratar con el Estado pero no está inscripta en el registro correspondiente. ¿Puede hacerlo?",
+    "opciones": [
+      "Sí, si cumple con requisitos técnicos",
+      "No, la inscripción previa es obligatoria",
+      "Sí, si el contrato es de bajo monto",
+      "No, salvo autorización especial del Poder Ejecutivo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 14 establece que la inscripción previa en el registro es obligatoria para contratar con el Estado. No se prevén excepciones por monto ni autorizaciones especiales."
+  },
+  {
+    "pregunta": "¿Quién autoriza la contratación de publicidad oficial en el ámbito provincial?",
+    "opciones": [
+      "El Poder Legislativo",
+      "El Tribunal de Cuentas",
+      "El Poder Ejecutivo",
+      "Cada organismo en forma autónoma"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 15 establece que el Poder Ejecutivo autoriza la contratación de publicidad para los distintos organismos. No es una facultad autónoma de cada entidad."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo máximo para publicar en el Boletín Oficial los contratos de publicidad una vez vencido el plazo previo?",
+    "opciones": [
+      "30 días hábiles",
+      "45 días corridos",
+      "60 días corridos",
+      "No existe plazo máximo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 16 establece que la publicación no podrá superar los 45 días corridos desde el vencimiento del plazo anterior. Es un límite máximo claro."
+  },
+  {
+    "pregunta": "Si el Poder Ejecutivo no reglamenta la ley dentro del plazo previsto, ¿qué acción puede interponer un ciudadano?",
+    "opciones": [
+      "Recurso administrativo jerárquico",
+      "Acción de amparo por omisión",
+      "Demanda civil por daños",
+      "Denuncia penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 18 reconoce el derecho a interponer acción de amparo ante la omisión de reglamentación. No exige otras vías previas ni limita a acciones civiles o penales."
+  },
+  {
+    "pregunta": "Un medio de comunicación cumple con todos los requisitos legales para existir, pero no está inscripto en el Registro de Medios de Difusión. ¿Puede contratar indirectamente con el Estado a través de una agencia?",
+    "opciones": [
+      "Sí, porque la contratación es indirecta",
+      "No, porque la inscripción es obligatoria tanto para contratación directa como indirecta",
+      "Sí, si la agencia está inscripta",
+      "No, salvo autorización del Poder Ejecutivo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 14 inciso a establece que todos los medios que contraten en forma directa o indirecta deben estar previamente inscriptos. La modalidad de contratación no elimina el requisito, lo que invalida las opciones A y C."
+  },
+  {
+    "pregunta": "Un organismo publica en su sitio web información presupuestaria pero omite el nivel de desagregación más detallado disponible. ¿Cumple con la ley?",
+    "opciones": [
+      "Sí, porque basta con publicar información general",
+      "No, porque debe publicarse hasta el último nivel de desagregación procesado",
+      "Sí, si se trata de información sensible",
+      "No, salvo que exista reglamentación específica"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 10 bis inciso e exige expresamente que la información presupuestaria se publique hasta el último nivel de desagregación en que se procese. No es opcional ni depende de reglamentación adicional."
+  },
+  {
+    "pregunta": "Si un acto no se remite al Boletín Oficial dentro de los 5 días hábiles desde su dictado, ¿queda inválido?",
+    "opciones": [
+      "Sí, pierde validez automáticamente",
+      "No, la ley regula el plazo pero no establece invalidez por su incumplimiento",
+      "Sí, salvo que se publique posteriormente",
+      "No, pero debe dictarse nuevamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 12 establece un plazo para remitir los actos, pero no prevé la nulidad del acto por incumplimiento. Es una obligación procedimental, no una condición de validez."
+  },
+  {
+    "pregunta": "Un organismo publica actos en su sitio web conforme al Artículo 10 bis pero no en el Boletín Oficial. ¿Es suficiente?",
+    "opciones": [
+      "Sí, porque el sitio web reemplaza al Boletín Oficial",
+      "No, porque son obligaciones complementarias y no excluyentes",
+      "Sí, si la información es completa",
+      "No, salvo que se trate de actos individuales"
+    ],
+    "correcta": 1,
+    "explicacion": "La ley establece dos sistemas: publicación oficial (Art. 10) y transparencia activa web (Art. 10 bis). Son complementarios. Cumplir uno no sustituye al otro."
+  },
+  {
+    "pregunta": "Una publicación sintetizada omite detalles relevantes que impiden comprender el contenido esencial del acto. ¿Es válida?",
+    "opciones": [
+      "Sí, porque es una síntesis",
+      "No, porque debe permitir conocer el contenido sustancial del acto",
+      "Sí, si incluye número y fecha",
+      "No, salvo autorización reglamentaria"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 13 exige que la publicación sintetizada contenga menciones necesarias para conocer el contenido sustancial. Si esto no se cumple, la publicación es defectuosa."
+  }
+]

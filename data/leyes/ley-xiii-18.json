@@ -1,0 +1,508 @@
+[
+  {
+    "pregunta": "Conforme al Artículo 1° de la Ley XIII N° 18, ¿cuál es el alcance subjetivo y funcional de la norma respecto de los profesionales en ciencias económicas?",
+    "opciones": [
+      "Se limita a peritos de oficio en procesos civiles",
+      "Comprende toda actuación judicial de profesionales en ciencias económicas designados por un juez para emitir informes técnicos, cualquiera sea su función",
+      "Solo aplica a peritos contadores en materia comercial",
+      "Se limita a actuaciones en jurisdicción provincial civil y comercial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 1° establece un alcance amplio: comprende toda actuación judicial en cualquier fuero o jurisdicción dentro de la Provincia del Chubut, incluyendo diversas funciones (peritos, administradores, interventores, etc.), e incluso otras no enumeradas expresamente, siempre que medie designación judicial para emitir informe técnico. Las opciones A, C y D restringen indebidamente el alcance normativo."
+  },
+  {
+    "pregunta": "¿Qué carácter revisten las disposiciones sobre honorarios según el Artículo 2°?",
+    "opciones": [
+      "Dispositivo, disponible por las partes",
+      "Supletorio",
+      "De orden público y de propiedad del profesional",
+      "Convencional"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 2° establece que las normas sobre honorarios son de orden público y que el honorario devengado o regulado es propiedad del profesional. Las opciones A, B y D contradicen el carácter imperativo de la norma."
+  },
+  {
+    "pregunta": "En relación a los plazos del Artículo 3°, ¿cuándo comienza a correr el plazo para presentar el informe?",
+    "opciones": [
+      "Desde la designación del perito",
+      "Desde la aceptación del cargo",
+      "Desde que estén disponibles las pruebas necesarias en el tribunal",
+      "Desde la primera audiencia"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 3° dispone que ningún plazo corre hasta que las pruebas necesarias estén a disposición del profesional. Las demás opciones son incorrectas por anticipar indebidamente el inicio del plazo."
+  },
+  {
+    "pregunta": "¿Cuál es la consecuencia automática del vencimiento del plazo para presentar el informe sin causa justificada?",
+    "opciones": [
+      "Multa",
+      "Apercibimiento",
+      "Remoción y sustitución del profesional",
+      "Suspensión del proceso"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 3° establece que el solo vencimiento del plazo determina la remoción y sustitución del profesional. Las demás opciones no están previstas como consecuencia directa."
+  },
+  {
+    "pregunta": "En caso de reiteración de incumplimientos de plazos, el juez puede:",
+    "opciones": [
+      "Aplicar multa únicamente",
+      "Solicitar su eliminación de las listas",
+      "Iniciar acción penal",
+      "Reducir honorarios"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 3° habilita al magistrado a solicitar la eliminación del profesional de las listas. Las demás opciones no reflejan el mecanismo específico previsto."
+  },
+  {
+    "pregunta": "¿Qué obligación tienen las reparticiones públicas según el Artículo 4°?",
+    "opciones": [
+      "Brindar información solo con orden judicial expresa",
+      "Colaborar plenamente con el auxiliar de justicia con la sola exhibición de su designación",
+      "Negar información reservada en todos los casos",
+      "Exigir autorización del juez en cada requerimiento"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 4° establece un deber amplio de colaboración, bastando la exhibición de la designación. Las demás opciones restringen indebidamente el deber legal."
+  },
+  {
+    "pregunta": "Según el Artículo 5°, el carácter alimentario de los honorarios implica:",
+    "opciones": [
+      "Que no pueden ser embargados",
+      "Que tienen prioridad y protección especial conforme al Código Civil",
+      "Que dependen del resultado del juicio",
+      "Que son discrecionales"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5° inc. a) remite al carácter alimentario conforme al art. 372 del Código Civil, otorgando protección especial. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Qué derecho tiene el auxiliar respecto del expediente?",
+    "opciones": [
+      "Solo consultarlo en mesa de entradas",
+      "Retirarlo por cinco días las veces necesarias",
+      "Retirarlo una sola vez",
+      "No puede retirarlo"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5° inc. c) permite retirar el expediente por cinco días, reiteradamente. Las demás opciones contradicen la norma."
+  },
+  {
+    "pregunta": "La actividad del auxiliar de justicia se presume:",
+    "opciones": [
+      "Gratuita",
+      "Onerosa",
+      "Condicionada al resultado",
+      "Discrecional"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 6° establece la presunción de onerosidad conforme al Código Civil. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿Qué privilegio tienen los honorarios regulados?",
+    "opciones": [
+      "Privilegio general",
+      "Privilegio de segundo orden",
+      "Privilegio de primer orden",
+      "Sin privilegio"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 6° establece privilegio de primer orden. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "¿En cuál de los siguientes supuestos debe regularse honorarios según el Artículo 7°?",
+    "opciones": [
+      "Solo al dictarse sentencia",
+      "Al dictarse sentencia, homologarse acuerdos, desistimientos, falta de impulso y trabajos por exhortos",
+      "Solo a pedido de parte",
+      "Solo en procesos civiles"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 7° enumera múltiples supuestos obligatorios. Las demás opciones son incompletas."
+  },
+  {
+    "pregunta": "Si el juez omite regular honorarios en la sentencia, ¿qué consecuencia se deriva?",
+    "opciones": [
+      "Ninguna",
+      "Simple irregularidad",
+      "Nulidad del acto",
+      "Debe regularse en ejecución"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 8° establece la nulidad si no se regula con fundamentos. Vinculado al debido proceso (art. 18 CN)."
+  },
+  {
+    "pregunta": "En caso de conciliación sin intervención del profesional, la base regulatoria será:",
+    "opciones": [
+      "El acuerdo de partes",
+      "El monto del juicio",
+      "Determinada por el juez según pautas legales",
+      "Cero"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 10 distingue si hubo o no intervención del profesional. Sin intervención, regula el juez según la ley."
+  },
+  {
+    "pregunta": "¿Qué criterio NO integra el Artículo 11?",
+    "opciones": [
+      "Monto económico comprometido",
+      "Complejidad",
+      "Resultado",
+      "Nacionalidad de las partes"
+    ],
+    "correcta": 3,
+    "explicacion": "El Artículo 11 enumera múltiples criterios, ninguno relativo a nacionalidad. Las demás opciones sí están previstas."
+  },
+  {
+    "pregunta": "¿Cuándo puede el auxiliar ejecutar honorarios contra cualquier parte?",
+    "opciones": [
+      "Desde la regulación provisoria",
+      "Desde que quede firme la regulación",
+      "Desde la designación",
+      "Solo contra el condenado en costas"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 12 habilita ejecución desde la firmeza. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "La regulación firme constituye:",
+    "opciones": [
+      "Título declarativo",
+      "Título ejecutivo",
+      "Acto administrativo",
+      "Simple prueba"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 13 establece que es título ejecutivo. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "Los trabajos adicionales ordenados al auxiliar:",
+    "opciones": [
+      "No generan honorarios",
+      "Se incluyen en el principal",
+      "Generan regulación adicional",
+      "Se compensan"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 14 prevé regulación adicional por tareas nuevas."
+  },
+  {
+    "pregunta": "Si una cuestión no está prevista en la ley:",
+    "opciones": [
+      "No se resuelve",
+      "Se aplica analogía interna y luego normas arancelarias de abogados",
+      "Se decide discrecionalmente",
+      "Se archiva"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 15 establece integración normativa por analogía."
+  },
+  {
+    "pregunta": "Si un informe es usado en otro proceso:",
+    "opciones": [
+      "No genera honorarios",
+      "Genera honorarios nuevos",
+      "Solo genera reconocimiento",
+      "Depende del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 16 reconoce derecho de autoría y nueva regulación."
+  },
+  {
+    "pregunta": "Según el Artículo 17, el juez puede ordenar entrega de fondos sin pagar honorarios:",
+    "opciones": [
+      "Siempre",
+      "Nunca, salvo conformidad del profesional",
+      "Si lo pide la parte",
+      "Solo en procesos urgentes"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 17 establece tutela estricta del honorario."
+  },
+  {
+    "pregunta": "Los gastos del profesional:",
+    "opciones": [
+      "Forman parte de honorarios",
+      "No forman parte y pueden anticiparse",
+      "Son opcionales",
+      "Los paga el juez"
+    ],
+    "correcta": 1,
+    "explicacion": "Artículo 18 distingue honorarios y gastos."
+  },
+  {
+    "pregunta": "Si no se depositan los gastos aprobados:",
+    "opciones": [
+      "El proceso sigue",
+      "El auxiliar puede renunciar con causa",
+      "Se sanciona al juez",
+      "Se reduce honorario"
+    ],
+    "correcta": 1,
+    "explicacion": "Artículo 19 habilita renuncia por incumplimiento."
+  },
+  {
+    "pregunta": "En relación al Artículo 20 de la Ley XIII N° 18, ¿qué régimen corresponde aplicar para la regulación de honorarios en incidentes, incluidos los de verificación tardía?",
+    "opciones": [
+      "Una regulación parcial limitada a la incidencia",
+      "Una regulación íntegra conforme a los Títulos III o IV según la tarea",
+      "Una regulación discrecional del juez sin sujeción a la ley",
+      "La aplicación exclusiva del Código Procesal Civil y Comercial"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 20 dispone que en cualquier incidente corresponde regulación íntegra conforme a la ley, aplicando Título III (pericias) o IV (otras funciones). Las opciones A, C y D son incorrectas por restringir o desnaturalizar el mandato legal."
+  },
+  {
+    "pregunta": "Según el Artículo 21, ¿qué integra la base de cálculo en procesos con contenido económico?",
+    "opciones": [
+      "Solo el monto de condena",
+      "Monto por el que prospera la demanda",
+      "Monto por el que prospera y no prospera la demanda, reconvención, intereses y depreciación",
+      "Solo el capital sin intereses"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 21 establece una base amplia: incluye monto admitido y rechazado, reconvención, intereses desde el hecho generador y depreciación. Las demás opciones omiten componentes esenciales."
+  },
+  {
+    "pregunta": "El porcentaje base de honorarios periciales según el Artículo 22 es:",
+    "opciones": [
+      "1% a 5%",
+      "2% a 6%",
+      "4% a 8%",
+      "5% a 10%"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 22 fija entre 4% y 8%. Las demás opciones corresponden a otros regímenes o son incorrectas."
+  },
+  {
+    "pregunta": "El juez puede superar el máximo del 8% en honorarios periciales:",
+    "opciones": [
+      "Nunca",
+      "Siempre discrecionalmente",
+      "Solo mediante auto fundado considerando criterios legales",
+      "Solo si lo pide la parte"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 22 permite superar el máximo con auto fundado basado en mérito del informe. Las demás opciones contradicen el requisito de fundamentación."
+  },
+  {
+    "pregunta": "¿Cuál es el honorario mínimo pericial?",
+    "opciones": [
+      "4 Jus",
+      "6 Jus",
+      "8 Jus",
+      "Depende del juez"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 23 establece un mínimo de 8 Jus bajo pena de nulidad. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En procesos sin valor económico, el honorario pericial se fija:",
+    "opciones": [
+      "Libremente",
+      "Aplicando porcentajes igualmente",
+      "Según criterios de los artículos 11 y 22",
+      "Con mínimo de 1 Jus"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 24 remite a criterios cualitativos de los arts. 11 y 22. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "En caso de desistimiento de la prueba pericial antes del informe:",
+    "opciones": [
+      "No corresponde honorario",
+      "Se regula automáticamente el mínimo",
+      "Se intima al perito a informar o detallar tareas y luego se regula",
+      "Se archiva sin regulación"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 25 establece un procedimiento específico previo a la regulación. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "El honorario del perito de parte es:",
+    "opciones": [
+      "Igual al de oficio",
+      "50% del de oficio",
+      "60% del de oficio, incluso perforando el mínimo",
+      "Libremente pactado"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 26 fija el 60% y permite perforar el mínimo como excepción. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "El honorario de un administrador judicial se fija sobre:",
+    "opciones": [
+      "Capital del juicio",
+      "Monto de sentencia",
+      "Facturación total durante su desempeño",
+      "Honorarios de abogados"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 27 establece base en facturación total. Las demás opciones son incorrectas."
+  },
+  {
+    "pregunta": "Si actúa como interventor informante, el honorario:",
+    "opciones": [
+      "Se duplica",
+      "Se mantiene",
+      "Se reduce en 50%",
+      "Se reduce en 30%"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 27 establece reducción del 50%."
+  },
+  {
+    "pregunta": "En caso de coadministradores múltiples:",
+    "opciones": [
+      "Cobran igual sin reducción",
+      "Cada uno reduce 40%",
+      "Se reduce 50%",
+      "Depende del juez"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 28 fija reducción del 40% para cada uno."
+  },
+  {
+    "pregunta": "El honorario del interventor recaudador es:",
+    "opciones": [
+      "2% a 5%",
+      "4% a 8%",
+      "10% a 16%",
+      "1% a 3%"
+    ],
+    "correcta": 2,
+    "explicacion": "Artículo 29 establece entre 10% y 16%."
+  },
+  {
+    "pregunta": "El veedor judicial percibe:",
+    "opciones": [
+      "100%",
+      "50%",
+      "30% del administrador",
+      "10%"
+    ],
+    "correcta": 2,
+    "explicacion": "Artículo 30 fija 30%."
+  },
+  {
+    "pregunta": "El liquidador judicial percibe:",
+    "opciones": [
+      "1% a 3%",
+      "4% a 9%",
+      "2% a 5%",
+      "10% a 16%"
+    ],
+    "correcta": 1,
+    "explicacion": "Artículo 31 fija entre 4% y 9%."
+  },
+  {
+    "pregunta": "Si el liquidador además realiza partición:",
+    "opciones": [
+      "No cobra adicional",
+      "Cobra 1%",
+      "Cobra 3% adicional",
+      "Cobra 5%"
+    ],
+    "correcta": 2,
+    "explicacion": "Artículo 31 prevé adicional del 3%."
+  },
+  {
+    "pregunta": "En inventarios y avalúos el honorario es:",
+    "opciones": [
+      "1% a 3%",
+      "2% a 5%",
+      "4% a 8%",
+      "Libre"
+    ],
+    "correcta": 1,
+    "explicacion": "Artículo 32 fija entre 2% y 5%."
+  },
+  {
+    "pregunta": "¿Puede inscribirse un bien sucesorio sin pagar honorarios del perito?",
+    "opciones": [
+      "Sí",
+      "Sí, con caución",
+      "No",
+      "Depende del juez"
+    ],
+    "correcta": 2,
+    "explicacion": "Artículo 32 prohíbe inscripción sin previa regulación y pago."
+  },
+  {
+    "pregunta": "El mínimo del Artículo 33 implica:",
+    "opciones": [
+      "Puede reducirse",
+      "No aplica",
+      "Nunca inferior al art. 23",
+      "Solo en pericias"
+    ],
+    "correcta": 2,
+    "explicacion": "Artículo 33 extiende mínimo a todo el título."
+  },
+  {
+    "pregunta": "La mora en el pago de honorarios opera:",
+    "opciones": [
+      "Con intimación",
+      "Automáticamente",
+      "A pedido de parte",
+      "Con sentencia"
+    ],
+    "correcta": 1,
+    "explicacion": "Artículo 34 establece mora automática."
+  },
+  {
+    "pregunta": "Los honorarios generan intereses:",
+    "opciones": [
+      "Desde sentencia",
+      "Desde regulación",
+      "Desde mora",
+      "Desde ejecución"
+    ],
+    "correcta": 1,
+    "explicacion": "Artículo 35 fija desde regulación."
+  },
+  {
+    "pregunta": "La ley se aplica a procesos en trámite:",
+    "opciones": [
+      "Nunca",
+      "Siempre",
+      "Si no hay regulación firme",
+      "Solo nuevos procesos"
+    ],
+    "correcta": 2,
+    "explicacion": "Artículo 36 establece aplicación inmediata con excepción."
+  },
+  {
+    "pregunta": "La inscripción de auxiliares es:",
+    "opciones": [
+      "Temporal",
+      "Anual",
+      "Permanente salvo exclusión",
+      "Discrecional"
+    ],
+    "correcta": 2,
+    "explicacion": "Artículo 37 establece permanencia."
+  },
+  {
+    "pregunta": "La exclusión procede por:",
+    "opciones": [
+      "Un rechazo",
+      "Dos incomparecencias consecutivas",
+      "Una renuncia",
+      "Cualquier falta"
+    ],
+    "correcta": 1,
+    "explicacion": "Artículo 38 fija parámetros específicos."
+  },
+  {
+    "pregunta": "El Consejo Profesional debe comunicar:",
+    "opciones": [
+      "Honorarios",
+      "Sanciones disciplinarias",
+      "Cancelaciones o suspensiones",
+      "Designaciones"
+    ],
+    "correcta": 2,
+    "explicacion": "Artículo 39 establece deber de comunicación en 3 días."
+  }
+]
